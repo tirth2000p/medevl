@@ -1,0 +1,45 @@
+.de{
+  background: #282828;
+} 
+
+.de-col{
+  background: rgb(255, 255, 255);
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.de-note{
+  overflow: scroll;
+  height: 29rem;
+}
+
+.de-reasons{
+  overflow: scroll;
+  height: 10rem;
+}
+
+.de-commment{
+  height: 15rem;
+}
+
+.flag {
+  width: 5rem;
+}
+
+.form-control {
+
+  background-color: #eaeaea;
+}
+.Coment-text{
+
+  background-color: #eaeaea;
+  width: 235px;
+}
+
+.btn {
+  background-color: orange;
+}
+
+.btn3 {
+  background-color: rgba(0, 255, 85, 0.555);
+}

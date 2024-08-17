@@ -1,0 +1,519 @@
+Processing 97_Cage.txt.tx.1: Subjective CC: â€œrecent chest pain about 3 days agoâ€ HPI: 46 yo male presents with an episode of substernal chest pain about 3 days ago. 
+
+Phrase: Subjective CC
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: â€œrecent chest pain about 3 days agoâ€ HPI
+Meta Mapping (685):
+   764   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   578   C3842675:Day 3 [Finding]
+Meta Mapping (685):
+   764   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   575   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: :
+
+Phrase: 46 yo male
+Meta Mapping (790):
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: presents with an episode of substernal chest pain
+Meta Mapping (756):
+   744   C0150312:PRESENT (Present) [Finding]
+   770   C0332189:Episode of [Temporal Concept]
+   800   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: about 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 97_Cage.txt.tx.2: Patient was transporting a heavy load of groceries from the car to inside the home when a â€œtwinge of painâ€ suddenly developed in mid-sternal chest. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: transporting
+Meta Mapping (966):
+   966   C0005528:Transport, NOS (Biological Transport) [Cell Function]
+
+Phrase: a heavy load of groceries
+Meta Mapping (695):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   760   C1704782:Load (Load Component of Device) [Manufactured Object]
+
+Phrase: from the car to
+Meta Mapping (708):
+   604   C1517320:From [Qualitative Concept]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: inside the home
+Meta Mapping (1000):
+  1000   C0442519:HOME (Home environment) [Spatial Concept]
+
+Phrase: when
+
+Phrase: a â€œtwinge of painâ
+
+Phrase: suddenly
+
+Phrase: developed in mid-sternal chest.
+Meta Mapping (770):
+   762   C3842424:Chest/sternum [Body Location or Region]
+Processing 97_Cage.txt.tx.3: Sat down in car for 5-10 min and spontaneously resolved. 
+
+Phrase: Sat down in car
+Meta Mapping (708):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5-10 min
+Meta Mapping (901):
+   734   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   827   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (901):
+   660   C0439084:>5 [Quantitative Concept]
+   901   C0456692:/10 min [Temporal Concept]
+
+Phrase: and
+
+Phrase: spontaneously
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 97_Cage.txt.tx.4: Chest pain is not new â€“ has been occurring for past 4 months but to much less degree of pain and also spontaneously resolving. 
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: is
+
+Phrase: not new â
+Meta Mapping (623):
+   660   C1518422:Not (Negation) [Functional Concept]
+   660   C0205314:New [Qualitative Concept]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: occurring for past 4 months
+Meta Mapping (714):
+   726   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   781   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: but
+
+Phrase: to much less degree of pain
+Meta Mapping (716):
+   586   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   783   C0518087:Pain Degree (Pain level) [Finding]
+
+Phrase: and
+
+Phrase: also
+
+Phrase: spontaneously
+
+Phrase: resolving.
+Meta Mapping (1000):
+  1000   C3714811:resolving (Resolved) [Qualitative Concept]
+Processing 97_Cage.txt.tx.5: Rates most recent pain 7/10. 
+
+Phrase: Rates most recent pain 7/10.
+Meta Mapping (732):
+   766   C0871208:Rate (Rating (action)) [Activity]
+   799   C0332185:Recent [Temporal Concept]
+   799   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   799   C3842590:10% [Quantitative Concept]
+Processing 97_Cage.txt.tx.6: Denies lightheadedness or dizziness. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: lightheadedness
+Meta Mapping (1000):
+  1000 N C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: dizziness.
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Processing 97_Cage.txt.tx.7: Endorses mid epigastric pain after large meals for the past year. 
+
+Phrase: Endorses
+
+Phrase: mid epigastric pain after large meals
+Meta Mapping (741):
+   586   C0444598:Mid (Middle) [Spatial Concept]
+   790   C0232493:Epigastric pain [Sign or Symptom]
+   586   C0549177:LARGE (Large) [Quantitative Concept]
+   586   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: for the past year.
+Meta Mapping (1000):
+  1000   C4086728:Past Year [Temporal Concept]
+Processing 97_Cage.txt.tx.8: Denies taking any antacids or PPIs for epigastric pain.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: any antacids
+Meta Mapping (1000):
+  1000   C0003138:ANTACIDS (Antacids) [Pharmacologic Substance]
+
+Phrase: or
+
+Phrase: PPIs for epigastric pain.
+Meta Mapping (772):
+   737   C0358591:PPI (Proton Pump Inhibitors) [Pharmacologic Substance]
+   666 N C0232493:Epigastric pain [Sign or Symptom]
+Processing 97_Cage.txt.tx.9: Medical history: HTN Psych history: none Meds: Chlorthalidone 25 mg orally once a day, Lisinopril 10 mg once a day Allergies: none Immunizations: did not obtain Social history:  Tobacco â€“ 1 ppd for 21 years EtOH â€“ 2-3 glasses of wine every weekend Illicit drugs usage â€“ none Family history:  Father â€“ MI in 40s s/p bypass surgery Mother â€“ passed in 60s due to PE, history of HTN and DM  Objective: Vitals: T 98 F, HR 85, BP 150/82, RR 14 Physical Exam: CV: normal rate, normal rhythm, no chest wall tenderness to palpation Lungs: clear to auscultation of anterior lung fields bilaterally ABD: soft, non-tender to palpation of all 4 quadrants, bowel sounds active and present in all 4 quadrants,  Labs: N/A Imaging: will obtain EKG  Assessment and Plan: 46 yo M presents with substernal chest pain 3 days ago that spontaneously resolved after rest. 
+
+Phrase: Medical history
+Meta Mapping (1000):
+  1000   C1704706:Medical History (Medical History Domain) [Intellectual Product]
+
+Phrase: :
+
+Phrase: HTN Psych history
+Meta Mapping (851):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C1622315:Psyche (Psyche (genus)) [Eukaryote]
+   827   C0262512:History, NOS (History of present illness) [Finding]
+
+Phrase: :
+
+Phrase: none Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25 mg orally once
+Meta Mapping (854):
+   884   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   804   C0442027:Orally (Oral) [Spatial Concept]
+
+Phrase: a day,
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: Lisinopril 10 mg once
+Meta Mapping (923):
+   923   C0987217:Lisinopril 10 MG [Clinical Drug]
+
+Phrase: a day Allergies
+Meta Mapping (888):
+   694   C0439228:Day (day) [Temporal Concept]
+   861   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none Immunizations
+Meta Mapping (1000):
+  1000   C0020971:Immunizations (Immunization) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: Social history
+Meta Mapping (1000):
+  1000 N C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: :
+
+Phrase: Tobacco â€“ 1 ppd for 21 years EtOH â€“ 2-3 glasses of wine
+Meta Mapping (613):
+   568   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   734   C1710647:PPD (WISP3 wt Allele) [Gene or Genome]
+   568   C0439234:YEARS (year) [Temporal Concept]
+   568   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   568   C0015421:Glasses (Eyeglasses) [Medical Device]
+   568   C0043188:WINE (Wine) [Food]
+
+Phrase: every weekend Illicit drugs usage â
+Meta Mapping (632):
+   637   C0680190:Weekend [Temporal Concept]
+   673   C0086190:Illicit Drugs [Hazardous or Poisonous Substance]
+   637   C0457083:Usage [Functional Concept]
+
+Phrase: none Family history
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: Father â€“ MI in 40s s/p bypass surgery Mother â
+Meta Mapping (648):
+   571   C0015671:FATHER (Father (person)) [Family Group]
+   738   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   589   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   571   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: passed in 60s
+Meta Mapping (790):
+   790   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: due to PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: history of HTN
+Meta Mapping (746):
+   790   C0262512:History, NOS (History of present illness) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: DM  Objective
+Meta Mapping (888):
+   694   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T 98 F,
+Meta Mapping (901):
+   734   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   827   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: HR 85,
+Meta Mapping (861):
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: BP 150/82,
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: RR 14 Physical Exam
+Meta Mapping (824):
+   645   C4554402:RR (RR genotype) [Finding]
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CV
+Meta Mapping (1000):
+  1000   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: normal rhythm,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: no chest wall tenderness to palpation Lungs
+Meta Mapping (762):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   814 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   581   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: clear to auscultation of anterior lung fields bilaterally ABD
+Meta Mapping (676):
+   742 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   575   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   575   C0205094:ANTERIOR (Anterior) [Spatial Concept]
+   595   C0225759:fields lung (Lung field) [Body Location or Region]
+   575   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: soft, non-tender to palpation of all 4 quadrants,
+Meta Mapping (663):
+   575   C0205358:Soft [Qualitative Concept]
+   764   C0520960:Non-tender [Qualitative Concept]
+   575   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   542   C1631280:Quadrant [Spatial Concept]
+
+Phrase: bowel sounds
+Meta Mapping (1000):
+  1000 N C0232693:Bowel sounds [Finding]
+
+Phrase: active
+Meta Mapping (1000):
+  1000   C0205177:Active [Qualitative Concept]
+
+Phrase: and
+
+Phrase: present in all 4 quadrants,
+Meta Mapping (669):
+   760   C0150312:PRESENT (Present) [Finding]
+   560   C1631280:Quadrant [Spatial Concept]
+
+Phrase: Labs
+Meta Mapping (1000):
+  1000   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: N/A
+Meta Mapping (1000):
+  1000   C1272460:N/A (Not Applicable) [Qualitative Concept]
+
+Phrase: Imaging
+Meta Mapping (1000):
+  1000   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+
+Phrase: :
+
+Phrase: will
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG  Assessment
+Meta Mapping (888):
+   694   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: and
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 46 yo M
+Meta Mapping (790):
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C0441923:M+ (M+ (tumor staging)) [Intellectual Product]
+
+Phrase: presents with substernal chest pain 3 days ago
+Meta Mapping (749):
+   744   C0150312:PRESENT (Present) [Finding]
+   800   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+   750   C3842675:Day 3 [Finding]
+
+Phrase: that
+
+Phrase: spontaneously
+
+Phrase: resolved after rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 97_Cage.txt.tx.10: Concerning for stable angina, GERD, and chostochondritis given clinical signs and symptoms. 
+
+Phrase: Concerning for stable angina,
+Meta Mapping (766):
+   737   C2699424:Concern [Idea or Concept]
+   666   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: chostochondritis given clinical signs
+Meta Mapping (824):
+   645   C0040213:chostochondritis (Tietze's Syndrome) [Disease or Syndrome]
+   861   C3540840:Clinical Signs (Sign or Symptom) [Finding]
+
+Phrase: and
+
+Phrase: symptoms.
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 97_Cage.txt.tx.11: GERD most likely given history of epigastric pain after large meals. 
+
+Phrase: GERD most likely given history of epigastric pain
+Meta Mapping (678):
+   578   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   578   C0750492:Likely (Probably) [Idea or Concept]
+   744   C0262512:History, NOS (History of present illness) [Finding]
+   604   C0232493:Epigastric pain [Sign or Symptom]
+
+Phrase: after large meals.
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 97_Cage.txt.tx.12: Stable angina also likely but will need to obtain EKG or stress test. 
+
+Phrase: Stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: also likely
+Meta Mapping (861):
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: but
+
+Phrase: will
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: or
+
+Phrase: stress test.
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+Processing 97_Cage.txt.tx.13: Costochondritis less likely as chest wall tenderness not reproducible
+
+Phrase: Costochondritis less likely as chest wall tenderness
+Meta Mapping (741):
+   748   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+   748   C0750492:Likely (Probably) [Idea or Concept]
+   814   C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+
+Phrase: not reproducible
+Meta Mapping (853):
+   694   C1518422:Not (Negation) [Functional Concept]
+   789   C1514863:Reproducibility [Qualitative Concept]

@@ -1,0 +1,625 @@
+Processing 169_Cage.txt.tx.1: Subjective: Ms. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 169_Cage.txt.tx.2: Cage is a 55 y/o F w/ h/o HTN presenting for evaluation of chest pain that occured 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 y/o F w/ h/o HTN presenting for evaluation of chest pain
+Meta Mapping (663):
+   578   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   567   C0450382:55 [Intellectual Product]
+   567   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   567   C0564385:/h (/hour) [Temporal Concept]
+   567   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   733   C0449450:Presenting (Presentation) [Idea or Concept]
+   567   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   563   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that occured 3 days ago.
+Meta Mapping (747):
+   612   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   812   C0439228:DAYS (day) [Temporal Concept]
+Processing 169_Cage.txt.tx.3: She notes an isolated episode of substernal chest pressure rated 7/10 that began while carrying groceries out to her car and lasted several minutes before being relieved by resting. 
+
+Phrase: She
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: an isolated episode of substernal chest pressure
+Meta Mapping (749):
+   581   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   581   C0205409:Isolated [Functional Concept]
+   778   C0332189:Episode of [Temporal Concept]
+   612   C0438716:Chest pressure [Sign or Symptom]
+
+Phrase: rated
+Meta Mapping (1000):
+  1000   C0871208:Rated (Rating (action)) [Activity]
+
+Phrase: 7/10
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: that
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying groceries out to her car
+Meta Mapping (518):
+   586   C0206243:Carrying [Activity]
+   586   C0439787:Out (Out (direction)) [Spatial Concept]
+   586   C0574443:HER (Herero language) [Language]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: lasted several minutes
+Meta Mapping (785):
+   627   C1517741:Last [Qualitative Concept]
+   827   C0702093:/minute (Per Minute) [Temporal Concept]
+
+Phrase: before
+
+Phrase: being
+
+Phrase: relieved by resting.
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0035253:Resting (Rest) [Daily or Recreational Activity]
+Processing 169_Cage.txt.tx.4: She notes associated dyspnea and lightheadedness with onset at time of pain and resolution when pain resolved. 
+
+Phrase: She
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: associated dyspnea
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861   C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: lightheadedness with onset
+Meta Mapping (746):
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   623   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+
+Phrase: at time of pain
+Meta Mapping (764):
+   604   C1516077:At [Spatial Concept]
+   791   C0749263:temporal pain [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: resolution
+Meta Mapping (1000):
+  1000   C2699488:Resolution [Conceptual Entity]
+
+Phrase: when
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 169_Cage.txt.tx.5: She notes x2 revious occurences in the past 4 months that also occurred with exertion though in comparison those were brief twinges w/out additional symptoms; this episode was worse. 
+
+Phrase: She
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: x2 revious occurences in the past 4 months
+Meta Mapping (644):
+   638   C2745955:Occurrences (Occurrence) [Temporal Concept]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: that
+
+Phrase: also
+
+Phrase: occurred with exertion
+Meta Mapping (746):
+   790   C1709305:Occurred (Occur (action)) [Activity]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: though in comparison
+Meta Mapping (790):
+   790   C1707455:Comparison [Activity]
+
+Phrase: those
+
+Phrase: were
+
+Phrase: brief twinges w/out additional symptoms
+Meta Mapping (753):
+   632   C1879313:Brief [Temporal Concept]
+   632   C0439787:Out (Out (direction)) [Spatial Concept]
+   632   C1524062:Additional [Functional Concept]
+   799   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: ;
+
+Phrase: this episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: worse.
+Meta Mapping (1000):
+  1000   C1457868:Worse [Finding]
+Processing 169_Cage.txt.tx.6: She notes intermittent epigastric cramping pains lasting severla minutes immediately after eating approx x1-2 per week for the past year; no meds tried. 
+
+Phrase: She
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: intermittent epigastric cramping pains
+Meta Mapping (861):
+   645   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   645   C0521440:Epigastric [Body Location or Region]
+   861   C0458254:cramping pains (Cramping pain) [Finding]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: severla minutes immediately
+Meta Mapping (790):
+   827   C0702093:/minute (Per Minute) [Temporal Concept]
+   660   C0205548:Immediately (Stat (do immediately)) [Temporal Concept]
+
+Phrase: after
+
+Phrase: eating approx x1-2 per week
+Meta Mapping (716):
+   753   C0013470:Eating [Organism Function]
+   783   C4484139:week 2 [Temporal Concept]
+
+Phrase: for the past year
+Meta Mapping (1000):
+  1000   C4086728:Past Year [Temporal Concept]
+
+Phrase: ;
+
+Phrase: no meds
+Meta Mapping (1000):
+  1000 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: tried.
+Processing 169_Cage.txt.tx.7: She deneis leg swelling, current symptoms, n/v, and all other symptoms at this time.   
+
+Phrase: She deneis leg swelling,
+Meta Mapping (901):
+   901   C0581394:Leg swelling (Swelling of lower limb) [Pathologic Function]
+
+Phrase: current symptoms,
+Meta Mapping (888):
+   694   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   861   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: n/v,
+Meta Mapping (694):
+   694   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: and
+
+Phrase: all other symptoms at this time.
+Meta Mapping (666):
+   586   C0444868:ALL (All) [Quantitative Concept]
+   753   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   586   C0040223:TIME (Time) [Temporal Concept]
+Processing 169_Cage.txt.tx.8: PMHx: HTN, well controlled Sx: none FHx: mother deceased from PE at 60 y/o; father deceased from MI at 40 y/o; mother DM2 Sx: smokes 1ppd for 30+ yrs. alcohol x1-2 glasses wine weekend nights, no drugs; works at capitol one and sedentary lifestyle other than walking dog in the mornings  medications: lisinopril PO 10mg daily and chlorthalidone 25mg PO daily both for hypertension allergies: NKDA  Objective VS: 98F, HR 85, RR14, BP 150/92 PE: Appears generally well, skin warm dry, lungs CTAB, chest wall nontender ant and pos, S1/S1 clear, RRR, no m/r/g, abdomen soft nontender, nondistended, normal bowel sounds, no peripheral edema, distal pulses BLE and BUE 2+  No labs or imaging  Assessment: 55 y/o F w/ h/o HTN and tobacco use presenting for intermittent episodes of exertional chest pain, relieved by rest that are now worsening in intensity. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: well controlled Sx
+Meta Mapping (901):
+   734   C3853142:Well controlled [Functional Concept]
+   827   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+
+Phrase: :
+
+Phrase: none FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: deceased from PE
+Meta Mapping (746):
+   790   C0011065:Deceased (Cessation of life) [Organism Function]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: at 60 y/o
+Meta Mapping (660):
+   660   C3842585:60% [Quantitative Concept]
+
+Phrase: ; father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: deceased from MI
+Meta Mapping (746):
+   790   C0011065:Deceased (Cessation of life) [Organism Function]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at 40 y/o
+Meta Mapping (660):
+   660   C0439509:/40 [Quantitative Concept]
+
+Phrase: ; mother DM2 Sx
+Meta Mapping (802):
+   660   C0026591:MOTHER (Mother (person)) [Family Group]
+   827   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+
+Phrase: :
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: 1ppd for 30+ yrs. alcohol x1-2 glasses wine weekend nights,
+Meta Mapping (477):
+   571   C3842588:30% [Quantitative Concept]
+   571   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+   571   C0015421:Glasses (Eyeglasses) [Medical Device]
+   571   C0043188:WINE (Wine) [Food]
+   571   C0680190:Weekend [Temporal Concept]
+   571   C0240526:nights (Night time) [Temporal Concept]
+
+Phrase: no drugs
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: ; works at capitol one
+Meta Mapping (733):
+   770   C0043227:works (Work) [Occupational Activity]
+   604   C0731046:capitol [Organic Chemical,Pharmacologic Substance]
+   604   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: and
+
+Phrase: sedentary lifestyle other than walking dog
+Meta Mapping (733):
+   790   C1532253:Sedentary life style (Sedentary lifestyle) [Finding]
+   586   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   586   C0012984:DOG (Canis familiaris) [Mammal]
+
+Phrase: in the mornings  medications
+Meta Mapping (872):
+   661   C0332170:Morning [Temporal Concept]
+   861   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: lisinopril PO 10mg
+Meta Mapping (623):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   660   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: and
+
+Phrase: chlorthalidone 25mg PO
+Meta Mapping (802):
+   660   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   827   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: both for hypertension allergies
+Meta Mapping (733):
+   770   C0238767:Both (Bilateral) [Spatial Concept]
+   770   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   770   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: NKDA  Objective
+Meta Mapping (861):
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: 98F,
+
+Phrase: HR 85,
+Meta Mapping (861):
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR14,
+
+Phrase: BP 150/92 PE
+Meta Mapping (791):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   812   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: generally well,
+Meta Mapping (861):
+   861   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: skin
+Meta Mapping (1000):
+  1000   C1123023:SKIN (Skin) [Body System]
+
+Phrase: warm
+Meta Mapping (1000):
+  1000   C0582051:Warm (Feels warm) [Finding]
+
+Phrase: dry, lungs CTAB,
+Meta Mapping (851):
+   660   C0205222:Dry [Qualitative Concept]
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   827   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: chest wall nontender ant
+Meta Mapping (861):
+   694   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+   645   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   812   C0003455:Ant (Ants) [Eukaryote]
+
+Phrase: and
+
+Phrase: pos,
+Meta Mapping (1000):
+  1000   C1262869:POS (Body position) [Finding]
+
+Phrase: S1/S1 clear, RRR,
+Meta Mapping (597):
+   645   C3715215:S1 [Finding]
+   645   C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: no m/r/g,
+Meta Mapping (901):
+   913   C0456715:m g (g.m) [Quantitative Concept]
+   660   C0205090:R- (Right) [Spatial Concept]
+Meta Mapping (901):
+   734   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+
+Phrase: abdomen soft nontender, nondistended, normal bowel sounds,
+Meta Mapping (781):
+   629   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+   629   C0205358:Soft [Qualitative Concept]
+   629   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   845 N C0278005:Normal bowel sounds [Finding]
+
+Phrase: no peripheral edema,
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: distal pulses BLE
+Meta Mapping (623):
+   660   C0205108:DISTAL (Distal (qualifier value)) [Spatial Concept]
+   660 N C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: and
+
+Phrase: BUE 2+
+
+Phrase: No labs
+Meta Mapping (1000):
+  1000 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: or
+
+Phrase: imaging  Assessment
+Meta Mapping (888):
+   694   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   861   C1261322:Assessment (Evaluation procedure) [Health Care Activity]
+
+Phrase: :
+
+Phrase: 55 y/o F w/ h/o HTN
+Meta Mapping (729):
+   626   C0450382:55 [Intellectual Product]
+   626   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   626   C0564385:/h (/hour) [Temporal Concept]
+   793   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: tobacco use presenting for intermittent episodes of exertional chest pain,
+Meta Mapping (747):
+   593   C0543414:TOBACCO USE (Tobacco use) [Individual Behavior]
+   739   C0449450:Presenting (Presentation) [Idea or Concept]
+   573   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   576   C0332189:Episode of [Temporal Concept]
+   615   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: relieved by rest
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: are
+
+Phrase: now
+Meta Mapping (1000):
+  1000   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+
+Phrase: worsening in intensity.
+Meta Mapping (746):
+   790   C1457868:Worsening (Worse) [Finding]
+   790   C0522510:Intensity (With intensity) [Qualitative Concept]
+Processing 169_Cage.txt.tx.9: Exam unremarkable Most likely dx is stable angina given classic presentation of substernal pressure onset w/ exertion and relieved by rest. 
+
+Phrase: Exam unremarkable Most likely dx
+Meta Mapping (757):
+   637   C0582103:Exam (Medical Examination) [Health Care Activity]
+   637   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+   637   C0750492:Likely (Probably) [Idea or Concept]
+   804   C4761408:DX (Dongxiang Chinese) [Population Group]
+
+Phrase: is
+
+Phrase: stable angina given classic presentation of substernal pressure onset w/ exertion
+Meta Mapping (658):
+   589   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   571   C0439658:Classic (classic behavior) [Qualitative Concept]
+   738   C0449450:Presentation [Idea or Concept]
+   571   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   571   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   571   C0015264:Exertion [Organism Function]
+Meta Mapping (658):
+   571   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   571   C0439658:Classic (classic behavior) [Qualitative Concept]
+   738   C0449450:Presentation [Idea or Concept]
+   571   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   571   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   587   C0577698:Exertion angina (Exercise-induced angina) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: relieved by rest.
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 169_Cage.txt.tx.10: Other possible ddx include GERD, anxiety, or muscle strain.   
+
+Phrase: Other possible ddx
+Meta Mapping (888):
+   694   C0332149:Possible [Finding]
+   861   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: anxiety,
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: or
+
+Phrase: muscle strain.
+Meta Mapping (1000):
+  1000   C0080194:Muscle Strain (Muscle strain) [Injury or Poisoning]
+Processing 169_Cage.txt.tx.11: Plan: - EKG - CBC, BMP, lipid panel - refer for outpatient stress testing - Rx nitroglycerin SL PRN w/ instructions for BP requirements of use -  recommend at home BP monitoring more regularly w/ f/u to address possilbe need for additional HTN mgmt
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: EKG - CBC,
+Meta Mapping (888):
+   694   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   861   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: lipid panel -
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: refer for outpatient stress testing - Rx nitroglycerin SL PRN w/ instructions
+Meta Mapping (690):
+   738   C0205543:Refer (Referring) [Functional Concept]
+   738   C0029921:Outpatient (Outpatients) [Patient or Disabled Group]
+   756   C0015260:stress testing (Exercise stress test) [Diagnostic Procedure]
+   738   C2709207:Rx (Rx therapy) [Therapeutic or Preventive Procedure]
+   738   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   738   C4761558:SL (Salar Chinese) [Population Group]
+   738   C0302828:instructions (Instruction [Publication Type]) [Intellectual Product]
+
+Phrase: for BP requirements of use -
+Meta Mapping (833):
+   593   C0521125:For (Preposition For) [Qualitative Concept]
+   593   C1415692:Bp (HP gene) [Gene or Genome]
+   726   C1514873:Requirement [Functional Concept]
+   631   C1524063:Use of [Functional Concept]
+
+Phrase: recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: at home BP
+Meta Mapping (901):
+   734   C4534363:At home [Finding]
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: monitoring
+Meta Mapping (1000):
+  1000   C0150369:Monitoring (Preventive monitoring) [Health Care Activity]
+
+Phrase: more regularly w/ f/u
+Meta Mapping (762):
+   637   C0205172:More [Quantitative Concept]
+   637   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   804   C0439148:{U} (Unit) [Quantitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: address
+Meta Mapping (1000):
+  1000   C0376649:Address (Addresses (publication format)) [Intellectual Product]
+
+Phrase: possilbe need for additional HTN mgmt
+Meta Mapping (697):
+   753   C0027552:Need (Needs) [Qualitative Concept]
+   586   C1524062:Additional [Functional Concept]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   586   C1334505:MGMT (MGMT gene) [Gene or Genome]

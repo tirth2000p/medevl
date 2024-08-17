@@ -1,0 +1,416 @@
+Processing 33_Cage.txt.tx.1: Subjective: - episode of midsternal chest pain 2 days ago that was non-radiating, not associated with food, that occurred with exertion when he was carrying groceries at supermarket.  
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: : -
+
+Phrase: episode of midsternal chest pain 2 days ago
+Meta Mapping (727):
+   770   C0332189:Episode of [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   584   C3842676:Day 2 [Finding]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: non-radiating,
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C0332301:radiating (Radiating to) [Functional Concept]
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: associated with food,
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0016452:Food [Food]
+
+Phrase: that
+
+Phrase: occurred with exertion
+Meta Mapping (746):
+   790   C1709305:Occurred (Occur (action)) [Activity]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries at supermarket.
+Meta Mapping (541):
+   604   C0206243:Carrying [Activity]
+   604   C0557778:Supermarket [Manufactured Object]
+Processing 33_Cage.txt.tx.2: - felt like deep, ache   -severity 7/10  - episode lasted about 5-10 minutes duration and resolved after he sat down in car and rested -pain during this episode was accompanied by lightheadedness and shortness of breath. 
+
+Phrase: - felt like deep, ache   -severity 7/10  - episode
+Meta Mapping (722):
+   593   C1527305:feel (Feelings) [Mental Process]
+   626   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   626   C0234238:ACHE (Ache) [Sign or Symptom]
+   626   C0522510:Severity (With intensity) [Qualitative Concept]
+   626   C3842590:10% [Quantitative Concept]
+   793   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: lasted about 5-10 minutes duration
+Meta Mapping (746):
+   719   C1517741:Last [Qualitative Concept]
+   783   C4517521:10.5 [Quantitative Concept]
+   753   C0702093:/minute (Per Minute) [Temporal Concept]
+   753   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+Meta Mapping (746):
+   719   C1517741:Last [Qualitative Concept]
+   753   C3842590:10% [Quantitative Concept]
+   783   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   753   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: after
+
+Phrase: he
+
+Phrase: sat down in car
+Meta Mapping (708):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: rested -
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+
+Phrase: pain during this episode
+Meta Mapping (783):
+   783 N C3808668:Episodic pain [Sign or Symptom]
+
+Phrase: was
+
+Phrase: accompanied by lightheadedness
+Meta Mapping (790):
+   790 N C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+Processing 33_Cage.txt.tx.3: No nausea/vomiting, sweating, or palpitations.  
+
+Phrase: No nausea/vomiting,
+Meta Mapping (1000):
+  1000 N C0027498:Nausea/vomiting (Nausea and vomiting) [Sign or Symptom]
+
+Phrase: sweating
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: palpitations.
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+Processing 33_Cage.txt.tx.4: - patient also reports four other instances of more transient chest pain over the last 4 months with exertion that lasted seconds in duration but were more minor in severity  - patient also reports pressure-like sensation in same location that has happened 2-3 times in the past couple months after eating lunch, always associated with eating, but the recent chest pain episode was more severe.  
+
+Phrase: - patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: four
+Meta Mapping (1000):
+  1000   C0205450:Four [Quantitative Concept]
+
+Phrase: other instances of more transient chest pain
+Meta Mapping (738):
+   581   C0205394:OTHER (Other) [Qualitative Concept]
+   714   C1550608:Instance [Idea or Concept]
+   581   C0205374:Transient (Transitory) [Temporal Concept]
+   606   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: over the last 4 months with exertion
+Meta Mapping (701):
+   607   C0301616:over-exertion (Overexertion) [Pathologic Function]
+   748   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: that lasted seconds in duration
+Meta Mapping (686):
+   760   C0457385:Seconds (seconds) [Temporal Concept]
+   593   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+
+Phrase: but
+
+Phrase: were
+
+Phrase: more minor in severity  - patient
+Meta Mapping (724):
+   593   C0205172:More [Quantitative Concept]
+   760   C0205165:Minor (Minor (value)) [Qualitative Concept]
+   593   C0522510:Severity (With intensity) [Qualitative Concept]
+   593   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: pressure-
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: like sensation in same location
+Meta Mapping (724):
+   593   C0870814:Like [Mental Process]
+   760   C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+   593   C0445247:SAME (Same) [Qualitative Concept]
+   593   C0450429:Location [Spatial Concept]
+
+Phrase: that
+
+Phrase: has
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: 2-3 times in the past couple months
+Meta Mapping (737):
+   800   C3840669:2-3 times (2 to 3 times) [Finding]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   578   C0010222:couple (Couples (persons)) [Family Group]
+
+Phrase: after eating lunch,
+Meta Mapping (888):
+   694   C0013470:Eating [Organism Function]
+   861   C2697949:Lunch [Daily or Recreational Activity]
+
+Phrase: always
+Meta Mapping (1000):
+  1000   C2003902:Always (Always (frequency)) [Temporal Concept]
+
+Phrase: associated with eating,
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0013470:Eating [Organism Function]
+
+Phrase: but
+
+Phrase: the recent chest pain episode
+Meta Mapping (888):
+   902   C0332185:Recent episode (Recent) [Temporal Concept]
+   694   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: more severe.
+Meta Mapping (888):
+   694   C0205172:More [Quantitative Concept]
+   861   C0205082:Severe (Severe (severity modifier)) [Finding]
+Processing 33_Cage.txt.tx.5: Objective VS: T 98, P85, R14, BP150/92  Heart Regular rate and normal rhythm. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P85,
+Meta Mapping (1000):
+  1000   C3541313:p85 (PIK3R2 wt Allele) [Gene or Genome]
+
+Phrase: R14,
+
+Phrase: BP150/92  Heart Regular rate
+Meta Mapping (785):
+   853   C0018810:Heart Rate (heart rate) [Clinical Attribute]
+   637   C0205272:Regular [Qualitative Concept]
+
+Phrase: and
+
+Phrase: normal rhythm.
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+Processing 33_Cage.txt.tx.6: Extremities well-perfused.  
+
+Phrase: Extremities well-
+Meta Mapping (888):
+   861   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+   694   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: perfused.
+Meta Mapping (966):
+   966   C1549542:Perfuse [Functional Concept]
+Processing 33_Cage.txt.tx.7: Abd Soft nontender nondistended Lungs: CTA bilaterally  Assessment Summary statement: Mr Cage is a 50 y/o M with history of HTN who presents for episode of exertional, nonradiating midsternal chest pain 2 days ago associated with lightheadedness and dyspnea, in the setting of multiple similar exeritional chest pain episodes ver last 4 months. 
+
+Phrase: Abd Soft nontender nondistended Lungs
+Meta Mapping (766):
+   637   C0000726:abd (Abdomen) [Body Location or Region]
+   637   C0205358:Soft [Qualitative Concept]
+   637   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   804   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTA bilaterally  Assessment Summary statement
+Meta Mapping (766):
+   637   C3540513:CTA (PCYT1A wt Allele) [Gene or Genome]
+   637   C1516048:Assessment (Assessed) [Activity]
+   637   C1706244:Summary (Summary (document)) [Intellectual Product]
+   804   C1710187:Statement [Idea or Concept]
+
+Phrase: :
+
+Phrase: Mr Cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 50 y/o M with history of HTN
+Meta Mapping (674):
+   762   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   742   C3843766:<50 [Finding]
+   742   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   742   C0262926:History (Medical History) [Finding]
+   742   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for episode of exertional, nonradiating midsternal chest pain 2 days
+Meta Mapping (702):
+   738   C0150312:PRESENT (Present) [Finding]
+   756   C0332189:Episode of [Temporal Concept]
+   772   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+   737   C3842676:Day 2 [Finding]
+
+Phrase: ago
+
+Phrase: associated with lightheadedness
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: dyspnea,
+Meta Mapping (1000):
+  1000   C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+
+Phrase: in the setting of multiple similar exeritional chest pain episodes ver
+Meta Mapping (711):
+   738   C1318139:{Setting} [Quantitative Concept]
+   571   C0439064:MULTIPLE (Numerous) [Quantitative Concept]
+   571   C2348205:Similar (Similarity) [Qualitative Concept]
+   600   C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   571   C0332189:Episodes (Episode of) [Temporal Concept]
+   571   C0302357:ver (Test of Visual Evoked Responses in Children) [Diagnostic Procedure]
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: 4 months.
+Meta Mapping (888):
+   694   C3838679:4+ (4+ Answer to question) [Finding]
+   861   C0439231:MONTHS (month) [Temporal Concept]
+Processing 33_Cage.txt.tx.8: Most likely stable angina given comes about with exertion and relieved by rest, multiple recent episodes. 
+
+Phrase: Most likely stable angina
+Meta Mapping (888):
+   694   C0750501:most likely [Idea or Concept]
+   861   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: comes
+
+Phrase: about with exertion
+Meta Mapping (746):
+   790   C0332232:About (Approximate) [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: relieved by rest,
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: multiple recent episodes.
+Meta Mapping (890):
+   896   C0565960:Multiple episode [Temporal Concept]
+   660   C0332185:Recent [Temporal Concept]
+Meta Mapping (890):
+   660   C0439064:MULTIPLE (Numerous) [Quantitative Concept]
+   884   C0332185:Recent episode (Recent) [Temporal Concept]
+Processing 33_Cage.txt.tx.9: Less likely GERD given no relationship with food in most recent episode.   
+
+Phrase: Less likely GERD
+Meta Mapping (851):
+   660   C0439092:Less (Less Than) [Quantitative Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: no relationship with food
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770   C1706279:Relationship (Object Relationship) [Idea or Concept]
+   604   C0016452:Food [Food]
+
+Phrase: in most recent episode.
+Meta Mapping (1000):
+  1000   C0332185:Recent episode (Recent) [Temporal Concept]
+Processing 33_Cage.txt.tx.10: Plan - obtain EKG and troponins to r/o unstable angina
+
+Phrase: Plan -
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: troponins to r/o unstable angina
+Meta Mapping (712):
+   753   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   586   C2603358:R' (R prime) [Clinical Attribute]
+   623   C0002965:Angina, Unstable [Disease or Syndrome]

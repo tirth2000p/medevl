@@ -1,0 +1,470 @@
+Processing 201_Cage.txt.tx.1: S: Cage is a 67 yoM with PMHx significant for HTN and family hx significant for previous MI (father in 40s) who presents for acute chest pain. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 67 yoM with PMHx
+Meta Mapping (593):
+   593   C4517852:67 [Quantitative Concept]
+
+Phrase: significant for HTN
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: significant for previous MI
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C0205156:Previous [Temporal Concept]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: (father in 40s
+Meta Mapping (790):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: )
+
+Phrase: who
+
+Phrase: presents for acute chest pain.
+Meta Mapping (816):
+   760   C0150312:PRESENT (Present) [Finding]
+   862   C0522051:Acute chest pain [Sign or Symptom]
+Processing 201_Cage.txt.tx.2: 3 days ago, pt was lifting groceries and experienced 7/10 substernal chest pain which did not radiate. 
+
+Phrase: 3 days ago,
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: was
+
+Phrase: lifting groceries
+Meta Mapping (694):
+   694   C0206244:Lifting [Activity]
+
+Phrase: and
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: 7/10 substernal chest pain
+Meta Mapping (854):
+   637   C3842590:10% [Quantitative Concept]
+   884   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 201_Cage.txt.tx.3: The pain lasted for around 5-10 minutes and subsided after rest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted for
+Meta Mapping (799):
+   799   C1517741:Last [Qualitative Concept]
+
+Phrase: around 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: subsided after rest.
+Meta Mapping (790):
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 201_Cage.txt.tx.4: No medication was used to alleviate the pain. 
+
+Phrase: No medication
+Meta Mapping (1000):
+  1000   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: was
+
+Phrase: used
+Meta Mapping (1000):
+  1000 N C1273517:used (Used by) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: alleviate
+
+Phrase: the pain.
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 201_Cage.txt.tx.5: For the past 3-4 months pt has been experiencing  O: V98.F, P: 85 bpm R:14 BP: 150/92  Physical exam:  Respiratory: clear vesicular lung sounds bilaterally. 
+
+Phrase: For the past 3-4 months pt
+Meta Mapping (841):
+   722   C4086725:Past 3 Months [Temporal Concept]
+   804   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: has
+
+Phrase: been
+
+Phrase: experiencing  O
+Meta Mapping (661):
+   661   C0596545:Experience [Mental Process]
+
+Phrase: :
+
+Phrase: V98.F,
+Meta Mapping (861):
+   861   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 85 bpm R:14 BP
+Meta Mapping (754):
+   637   C4517892:85 [Quantitative Concept]
+   637   C2603358:R' (R prime) [Clinical Attribute]
+   804   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92  Physical exam
+Meta Mapping (861):
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Respiratory
+Meta Mapping (1000):
+  1000   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: clear vesicular lung
+Meta Mapping (851):
+   660   C1709157:Clear (Negative Surgical Margin) [Finding]
+   660   C0205378:Vesicular [Qualitative Concept]
+   827   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: sounds
+Meta Mapping (1000):
+  1000   C0037709:Sounds (Sound - physical agent) [Natural Phenomenon or Process]
+
+Phrase: bilaterally.
+Processing 201_Cage.txt.tx.6: No wheezing, rhonci, stridor appreciated  Cardiac: Normal S1, S2. 
+
+Phrase: No wheezing, rhonci,
+Meta Mapping (694):
+   694 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+
+Phrase: stridor appreciated  Cardiac
+Meta Mapping (802):
+   660 N C0038450:STRIDOR (Stridor) [Sign or Symptom]
+   827   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Normal S1,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861 N C3715215:S1 [Finding]
+
+Phrase: S2.
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+Processing 201_Cage.txt.tx.7: No murmur appreciated. 
+
+Phrase: No murmur
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: appreciated.
+Processing 201_Cage.txt.tx.8: JVD 2 cm, no distension of neck veins. 
+
+Phrase: JVD 2 cm,
+Meta Mapping (660):
+   660   C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no distension of neck veins.
+Meta Mapping (911):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   904 N C1167958:Distention of jugular vein (Jugular vein distension) [Finding]
+Processing 201_Cage.txt.tx.9: PMI measured at 5th intercostal space midclavicular line. 
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: measured at 5th intercostal space midclavicular line.
+Meta Mapping (788):
+   748   C0444706:Measured [Qualitative Concept]
+   814   C4068815:5th intercostal space [Body Space or Junction]
+   778   C0458098:MIdclavicular line (Midclavicular line) [Body Location or Region]
+Processing 201_Cage.txt.tx.10: No carotid bruits noted bilaterally. 
+
+Phrase: No carotid bruits
+Meta Mapping (1000):
+  1000 N C0007280:carotid bruits (Carotid bruit) [Finding]
+
+Phrase: noted
+Meta Mapping (1000):
+  1000   C4288581:Noted (Notable) [Qualitative Concept]
+
+Phrase: bilaterally.
+Processing 201_Cage.txt.tx.11: Abdominal aorta 3 cm.  
+
+Phrase: Abdominal aorta 3 cm.
+Meta Mapping (694):
+   694   C0003484:ABDOMINAL AORTA (Abdominal aorta structure) [Body Part, Organ, or Organ Component]
+Processing 201_Cage.txt.tx.12: A:  67 yoM with PMHx significant for HTN and family hx significant for previous MI (father in 40s) who presents for acute chest pain which is most consistent with stable angina. 
+
+Phrase: A
+
+Phrase: :
+
+Phrase: 67 yoM with PMHx
+Meta Mapping (604):
+   604   C4517852:67 [Quantitative Concept]
+
+Phrase: significant for HTN
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: significant for previous MI
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C0205156:Previous [Temporal Concept]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: (father in 40s
+Meta Mapping (790):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: )
+
+Phrase: who
+
+Phrase: presents for acute chest pain
+Meta Mapping (816):
+   760   C0150312:PRESENT (Present) [Finding]
+   862   C0522051:Acute chest pain [Sign or Symptom]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: most consistent with stable angina.
+Meta Mapping (857):
+   593   C0205393:Most [Quantitative Concept]
+   806   C0332290:Consistent with [Idea or Concept]
+   640   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 201_Cage.txt.tx.13: Stable angina: given that pt meets the criteria of substernal chest pain that is caused by physical exertion and improved with rest. 
+
+Phrase: Stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: that pt meets
+Meta Mapping (872):
+   694   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+   827   C1550543:Meet (Fulfill) [Phenomenon or Process]
+
+Phrase: the criteria of substernal chest pain
+Meta Mapping (780):
+   753   C0243161:Criteria (criteria) [Idea or Concept]
+   666   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: caused by physical exertion
+Meta Mapping (772):
+   737   C0015127:cause (Etiology aspects) [Functional Concept]
+   833   C0031807:Physical Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: improved with rest.
+Meta Mapping (746):
+   790   C0184511:Improved [Finding]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 201_Cage.txt.tx.14: Unstable angina is possible given that it is worsening with time. 
+
+Phrase: Unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: is
+
+Phrase: possible
+Meta Mapping (1000):
+  1000   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: that
+
+Phrase: it
+
+Phrase: is
+
+Phrase: worsening with time.
+Meta Mapping (746):
+   790   C1457868:Worsening (Worse) [Finding]
+   790   C0040223:TIME (Time) [Temporal Concept]
+Processing 201_Cage.txt.tx.15: DD: includes PE (less likely given normal vitals and no SOB) reflux (given pt does report some reflux symptoms, but discomfort is centralized to epigastric region), anxiety (possible given that pt is nervous about her father having symptoms of  P:  Chest pain:  - EKG  -
+
+Phrase: DD
+Meta Mapping (1000):
+  1000   C3814791:DD (ATP2A2 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: (less likely given normal vitals
+Meta Mapping (739):
+   637   C0547044:Less (Smaller) [Qualitative Concept]
+   637   C0750492:Likely (Probably) [Idea or Concept]
+   637   C0205307:NORMAL (Normal) [Qualitative Concept]
+   733   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: no SOB
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: )
+
+Phrase: reflux
+Meta Mapping (1000):
+  1000 N C0232483:Reflux [Pathologic Function]
+
+Phrase: (given pt
+Meta Mapping (888):
+   694   C1442162:GIVEN [Functional Concept]
+   861   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: does
+
+Phrase: report
+Meta Mapping (1000):
+  1000   C0700287:Report (Reporting) [Health Care Activity]
+
+Phrase: some reflux symptoms,
+Meta Mapping (1000):
+  1000 N C0744318:reflux SYMPTOMS (Acid reflux SYMPTOMS) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: discomfort
+Meta Mapping (1000):
+  1000   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+
+Phrase: is
+
+Phrase: centralized to epigastric region
+Meta Mapping (783):
+   770   C0680827:Centralized (Centralization) [Idea or Concept]
+   833   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: anxiety
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: (possible
+Meta Mapping (1000):
+  1000   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: that pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: nervous about her father
+Meta Mapping (733):
+   770   C0027769:Nervous (Nervousness) [Sign or Symptom]
+   604   C0574443:HER (Herero language) [Language]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: having
+
+Phrase: symptoms of  P
+Meta Mapping (790):
+   790   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :  -
+
+Phrase: EKG  -
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]

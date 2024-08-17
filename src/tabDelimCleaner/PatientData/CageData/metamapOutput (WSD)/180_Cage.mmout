@@ -1,0 +1,413 @@
+Processing 180_Cage.txt.tx.1: Subjective: CC: chest pain HPI: Gerry Cage is a 58 yo male who presents  with one episode of 10 min of central chest pain that occurred this past Friday. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 58 yo male
+Meta Mapping (851):
+   660   C4517817:58 [Quantitative Concept]
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents  with one episode of 10 min of central chest pain
+Meta Mapping (720):
+   738   C0150312:PRESENT (Present) [Finding]
+   738   C0205447:ONE (One) [Quantitative Concept]
+   756   C0332189:Episode of [Temporal Concept]
+   756   C0456692:/10 min [Temporal Concept]
+   775   C0423634:Central chest pain [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: this past Friday.
+Meta Mapping (888):
+   694   C1444637:Past (In the past) [Temporal Concept]
+   861   C0585029:Friday [Temporal Concept]
+Processing 180_Cage.txt.tx.2: He was coming out of the grocery store, carrying groceries to his car when the pain suddenly began. 
+
+Phrase: He
+
+Phrase: was
+
+Phrase: coming out of the grocery store,
+Meta Mapping (555):
+   586   C0439787:Out (Out (direction)) [Spatial Concept]
+   623   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: groceries to his car
+Meta Mapping (555):
+   604   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: suddenly
+
+Phrase: began.
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+Processing 180_Cage.txt.tx.3: He describes the pain as a deep, aching pain and a constant 7/10 for those 10 min. 
+
+Phrase: He
+
+Phrase: describes
+
+Phrase: the pain as a deep,
+Meta Mapping (797):
+   797   C0234229:Deep pain [Sign or Symptom]
+
+Phrase: aching
+Meta Mapping (1000):
+  1000   C0234238:Aching (Ache) [Sign or Symptom]
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: and
+
+Phrase: a constant 7/10 for those 10 min.
+Meta Mapping (713):
+   767   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   744   C1948059:Constant (Constant (qualifier)) [Qualitative Concept]
+   767   C0456692:/10 min [Temporal Concept]
+Processing 180_Cage.txt.tx.4: He says sitting in his car helped the pain resolve on its own. 
+
+Phrase: He
+
+Phrase: says
+
+Phrase: sitting in his car
+Meta Mapping (733):
+   770   C0277814:SITTING (Sitting position) [Finding]
+   770   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: helped
+Meta Mapping (966):
+   966   C1552861:help (Help document) [Intellectual Product]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolve on its own.
+Meta Mapping (770):
+   770   C2699488:Resolve (Resolution) [Conceptual Entity]
+Processing 180_Cage.txt.tx.5: He also says he feels like the wind was knocked out of him during this time. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: says
+
+Phrase: he
+
+Phrase: feels like the wind
+Meta Mapping (708):
+   770   C1527305:feels (Feelings) [Mental Process]
+   770   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out of him
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: during this time.
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+Processing 180_Cage.txt.tx.6: He says for the past 3-4 months he has had periodic episodes of similar pain but that only lasts for a couple seconds and also go away on their own.  
+
+Phrase: He
+
+Phrase: says for the past 3-4 months
+Meta Mapping (804):
+   804   C4086725:Past 3 Months [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: periodic episodes of similar pain
+Meta Mapping (836):
+   595   C0013390:Period Pain (Dysmenorrhea) [Disease or Syndrome]
+   790   C0332189:Episode of [Temporal Concept]
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: that only lasts for a couple seconds
+Meta Mapping (490):
+   581   C0205171:Only (Singular) [Quantitative Concept]
+   581   C0010222:couple (Couples (persons)) [Family Group]
+   581   C0457385:Seconds (seconds) [Temporal Concept]
+
+Phrase: and
+
+Phrase: also
+
+Phrase: go
+Meta Mapping (1000):
+  1000   C1822658:GO (GORAB gene) [Gene or Genome]
+
+Phrase: away on their own.
+Processing 180_Cage.txt.tx.7: ROS: no palpitations, no headache, no vision changes, no lightheadedness or dizziness Meds: Chlorathalidone, 25 mg, once a day, PO             Lisinopril, 10 mg, once a day, PO  Allergies: NKDA  Objective:  Vitals- T: 98F  Pulse Rate: 85 RR: 14 BP: 150/92  Physical Exam:  General: mildly anxious, sitting comfortably, NAD CV: RRR, no murmurs, rubs, or gallops, 2+ radial and posterior tibial pulses bilaterally Respiratory: chest pa  Assessment: 58 yo male with pmhx of HTN who presents with episode of non-reproducible central chest pain associated with SOB.   
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: no headache,
+Meta Mapping (1000):
+  1000 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: no vision changes,
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: no lightheadedness
+Meta Mapping (1000):
+  1000 N C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: dizziness Meds
+Meta Mapping (888):
+   694 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+   861 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorathalidone,
+
+Phrase: 25 mg,
+Meta Mapping (861):
+   861   C0024671:MG (Mammography) [Diagnostic Procedure]
+
+Phrase: once
+
+Phrase: a day,
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: PO             Lisinopril,
+Meta Mapping (888):
+   694   C0442027:PO (Oral) [Spatial Concept]
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: 10 mg,
+Meta Mapping (888):
+   694   C3842590:10% [Quantitative Concept]
+   861   C0024671:MG (Mammography) [Diagnostic Procedure]
+
+Phrase: once
+
+Phrase: a day,
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: PO  Allergies
+Meta Mapping (888):
+   694   C0442027:PO (Oral) [Spatial Concept]
+   861   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: NKDA  Objective
+Meta Mapping (861):
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vitals- T
+Meta Mapping (623):
+   623   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98F  Pulse Rate
+Meta Mapping (901):
+   901   C0232117:Pulse Rate [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 BP
+Meta Mapping (861):
+   861   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92  Physical Exam
+Meta Mapping (861):
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: mildly anxious,
+Meta Mapping (888):
+   694   C0750532:MILDLY [Qualitative Concept]
+   861   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: sitting
+Meta Mapping (1000):
+  1000   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: comfortably,
+
+Phrase: NAD CV
+Meta Mapping (888):
+   694   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+   861   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops,
+
+Phrase: 2+ radial
+Meta Mapping (888):
+   694   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   861   C0920847:Radial (Circumpennate) [Conceptual Entity]
+
+Phrase: and
+
+Phrase: posterior tibial pulses
+Meta Mapping (1000):
+  1000   C1997188:Posterior tibial PULSES (Posterior tibial pulse rate) [Clinical Attribute]
+
+Phrase: bilaterally Respiratory
+Meta Mapping (861):
+   861   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: chest pa  Assessment
+Meta Mapping (851):
+   660   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   660   C3541314:PA (Pairing Events Domain) [Intellectual Product]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 58 yo male with pmhx of HTN
+Meta Mapping (673):
+   581   C4517817:58 [Quantitative Concept]
+   581   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   748   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with episode of non-reproducible central chest pain
+Meta Mapping (762):
+   742 N C0150312:PRESENT (Present) [Finding]
+   764   C0332189:Episode of [Temporal Concept]
+   742   C1518422:Non (Negation) [Functional Concept]
+   670   C1514863:Reproducibility [Qualitative Concept]
+   790 N C0423634:Central chest pain [Sign or Symptom]
+
+Phrase: associated with SOB.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 180_Cage.txt.tx.8: Plan: -BMP, CBC -lipid panel -EKG -Troponins -Echo  -BP control
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC -lipid panel -EKG -Troponins -Echo  -BP control
+Meta Mapping (812):
+   626   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   645   C0200382:Lipid panel [Laboratory Procedure]
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   626   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   626   C1655045:Echo (Echo (insect)) [Eukaryote]
+   626   C1708288:BP (HP wt Allele) [Gene or Genome]
+   793   C1882979:Control (Scientific Control) [Conceptual Entity]
+Meta Mapping (812):
+   626   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   626   C0523744:LIPID (Lipids measurement) [Laboratory Procedure]
+   684   C1315054:PANEL.BP (Blood pressure order set) [Intellectual Product]
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   626   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   626   C1655045:Echo (Echo (insect)) [Eukaryote]
+   793   C1882979:Control (Scientific Control) [Conceptual Entity]

@@ -1,0 +1,745 @@
+Processing 171_Cage.txt.tx.1: S: Ms. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C0565930:/s (per second) [Temporal Concept]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 171_Cage.txt.tx.2: Cage is a 56 year old female who presents to clinic due to chest pain that occurred 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 56 year old female
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C0043210:female (Woman) [Population Group]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: due to chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 171_Cage.txt.tx.3: She was carrying 2 jugs of water at the grocery store when she suddenly had a sharp and deep twinge of pain in the midline sternal area, which took her breath away. 
+
+Phrase: She
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: 2 jugs of water
+Meta Mapping (722):
+   604   C0740116:+2 [Quantitative Concept]
+   737   C1881295:JUG (Jug Dosing Unit) [Quantitative Concept]
+   604   C0599638:WATER (Drinking Water) [Substance]
+
+Phrase: at the grocery store
+Meta Mapping (1000):
+  1000   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: suddenly
+
+Phrase: had
+
+Phrase: a sharp
+Meta Mapping (1000):
+  1000   C1444775:Sharp (Sharp sensation quality) [Finding]
+
+Phrase: and
+
+Phrase: deep twinge of pain
+Meta Mapping (652):
+   652   C0234229:Deep pain [Sign or Symptom]
+
+Phrase: in the midline sternal area,
+Meta Mapping (851):
+   660   C0549183:MIDLINE (Midline (qualifier value)) [Spatial Concept]
+   660   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   827   C0017446:Area (Geographic Locations) [Geographic Area]
+
+Phrase: which
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away.
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 171_Cage.txt.tx.4: She had to sit in her car until the sensation subsided, which took about 5-10 minutes. 
+
+Phrase: She
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: sit in her car
+Meta Mapping (733):
+   770   C0728713:sit (Does sit) [Finding]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: until the sensation
+Meta Mapping (1000):
+  1000   C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+
+Phrase: subsided
+
+Phrase: ,
+
+Phrase: which
+
+Phrase: took about 5-10 minutes.
+Meta Mapping (752):
+   726   C1515187:Take [Health Care Activity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (752):
+   726   C1515187:Take [Health Care Activity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 171_Cage.txt.tx.5: Nothing to this degree has happened in the past, although she has had occasional twinges of pain in the same area with physical exertion such as chasing her cat or walking up a flight of stairs.   
+
+Phrase: Nothing to this degree
+Meta Mapping (708):
+   770   C0442735:Nothing [Finding]
+   770   C0449286:Degree (Degree or extent) [Quantitative Concept]
+
+Phrase: has
+
+Phrase: happened in the past,
+Meta Mapping (708):
+   770   C1709305:Happened (Occur (action)) [Activity]
+   770   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: although
+
+Phrase: she
+
+Phrase: has
+
+Phrase: had
+
+Phrase: occasional twinges of pain
+Meta Mapping (541):
+   604   C0521114:Occasional (Infrequent) [Temporal Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in the same area with physical exertion
+Meta Mapping (701):
+   581   C0150312:In (Present) [Finding]
+   581   C0445247:SAME (Same) [Qualitative Concept]
+   748   C0017446:Area (Geographic Locations) [Geographic Area]
+   612   C0031807:Physical Exertion [Organism Function]
+
+Phrase: such as chasing
+
+Phrase: her cat
+Meta Mapping (1000):
+  1000   C0007450:CAT (Felis catus) [Mammal]
+
+Phrase: or
+
+Phrase: walking up a flight of stairs.
+Meta Mapping (1000):
+  1000   C3843052:Walking up a flight of stairs [Finding]
+Processing 171_Cage.txt.tx.6: She denies any radiating pain to the arms. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any radiating pain to the arms.
+Meta Mapping (753):
+   586   C1552551:ANY (Any) [Qualitative Concept]
+   617   C0332301:Radiating to [Functional Concept]
+   753 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   586   C0446516:Arms (Upper arm) [Body Location or Region]
+Processing 171_Cage.txt.tx.7: She does not experience the sensation with palpation to the area. 
+
+Phrase: She
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: experience
+Meta Mapping (1000):
+  1000 N C0596545:Experience [Mental Process]
+
+Phrase: the sensation with palpation
+Meta Mapping (708):
+   770 N C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: to the area.
+Meta Mapping (1000):
+  1000   C0017446:Area (Geographic Locations) [Geographic Area]
+Processing 171_Cage.txt.tx.8: She denies any nausea/vomiting, sick contacts, fever/chills, headaches, or vision changes. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any nausea/vomiting,
+Meta Mapping (1000):
+  1000 N C0027498:Nausea/vomiting (Nausea and vomiting) [Sign or Symptom]
+
+Phrase: sick contacts,
+Meta Mapping (888):
+   694 N C0221423:Sick (Illness (finding)) [Sign or Symptom]
+   861   C4036459:Contacts [Health Care Activity]
+
+Phrase: fever/chills,
+Meta Mapping (1000):
+  1000 N C0085594:FEVER CHILLS (Fever with chills) [Sign or Symptom]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vision changes.
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+Processing 171_Cage.txt.tx.9: She is most worried about whether she had a heart attack.   
+
+Phrase: She
+
+Phrase: is
+
+Phrase: most
+Meta Mapping (1000):
+  1000   C0205393:Most [Quantitative Concept]
+
+Phrase: worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: about
+
+Phrase: whether
+
+Phrase: she
+
+Phrase: had
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 171_Cage.txt.tx.10: ROS: She states she sometimes has pressure in her upper abdomen after a meal, but no frank reflux symptoms.   
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: she
+
+Phrase: sometimes
+Meta Mapping (1000):
+  1000   C1998882:Sometimes [Temporal Concept]
+
+Phrase: has
+
+Phrase: pressure in her upper abdomen
+Meta Mapping (761):
+   760   C0460139:Pressure (Pressure (finding)) [Finding]
+   760   C0574443:HER (Herero language) [Language]
+   806   C0230165:Upper Abdomen (Upper abdomen (surface region)) [Body Location or Region]
+
+Phrase: after a meal,
+Meta Mapping (1000):
+  1000   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: no frank reflux symptoms.
+Meta Mapping (901):
+   901 N C0744318:reflux SYMPTOMS (Acid reflux SYMPTOMS) [Sign or Symptom]
+Processing 171_Cage.txt.tx.11: PMHx: hypertension   FMHX: father with CAD and a heart attack at 40 years  of age   shx:  eats a regular and healthy diet  drinks about 1-2 drinks on the weekends, wine/beer  smokes 1 pack/day for the last 30 years  drinks 4-5 cups of coffee/day  medications: chlorthalidone and lisinopril   O:   v/s: BP 150/92 R 14 P 85 T 98 Physical exam:  cardiac: Normal S1/S2 sounds, regular rate and rhythm. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: hypertension   FMHX
+Meta Mapping (694):
+   694   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: father with CAD
+Meta Mapping (746):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: a heart attack at 40 years  of age   shx
+Meta Mapping (684):
+   764   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   598   C4699619:>40 years [Finding]
+   575   C0001779:AGE (Age) [Organism Attribute]
+Meta Mapping (684):
+   764   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   575   C0439509:/40 [Quantitative Concept]
+   595   C1510829:Age-Years [Temporal Concept]
+
+Phrase: :
+
+Phrase: eats
+Meta Mapping (1000):
+  1000   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: a regular
+Meta Mapping (1000):
+  1000   C0205272:Regular [Qualitative Concept]
+
+Phrase: and
+
+Phrase: healthy diet  drinks about 1-2 drinks
+Meta Mapping (548):
+   612   C0452415:Diet, Healthy [Finding]
+   581   C0452428:Drinks (Drink (dietary substance)) [Food]
+Meta Mapping (548):
+   581   C3898900:Healthy [Qualitative Concept]
+   612   C5197815:Diet Drinks [Food]
+
+Phrase: on the weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: wine/beer  smokes 1 pack/day for the last 30 years
+Meta Mapping (692):
+   571   C0043188:WINE (Wine) [Food]
+   571   C0004922:BEER (Beer) [Food]
+   571   C0037369:smokes (Smoking) [Individual Behavior]
+   571   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   754   C1442449:Day 1 (1 Day) [Temporal Concept]
+   571   C3842588:30% [Quantitative Concept]
+   571   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: 4-5 cups of coffee/day  medications
+Meta Mapping (836):
+   633   C4687967:4 OF 5 (Severity Four Out of Five) [Finding]
+   748   C0180231:Cups (Cup Device) [Medical Device]
+   581   C0009237:Coffee [Food]
+   581   C0439228:Day (day) [Temporal Concept]
+   581   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril   O
+Meta Mapping (694):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: v/s
+Meta Mapping (1000):
+  1000   C3642225:V/s (Volt Per Second) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: BP 150/92 R 14 P 85 T 98 Physical exam
+Meta Mapping (741):
+   622   C1708288:BP (HP wt Allele) [Gene or Genome]
+   663   C0232024:R T (Total airway resistance) [Clinical Attribute]
+   622   C4517892:85 [Quantitative Concept]
+   622   C4319627:98 [Quantitative Concept]
+   801   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Normal S1/S2 sounds,
+Meta Mapping (861):
+   708   C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   645   C3715215:S1 [Finding]
+   812   C0037709:Sounds (Sound - physical agent) [Natural Phenomenon or Process]
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+Processing 171_Cage.txt.tx.12: No s3/s4, rubs murmurs of gallops. 
+
+Phrase: No s3/s4,
+Meta Mapping (888):
+   694 N C0232237:S3 (S3 - Third heart sound) [Finding]
+   861   C2349970:S4+ [Element, Ion, or Isotope]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: murmurs of gallops.
+Meta Mapping (790):
+   790 N C0018808:murmurs (Heart murmur) [Finding]
+Processing 171_Cage.txt.tx.13: PMI auscultated; nondisplaced.  lungs: clear to auscultation bilaterally. no crackles/rales MSK: pain is not reproducible on palpation of sternal area or clavicular area.   
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: auscultated
+
+Phrase: ; nondisplaced.  lungs
+Meta Mapping (901):
+   694   C0746928:non displaced [Idea or Concept]
+   861   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: clear to auscultation bilaterally.
+Meta Mapping (708):
+   770   C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: no
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: /rales MSK
+Meta Mapping (888):
+   694 N C0034642:RALES (Rales) [Finding]
+   861   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: not reproducible on palpation of sternal area
+Meta Mapping (669):
+   581   C1518422:Not (Negation) [Functional Concept]
+   676   C1514863:Reproducibility [Qualitative Concept]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   581   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   581   C0017446:Area (Geographic Locations) [Geographic Area]
+
+Phrase: or
+
+Phrase: clavicular area.
+Meta Mapping (888):
+   694   C0008913:Clavicular (Bone structure of clavicle) [Body Part, Organ, or Organ Component]
+   861   C0017446:Area (Geographic Locations) [Geographic Area]
+Processing 171_Cage.txt.tx.14: A: Ms. 
+
+Phrase: A
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 171_Cage.txt.tx.15: Cage is a 56 year old female with pmhx hypertension who presents to clinic with acute onset chest pain that lasted for 5-10 minutes about 3 days ago. the pain was located in the mid-sternal region, deep, was non radiating, and took her breath away. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 56 year old female with pmhx hypertension
+Meta Mapping (656):
+   578   C0439508:/Year (per year) [Temporal Concept]
+   578   C0580836:Old [Temporal Concept]
+   744   C0043210:female (Woman) [Population Group]
+   578   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with acute onset chest pain
+Meta Mapping (916):
+   923   C0184567:Acute onset pain [Sign or Symptom]
+   812   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (916):
+   923   C0522051:Acute chest pain [Sign or Symptom]
+   645   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: lasted for 5-10 minutes
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: about 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: located in the mid-sternal region,
+Meta Mapping (790):
+   790   C0230135:Sternal region (Structure of sternal region) [Body Location or Region]
+
+Phrase: deep,
+Meta Mapping (1000):
+  1000   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+
+Phrase: was
+
+Phrase: non radiating,
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C0332301:radiating (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away.
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 171_Cage.txt.tx.16: She has similar symptoms with any exertional activity. vitals significant for hypertension, physical exam is nonsignificant. ddx includes stable angina, coronary artery disease, congestive heart failure. sx most consistent wit stable angina picture including Time it takes for sx to resolve, and that it happens on exertion. a degree of CAD is likely given smoking history of 30 pack years and coexisting hypertension    P: Obtaining ECG in office today. will refer for stress test (both stress ECG and echo) to evaluate for any ischemic changes or anatomical/valvular changes
+
+Phrase: She
+
+Phrase: has
+
+Phrase: similar symptoms with any exertional activity. vitals
+Meta Mapping (696):
+   581   C2348205:Similar (Similarity) [Qualitative Concept]
+   748   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   581   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   571   C3846710:Vital activity [Finding]
+
+Phrase: significant for hypertension,
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: nonsignificant. ddx
+Meta Mapping (861):
+   861   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: stable angina,
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: coronary artery disease,
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+
+Phrase: congestive heart failure. sx most consistent wit stable angina picture
+Meta Mapping (758):
+   654   C0018802:CONGESTIVE HEART FAILURE (Congestive heart failure) [Disease or Syndrome]
+   623   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+   623   C0332290:Consistent (Consistent with) [Idea or Concept]
+   623   C0043197:Wit [Idea or Concept]
+   637   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   790   C0441468:picture (photograph) [Manufactured Object]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: Time
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: it
+
+Phrase: takes for sx
+Meta Mapping (746):
+   790   C1515187:Take [Health Care Activity]
+   790   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: resolve
+Meta Mapping (1000):
+  1000   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: that
+
+Phrase: it
+
+Phrase: happens on exertion.
+Meta Mapping (746):
+   790   C1709305:Happen (Occur (action)) [Activity]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: a degree of CAD
+Meta Mapping (708):
+   770   C0449286:Degree (Degree or extent) [Quantitative Concept]
+   604   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: is
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: smoking history of 30 pack years
+Meta Mapping (864):
+   820   C4721824:History of smoking (Smoking History) [Finding]
+   586   C3842588:30% [Quantitative Concept]
+   623   C1277691:Pack years [Intellectual Product]
+
+Phrase: and
+
+Phrase: coexisting hypertension    P
+Meta Mapping (660):
+   660   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Obtaining
+Meta Mapping (966):
+   966   C1301820:Obtain [Functional Concept]
+
+Phrase: ECG in office today.
+Meta Mapping (775):
+   645   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   645   C0442603:Office [Manufactured Object]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: will
+
+Phrase: refer for stress test
+Meta Mapping (783):
+   770   C0205543:Refer (Referring) [Functional Concept]
+   833   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: (
+
+Phrase: both stress ECG
+Meta Mapping (1000):
+  1000   C1304755:Stress ECG (Exercise stress ECG test) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: echo
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: )
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate for any ischemic changes
+Meta Mapping (734):
+   760   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   790 N C2826576:Ischemic Change [Finding]
+
+Phrase: or
+
+Phrase: anatomical/valvular changes
+Meta Mapping (877):
+   698   C1186983:Anatomical valve (anatomic valve) [Body Part, Organ, or Organ Component]
+   827   C0392747:changes (Changing) [Functional Concept]

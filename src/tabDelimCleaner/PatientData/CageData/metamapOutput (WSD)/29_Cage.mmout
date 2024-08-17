@@ -1,0 +1,450 @@
+Processing 29_Cage.txt.tx.1: Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: 46 year old male
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: presents after experiencing
+Meta Mapping (730):
+   790   C0150312:PRESENT (Present) [Finding]
+   756   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: an episode of sudden onset deep heavy chest pain
+Meta Mapping (824):
+   575   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   764   C0332189:Episode of [Temporal Concept]
+   617   C0184567:Sudden onset pain (Acute onset pain) [Sign or Symptom]
+   575   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   575   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: that
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 29_Cage.txt.tx.2: He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: initially 7/10
+Meta Mapping (802):
+   827   C0205265:Initially [Temporal Concept]
+   827   C3842590:10% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: lasted about 5-10 minutes
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0439232:minutes (Minute of time) [Temporal Concept]
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: before resolving with rest.
+Meta Mapping (733):
+   604   C1705850:Before (Before - dosing instruction fragment) [Intellectual Product]
+   770   C3714811:resolving (Resolved) [Qualitative Concept]
+   604   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 29_Cage.txt.tx.3: He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that in the past 4 month
+Meta Mapping (783):
+   783   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2-3
+Meta Mapping (1000):
+  1000   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+
+Phrase: such episodes,
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: however
+
+Phrase: the previous ones
+Meta Mapping (872):
+   694   C0205156:Previous [Temporal Concept]
+   827   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a second
+Meta Mapping (1000):
+  1000   C0565930:/second (per second) [Temporal Concept]
+
+Phrase: or
+
+Phrase: two at most.
+Meta Mapping (790):
+   790   C0205448:Two [Quantitative Concept]
+Processing 29_Cage.txt.tx.4: He reports that he does not exercise very much. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: very much.
+Meta Mapping (1000):
+  1000   C0442824:Very much (Very) [Qualitative Concept]
+Processing 29_Cage.txt.tx.5: He inquires if he may have had a heart attack, given his family history. 
+
+Phrase: He
+
+Phrase: inquires
+
+Phrase: if
+
+Phrase: he
+
+Phrase: may
+
+Phrase: have
+
+Phrase: had
+
+Phrase: a heart attack,
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: his family history.
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+Processing 29_Cage.txt.tx.6: He denies shortness of breath or decreased exercise tolerance.    
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: shortness of breath
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: decreased exercise tolerance.
+Meta Mapping (1000):
+  1000 N C0424551:DECREASED EXERCISE TOLERANCE (Impaired exercise tolerance) [Finding]
+Processing 29_Cage.txt.tx.7: Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Pertinent History
+Meta Mapping (861):
+   861   C2004062:History (History of previous events) [Finding]
+
+Phrase: :
+
+Phrase: Father with history of MI
+Meta Mapping (687):
+   760   C0015671:FATHER (Father (person)) [Family Group]
+   593   C2004062:History (History of previous events) [Finding]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 40 s/p CABG.
+Meta Mapping (762):
+   637   C0001779:AGE (Age) [Organism Attribute]
+   637   C3842587:40% [Quantitative Concept]
+   804   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+Processing 29_Cage.txt.tx.8: Mother with history of hypertension. 
+
+Phrase: Mother with history of hypertension.
+Meta Mapping (816):
+   760   C0026591:MOTHER (Mother (person)) [Family Group]
+   695   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+Processing 29_Cage.txt.tx.9: Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. 
+
+Phrase: Physical Exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Vital signs
+Meta Mapping (1000):
+  1000   C0518766:Signs, Vital (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: vitals otherwise within normal limits.
+Meta Mapping (721):
+   688   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   640   C0442816:Normal limits [Finding]
+Processing 29_Cage.txt.tx.10: CV: Regular rate and rhythm, no murmur, gallop, or rub. 
+
+Phrase: CV
+Meta Mapping (1000):
+  1000   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmur,
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: gallop,
+
+Phrase: or
+
+Phrase: rub.
+Meta Mapping (1000):
+  1000   C4283816:RUB (Rubricyte Count) [Laboratory Procedure]
+Processing 29_Cage.txt.tx.11: No jugular venous distension. 
+
+Phrase: No jugular venous distension.
+Meta Mapping (1000):
+  1000 N C0425687:Jugular venous distension (Jugular venous engorgement) [Finding]
+Processing 29_Cage.txt.tx.12: Jugular venous pressure 3.5 cm. 
+
+Phrase: Jugular venous pressure 3.5 cm.
+Meta Mapping (694):
+   694   C0428897:Jugular venous pressure [Finding]
+Processing 29_Cage.txt.tx.13: Central and peripheral pulses 2+ bilaterally. 
+
+Phrase: Central
+Meta Mapping (1000):
+  1000   C0205099:CENTRAL (Central) [Spatial Concept]
+
+Phrase: and
+
+Phrase: peripheral pulses 2+ bilaterally.
+Meta Mapping (861):
+   861   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+Processing 29_Cage.txt.tx.14: No carotid bruits. 
+
+Phrase: No carotid bruits.
+Meta Mapping (1000):
+  1000 N C0007280:carotid bruits (Carotid bruit) [Finding]
+Processing 29_Cage.txt.tx.15: No lower extremity edema. 
+
+Phrase: No lower extremity edema.
+Meta Mapping (1000):
+  1000 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+Processing 29_Cage.txt.tx.16: Lung: Clear to auscultation bilaterally. 
+
+Phrase: Lung
+Meta Mapping (1000):
+  1000   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Clear to auscultation bilaterally.
+Meta Mapping (708):
+   770   C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+Processing 29_Cage.txt.tx.17: No increased work of breathing. 
+
+Phrase: No increased work of breathing.
+Meta Mapping (928):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   926 N C0859927:Increased work of breathing [Sign or Symptom]
+Processing 29_Cage.txt.tx.18: Abdomen: No abdominal bruits.  
+
+Phrase: Abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: No abdominal bruits.
+Meta Mapping (1000):
+  1000 N C0221755:abdominal bruits (Abdominal bruit) [Sign or Symptom]
+Processing 29_Cage.txt.tx.19: Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 46 year old hypertensive male with family history of MI
+Meta Mapping (680):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   573   C0857121:hypertensive (Hypertensive (finding)) [Finding]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   593   C0241889:FAMILY HISTORY (Family history) [Finding]
+   573   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at young age
+Meta Mapping (888):
+   694   C0332239:Young [Temporal Concept]
+   861   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: presents with worsening exertional chest pain concerning
+Meta Mapping (769):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C1457868:Worsening (Worse) [Finding]
+   814   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+   714   C2699424:Concern [Idea or Concept]
+
+Phrase: for coronary artery disease.
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+Processing 29_Cage.txt.tx.20: His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+
+Phrase: His hypertension
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: sedentary lifestyle
+Meta Mapping (1000):
+  1000   C1532253:Sedentary Lifestyle (Sedentary lifestyle) [Finding]
+
+Phrase: put
+Meta Mapping (1000):
+  1000   C1882509:Put (put - instruction imperative) [Activity]
+
+Phrase: him at increased risk
+Meta Mapping (833):
+   833   C4699158:Increased risk [Finding]
+
+Phrase: for heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 29_Cage.txt.tx.21: Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG now
+Meta Mapping (888):
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   694   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for prior MI
+Meta Mapping (733):
+   770   C1516048:Assess (Assessed) [Activity]
+   770   C2826257:PRIOR (Prior Medication Usage) [Event]
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: or
+
+Phrase: evidence of ischemic changes.
+Meta Mapping (772):
+   770   C3887511:Evidence [Idea or Concept]
+   650   C2826576:Ischemic Change [Finding]
+Processing 29_Cage.txt.tx.22: Exercise stress test to assess for demand ischemia. 
+
+Phrase: Exercise stress test
+Meta Mapping (1000):
+  1000   C0015260:Exercise stress test [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for demand ischemia.
+Meta Mapping (783):
+   770   C1516048:Assess (Assessed) [Activity]
+   833   C4049375:Demand ischemia (Ischemia co-occurrent and due to increased oxygen demand) [Disease or Syndrome]
+Processing 29_Cage.txt.tx.23: Referral to cardiology.
+
+Phrase: Referral to cardiology.
+Meta Mapping (822):
+   822   C0420385:Cardiological referral (Referral to cardiology service) [Therapeutic or Preventive Procedure]

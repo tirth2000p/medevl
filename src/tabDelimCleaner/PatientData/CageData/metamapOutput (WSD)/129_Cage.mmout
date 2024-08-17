@@ -1,0 +1,648 @@
+Processing 129_Cage.txt.tx.1: Subjective:  Mr. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 129_Cage.txt.tx.2: Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old M with a PMH of HTN presenting
+Meta Mapping (660):
+   754   C4331833:a.m. [Qualitative Concept]
+   571   C0439508:/Year (per year) [Temporal Concept]
+   571   C0580836:Old [Temporal Concept]
+   571   C0262926:PMH (Medical History) [Finding]
+   571   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   571   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with episodes of chest pain.
+Meta Mapping (858):
+   593   C0332287:With (In addition to) [Functional Concept]
+   760   C0332189:Episodes (Episode of) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 129_Cage.txt.tx.3: He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. 
+
+Phrase: He
+
+Phrase: endorses
+
+Phrase: getting chest pain
+Meta Mapping (884):
+   627   C1824356:GET (RESF1 gene) [Gene or Genome]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: when
+
+Phrase: leaving
+
+Phrase: the grocery store,
+Meta Mapping (1000):
+  1000   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: his breath away,
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: light headed
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided
+
+Phrase: when
+
+Phrase: he
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: in his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 129_Cage.txt.tx.4: Pain lasted a couple minutes in durration. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a couple minutes in durration.
+Meta Mapping (695):
+   593   C0010222:couple (Couples (persons)) [Family Group]
+   760   C0439232:minutes (Minute of time) [Temporal Concept]
+Processing 129_Cage.txt.tx.5: He describes the pain as 7/10 and "achy pressure". 
+
+Phrase: He
+
+Phrase: describes
+
+Phrase: the pain as 7/10
+Meta Mapping (745):
+   760   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   631   C5191365:10.7 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: "achy pressure".
+Meta Mapping (853):
+   623   C0234238:Aches (Ache) [Sign or Symptom]
+   861   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+Processing 129_Cage.txt.tx.6: The pain was in his left chest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was in his left chest.
+Meta Mapping (747):
+   760   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+   760   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   770   C3841482:Thoracic-left [Body Location or Region]
+Processing 129_Cage.txt.tx.7: He has had 2 other episodes of chest pain when exerting himself. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2
+Meta Mapping (1000):
+  1000   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+
+Phrase: other episodes of chest pain
+Meta Mapping (885):
+   677   C0029537:Other chest pain [Sign or Symptom]
+   790   C0332189:Episode of [Temporal Concept]
+
+Phrase: when
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself.
+Processing 129_Cage.txt.tx.8: He has had pain in his chest after eating but he said that feel different. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: pain in his chest
+Meta Mapping (916):
+   881   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+   604   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+
+Phrase: after eating
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: but
+
+Phrase: he
+
+Phrase: said
+
+Phrase: that
+
+Phrase: feel
+Meta Mapping (1000):
+  1000   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: different.
+Meta Mapping (1000):
+  1000   C1705242:Different [Qualitative Concept]
+Processing 129_Cage.txt.tx.9: He has no history of acid reflux. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: no history of acid reflux.
+Meta Mapping (893):
+   862   C0332122:No history of [Qualitative Concept]
+   640 N C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+Processing 129_Cage.txt.tx.10: He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+
+Phrase: He
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: carthalidone 25 mg
+Meta Mapping (827):
+   827   C0024671:MG (Mammography) [Diagnostic Procedure]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: and
+
+Phrase: lisinopril 10 mg daily for HTN.
+Meta Mapping (789):
+   833   C0987217:Lisinopril 10 MG [Clinical Drug]
+   586   C0332173:Daily [Temporal Concept]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 129_Cage.txt.tx.11: Mom has a history of high BP and dad had a heart attack in his 40s. 
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: has
+
+Phrase: a history of high BP
+Meta Mapping (696):
+   760   C0262926:History (Medical History) [Finding]
+   593   C1299351:High (Abnormally high) [Qualitative Concept]
+   593   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: had
+
+Phrase: a heart attack in his 40s.
+Meta Mapping (722):
+   790   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   586   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+Processing 129_Cage.txt.tx.12: He smokes 1 ppd of cigarettes. 
+
+Phrase: He
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: 1 ppd of cigarettes.
+Meta Mapping (733):
+   604   C2827734:1+ (1+ Score) [Quantitative Concept]
+   770   C1710647:PPD (WISP3 wt Allele) [Gene or Genome]
+   604   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+Processing 129_Cage.txt.tx.13: He denies SOB when walking or laying down. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: SOB
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: when
+
+Phrase: walking
+Meta Mapping (1000):
+  1000   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: laying down.
+Meta Mapping (833):
+   833   C1622979:LAYING (Egg Laying) [Organism Function]
+Processing 129_Cage.txt.tx.14: He denies palpitations.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: palpitations.
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+Processing 129_Cage.txt.tx.15: Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: BP 150/92 PE
+Meta Mapping (791):
+   645   C1708288:BP (HP wt Allele) [Gene or Genome]
+   812   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: normal heart rate
+Meta Mapping (1000):
+  1000   C2712143:Normal heart rate [Finding]
+
+Phrase: and
+
+Phrase: rythm,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops.
+Processing 129_Cage.txt.tx.16: No pain on palpation of the chest wall. 
+
+Phrase: No pain on palpation of the chest wall.
+Meta Mapping (717):
+   578   C1518422:No (Negation) [Functional Concept]
+   793 N C0008035:pain chest wall (Chest wall pain) [Sign or Symptom]
+   578   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Meta Mapping (717):
+   578   C1518422:No (Negation) [Functional Concept]
+   793 N C1963056:Chest wall pain (Chest Wall Pain, CTCAE 3.0) [Finding]
+   578   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 129_Cage.txt.tx.17: No bruits in the carotids. 
+
+Phrase: No bruits in the carotids.
+Meta Mapping (734):
+   593   C1518422:No (Negation) [Functional Concept]
+   781 N C0007280:carotid bruits (Carotid bruit) [Finding]
+Processing 129_Cage.txt.tx.18: Distal pulses are 3+. 
+
+Phrase: Distal pulses
+Meta Mapping (888):
+   694   C0205108:DISTAL (Distal (qualifier value)) [Spatial Concept]
+   861   C0034107:Pulses (Pulse taking) [Health Care Activity]
+
+Phrase: are
+
+Phrase: 3+.
+Meta Mapping (1000):
+  1000   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+Processing 129_Cage.txt.tx.19: Capillary refill > 3 s. 
+
+Phrase: Capillary refill
+Meta Mapping (1000):
+  1000   C0425716:Capillary refill (Capillary filling, function (observable entity)) [Organ or Tissue Function]
+
+Phrase: > 3 s.
+Meta Mapping (694):
+   694   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+Processing 129_Cage.txt.tx.20: Lungs CTAB bilaterally.   
+
+Phrase: Lungs CTAB bilaterally.
+Meta Mapping (790):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   827   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+Processing 129_Cage.txt.tx.21: Objective Mr. 
+
+Phrase: Objective Mr.
+Meta Mapping (888):
+   694   C1571702:Objective (Objective observation) [Qualitative Concept]
+   861   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 129_Cage.txt.tx.22: Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old M with a PMH of HTN presenting
+Meta Mapping (660):
+   754   C4331833:a.m. [Qualitative Concept]
+   571   C0439508:/Year (per year) [Temporal Concept]
+   571   C0580836:Old [Temporal Concept]
+   571   C0262926:PMH (Medical History) [Finding]
+   571   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   571   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with 3 episodes of chest pain
+Meta Mapping (772):
+   586   C0332287:With (In addition to) [Functional Concept]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 129_Cage.txt.tx.23: Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. 
+
+Phrase: Most likely differential
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: is
+
+Phrase: angina,
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: since
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is with exertion
+Meta Mapping (746):
+   790   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: went
+
+Phrase: away rapidly with rest.
+Meta Mapping (708):
+   770   C0456962:Rapidly (Rapid) [Qualitative Concept]
+   770   C0035253:Rest [Daily or Recreational Activity]
+Processing 129_Cage.txt.tx.24: It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. 
+
+Phrase: It
+
+Phrase: is
+
+Phrase: also probable
+Meta Mapping (861):
+   861   C0033204:Probable (Probability) [Quantitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: as
+
+Phrase: he
+
+Phrase: has
+
+Phrase: a history of HTN,
+Meta Mapping (708):
+   770   C0262926:History (Medical History) [Finding]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: a significant history of heart disease.
+Meta Mapping (813):
+   586   C0750502:Significant [Idea or Concept]
+   820   C0730226:History of Disease (H/O: Disorder) [Finding]
+   586   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+Processing 129_Cage.txt.tx.25: It is less likely that he had an MI since the episode was so short. 
+
+Phrase: It
+
+Phrase: is
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: had
+
+Phrase: an MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: since
+
+Phrase: the episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: so short.
+Meta Mapping (888):
+   694   C0037640:SO (Somalia) [Geographic Area]
+   861   C2350002:Short (Short Value) [Quantitative Concept]
+Processing 129_Cage.txt.tx.26: Less likely HF since he has no SOB. 
+
+Phrase: Less likely HF
+Meta Mapping (851):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827   C1538440:HF (CFH gene) [Gene or Genome]
+
+Phrase: since
+
+Phrase: he
+
+Phrase: has
+
+Phrase: no SOB.
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 129_Cage.txt.tx.27: Costochondritis is less likely since there is no pain reproducible on palpation. 
+
+Phrase: Costochondritis
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: is
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: since
+
+Phrase: there
+
+Phrase: is
+
+Phrase: no pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: reproducible on palpation.
+Meta Mapping (711):
+   718   C1514863:Reproducibility [Qualitative Concept]
+   623   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 129_Cage.txt.tx.28: The episodes of pain did not happen while eating so GERD is less likely.   
+
+Phrase: The episodes of pain
+Meta Mapping (799):
+   816   C0332189:Episode of [Temporal Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: happen
+Meta Mapping (1000):
+  1000   C1709305:Happen (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: eating
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: so
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: is
+
+Phrase: less likely.
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+Processing 129_Cage.txt.tx.29: Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+
+Phrase: Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -
+Meta Mapping (737):
+   571   C1301732:Plan (Planned) [Functional Concept]
+   571   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   571   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   738   C0439148:{U} (Unit) [Quantitative Concept]
+   538   C1546471:Result (What subject filter - Result) [Idea or Concept]
+   587   C0332158:Contact with [Functional Concept]
+   571   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+   571   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   571   C2587213:Control (Control function) [Functional Concept]
+
+Phrase: If
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: starting Nitroglycerin
+Meta Mapping (872):
+   661   C0439659:Start (Beginning) [Temporal Concept]
+   861   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: referral to cardiology
+Meta Mapping (822):
+   822   C0420385:Cardiological referral (Referral to cardiology service) [Therapeutic or Preventive Procedure]

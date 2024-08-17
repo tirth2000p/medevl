@@ -1,0 +1,208 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-694,-888,SUBJECTIVE Mr.,0,True,SUBJECTIVE Mr. 
+C2347167,Mr.,Mr. - Title,-861,-888,SUBJECTIVE Mr.,0,True,SUBJECTIVE Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,15,True,Cage is a male presenting for chest pain. 
+C0449450,Presenting,Presentation,-753,-753,a male presenting for chest pain.,23,True,Cage is a male presenting for chest pain. 
+C0235792,BREAST PAIN MALE,BREAST PAIN MALE,-626,-753,a male presenting for chest pain.,23,True,Cage is a male presenting for chest pain. 
+C0700287,reports,Reporting,-1000,-1000,reports,60,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C4321249,AN,DIAPH3 wt Allele,-586,-760,an episode of midsternal chest pain,75,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0332189,EPISODE,Episode of,-753,-760,an episode of midsternal chest pain,75,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0024902,Pain of breast,Mastodynia,-620,-760,an episode of midsternal chest pain,75,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0205388,Few,Few,-660,-790,a few days ago,111,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0439228,DAYS,day,-827,-790,a few days ago,111,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,132,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-694,-694,heavy groceries.,141,True,He reports having an episode of midsternal chest pain a few days ago while carrying heavy groceries. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,158,True,"The pain is described as a deep, heavy ache. "
+C1552738,described,described,-753,-697,"described as a deep, heavy ache.",170,True,"The pain is described as a deep, heavy ache. "
+C0205125,DEEP,Deep (qualifier value),-753,-697,"described as a deep, heavy ache.",170,True,"The pain is described as a deep, heavy ache. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-753,-697,"described as a deep, heavy ache.",170,True,"The pain is described as a deep, heavy ache. "
+C0234238,ACHE,Ache,-753,-697,"described as a deep, heavy ache.",170,True,"The pain is described as a deep, heavy ache. "
+C1705827,SAT,SAT1 wt Allele,-770,-708,sat in the car,206,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C0004381,Car,Automobiles,-770,-708,sat in the car,206,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,225,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C0036588,Self,Self,-861,-888,self-resolved,234,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C2699488,Resolved,Resolution,-861,-888,self-resolved,234,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C3845579,5-10 minutes,5-10 minutes,-923,-916,5-10 minutes later.,248,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C0205087,Later,Late,-645,-916,5-10 minutes later.,248,True,He sat in the car and the pain self-resolved 5-10 minutes later. 
+C0700287,reports,Reporting,-1000,-1000,reports,271,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C0332281,Associated,Associated with,-694,-888,associated lightheadedness,279,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C0012833,Lightheadedness,Dizziness,-861,-888,associated lightheadedness,279,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C1527305,Feeling,Feelings,-694,-888,"feeling ""winded""",310,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C3241964,Winded,Winded,-861,-888,"feeling ""winded""",310,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C0332189,EPISODE,Episode of,-1000,-1000,during the episode.,327,True,"He reports associated lightheadedness and feeling ""winded"" during the episode. "
+C0026193,Minor,Minor (person),-660,-623,"minor painful ""twinges""",358,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0030193,Painful,Pain,-660,-623,"minor painful ""twinges""",358,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C1444637,In the past,In the past,-626,-723,in his chest for the past few months,382,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0019602,HIS,histidine,-578,-723,in his chest for the past few months,382,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C1527391,Chest,Anterior thoracic region,-744,-723,in his chest for the past few months,382,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0439231,MONTHS,month,-578,-723,in his chest for the past few months,382,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0035953,Running,Running (physical activity),-1000,-1000,running,424,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C1290942,Climbing stairs,Climbing stairs,-1000,-1000,"climbing stairs,",435,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C1517741,Last,Last,-726,-669,lasted for a few seconds.,461,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0457385,Seconds,seconds,-760,-669,lasted for a few seconds.,461,True,"He has had minor painful ""twinges"" in his chest for the past few months when running or climbing stairs, but they lasted for a few seconds. "
+C0332185,Recent episode,Recent,-778,-774,The most recent episode of chest pain,487,True,The most recent episode of chest pain felt more intense and longer. 
+C0024902,Pain of breast,Mastodynia,-610,-774,The most recent episode of chest pain,487,True,The most recent episode of chest pain felt more intense and longer. 
+C1527305,feel,Feelings,-966,-966,felt,525,True,The most recent episode of chest pain felt more intense and longer. 
+C0205172,More,More,-694,-888,more intense,530,True,The most recent episode of chest pain felt more intense and longer. 
+C0522510,Intense,With intensity,-861,-888,more intense,530,True,The most recent episode of chest pain felt more intense and longer. 
+C0205166,LONG,Long,-966,-966,longer.,547,True,The most recent episode of chest pain felt more intense and longer. 
+C0700287,reports,Reporting,-1000,-1000,reports,563,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0521114,Occasional,Infrequent,-586,-719,occasional pressure in the epigastric area,571,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C1395831,pressure area,pressure area,-783,-719,occasional pressure in the epigastric area,571,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0521440,Epigastric,Epigastric,-586,-719,occasional pressure in the epigastric area,571,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C2745955,OCCUR,Occurrence,-790,-746,occurs after eating,620,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0013470,Eating,Eating,-790,-746,occurs after eating,620,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C3538928,Usually,Usual,-1000,-1000,usually,644,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0036588,Self,Self,-760,-752,self-resolves after 5 minutes.,652,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C2699488,Resolve,Resolution,-760,-752,self-resolves after 5 minutes.,652,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0886384,minute 5,5 minutes Office visit,-797,-752,self-resolves after 5 minutes.,652,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C2700401,Deny,Deny (action),-1000,-1000,denies,686,True,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0700590,DIAPHORESIS,Increased sweating,-1000,-1000,"any diaphoresis,",693,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,"palpitations,",710,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0015967,FEVER,Fever,-1000,-1000,"fever,",724,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0085593,CHILLS,Chills,-1000,-1000,"chills,",732,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0027497,NAUSEA,Nausea,-1000,-1000,"nausea,",740,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0042963,VOMITING,Vomiting,-1000,-1000,vomiting,748,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0003467,ANXIETY,Anxiety,-1000,-1000,"anxiety,",758,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0581394,Leg swelling,Swelling of lower limb,-1000,-1000,leg swelling.,770,False,"He also reports occasional pressure in the epigastric area which occurs after eating and usually self-resolves after 5 minutes. he denies any diaphoresis, palpitations, fever,  chills, nausea, vomiting, anxiety, or leg swelling.   "
+C0013227,Medication,Pharmaceutical Preparations,-1000,-1000,Medication,786,True,Medication: Chlorthalidone 25mg daily for HTN. 
+C0008294,Chlortalidone,chlorthalidone,-593,-520,Chlorthalidone 25mg daily for HTN.,798,True,Medication: Chlorthalidone 25mg daily for HTN. 
+C0332173,Daily,Daily,-593,-520,Chlorthalidone 25mg daily for HTN.,798,True,Medication: Chlorthalidone 25mg daily for HTN. 
+C0020538,HTN,Hypertensive disease,-593,-520,Chlorthalidone 25mg daily for HTN.,798,True,Medication: Chlorthalidone 25mg daily for HTN. 
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-833,-789,Lisinopril 10 mg daily for HTN.,833,True,Lisinopril 10 mg daily for HTN.  
+C0332173,Daily,Daily,-586,-789,Lisinopril 10 mg daily for HTN.,833,True,Lisinopril 10 mg daily for HTN.  
+C0020538,HTN,Hypertensive disease,-586,-789,Lisinopril 10 mg daily for HTN.,833,True,Lisinopril 10 mg daily for HTN.  
+C2700401,Deny,Deny (action),-1000,-1000,Denies,866,True,"Denies any allergies, hospitalizations, or surgeries.  "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,"any allergies,",873,False,"Denies any allergies, hospitalizations, or surgeries.  "
+C0019993,Hospitalizations,Hospitalization,-1000,-1000,"hospitalizations,",888,True,"Denies any allergies, hospitalizations, or surgeries.  "
+C0543467,surgeries,Operative Surgical Procedures,-1000,-1000,surgeries.,909,True,"Denies any allergies, hospitalizations, or surgeries.  "
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,Family History,921,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C0015671,FATHER,Father (person),-1000,-1000,Father,937,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C2584946,Alive,Alive (finding),-861,-861,"(alive, 77",944,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C4321249,AN,DIAPH3 wt Allele,-586,-741,an MI at 40 years old.,960,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C0683474,MI,Motivational Interviewing,-753,-741,an MI at 40 years old.,960,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C4699619,>40 years,>40 years,-623,-741,an MI at 40 years old.,960,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C0580836,Old,Old,-586,-741,an MI at 40 years old.,960,True,"Family History: Father (alive, 77) had an MI at 40 years old. "
+C0026591,MOTHER,Mother (person),-1000,-1000,Mother,983,True,Mother (deceased in 60s) had HTN and died from pulmonary embolism.  
+C0011065,Deceased,Cessation of life,-790,-790,deceased in 60s,991,True,Mother (deceased in 60s) had HTN and died from pulmonary embolism.  
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN,1012,True,Mother (deceased in 60s) had HTN and died from pulmonary embolism.  
+C1546956,Died,Patient Outcome - Died,-770,-783,died from pulmonary embolism.,1020,True,Mother (deceased in 60s) had HTN and died from pulmonary embolism.  
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-833,-783,died from pulmonary embolism.,1020,True,Mother (deceased in 60s) had HTN and died from pulmonary embolism.  
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,Smoking,1051,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C2827734,1+,1+ Score,-604,-733,1 pack of cigarettes,1060,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C2825051,PACK,Pack unit,-770,-733,1 pack of cigarettes,1060,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C0677453,Cigarettes,Cigarette,-604,-733,1 pack of cigarettes,1060,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C0439505,Per Day,per day,-806,-779,per day for 20 years.,1081,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-640,-779,per day for 20 years.,1081,True,Smoking: 1 pack of cigarettes per day for 20 years.   
+C1571702,Objective,Objective observation,-660,-901,OBJECTIVE Vital Signs,1105,True,OBJECTIVE Vital Signs: T 98.0 F. 
+C0150404,Vital signs,Taking vital signs,-901,-901,OBJECTIVE Vital Signs,1105,True,OBJECTIVE Vital Signs: T 98.0 F. 
+C0215604,T 98,T 98,-694,-861,T 98.0 F.,1128,True,OBJECTIVE Vital Signs: T 98.0 F. 
+C3842591,0%,0%,-645,-861,T 98.0 F.,1128,True,OBJECTIVE Vital Signs: T 98.0 F. 
+C0016327,F-,Fluorides,-812,-861,T 98.0 F.,1128,True,OBJECTIVE Vital Signs: T 98.0 F. 
+C0391850,Pulse,Physiologic pulse,-861,-888,Pulse 85.,1138,True,Pulse 85. 
+C4517892,85,85,-861,-888,Pulse 85.,1138,True,Pulse 85. 
+C0205090,R-,Right,-861,-861,R 14.,1148,True,R 14. 
+C1708288,BP,HP wt Allele,-827,-827,BP 150/92.,1154,True,BP 150/92.  
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical Exam,1166,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C0205246,General,Generalized,-1000,-1000,General,1184,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,1193,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C0277814,SITTING,Sitting position,-1000,-1000,sitting,1204,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C0582103,Exam,Medical Examination,-770,-722,comfortably on exam bed.,1212,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C0004916,Bed,Beds,-770,-722,comfortably on exam bed.,1212,True,Physical Exam:  - General: Patient is sitting comfortably on exam bed. 
+C1551345,ACUTE,acute inpatient encounter,-694,-888,No acute distress,1237,True,No acute distress or diaphoresis noted.  
+C0231303,Distress,Distress,-861,-888,No acute distress,1237,False,No acute distress or diaphoresis noted.  
+C0700590,DIAPHORESIS,Increased sweating,-1000,-1000,diaphoresis,1258,False,No acute distress or diaphoresis noted.  
+C4288581,Noted,Notable,-1000,-1000,noted.,1270,True,No acute distress or diaphoresis noted.  
+C0018787,Cardiac,Heart,-1000,-1000,- Cardiac,1278,True,- Cardiac: Normal S1 and S2 sounds. 
+C0205307,NORMAL,Normal,-694,-888,Normal S1,1289,True,- Cardiac: Normal S1 and S2 sounds. 
+C3715215,S1,S1,-861,-888,Normal S1,1289,True,- Cardiac: Normal S1 and S2 sounds. 
+C1419718,S2,RPS2 gene,-694,-888,S2 sounds.,1303,True,- Cardiac: Normal S1 and S2 sounds. 
+C0037709,Sounds,Sound - physical agent,-861,-888,S2 sounds.,1303,True,- Cardiac: Normal S1 and S2 sounds. 
+C0018808,MURMUR,Heart murmur,-1000,-1000,"No murmur,",1314,False,"No murmur, rubs, or gallops noted. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1325,False,"No murmur, rubs, or gallops noted. "
+C4288581,Noted,Notable,-1000,-1000,noted.,1342,True,"No murmur, rubs, or gallops noted. "
+C0028128,NO,nitric oxide,-578,-755,No tenderness to palpation of anterior chest wall.,1349,True,No tenderness to palpation of anterior chest wall.  
+C0239008,Tenderness of chest,Chest wall tenderness,-789,-755,No tenderness to palpation of anterior chest wall.,1349,False,No tenderness to palpation of anterior chest wall.  
+C0030247,PALPATION,Palpation,-578,-755,No tenderness to palpation of anterior chest wall.,1349,True,No tenderness to palpation of anterior chest wall.  
+C0205094,ANTERIOR,Anterior,-578,-755,No tenderness to palpation of anterior chest wall.,1349,True,No tenderness to palpation of anterior chest wall.  
+C0677535,Wall,Walls of a building,-578,-755,No tenderness to palpation of anterior chest wall.,1349,True,No tenderness to palpation of anterior chest wall.  
+C0521346,RESPIRATORY,respiratory,-1000,-1000,- Respiratory,1401,True,"- Respiratory: Clear to auscultation bilaterally, posteriorly. "
+C1709157,Clear,Negative Surgical Margin,-770,-708,"Clear to auscultation bilaterally,",1416,True,"- Respiratory: Clear to auscultation bilaterally, posteriorly. "
+C0004339,AUSCULTATION,Auscultation,-604,-708,"Clear to auscultation bilaterally,",1416,True,"- Respiratory: Clear to auscultation bilaterally, posteriorly. "
+C0034642,Crackles,Rales,-1000,-1000,crackles,1467,False,"No crackles, wheezes, or rhonchi noted.   "
+C0043144,Wheezes,Wheezing,-1000,-1000,"wheezes,",1477,False,"No crackles, wheezes, or rhonchi noted.   "
+C0035508,RHONCHI,Rhonchi,-1000,-1000,rhonchi,1489,False,"No crackles, wheezes, or rhonchi noted.   "
+C4288581,Noted,Notable,-1000,-1000,noted.,1497,True,"No crackles, wheezes, or rhonchi noted.   "
+C1516048,Assessment,Assessed,-1000,-1000,ASSESSMENT,1506,True,ASSESSMENT: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1518,True,ASSESSMENT: Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1522,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C1706180,Male,"Male Gender, Self Report",-748,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0262926,History of MEDICAL,Medical History,-638,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0020538,HYPERTENSION,Hypertensive disease,-581,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C1706180,Male,"Male Gender, Self Report",-748,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0205476,Medical,Medical,-581,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0455527,History of - hypertension,H/O: hypertension,-647,-755,"a male with medical history of hypertension,",1530,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C2700095,20 Pack,Twenty Pack,-806,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0439234,YEARS,year,-760,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0453996,Smoking,Tobacco smoking behavior,-593,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-797,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C2825051,PACK,Pack unit,-760,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0453996,Smoking,Tobacco smoking behavior,-593,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C3842589,20%,20%,-593,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C1277691,Pack years,Pack years,-806,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0453996,Smoking,Tobacco smoking behavior,-593,-761,"20 pack years of smoking,",1575,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0241889,FAMILY HISTORY,Family history,-806,-752,family history of MI presenting,1605,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0683474,MI,Motivational Interviewing,-593,-752,family history of MI presenting,1605,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0449450,Presenting,Presentation,-593,-752,family history of MI presenting,1605,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,for chest pain.,1637,True,"Cage is a male with medical history of hypertension, 20 pack years of smoking, and family history of MI presenting for chest pain. "
+C0150404,Vital signs,Taking vital signs,-1000,-1000,Vital signs,1653,True,Vital signs significant for hypertension of 150/92. 
+C0750502,Significant,Significant,-753,-672,significant for hypertension of 150/92.,1665,True,Vital signs significant for hypertension of 150/92. 
+C0020538,HYPERTENSION,Hypertensive disease,-586,-672,significant for hypertension of 150/92.,1665,True,Vital signs significant for hypertension of 150/92. 
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical exam,1705,True,Physical exam unremarkable. 
+C0205307,UNREMARKABLE,Normal,-1000,-1000,unremarkable.,1719,True,Physical exam unremarkable. 
+C1442162,GIVEN,GIVEN,-578,-750,"Given change in characteristics of usual chest pain,",1733,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C0392747,Change,Changing,-744,-750,"Given change in characteristics of usual chest pain,",1733,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C1286315,Characteristic of pain,Characteristic of pain,-615,-750,"Given change in characteristics of usual chest pain,",1733,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C3538928,Usual,Usual,-578,-750,"Given change in characteristics of usual chest pain,",1733,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C1527391,Chest,Anterior thoracic region,-578,-750,"Given change in characteristics of usual chest pain,",1733,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C0332148,Likelihood diagnosis,Probable diagnosis,-964,-964,most likely diagnosis,1786,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,unstable angina.,1811,True,"Given change in characteristics of usual chest pain, most likely diagnosis is unstable angina. "
+C0686904,need,Patient need for (contextual qualifier),-1000,-1000,need,1842,True,"However, will need to rule out myocardial infarction.   "
+C1883351,To,To,-1000,-1000,to,1847,True,"However, will need to rule out myocardial infarction.   "
+C0870077,Rule,Rule (guideline),-1000,-1000,rule,1850,True,"However, will need to rule out myocardial infarction.   "
+C0439787,Out,Out (direction),-660,-901,out myocardial infarction.,1855,True,"However, will need to rule out myocardial infarction.   "
+C2926063,Myocardial infarction,Myocardial infarction:Finding:Point in time:^Patient:Ordinal,-901,-901,out myocardial infarction.,1855,True,"However, will need to rule out myocardial infarction.   "
+C0599880,Plan,Treatment Plan,-586,-697,PLAN - Risk stratification with TIMI score.,1884,True,PLAN - Risk stratification with TIMI score.  
+C0035647,Risk,Risk,-753,-697,PLAN - Risk stratification with TIMI score.,1884,True,PLAN - Risk stratification with TIMI score.  
+C1514983,Stratification,Stratification,-753,-697,PLAN - Risk stratification with TIMI score.,1884,True,PLAN - Risk stratification with TIMI score.  
+C0449820,SCORE,Score,-586,-697,PLAN - Risk stratification with TIMI score.,1884,True,PLAN - Risk stratification with TIMI score.  
+C1705178,Order,Order (action),-694,-888,- Order EKG,1929,True,- Order EKG to rule out myocardiac infarction.  
+C1623258,EKG,Electrocardiography,-861,-888,- Order EKG,1929,True,- Order EKG to rule out myocardiac infarction.  
+C1883351,To,To,-1000,-1000,to,1941,True,- Order EKG to rule out myocardiac infarction.  
+C0870077,Rule,Rule (guideline),-1000,-1000,rule,1944,True,- Order EKG to rule out myocardiac infarction.  
+C0439787,Out,Out (direction),-660,-882,out myocardiac infarction.,1949,True,- Order EKG to rule out myocardiac infarction.  
+C2926063,Myocardial infarction,Myocardial infarction:Finding:Point in time:^Patient:Ordinal,-873,-882,out myocardiac infarction.,1949,True,- Order EKG to rule out myocardiac infarction.  
+C0750591,consider,consider,-1000,-1000,Consider,1979,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0439659,Start,Beginning,-560,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0087111,Therapy,Therapeutic procedure,-760,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0004057,aspirin antiplatelet,aspirin,-797,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0439659,Start,Beginning,-560,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C5214487,Antiplatelet,Antiplatelet,-760,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C4303556,Aspirin therapy,Aspirin therapy,-797,-752,"starting antiplatelet therapy with aspirin,",1988,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0360714,Statins,Hydroxymethylglutaryl-CoA Reductase Inhibitors,-1000,-1000,"statins,",2032,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C0028125,Nitrates,Nitrates,-1000,-1000,nitrates,2045,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C1720688,As needed,As needed for (qualifier value),-1000,-1000,(as needed,2054,True,"- Consider starting antiplatelet therapy with aspirin, statins, and nitrates (as needed). "
+C1708288,BP,HP wt Allele,-861,-861,- BP is,2067,True,- BP is not at goal of <130/80. 
+C1518422,Not,Negation,-770,-708,not at goal of,2075,True,- BP is not at goal of <130/80. 
+C0018017,Goal,objective (goal),-770,-708,not at goal of,2075,True,- BP is not at goal of <130/80. 
+C3842583,80%,80%,-861,-861,<130/80.,2090,True,- BP is not at goal of <130/80. 
+C0442805,Increase,Increase,-1000,-1000,increase,2104,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C0065374,Lysinopril,lisinopril,-694,-888,lisinopril dose,2113,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C1114758,Dose #,Dose number:Number:Point in time:^Patient:Quantitative,-861,-888,lisinopril dose,2113,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C0030705,*^patient,Patients,-1000,-1000,patient,2140,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C1883351,To,To,-1000,-1000,to,2148,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C0150369,monitor,Preventive monitoring,-1000,-1000,monitor,2151,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C1708288,BP,HP wt Allele,-1000,-1000,BP,2159,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C4534363,At home,At home,-1000,-1000,at home,2162,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C1883708,Next,Then,-604,-783,log during next visit.,2180,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.
+C3899570,Visit Log,Clinical Trial Monitoring Visit Log,-819,-783,log during next visit.,2180,True,Will increase lisinopril dose and advise patient to monitor BP at home and bring log during next visit.

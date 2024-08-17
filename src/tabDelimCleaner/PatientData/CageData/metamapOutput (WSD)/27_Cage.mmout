@@ -1,0 +1,855 @@
+Processing 27_Cage.txt.tx.1: Name: Gerry Cage HPI: Gerry Cage is 38 y/o M who presents after having chest pain while carrying groceries on Saturday. 
+
+Phrase: Name
+Meta Mapping (1000):
+  1000   C0027365:Name [Intellectual Product]
+
+Phrase: :
+
+Phrase: Gerry Cage HPI
+Meta Mapping (623):
+   660   C1019207:gerry (Gerris) [Eukaryote]
+   660   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: 38 y/o M
+Meta Mapping (812):
+   812   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: after
+
+Phrase: having
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: carrying groceries on Saturday.
+Meta Mapping (541):
+   604   C0206243:Carrying [Activity]
+   604   C0585030:Saturday [Temporal Concept]
+Processing 27_Cage.txt.tx.2: He had to drop everything and sit in his car for 5-10 minutes to relieve the pain. 
+
+Phrase: He
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: everything
+
+Phrase: and
+
+Phrase: sit in his car
+Meta Mapping (733):
+   770   C0728713:sit (Does sit) [Finding]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: relieve
+Meta Mapping (1000):
+  1000   C1301676:relieve (Relieving) [Functional Concept]
+
+Phrase: the pain.
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 27_Cage.txt.tx.3: The pain was a deep ache, heavy pain at the center of his chest and did not radiate elsewhere. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: a deep ache,
+Meta Mapping (888):
+   694   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   861   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: heavy pain at the center of his chest
+Meta Mapping (719):
+   578   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   762   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   578   C0205099:Centre (Central) [Spatial Concept]
+   578   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: elsewhere.
+Processing 27_Cage.txt.tx.4: He has experienced this before on exertion 2-3 times in the past 4 months, but only lasted 1-2 seconds. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: this before on exertion 2-3 times
+Meta Mapping (683):
+   748   C1080058:This (This (eukaryote)) [Eukaryote]
+   748   C0015264:Exertion [Organism Function]
+   757   C0808270:Time 2 [Finding]
+
+Phrase: in the past 4 months,
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: but
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C1720467:Only (Only - dosing instruction fragment) [Intellectual Product]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 1-2 seconds.
+Meta Mapping (901):
+   734   C1519043:1-2 (Phase I/II Trial) [Research Activity]
+   827   C0457385:Seconds (seconds) [Temporal Concept]
+Processing 27_Cage.txt.tx.5: No pain at rest. 
+
+Phrase: No pain at rest.
+Meta Mapping (916):
+   604   C1298908:No (no) [Finding]
+   909 N C0234253:Pain at rest (Rest pain) [Sign or Symptom]
+Processing 27_Cage.txt.tx.6: ROS positive for lightheadedness and feeling like the wind was knocked out of him during the event. 
+
+Phrase: ROS positive for lightheadedness
+Meta Mapping (783):
+   833   C4744493:ROS Positive (ROS1 Positive) [Laboratory or Test Result]
+   604   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling like the wind
+Meta Mapping (708):
+   770   C1527305:Feeling (Feelings) [Mental Process]
+   604   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out of him
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: during the event.
+Meta Mapping (1000):
+  1000   C0441471:Event [Event]
+Processing 27_Cage.txt.tx.7: Denies SOB, dizziness, fevers, chills.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: fevers,
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: chills.
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+Processing 27_Cage.txt.tx.8: Meds: Chlorthialidone, Lisinopril  Allergies: none PMHx: HTN w/ BPs in 130/80 range Surgeries: none FHx: mom died of PE and hx of DM2, HTn; Dad had MI at age 40 with CAD and bypass surgery; Maternal gma died of breast cancer Social Hx: Drinks a few beers every 3 days; 10 year history of tobacco usage â€“ smokes 1 pack every week; denies drug usage; diet is â€œnormalâ€; occupation is heavy physical work at Amazon lifting boxes up to 40lbs; exercise is limited due to back pain, but usually consists of whatever she does at work Vitals: 150/92 HR 85 RR 14 T 98 Physical Exam:  - Gen: NAD; awake, alert; patient sitting up in bed - HEENT: normal conjunctiva; EMOI; no JVD - CVS: RRR no murmurs; 2+ brachial pulses, dorsalis pedis bilaterally  - Lungs: CTAB; good air movement - Abdomen: soft, not distended, non-tender to palpation - Extremities: no edema - Skin: warm, dry, well-perfused - Neuro: A&Ox3 - Psych: Pleasant Assessment: Ms. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthialidone,
+
+Phrase: Lisinopril  Allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none PMHx
+
+Phrase: :
+
+Phrase: HTN w/ BPs in 130/80 range Surgeries
+Meta Mapping (667):
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   744   C1849718:BPS (POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE) [Disease or Syndrome]
+   578   C3842583:80% [Quantitative Concept]
+   578   C1514721:Range [Quantitative Concept]
+   578   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: none FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: died of PE
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: hx of DM2,
+Meta Mapping (790):
+   790   C0262926:Hx (Medical History) [Finding]
+
+Phrase: HTn
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: ; Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: had
+
+Phrase: MI at age 40
+Meta Mapping (733):
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0001779:AGE (Age) [Organism Attribute]
+   604   C0439509:/40 [Quantitative Concept]
+
+Phrase: with CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: bypass surgery
+Meta Mapping (1000):
+  1000   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: ; Maternal gma
+Meta Mapping (888):
+   694   C2347083:Maternal (Maternal Relative) [Family Group]
+   861   C4553211:GMA (MAG wt Allele) [Gene or Genome]
+
+Phrase: died of breast cancer Social Hx
+Meta Mapping (864):
+   753   C1306577:Died (Death (finding)) [Finding]
+   820   C0006142:Cancer of Breast (Malignant neoplasm of breast) [Neoplastic Process]
+   790   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: a few beers
+Meta Mapping (1000):
+  1000   C0004922:Beers (Beer) [Food]
+
+Phrase: every 3 days
+Meta Mapping (1000):
+  1000   C1442459:3 Days [Temporal Concept]
+
+Phrase: ; 10 year history of tobacco usage â€“ smokes 1
+Meta Mapping (679):
+   575   C3842590:10% [Quantitative Concept]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   742   C0262926:History (Medical History) [Finding]
+   595   C0453996:Tobacco smokes (Tobacco smoking behavior) [Individual Behavior]
+   575   C0457083:Usage [Functional Concept]
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: every week
+Meta Mapping (1000):
+  1000   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: ;
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: drug usage
+Meta Mapping (1000):
+  1000 N C0242510:Drug usage [Mental or Behavioral Dysfunction]
+
+Phrase: ; diet
+Meta Mapping (1000):
+  1000   C0012159:Diet (Diet therapy) [Health Care Activity]
+
+Phrase: is
+
+Phrase: â€œnormalâ
+
+Phrase: ; occupation
+Meta Mapping (1000):
+  1000   C0028811:OCCUPATION (Occupations) [Occupation or Discipline]
+
+Phrase: is
+
+Phrase: heavy physical work at Amazon lifting boxes
+Meta Mapping (720):
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   581   C0337184:PHYSICAL (Physical restraint equipment (device)) [Medical Device]
+   748   C0043227:Work [Occupational Activity]
+   581   C0325969:Amazon (Amazona) [Bird]
+   581   C0206244:Lifting [Activity]
+   581   C1638312:Boxes (Box - unit dose) [Quantitative Concept]
+
+Phrase: up to 40lbs
+
+Phrase: ; exercise
+Meta Mapping (1000):
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: is
+
+Phrase: limited due to back pain,
+Meta Mapping (861):
+   760   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   806   C0678226:Due To (Due to) [Functional Concept]
+   806   C0004604:BACKPAIN (Back Pain) [Sign or Symptom]
+Meta Mapping (861):
+   760   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   806   C0678226:Due To (Due to) [Functional Concept]
+   806   C1963071:Back pain (Back Pain, CTCAE 3.0) [Finding]
+
+Phrase: but
+
+Phrase: usually
+Meta Mapping (1000):
+  1000   C3538928:Usually (Usual) [Qualitative Concept]
+
+Phrase: consists of whatever
+Meta Mapping (790):
+   790   C0332529:CONSIST (Consistency) [Qualitative Concept]
+
+Phrase: she
+
+Phrase: does at work Vitals
+Meta Mapping (709):
+   770   C1272751:Does (Does - Ability interpretation value) [Finding]
+   770   C0043227:Work [Occupational Activity]
+   699   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 150/92 HR 85 RR 14 T 98 Physical Exam
+Meta Mapping (710):
+   623   C4517892:85 [Quantitative Concept]
+   623   C4554402:RR (RR genotype) [Finding]
+   623   C4319627:98 [Quantitative Concept]
+   804   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :  -
+
+Phrase: Gen
+Meta Mapping (1000):
+  1000   C2239486:Gen (GEN1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: NAD
+Meta Mapping (1000):
+  1000   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: ; awake, alert
+Meta Mapping (888):
+   694   C0234422:Awake [Finding]
+   861   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: ; patient sitting up
+Meta Mapping (771):
+   623   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   790   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in bed - HEENT
+Meta Mapping (888):
+   694   C0004916:Bed (Beds) [Manufactured Object]
+   861   C1512338:HEENT [Body Location or Region]
+
+Phrase: :
+
+Phrase: normal conjunctiva
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0009758:CONJUNCTIVA (conjunctiva) [Body Part, Organ, or Organ Component]
+
+Phrase: ; EMOI
+
+Phrase: ;
+
+Phrase: no JVD - CVS
+Meta Mapping (694):
+   694 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: :
+
+Phrase: RRR
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: ; 2+ brachial pulses,
+Meta Mapping (901):
+   660   C0740116:+2 [Quantitative Concept]
+   901   C1720094:Brachial PULSES (Brachial pulse rate) [Clinical Attribute]
+
+Phrase: dorsalis pedis bilaterally  - Lungs
+Meta Mapping (763):
+   645   C4727455:Pedi (Northern Sotho Language) [Language]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: ; good air movement - Abdomen
+Meta Mapping (861):
+   645   C0205170:Good [Qualitative Concept]
+   694   C0001868:Movement, Air (Air Movements) [Natural Phenomenon or Process]
+   812   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: soft,
+Meta Mapping (1000):
+  1000   C0205358:Soft [Qualitative Concept]
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: distended
+Meta Mapping (1000):
+  1000 N C0700124:Distended (Dilated) [Finding]
+
+Phrase: ,
+
+Phrase: non-tender to palpation - Extremities
+Meta Mapping (752):
+   806   C0520960:Non-tender [Qualitative Concept]
+   593   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   593   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: no edema - Skin
+Meta Mapping (1000):
+  1000 N C0521464:oedema skin (Edematous skin) [Finding]
+
+Phrase: :
+
+Phrase: warm, dry, well-
+Meta Mapping (851):
+   827 N C0582051:Warm (Feels warm) [Finding]
+   827   C0205222:Dry [Qualitative Concept]
+   827   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: perfused -
+Meta Mapping (966):
+   966   C1549542:Perfuse [Functional Concept]
+
+Phrase: Neuro
+Meta Mapping (1000):
+  1000   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: A&Ox3 - Psych
+Meta Mapping (861):
+   861 N C1306597:psych (Psychiatric problem) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: Pleasant Assessment
+Meta Mapping (888):
+   694 N C2987187:Pleasant [Mental Process]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 27_Cage.txt.tx.9: Smith is a  38 y/o M w/ PMHx of HTN and smoking who presents w/ chest pain in the center of his chest on exertion that was relieved with rest after 5-10 minutes. 
+
+Phrase: Smith
+Meta Mapping (1000):
+  1000   C0554249:Smith (Smith (occupation)) [Professional or Occupational Group]
+
+Phrase: is
+
+Phrase: a  38 y/o M w/ PMHx of HTN
+Meta Mapping (516):
+   595   C3846401:M & Y [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (516):
+   595   C4331833:a.m. [Qualitative Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: w/ chest pain in the center of his chest
+Meta Mapping (743):
+   789   C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   575   C0205099:Centre (Central) [Spatial Concept]
+   575   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: on exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: relieved with rest
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+
+Phrase: after 5-10 minutes.
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+Processing 27_Cage.txt.tx.10: Physical exam unremarkable. 
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: unremarkable.
+Meta Mapping (1000):
+  1000   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+Processing 27_Cage.txt.tx.11: Patient likely has stable angina as his chest pain is substernal, worse w/ exertion, and relieved with rest. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: has
+
+Phrase: stable angina as his chest pain
+Meta Mapping (776):
+   753   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   820   C0742281:chest pain angina [Sign or Symptom]
+
+Phrase: is
+
+Phrase: substernal, worse w/ exertion,
+Meta Mapping (763):
+   645   C1279889:Worse (Deterioration of status) [Finding]
+   812   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 27_Cage.txt.tx.12: Unlikely to be panic disorder as he does not have a history of anxiety and is not worried about this happening in the future. 
+
+Phrase: Unlikely
+Meta Mapping (1000):
+  1000   C1710571:Unlikely (Unlikely Related to Intervention) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: be
+
+Phrase: panic disorder
+Meta Mapping (1000):
+  1000   C0030319:Disorder, Panic (Panic Disorder) [Mental or Behavioral Dysfunction]
+
+Phrase: as
+
+Phrase: he
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: have
+
+Phrase: a history of anxiety
+Meta Mapping (708):
+   770 N C0262926:History (Medical History) [Finding]
+   604 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: worried about this happening
+Meta Mapping (770):
+   770 N C0233481:Worried [Finding]
+
+Phrase: in the future.
+Meta Mapping (1000):
+  1000   C0016884:Future [Temporal Concept]
+Processing 27_Cage.txt.tx.13: Less likely to be HF as his JVD is not elevated, no SOB, and no LE edema.  
+
+Phrase: Less likely
+Meta Mapping (888):
+   861   C0439092:Less (Less Than) [Quantitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: be
+
+Phrase: HF as his JVD
+Meta Mapping (733):
+   770   C1538440:HF (CFH gene) [Gene or Genome]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: ,
+
+Phrase: no SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: no LE edema.
+Meta Mapping (888):
+   694   C1423767:LE (HPS4 gene) [Gene or Genome]
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+Processing 27_Cage.txt.tx.14: Plan:  - EKG to assess ischemia - Serial troponins - BNP to assess HF - CBC, lipid panel, screen for DM2 w/ A1C - Given age and typical chest pain, patient is at high risk so stress test - Start patient on high intensity statin (atorvastatin 40mg), beta-blocker (metoprolol), and low dose ASA 81mg daily for mortality benefit after tests come back  - Increase dose of Lisinopril given his BP of 150 - Will discuss tobacco cessation and lifestyle modifications at follow up visit
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :  -
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: assess
+Meta Mapping (1000):
+  1000   C1516048:Assess (Assessed) [Activity]
+
+Phrase: ischemia - Serial troponins - BNP
+Meta Mapping (833):
+   645   C0022116:Ischaemia, NOS (Ischemia) [Pathologic Function]
+   645   C0031082:serial (Periodicals) [Intellectual Product]
+   645   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C0054015:BNP (nesiritide) [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: assess
+Meta Mapping (1000):
+  1000   C1516048:Assess (Assessed) [Activity]
+
+Phrase: HF - CBC,
+Meta Mapping (888):
+   694   C1538440:HF (CFH gene) [Gene or Genome]
+   861   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: screen for DM2 w/ A1C - Given age
+Meta Mapping (665):
+   748   C0220908:screen (Screening procedure) [Diagnostic Procedure]
+   581   C4521595:A1C (US Military enlisted E3) [Classification]
+   548   C1947971:Give (Give - dosing instruction imperative) [Functional Concept]
+   581   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: and
+
+Phrase: typical chest pain,
+Meta Mapping (901):
+   660   C3538928:Typical (Usual) [Qualitative Concept]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is at high risk
+Meta Mapping (783):
+   770   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   833   C0332167:HIGH RISK (High risk of) [Finding]
+
+Phrase: so
+
+Phrase: stress test - Start patient on high intensity statin
+Meta Mapping (739):
+   604   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   578   C0439659:Start (Beginning) [Temporal Concept]
+   744   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   604   C4081854:High intensity [Qualitative Concept]
+   578   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (atorvastatin 40mg
+Meta Mapping (694):
+   694   C0286651:ATORVASTATIN (atorvastatin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: beta-blocker
+Meta Mapping (1000):
+  1000   C0001645:Beta Blocker (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+
+Phrase: (metoprolol
+Meta Mapping (1000):
+  1000   C0025859:METOPROLOL (metoprolol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: low dose ASA 81mg daily for mortality benefit
+Meta Mapping (532):
+   604   C0445550:Low dose [Quantitative Concept]
+   578   C0004057:ASA (aspirin) [Organic Chemical,Pharmacologic Substance]
+   578   C0332173:Daily [Temporal Concept]
+   578   C0026565:Mortality (Mortality Vital Statistics) [Quantitative Concept]
+   578   C0814225:Benefit [Quantitative Concept]
+Meta Mapping (532):
+   578   C0205251:Low (low) [Qualitative Concept]
+   578   C0004057:ASA (aspirin) [Organic Chemical,Pharmacologic Substance]
+   600   C2348070:Daily Dose [Quantitative Concept]
+   578   C0026565:Mortality (Mortality Vital Statistics) [Quantitative Concept]
+   578   C0814225:Benefit [Quantitative Concept]
+
+Phrase: after tests come back  - Increase dose of Lisinopril
+Meta Mapping (746):
+   578   C0687676:AFTER (Post) [Temporal Concept]
+   578   C0022885:Tests (Laboratory Procedures) [Laboratory Procedure]
+   600   C0205095:Back of (Dorsal) [Spatial Concept]
+   770   C4297006:Increase dose [Finding]
+   578   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: his BP of 150 -
+Meta Mapping (722):
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: Will
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: tobacco cessation
+Meta Mapping (1000):
+  1000   C0600549:Tobacco Cessation (Tobacco Use Cessation) [Individual Behavior]
+
+Phrase: and
+
+Phrase: lifestyle modifications at follow up visit
+Meta Mapping (783):
+   756   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+   666   C0589121:Follow-up visit [Health Care Activity]

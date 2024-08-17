@@ -1,0 +1,392 @@
+Processing 82_Cage.txt.tx.1: S: GC is 47 yr old Caucasian male with PMHx of HTN presenting with 4 month history of episodic exertional mid sternal chest pain ranked 4 out of 10 with recent episode 4 days ago continuing longer than usual and ranking 7 out of 10. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: GC
+Meta Mapping (1000):
+  1000   C4281799:Gc (GC, vitamin D binding protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: is
+
+Phrase: 47 yr old Caucasian male with PMHx of HTN presenting
+Meta Mapping (659):
+   573   C0439234:yr (year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   573   C0007457:Caucasian (Caucasoid Race) [Population Group]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with 4 month history of episodic exertional mid sternal chest pain
+Meta Mapping (726):
+   571   C0332287:With (In addition to) [Functional Concept]
+   571   C0439231:Month (month) [Temporal Concept]
+   790   C4512001:History of chest pain [Finding]
+   571   C1455761:Episodic [Temporal Concept]
+   571   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   571   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+
+Phrase: ranked
+Meta Mapping (1000):
+  1000   C0699794:ranked (Rank) [Intellectual Product]
+
+Phrase: 4 out of 10
+Meta Mapping (783):
+   770   C0849355:Out (Removed) [Qualitative Concept]
+   819   C5191376:10.4 [Quantitative Concept]
+
+Phrase: with recent episode 4 days ago continuing
+Meta Mapping (768):
+   660   C0332185:Recent episode (Recent) [Temporal Concept]
+   632   C0439228:DAYS (day) [Temporal Concept]
+   799   C0549178:Continuing (Continuous) [Idea or Concept]
+
+Phrase: longer than usual
+Meta Mapping (730):
+   756   C0205166:LONG (Long) [Qualitative Concept]
+   623   C3538928:Usual [Qualitative Concept]
+
+Phrase: and
+
+Phrase: ranking 7 out of 10.
+Meta Mapping (761):
+   760   C0699794:Ranking (Rank) [Intellectual Product]
+   760   C0849355:Out (Removed) [Qualitative Concept]
+   797   C5191365:10.7 [Quantitative Concept]
+Processing 82_Cage.txt.tx.2: Pain is relieved with rest and is associated with lightheadedness and "feeling the breath is knocked out of me". 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: relieved with rest
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: associated with lightheadedness
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: "
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: the breath
+Meta Mapping (1000):
+  1000   C0225386:Breath [Body Substance]
+
+Phrase: is
+
+Phrase: knocked out of me".
+Meta Mapping (783):
+   833   C0560617:knocked out [Injury or Poisoning]
+   770   C0025082:ME (Examiner, Medical) [Professional or Occupational Group]
+Processing 82_Cage.txt.tx.3: No associated sx. 
+
+Phrase: No associated sx.
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+Processing 82_Cage.txt.tx.4: Rest is the only thing that improves the pain and physical activity worsens its. 
+
+Phrase: Rest
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: is
+
+Phrase: the only thing
+Meta Mapping (888):
+   694   C0205171:Only (Singular) [Quantitative Concept]
+   861   C1551338:Thing (Entity) [Entity]
+
+Phrase: that
+
+Phrase: improves
+Meta Mapping (1000):
+  1000   C0184511:Improves (Improved) [Finding]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: and
+
+Phrase: physical activity
+Meta Mapping (1000):
+  1000   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: worsens
+Meta Mapping (1000):
+  1000   C1457868:worsen (Worse) [Finding]
+
+Phrase: its.
+Processing 82_Cage.txt.tx.5: Pt endorses sx of post prandial pressure for 1 year with no vomiting, Nausea, or regurgitation. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: endorses
+
+Phrase: sx of post prandial pressure
+Meta Mapping (761):
+   760   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+   640   C0376674:Post-prandial (Postprandial Period) [Temporal Concept]
+   593   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: for 1 year with no vomiting,
+Meta Mapping (666):
+   586   C0521125:For (Preposition For) [Qualitative Concept]
+   753   C0439508:/Year (per year) [Temporal Concept]
+   586 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: Nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: regurgitation.
+Meta Mapping (1000):
+  1000 N C2004489:REGURGITATION (Regurgitation) [Sign or Symptom]
+Processing 82_Cage.txt.tx.6: Fam hx relevant for MI in father during his 40's O: S1 S2 clearly heard, No abnormal heart sounds. 
+
+Phrase: Fam hx
+Meta Mapping (888):
+   694   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: relevant for MI
+Meta Mapping (746):
+   790   C2347946:Relevant (Relevance) [Qualitative Concept]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in father during his 40's
+Meta Mapping (696):
+   593   C0150312:In (Present) [Finding]
+   760   C0015671:FATHER (Father (person)) [Family Group]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: O
+Meta Mapping (1000):
+  1000   C0483204:O NOS (O NOS Ab) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: :
+
+Phrase: S1 S2 clearly heard,
+Meta Mapping (764):
+   645   C3715215:S1 [Finding]
+   645   C1419718:S2 (RPS2 gene) [Gene or Genome]
+   779   C0018767:hear (Hearing) [Physiologic Function]
+
+Phrase: No abnormal heart sounds.
+Meta Mapping (916):
+   645   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   923   C0577822:abnormal heart sounds (Heart sounds abnormal) [Finding]
+Processing 82_Cage.txt.tx.7: JVP no distended. 
+
+Phrase: JVP
+
+Phrase: no distended.
+Meta Mapping (1000):
+  1000 N C0700124:Distended (Dilated) [Finding]
+Processing 82_Cage.txt.tx.8: No tenderness to palpation in all abdominal quadrants. 
+
+Phrase: No tenderness to palpation
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: in all abdominal quadrants.
+Meta Mapping (1000):
+  1000   C0682587:abdominal quadrants (Abdominal quadrant) [Body Location or Region]
+Processing 82_Cage.txt.tx.9: No abdominal masses. 
+
+Phrase: No abdominal masses.
+Meta Mapping (1000):
+  1000 N C0000734:abdominal masses (Abdominal mass) [Finding]
+Processing 82_Cage.txt.tx.10: A: GC 47 y.o male with hx of HTN presenting with 4 m.o hx of episodic midsternal chest pain -Most likely Anginal pain secondary to carotid artery stenosis given timing of pain. 
+
+Phrase: A
+
+Phrase: :
+
+Phrase: GC 47 y.o male with hx of HTN presenting
+Meta Mapping (635):
+   573   C4281799:Gc (GC, vitamin D binding protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0262926:Hx (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with 4 m.o hx of episodic midsternal chest pain -
+Meta Mapping (680):
+   573   C0332287:With (In addition to) [Functional Concept]
+   573   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   739   C0262926:Hx (Medical History) [Finding]
+   573   C1455761:Episodic [Temporal Concept]
+   581   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: Most likely Anginal pain
+Meta Mapping (901):
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   901   C0002962:ANGINAL PAIN (Angina Pectoris) [Sign or Symptom]
+
+Phrase: secondary to carotid artery stenosis given timing of pain.
+Meta Mapping (750):
+   764   C0175668:Secondary to [Qualitative Concept]
+   575   C0741968:Carotid (carotid) [Body Part, Organ, or Organ Component]
+   615   C0038449:Stenosis of artery (Stricture of artery) [Pathologic Function]
+   575   C0449243:Timing [Temporal Concept]
+   575   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 82_Cage.txt.tx.11: MSK induced pain seen as unlikely given lack of tenderness to palpation. 
+
+Phrase: MSK
+Meta Mapping (1000):
+  1000   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: induced
+Meta Mapping (1000):
+  1000   C0205263:Induced (Induce (action)) [Functional Concept]
+
+Phrase: pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: seen as unlikely given lack of tenderness
+Meta Mapping (659):
+   748   C0205397:Seen (seen) [Qualitative Concept]
+   748   C0750558:Unlikely [Finding]
+   748   C0332268:lack (Lacking) [Qualitative Concept]
+   748   C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: to palpation.
+Meta Mapping (1000):
+  1000   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 82_Cage.txt.tx.12: HTN induced cardiomyopathy considered by seen as less likely given physical exertion causes pain. 
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: induced
+Meta Mapping (1000):
+  1000   C0205263:Induced (Induce (action)) [Functional Concept]
+
+Phrase: cardiomyopathy
+Meta Mapping (1000):
+  1000   C0878544:CARDIOMYOPATHY (Cardiomyopathies) [Disease or Syndrome]
+
+Phrase: considered by
+Meta Mapping (833):
+   833   C0750591:considered (consider) [Idea or Concept]
+
+Phrase: seen as less likely given physical exertion
+Meta Mapping (692):
+   748   C0205397:Seen (seen) [Qualitative Concept]
+   748   C0750492:Likely (Probably) [Idea or Concept]
+   778   C0031807:Physical Exertion [Organism Function]
+
+Phrase: causes
+Meta Mapping (1000):
+  1000   C0015127:causes (Etiology aspects) [Functional Concept]
+
+Phrase: pain.
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 82_Cage.txt.tx.13: GERD considered as least likely as cause of episodic non-postprandial given that chest pain is activty induced -Order ECG, Echo, Consult Cards. 
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: considered as least likely
+Meta Mapping (708):
+   770   C0750591:considered (consider) [Idea or Concept]
+   770   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: as
+
+Phrase: cause of episodic non-postprandial
+Meta Mapping (825):
+   760   C0015127:cause (Etiology aspects) [Functional Concept]
+   595   C0332189:Episode of [Temporal Concept]
+   593   C1518422:Non (Negation) [Functional Concept]
+   593   C0376674:Postprandial (Postprandial Period) [Temporal Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: that chest pain
+Meta Mapping (1000):
+  1000 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: is
+
+Phrase: activty
+
+Phrase: induced -
+Meta Mapping (1000):
+  1000   C0205263:Induced (Induce (action)) [Functional Concept]
+
+Phrase: Order ECG,
+Meta Mapping (888):
+   694   C1705178:Order (Order (action)) [Activity]
+   861   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Echo,
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: Consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: Cards.
+Meta Mapping (966):
+   966   C0007189:Card (Cardiology discipline) [Biomedical Occupation or Discipline]
+Processing 82_Cage.txt.tx.14: Consider stress test if ECG normal if abnormal proceed to Cath
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: stress test
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: ECG
+Meta Mapping (1000):
+  1000   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: normal
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: if
+
+Phrase: abnormal
+Meta Mapping (1000):
+  1000   C0205161:ABNORMAL (Abnormal) [Finding]
+
+Phrase: proceed to Cath

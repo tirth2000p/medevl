@@ -1,0 +1,555 @@
+Processing 138_Cage.txt.tx.1: Subjective: CC: Chest pain HPI: 46 year old male with a history of HTN presenting for chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: Chest pain HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: 46 year old male with a history of HTN presenting
+Meta Mapping (652):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0262512:History, NOS (History of present illness) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for chest pain.
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 138_Cage.txt.tx.2: Chest pain occurred after lifting heavy objects and was a â€œdeep, pressureâ€ like pain. 
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: after
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy objects
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0347997:Objects (Physical object) [Physical Object]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: a â€œdeep,
+
+Phrase: pressureâ€ like pain.
+Meta Mapping (623):
+   623   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 138_Cage.txt.tx.3: Pain resolved within 5-10 minutes of rest. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved within 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Processing 138_Cage.txt.tx.4: Has had similar pain in the past that is related to exercise and resolves after a couple of seconds. 
+
+Phrase: Has
+
+Phrase: had
+
+Phrase: similar pain in the past
+Meta Mapping (696):
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   760   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   593   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: related
+Meta Mapping (1000):
+  1000   C0439849:Related (Relationships) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: resolves after a couple of seconds.
+Meta Mapping (666):
+   753   C2699488:Resolve (Resolution) [Conceptual Entity]
+   753   C0010222:couple (Couples (persons)) [Family Group]
+   753   C0457385:Seconds (seconds) [Temporal Concept]
+Processing 138_Cage.txt.tx.5: Noticed associated lightheadedness and SOB after most recent pain episode. 
+
+Phrase: Noticed
+
+Phrase: associated lightheadedness
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: SOB after most recent pain episode.
+Meta Mapping (725):
+   753   C0013404:SOB (Dyspnea) [Sign or Symptom]
+   617   C0332185:Recent episode (Recent) [Temporal Concept]
+   586   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 138_Cage.txt.tx.6: Also notes occasional feeling of â€œpressureâ€ at same spot in chest after eating. 
+
+Phrase: Also
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: occasional feeling of â€œpressureâ
+Meta Mapping (695):
+   593   C0521114:Occasional (Infrequent) [Temporal Concept]
+   760   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: at same spot in chest
+Meta Mapping (733):
+   593   C0392970:AT (Doxorubicin/Docetaxel Regimen) [Therapeutic or Preventive Procedure]
+   593   C0445247:SAME (Same) [Qualitative Concept]
+   760   C1705203:Spot (Spot (mark)) [Conceptual Entity]
+   593   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: after eating.
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+Processing 138_Cage.txt.tx.7: Denies N/V, diarrhea, constipation, urinary changes, recent illnesses.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: N/V,
+Meta Mapping (694):
+   694   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: diarrhea,
+Meta Mapping (1000):
+  1000 N C0011991:DIARRHOEA (Diarrhea) [Sign or Symptom]
+
+Phrase: constipation,
+Meta Mapping (1000):
+  1000 N C0009806:CONSTIPATION (Constipation) [Sign or Symptom]
+
+Phrase: urinary changes,
+Meta Mapping (888):
+   694   C0042027:Urinary (Urinary tract) [Body Part, Organ, or Organ Component]
+   861   C0392747:changes (Changing) [Functional Concept]
+
+Phrase: recent illnesses.
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861 N C0221423:illnesses (Illness (finding)) [Sign or Symptom]
+Processing 138_Cage.txt.tx.8: PMHx: HTN for several years Medications: Lisinopril 10 mg PO daily, chlorthalidone 25 mg PO daily Allergies: NKDA PSHx: Alcohol: 2-3  drinks nightly, tobacco 20 pack years (1ppd), no drugs Family history: Father MI in 40s with bypass, Mom: HTN,. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN for several years Medications
+Meta Mapping (696):
+   760   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   593   C0439234:YEARS (year) [Temporal Concept]
+   593   C0013227:Medications (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Lisinopril 10 mg PO daily,
+Meta Mapping (875):
+   717   C0987217:Lisinopril 10 MG [Clinical Drug]
+   804   C0442027:PO (Oral) [Spatial Concept]
+   637   C0332173:Daily [Temporal Concept]
+
+Phrase: chlorthalidone 25 mg PO daily Allergies
+Meta Mapping (851):
+   694   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   632   C0442027:PO (Oral) [Spatial Concept]
+   632   C0332173:Daily [Temporal Concept]
+   799   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: NKDA PSHx
+
+Phrase: :
+
+Phrase: Alcohol
+Meta Mapping (1000):
+  1000   C0001975:Alcohol (Alcohols) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3  drinks nightly,
+Meta Mapping (824):
+   694   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   812   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: tobacco 20 pack years
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   875   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   812   C2825051:PACK (Pack unit) [Drug Delivery Device]
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   861   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   812   C0439234:YEARS (year) [Temporal Concept]
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   645   C3842589:20% [Quantitative Concept]
+   861   C1277691:Pack years [Intellectual Product]
+
+Phrase: (1ppd
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: no drugs Family history
+Meta Mapping (901):
+   913   C1553893:Drugs history (medication history) [Intellectual Product]
+   827   C0015576:Family [Family Group]
+Meta Mapping (901):
+   660   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+   901 N C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: Father MI in 40s
+Meta Mapping (722):
+   604   C0015671:FATHER (Father (person)) [Family Group]
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: with bypass,
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: .
+Processing 138_Cage.txt.tx.9: T2DM, PE, Maternal Grandmother: breast cancer Objective: T:98, P85, R 14, BP 150/92 Exam: Lungs CTAB CV: Regular rate, normal rhythm, S1 S2 present, no murmers/rubs/gallups. 
+
+Phrase: T2DM,
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: Maternal Grandmother
+Meta Mapping (1000):
+  1000   C1273525:Maternal Grandmother (Maternal grandmother) [Family Group]
+
+Phrase: :
+
+Phrase: breast cancer Objective
+Meta Mapping (901):
+   734   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+   827   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: T:98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P85,
+Meta Mapping (1000):
+  1000   C3541313:p85 (PIK3R2 wt Allele) [Gene or Genome]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: BP 150/92 Exam
+Meta Mapping (791):
+   645   C1708288:BP (HP wt Allele) [Gene or Genome]
+   812   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Lungs CTAB CV
+Meta Mapping (851):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   660   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   827   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: Regular rate,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: normal rhythm,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: S1 S2 present,
+Meta Mapping (851):
+   660   C3715215:S1 [Finding]
+   660   C1419718:S2 (RPS2 gene) [Gene or Genome]
+   827   C0150312:PRESENT (Present) [Finding]
+
+Phrase: no murmers/
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: /gallups.
+Processing 138_Cage.txt.tx.10: Pulses 2+ and equal in all extremities. 
+
+Phrase: Pulses
+Meta Mapping (1000):
+  1000   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: 2+
+Meta Mapping (1000):
+  1000   C0740116:+2 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: equal in all extremities.
+Meta Mapping (708):
+   770   C1549782:Equal (Relational Operator - Equal) [Intellectual Product]
+   604   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+Processing 138_Cage.txt.tx.11: PMI located in 5th intercostal space in the clavicular line. 
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: located in 5th intercostal space
+Meta Mapping (862):
+   862   C4068815:5th intercostal space [Body Space or Junction]
+
+Phrase: in the clavicular line.
+Meta Mapping (888):
+   694   C0008913:Clavicular (Bone structure of clavicle) [Body Part, Organ, or Organ Component]
+   861   C0700221:Line (Intravascular line) [Medical Device]
+Processing 138_Cage.txt.tx.12: No tenderness to palpation over the chest.  
+
+Phrase: No tenderness to palpation
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: over the chest.
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Processing 138_Cage.txt.tx.13: Assessment: 46 year old male with a history of HTN presenting for pressure chest pain after exertion. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 46 year old male with a history of HTN presenting
+Meta Mapping (652):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0262512:History, NOS (History of present illness) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for pressure chest pain after exertion.
+Meta Mapping (771):
+   586   C0521125:For (Preposition For) [Qualitative Concept]
+   586   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   785   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+Processing 138_Cage.txt.tx.14: Vitals notable for BP 150/92 and physical exam without abnormalities. 
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: notable for BP 150/92
+Meta Mapping (686):
+   760   C4288581:Notable [Qualitative Concept]
+   593   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: physical exam without abnormalities.
+Meta Mapping (783):
+   833   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+   604 N C0000768:Abnormalities (Congenital Abnormality) [Congenital Abnormality]
+Processing 138_Cage.txt.tx.15: Given patientâ€™s family history of CV disease and concerning story, this may be cardiac chest pain secondary to ischemia. 
+
+Phrase: Given patientâ€™s family history of CV disease
+Meta Mapping (781):
+   578   C1442162:GIVEN [Functional Concept]
+   822   C0850707:family history of disease (history (of) disease family) [Finding]
+   578   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: and
+
+Phrase: concerning story,
+Meta Mapping (872):
+   661   C2699424:Concern [Idea or Concept]
+   861   C1547707:Story (Floor - story of building) [Geographic Area]
+
+Phrase: this
+
+Phrase: may
+
+Phrase: be
+
+Phrase: cardiac chest pain
+Meta Mapping (1000):
+  1000   C0423636:Cardiac chest pain (Cardiac pain) [Sign or Symptom]
+
+Phrase: secondary to ischemia.
+Meta Mapping (901):
+   882   C0175668:Secondary to [Qualitative Concept]
+   623   C0022116:Ischaemia, NOS (Ischemia) [Pathologic Function]
+Processing 138_Cage.txt.tx.16: Likely stable angina vs unstable angina. 
+
+Phrase: Likely stable angina
+Meta Mapping (901):
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   901   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: unstable angina.
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+Processing 138_Cage.txt.tx.17: Less likely MI, dissection, or chostochondritis. 
+
+Phrase: Less likely MI,
+Meta Mapping (851):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: dissection,
+Meta Mapping (1000):
+  1000   C0012737:Dissection (Tissue Dissection) [Therapeutic or Preventive Procedure]
+
+Phrase: or
+
+Phrase: chostochondritis.
+Meta Mapping (1000):
+  1000   C0040213:chostochondritis (Tietze's Syndrome) [Disease or Syndrome]
+Processing 138_Cage.txt.tx.18: Less likely GI related although does have correlation with eating occasionally.   
+
+Phrase: Less likely GI related
+Meta Mapping (833):
+   645   C0547044:Less (Smaller) [Qualitative Concept]
+   645   C0750492:Likely (Probably) [Idea or Concept]
+   812   C1708130:Gi (GNAI1 wt Allele) [Gene or Genome]
+   812   C0439849:Related (Relationships) [Qualitative Concept]
+
+Phrase: although
+
+Phrase: does
+
+Phrase: have
+
+Phrase: correlation with eating occasionally.
+Meta Mapping (733):
+   770   C1707520:Correlation [Qualitative Concept]
+   604   C0013470:Eating [Organism Function]
+   604   C1998882:Occasionally (Sometimes) [Temporal Concept]
+Processing 138_Cage.txt.tx.19: Plan: EKG, Troponins, CBC, CMP, lipid panel, PA chest x ray. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Troponins,
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: PA chest x ray.
+Meta Mapping (916):
+   645   C3541314:PA (Pairing Events Domain) [Intellectual Product]
+   923   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+Processing 138_Cage.txt.tx.20: Consider stress test. 
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: stress test.
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+Processing 138_Cage.txt.tx.21: Defer HTN mgmt to PCP.
+
+Phrase: Defer
+Meta Mapping (1000):
+  1000   C0205421:Defer (Deferred) [Temporal Concept]
+
+Phrase: HTN mgmt to PCP.
+Meta Mapping (733):
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   770   C0069197:MGMT (O(6)-Methylguanine-DNA Methyltransferase) [Amino Acid, Peptide, or Protein,Enzyme]
+   604   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]

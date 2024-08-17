@@ -1,0 +1,145 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,0,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,0,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C0439508,/Year,per year,-575,-698,a 37 year old male presenting with chest pain.,14,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C0580836,Old,Old,-575,-698,a 37 year old male presenting with chest pain.,14,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C0449450,Presenting,Presentation,-742,-698,a 37 year old male presenting with chest pain.,14,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C0235792,BREAST PAIN MALE,BREAST PAIN MALE,-590,-698,a 37 year old male presenting with chest pain.,14,True,Gerry Cage is a 37 year old male presenting with chest pain. 
+C1282310,Intermittent pain,Intermittent pain,-617,-744,"intermittent episodes of ""twinges"" of pain",72,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C0332189,Episode of,Episode of,-773,-744,"intermittent episodes of ""twinges"" of pain",72,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C4331910,Last Month,Past 30 days,-896,-896,over the last 4 months,115,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C0332189,EPISODE,Episode of,-861,-861,yesterday's episode,142,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C0205435,First,First (number),-760,-686,the first of its kind.,166,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C0332307,Kind,Type - attribute,-593,-686,the first of its kind.,166,True,"He has had intermittent episodes of ""twinges"" of pain over the last 4 months but yesterday's episode was the first of its kind. "
+C0450429,Location,Location,-760,-686,The location of the pain,189,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-593,-686,The location of the pain,189,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0205099,Centre,Central,-760,-686,the center of the chest,217,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C1527391,Chest,Anterior thoracic region,-593,-686,the center of the chest,217,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0851346,Radiation,Radiation,-1000,-1000,without radiation,241,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0600210,migration,population migration,-1000,-1000,migration,262,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C1709305,Occurred,Occur (action),-1000,-1000,occurred,276,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0206243,Carrying,Carrying,-586,-716,carrying groceries out of the store.,297,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0557778,Grocery Store,Supermarket,-767,-716,carrying groceries out of the store.,297,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0439787,Out,Out (direction),-586,-716,carrying groceries out of the store.,297,True,The location of the pain is the center of the chest without radiation or migration and occurred when he was carrying groceries out of the store. 
+C0163299,A 7,A 7,-591,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-573,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0205125,DEEP,Deep (qualifier value),-573,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0234238,ACHE,Ache,-739,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C3842590,10%,10%,-573,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0518087,Pain level,Pain level,-593,-710,"a heavy, deep ache at a 7/10 pain level",353,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C1517741,Last,Last,-966,-966,lasted,399,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C4086718,5-10,PSA Level Five to Ten,-734,-901,5-10 min.,406,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0702093,/min,Per Minute,-827,-901,5-10 min.,406,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0439084,>5,>5,-660,-901,5-10 min.,406,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C0456692,/10 min,/10 min,-901,-901,5-10 min.,406,True,"He describes it as a heavy, deep ache at a 7/10 pain level which lasted 5-10 min. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,416,True,The pain did not increase or decrease. 
+C1518422,Not,Negation,-1000,-1000,not,429,True,The pain did not increase or decrease. 
+C0442805,Increase,Increase,-1000,-1000,increase,433,True,The pain did not increase or decrease. 
+C0547047,Decrease,Decrease,-1000,-1000,decrease.,445,True,The pain did not increase or decrease. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,463,True,He says the pain subsided on its own after he sat down. 
+C1705827,SAT,SAT1 wt Allele,-833,-833,sat down.,501,True,He says the pain subsided on its own after he sat down. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,511,True,"The pain intermittently occurs when he exerts himself, per the patient. "
+C2745955,OCCUR,Occurrence,-1000,-1000,occurs,535,True,"The pain intermittently occurs when he exerts himself, per the patient. "
+C0015264,exerts,Exertion,-1000,-1000,exerts,550,True,"The pain intermittently occurs when he exerts himself, per the patient. "
+C0030705,*^patient,Patients,-1000,-1000,per the patient.,566,True,"The pain intermittently occurs when he exerts himself, per the patient. "
+C0205171,Only,Singular,-660,-901,The only associated symptom,583,True,The only associated symptom reported was lightheadedness.   
+C0521989,Associated symptom,Associated symptom,-901,-901,The only associated symptom,583,True,The only associated symptom reported was lightheadedness.   
+C0700287,Reported,Reporting,-1000,-1000,reported,611,True,The only associated symptom reported was lightheadedness.   
+C0012833,Lightheadedness,Dizziness,-1000,-1000,lightheadedness.,624,True,The only associated symptom reported was lightheadedness.   
+C0013227,Medications,Pharmaceutical Preparations,-1000,-1000,Medications,643,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0571941,Lisinopril allergy,Lisinopril allergy,-983,-983,lisinopril Allergies,676,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C1705924,NKA,TAC1 wt Allele,-694,-694,NKA  PMHx,698,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0020538,HYPERTENSION,Hypertensive disease,-694,-888,Hypertension FHx,709,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C1428412,FHX,FOXJ2 gene,-861,-888,Hypertension FHx,709,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0750502,Significant,Significant,-770,-783,significant for myocardial infarction,727,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C2926063,Myocardial infarction,Myocardial infarction:Finding:Point in time:^Patient:Ordinal,-666,-783,significant for myocardial infarction,727,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0015671,FATHER,Father (person),-1000,-1000,"in father,",765,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0020538,HYPERTENSION,Hypertensive disease,-1000,-1000,hypertension,776,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0441730,Type 2,Type 2,-640,-761,type 2 DM in mother.,793,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0011816,DM,dextromethorphan,-760,-761,type 2 DM in mother.,793,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C0026591,MOTHER,Mother (person),-593,-761,type 2 DM in mother.,793,True,"Medications: Chlorthiazadine and lisinopril Allergies: NKA  PMHx: Hypertension FHx: significant for myocardial infarction in father, hypertension and type 2 DM in mother. "
+C1273525,Maternal Grandmother,Maternal grandmother,-1000,-1000,Maternal grandmother,814,True,Maternal grandmother has history of breast cancer. 
+C1997028,History of Breast Cancer,History of malignant neoplasm of breast,-1000,-1000,history of breast cancer.,839,True,Maternal grandmother has history of breast cancer. 
+C0043227,works,Work,-790,-790,works in IT,870,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0006909,Capital,Capital,-694,-888,for capital one,882,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0205447,ONE,One,-861,-888,for capital one,882,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0042153,use,utilization qualifier,-1000,-1000,uses,898,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0001962,ALCOHOL,ethanol,-861,-888,alcohol sparingly,903,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C1948048,Sparingly,Sparingly (qualifier),-694,-888,alcohol sparingly,903,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C4484139,week 2,week 2,-652,-652,(2-3x per week,921,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0239059,smoke cigarette,Cigarette smoke (substance),-597,-714,smokes 1 pack of cigarettes,938,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C2825051,PACK,Pack unit,-760,-714,smokes 1 pack of cigarettes,938,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0439505,Per Day,per day,-806,-779,"per day for 20 years,",966,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-640,-779,"per day for 20 years,",966,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,988,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0449265,elicit,Elicited by,-1000,-1000,elicit,995,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0013227,Drugs,Pharmaceutical Preparations,-660,-901,drugs  Physical exam,1002,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0031809,"Exam, Physical",Physical Examination,-901,-901,drugs  Physical exam,1002,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0205183,BENIGN,Benign,-1000,-1000,benign.,1023,True,"SHx: works in IT for capital one uses alcohol sparingly (2-3x per week), smokes 1 pack of cigarettes per day for 20 years, denies elicit drugs  Physical exam benign. "
+C0018787,HEART,Heart,-1000,-1000,Heart,1031,True,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0024109,LUNG,Lung,-1000,-1000,lung,1041,True,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0037709,Sounds,Sound - physical agent,-1000,-1000,sounds,1046,True,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0277898,Normal pulse,Normal pulse,-901,-901,"normal, pulse 2+",1053,True,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0006318,bruits,Bruit,-1000,-1000,without bruits,1070,False,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0018808,murmurs,Heart murmur,-1000,-1000,murmurs.,1088,False,"Heart and lung sounds normal, pulse 2+ without bruits or murmurs. "
+C0205358,Soft,Soft,-586,-753,"Abdomen soft, non distended without hepatosplenomegaly.",1097,True,"Abdomen soft, non distended without hepatosplenomegaly. "
+C1518422,Non,Negation,-753,-753,"Abdomen soft, non distended without hepatosplenomegaly.",1097,True,"Abdomen soft, non distended without hepatosplenomegaly. "
+C0000731,Distended abdomen,Abdomen distended,-783,-753,"Abdomen soft, non distended without hepatosplenomegaly.",1097,False,"Abdomen soft, non distended without hepatosplenomegaly. "
+C0019214,HEPATOSPLENOMEGALY,Hepatosplenomegaly,-586,-753,"Abdomen soft, non distended without hepatosplenomegaly.",1097,False,"Abdomen soft, non distended without hepatosplenomegaly. "
+C0232693,Bowel sounds,Bowel sounds,-1000,-1000,Bowel sounds,1153,True,Bowel sounds normoactive. 
+C0577599,No Edema,Swelling absent,-833,-783,No edema in extremities,1179,True,No edema in extremities noted.  
+C0015385,Extremities,Limb structure,-604,-783,No edema in extremities,1179,True,No edema in extremities noted.  
+C0028128,NO,nitric oxide,-604,-783,No edema in extremities,1179,True,No edema in extremities noted.  
+C0085649,Extremities Edema,Peripheral edema,-819,-783,No edema in extremities,1179,False,No edema in extremities noted.  
+C4288581,Noted,Notable,-1000,-1000,noted.,1203,True,No edema in extremities noted.  
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1211,True,Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1215,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0439508,/Year,per year,-573,-703,"a 37 year old male presenting with exertional chest pain,",1223,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0580836,Old,Old,-573,-703,"a 37 year old male presenting with exertional chest pain,",1223,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C1706180,Male,"Male Gender, Self Report",-573,-703,"a 37 year old male presenting with exertional chest pain,",1223,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0449450,Presenting,Presentation,-739,-703,"a 37 year old male presenting with exertional chest pain,",1223,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0232288,"Chest pain, exertional",Chest pain on exertion,-615,-703,"a 37 year old male presenting with exertional chest pain,",1223,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C1518422,Non,Negation,-861,-888,non radiating.,1281,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0332301,radiating,Radiating to,-861,-888,non radiating.,1281,True,"Cage is a 37 year old male presenting with exertional chest pain, non radiating. "
+C0521989,associated symptoms,Associated symptom,-913,-901,No associated alarming symptoms,1296,False,No associated alarming symptoms concerning for advanced heart disease. 
+C0336648,alarming,Alarm device,-660,-901,No associated alarming symptoms,1296,True,No associated alarming symptoms concerning for advanced heart disease. 
+C2699424,Concern,Concern,-726,-752,concerning for advanced heart disease.,1328,True,No associated alarming symptoms concerning for advanced heart disease. 
+C0679246,advanced disease,advanced disease,-797,-752,concerning for advanced heart disease.,1328,False,No associated alarming symptoms concerning for advanced heart disease. 
+C0018787,HEART,Heart,-760,-752,concerning for advanced heart disease.,1328,True,No associated alarming symptoms concerning for advanced heart disease. 
+C0750501,most likely,most likely,-694,-888,Most likely stable angina,1367,True,Most likely stable angina given. 
+C0340288,STABLE ANGINA,Stable angina,-861,-888,Most likely stable angina,1367,True,Most likely stable angina given. 
+C1442162,GIVEN,GIVEN,-1000,-1000,given.,1393,True,Most likely stable angina given. 
+C0750591,consider,consider,-1000,-1000,consider,1411,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C4290140,recurrent myocardial infarction,recurrent myocardial infarction,-611,-691,myocardial infarction given recurrent episodes over the last several months,1420,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0332189,Episodes,Episode of,-739,-691,myocardial infarction given recurrent episodes over the last several months,1420,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0439231,MONTHS,month,-573,-691,myocardial infarction given recurrent episodes over the last several months,1420,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,unstable angina,1507,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1523,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C1272517,Sudden onset,Sudden onset (contextual qualifier) (qualifier value),-778,-721,the sudden onset of the latest episode.,1529,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0205087,Late,Late,-548,-721,the sudden onset of the latest episode.,1529,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0332189,Episode of,Episode of,-607,-721,the sudden onset of the latest episode.,1529,True,Could also consider myocardial infarction given recurrent episodes over the last several months as well as unstable angina given the sudden onset of the latest episode. 
+C0750430,Work-up,Work-up,-1000,-1000,Workup,1569,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C0439659,Start,Beginning,-770,-708,start with an EKG,1583,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C1623258,EKG,Electrocardiography,-770,-708,start with an EKG,1583,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1601,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C0870077,Rule,Rule (guideline),-1000,-1000,rule,1604,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C0439787,Out,Out (direction),-660,-851,out STEMI/NSTEMI.,1609,True,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C1536220,STEMI,ST segment elevation myocardial infarction,-660,-851,out STEMI/NSTEMI.,1609,False,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C4255010,NSTEMI,Non-ST Elevated Myocardial Infarction,-827,-851,out STEMI/NSTEMI.,1609,False,Workup should start with an EKG to rule out STEMI/NSTEMI. 
+C0031330,Pharmacologic,Pharmacology,-604,-733,"Pharmacologic intervention with statins,",1627,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C1273869,Intervention,Intervention regimes,-770,-733,"Pharmacologic intervention with statins,",1627,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0360714,Statins,Hydroxymethylglutaryl-CoA Reductase Inhibitors,-604,-733,"Pharmacologic intervention with statins,",1627,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0042402,Vasodilators,Vasodilator Agents,-1000,-1000,"vasodilators,",1668,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0001645,Beta blockers,Adrenergic beta-Antagonists,-1000,-1000,beta blockers,1685,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0008976,Trial,Clinical Trials,-966,-966,trialed,1708,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,1716,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0181904,Monitor,Monitor Device,-770,-733,monitor for symptomatic improvement.,1719,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0231220,Symptomatic,Symptomatic,-770,-733,monitor for symptomatic improvement.,1719,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C2986411,Improvement,Improvement,-770,-733,monitor for symptomatic improvement.,1719,True,"Pharmacologic intervention with statins, vasodilators, or beta blockers could be trialed to monitor for symptomatic improvement. "
+C0007189,Cardiology,Cardiology discipline,-694,-901,Cardiology workup,1756,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C0750430,Work-up,Work-up,-861,-901,Cardiology workup,1756,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C1719822,Follow,Follow - dosing instruction imperative,-1000,-1000,follow,1780,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C0459424,abnormal results,Abnormal result,-913,-901,abnormal EKG results,1790,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C1623258,EKG,Electrocardiography,-660,-901,abnormal EKG results,1790,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C0205412,Inadequate,Inadequate (qualifier),-660,-901,inadequate symptomatic relief.,1814,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.
+C3242309,symptomatic relief,symptomatic relief,-901,-901,inadequate symptomatic relief.,1814,True,Cardiology workup could follow if abnormal EKG results or inadequate symptomatic relief.

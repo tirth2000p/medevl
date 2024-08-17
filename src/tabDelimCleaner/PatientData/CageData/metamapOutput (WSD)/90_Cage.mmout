@@ -1,0 +1,600 @@
+Processing 90_Cage.txt.tx.1: Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yo male with a history of HTN
+Meta Mapping (641):
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C0262926:History (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with chest pain
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 90_Cage.txt.tx.2: He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, "kind of heavy," that subsided after a few minutes of rest in his car. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that yesterday,
+
+Phrase: as
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to his car,
+Meta Mapping (529):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: he
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: deep chest pain,
+Meta Mapping (901):
+   913   C0234229:Deep pain [Sign or Symptom]
+   827   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (901):
+   660   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: 7/10,
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: "kind of heavy,"
+Meta Mapping (746):
+   790   C0332307:Kind (Type - attribute) [Qualitative Concept]
+   623   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: subsided after a few minutes of rest
+Meta Mapping (663):
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: in his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 90_Cage.txt.tx.3: He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: this
+
+Phrase: has
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: at least twice before ove rthe past four months,
+Meta Mapping (730):
+   624   C1948050:TWICE (Twice (Numerical Qualifier)) [Quantitative Concept]
+   800   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   624   C0205450:Four [Quantitative Concept]
+
+Phrase: once
+
+Phrase: while
+
+Phrase: going up stairs,
+Meta Mapping (790):
+   790   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+
+Phrase: and
+
+Phrase: once
+
+Phrase: while
+
+Phrase: running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: catch
+Meta Mapping (1000):
+  1000   C0231617:Catch (Catch - Finding of sensory dimension of pain) [Sign or Symptom]
+
+Phrase: a friend,
+Meta Mapping (1000):
+  1000   C0079382:FRIEND (friend) [Population Group]
+
+Phrase: although
+
+Phrase: these episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: were
+
+Phrase: not as severe pain-wise.
+Meta Mapping (761):
+   797   C4316743:Not severe [Qualitative Concept]
+   760 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   760   C1427738:WISE (SOSTDC1 gene) [Gene or Genome]
+Meta Mapping (761):
+   760   C1518422:Not (Negation) [Functional Concept]
+   806 N C0278140:Severe pain [Finding]
+   760   C1427738:WISE (SOSTDC1 gene) [Gene or Genome]
+Processing 90_Cage.txt.tx.4: Denies pain at rest. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: pain at rest.
+Meta Mapping (1000):
+  1000 N C0234253:Pain at rest (Rest pain) [Sign or Symptom]
+Processing 90_Cage.txt.tx.5: Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: history of acid reflux
+Meta Mapping (783):
+   770 N C0262926:History (Medical History) [Finding]
+   666 N C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+
+Phrase: although
+
+Phrase: endorses
+
+Phrase: nonburning postprandial pain in epigastric area.
+Meta Mapping (719):
+   753   C0376674:Postprandial (Postprandial Period) [Temporal Concept]
+   783   C0232493:Epigastric pain [Sign or Symptom]
+   586   C0205146:AREA (Area) [Spatial Concept]
+Processing 90_Cage.txt.tx.6: Denies history of stomach ulcers, recent chest trauma. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: history of stomach ulcers,
+Meta Mapping (977):
+   977 N C0559165:History of - gastric ulcer (H/O: gastric ulcer) [Finding]
+
+Phrase: recent chest trauma.
+Meta Mapping (901):
+   913 N C0332665:Recent trauma (Recent injury) [Injury or Poisoning]
+   660   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (901):
+   660   C0332185:Recent [Temporal Concept]
+   901 N C0039980:chest trauma (Thoracic Injuries) [Injury or Poisoning]
+Processing 90_Cage.txt.tx.7: Denies pain in arms or legs with exertion. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: pain in arms
+Meta Mapping (1000):
+  1000 N C0239377:pain in arm (Arm Pain) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: legs with exertion.
+Meta Mapping (746):
+   790   C1140621:Legs (Leg) [Body Part, Organ, or Organ Component]
+   623   C0015264:Exertion [Organism Function]
+Processing 90_Cage.txt.tx.8: Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+
+Phrase: Takes
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril for HTN otherwise
+Meta Mapping (708):
+   770   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: no other meds.
+Meta Mapping (1000):
+  1000 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+Processing 90_Cage.txt.tx.9: Father had an MI 40s and underwent bypass, mom has HTN as well. 
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: an MI 40s
+Meta Mapping (694):
+   694   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: underwent
+
+Phrase: bypass,
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: has
+
+Phrase: HTN as well.
+Meta Mapping (746):
+   790   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   623   C0205170:Well (Good) [Qualitative Concept]
+Processing 90_Cage.txt.tx.10: 20PY smoking history, continues to smoke, amenable to trying to quit. 
+
+Phrase: 20PY smoking history,
+Meta Mapping (901):
+   901   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: continues
+Meta Mapping (1000):
+  1000   C0549178:Continue (Continuous) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: smoke
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: ,
+
+Phrase: amenable to trying
+Meta Mapping (790):
+   790   C3900053:Amenable [Qualitative Concept]
+
+Phrase: to quit.
+Meta Mapping (1000):
+  1000   C0748223:QUIT [Idea or Concept]
+Processing 90_Cage.txt.tx.11: 2-3glasses of wine/week. 
+
+Phrase: 2-3glasses of wine/week.
+Meta Mapping (579):
+   593   C0043188:WINE (Wine) [Food]
+   631   C4484139:week 2 [Temporal Concept]
+Processing 90_Cage.txt.tx.12: Works in IT at Capital One. 
+
+Phrase: Works in IT
+Meta Mapping (790):
+   790   C0043227:works (Work) [Occupational Activity]
+
+Phrase: at Capital One.
+Meta Mapping (888):
+   694   C0006909:Capital [Quantitative Concept]
+   861   C0205447:ONE (One) [Quantitative Concept]
+Processing 90_Cage.txt.tx.13: Denies regular exercise regimen.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: regular exercise regimen.
+Meta Mapping (901):
+   734   C0582191:Regular exercise (Regular exercise (observable entity)) [Daily or Recreational Activity]
+   827   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Processing 90_Cage.txt.tx.14: NKMA, meds as above, immunizations UTD.  
+
+Phrase: NKMA,
+
+Phrase: meds as above, immunizations
+Meta Mapping (708):
+   770   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   604   C0020971:Immunizations (Immunization) [Therapeutic or Preventive Procedure]
+
+Phrase: UTD.
+Meta Mapping (1000):
+  1000   C3845665:UTD [Finding]
+Processing 90_Cage.txt.tx.15: Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: T 98f,
+Meta Mapping (694):
+   694   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: HR 85,
+Meta Mapping (861):
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14 PE CV
+Meta Mapping (775):
+   645   C4554402:RR (RR genotype) [Finding]
+   645   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   812   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no m/r/g.
+Meta Mapping (901):
+   913   C0456715:m g (g.m) [Quantitative Concept]
+   660   C0205090:R- (Right) [Spatial Concept]
+Meta Mapping (901):
+   734   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+Processing 90_Cage.txt.tx.16: Pulm: CTAB, NLB. 
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: NLB.
+Meta Mapping (1000):
+  1000   C4235248:NLB (nucleolus-like body) [Cell Component]
+Processing 90_Cage.txt.tx.17: Abd: Soft, nontender, nondistended. 
+
+Phrase: Abd
+Meta Mapping (1000):
+  1000   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Soft, nontender, nondistended.
+Meta Mapping (623):
+   660   C0205358:Soft [Qualitative Concept]
+   660   C0520960:Nontender (Non-tender) [Qualitative Concept]
+Processing 90_Cage.txt.tx.18: Negative murphy's sign. 
+
+Phrase: Negative murphy's sign.
+Meta Mapping (901):
+   660   C0205160:Negative [Finding]
+   901   C0277977:Murphy's sign [Sign or Symptom]
+Processing 90_Cage.txt.tx.19: MSK: Ribs, sternum nontender to palpation throughout.  
+
+Phrase: MSK
+Meta Mapping (1000):
+  1000   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Ribs,
+Meta Mapping (1000):
+  1000   C0035561:RIBS (Bone structure of rib) [Body Part, Organ, or Organ Component]
+
+Phrase: sternum
+Meta Mapping (1000):
+  1000   C0038293:STERNUM (Sternum) [Body Part, Organ, or Organ Component]
+
+Phrase: nontender to palpation throughout.
+Meta Mapping (708):
+   770   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 90_Cage.txt.tx.20: Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 46yo male w/ HTN
+Meta Mapping (763):
+   645   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   812   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: w/ multiple episodes of chest pain
+Meta Mapping (833):
+   617   C4700205:W pain [Clinical Attribute]
+   586   C0439064:MULTIPLE (Numerous) [Quantitative Concept]
+   773   C0332189:Episode of [Temporal Concept]
+   586   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 90_Cage.txt.tx.21: Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. 
+
+Phrase: Family history
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: significant for early MI,
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C1279919:Early [Temporal Concept]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: social history
+Meta Mapping (1000):
+  1000   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: significant for current tobacco use,
+Meta Mapping (761):
+   760   C0750502:Significant [Idea or Concept]
+   593   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   640   C0841002:Tobacco use (History of tobacco use) [Finding]
+
+Phrase: and
+
+Phrase: exam otherwise unremarkable, suggestive of stable angina.
+Meta Mapping (763):
+   581   C0582103:Exam (Medical Examination) [Health Care Activity]
+   581   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+   778   C0332299:Suggestive of [Functional Concept]
+   612   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 90_Cage.txt.tx.22: DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  
+
+Phrase: DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: costochondritis
+Meta Mapping (1000):
+  1000 N C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: acid reflux,
+Meta Mapping (1000):
+  1000 N C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+
+Phrase: although
+
+Phrase: these
+
+Phrase: are
+
+Phrase: unlikely
+Meta Mapping (1000):
+  1000   C0750558:Unlikely [Finding]
+
+Phrase: based on H&P findings
+Meta Mapping (761):
+   760   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   806   C0150618:H&P (History and physical examination) [Finding]
+   760   C2926606:Findings (Procedure findings:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: (lack of tenderness
+Meta Mapping (746):
+   790   C0332268:lack (Lacking) [Qualitative Concept]
+   623   C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: to palpation of chest,
+Meta Mapping (733):
+   604   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   770   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   604   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: association of pain w/ eating
+Meta Mapping (736):
+   760   C0004083:Association (Mental association) [Mental Process]
+   631   C0242030:pain eating (pain with eating) [Sign or Symptom]
+
+Phrase: ).
+Processing 90_Cage.txt.tx.23: Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: Refer to cardiology
+Meta Mapping (746):
+   790   C0205543:Refer (Referring) [Functional Concept]
+   790   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: for workup of angina
+Meta Mapping (743):
+   604   C0521125:For (Preposition For) [Qualitative Concept]
+   770   C0750430:Work-up [Diagnostic Procedure]
+   604   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: stress test,
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: possible imaging - Discussed lifestyle changes such as exercise
+Meta Mapping (712):
+   578   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   578   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+   544   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+   770   C0870811:Lifestyle changes [Social Behavior]
+   578   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: tobacco cessation,
+Meta Mapping (1000):
+  1000   C0600549:Tobacco Cessation (Tobacco Use Cessation) [Individual Behavior]
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: amenable,
+Meta Mapping (1000):
+  1000   C3900053:Amenable [Qualitative Concept]
+
+Phrase: so
+
+Phrase: will
+
+Phrase: provide
+Meta Mapping (1000):
+  1000   C1999230:Provide (Providing (action)) [Activity]
+
+Phrase: resources
+Meta Mapping (1000):
+  1000   C0035201:Resources [Idea or Concept]

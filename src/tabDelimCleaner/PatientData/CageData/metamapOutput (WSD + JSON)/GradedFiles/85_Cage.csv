@@ -1,0 +1,174 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C2603362,S',S prime,-1000,-1000,S,0,True,S: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,3,True,S: Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,7,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C4331833,a.m.,a.m.,-767,-717,a middle-aged M with hx of HTN,15,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0205847,Middle Aged,Middle Aged,-604,-717,a middle-aged M with hx of HTN,15,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0262926,Hx,Medical History,-578,-717,a middle-aged M with hx of HTN,15,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0020538,HTN,Hypertensive disease,-578,-717,a middle-aged M with hx of HTN,15,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0150312,PRESENT,Present,-770,-708,presents to the office,50,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0442603,Office,Office,-770,-708,presents to the office,50,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C1282310,Intermittent pain,Intermittent pain,-913,-901,for intermittent chest pain.,73,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C1527391,Chest,Anterior thoracic region,-827,-901,for intermittent chest pain.,73,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0205267,INTERMITTENT,Intermittent,-660,-901,for intermittent chest pain.,73,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0008031,CHEST PAIN,Chest Pain,-901,-901,for intermittent chest pain.,73,True,Cage is a middle-aged M with hx of HTN who presents to the office for intermittent chest pain. 
+C0700287,reports,Reporting,-1000,-1000,reports,105,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C1442459,3 Days,3 Days,-901,-901,"3 days ago,",119,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0080331,Walking,Walking (activity),-748,-701,walking through the parking lot carrying groceries,138,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0442639,Parking lot,Car park,-612,-701,walking through the parking lot carrying groceries,138,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0206243,Carrying,Carrying,-581,-701,walking through the parking lot carrying groceries,138,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0220870,Lightheaded,Lightheadedness,-901,-901,he suddenly light-headed,194,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C1527305,feel,Feelings,-966,-966,felt,223,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0205125,DEEP,Deep (qualifier value),-581,-710,a deep ache in his chest causing,228,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0235715,ache chest,Chest aching of,-774,-710,a deep ache in his chest causing,228,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0523697,HIS,Histidine measurement,-581,-710,a deep ache in his chest causing,228,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0678227,Causing,Causing,-581,-710,a deep ache in his chest causing,228,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,265,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,273,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C2746065,Stop,Stop (qualifier value),-1000,-1000,stop,276,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C1442518,Set,Set scale,-1000,-1000,set,285,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C0523697,HIS,Histidine measurement,-623,-623,his groceries down.,289,True,"He reports that, 3 days ago, he was walking through the parking lot carrying groceries when he suddenly light-headed and felt a deep ache in his chest causing him to have to stop and set his groceries down. "
+C1442792,State,State,-1000,-1000,states,312,True,He states that it came on suddenly and he felt like the wind was knocked out of him. 
+C1527305,feel,Feelings,-827,-827,he felt like,348,True,He states that it came on suddenly and he felt like the wind was knocked out of him. 
+C0016204,Wind NOS,Flatulence,-1000,-1000,the wind,361,True,He states that it came on suddenly and he felt like the wind was knocked out of him. 
+C0560617,knocked out,knocked out,-833,-833,knocked out of him.,374,True,He states that it came on suddenly and he felt like the wind was knocked out of him. 
+C0700287,Report,Reporting,-1000,-1000,report,402,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C0024902,Pain of breast,Mastodynia,-650,-667,noticed twinges of chest pain,421,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C1517741,Last,Last,-760,-686,last for a few seconds,456,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C0457385,Seconds,seconds,-760,-686,last for a few seconds,456,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C0332232,About,Approximate,-586,-716,about 2-3 times per month,479,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C0556969,times Month,times/month,-783,-716,about 2-3 times per month,479,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C4331910,Past Month,Past 30 days,-896,-896,over the past 4 months.,505,True,He does report that he has noticed twinges of chest pain that last for a few seconds about 2-3 times per month over the past 4 months. 
+C2826257,PRIOR,Prior Medication Usage,-694,-888,The prior episodes,529,True,The prior episodes occurred with walking up stairs or running. 
+C0332189,Episodes,Episode of,-861,-888,The prior episodes,529,True,The prior episodes occurred with walking up stairs or running. 
+C1709305,Occurred,Occur (action),-790,-746,occurred with walking,548,True,The prior episodes occurred with walking up stairs or running. 
+C0080331,Walking,Walking (activity),-790,-746,occurred with walking,548,True,The prior episodes occurred with walking up stairs or running. 
+C4329247,Stairs,Ability to Use Stairs,-1000,-1000,up stairs,570,True,The prior episodes occurred with walking up stairs or running. 
+C0035953,Running,Running (physical activity),-1000,-1000,running.,583,True,The prior episodes occurred with walking up stairs or running. 
+C0205392,Some,Some (qualifier value),-593,-761,some indigestion symptoms after eating,606,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C0426633,Indigestion symptoms,indigestion symptoms,-806,-761,some indigestion symptoms after eating,606,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C0013470,Eating,Eating,-593,-761,some indigestion symptoms after eating,606,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C0549177,LARGE,Large,-694,-888,"a large meal,",645,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C1998602,Meal,Meal (occasion for eating),-861,-888,"a large meal,",645,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C1518422,Not,Negation,-1000,-1000,not,668,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C1527305,feel,Feelings,-1000,-1000,feel,672,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C0439849,Related,Relationships,-1000,-1000,related.,687,True,"Also endorses some indigestion symptoms after eating a large meal, but does not feel those are related.   "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies,698,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,None Meds,709,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C0065374,Lysinopril,lisinopril,-694,-694,Lisinopril PMHx,735,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C0020538,HTN,Hypertensive disease,-645,-861,HTN - Bps run in,752,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C1849718,BPS,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",-645,-861,HTN - Bps run in,752,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C3274438,RUN-IN,Run-in Period,-861,-861,HTN - Bps run in,752,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C4534363,At home,At home,-1000,-1000,at home.,782,True,"Allergies: None Meds: Chlorthiadone, Lisinopril PMHx: HTN - Bps run in the 130s/80s at home. "
+C1283174,Check,Checking (action),-1000,-1000,checks,794,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C1849718,BPS,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",-645,-833,Bps daily Family Hx,801,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0332173,Daily,Daily,-645,-833,Bps daily Family Hx,801,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0015576,Family,Family,-645,-833,Bps daily Family Hx,801,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0262926,Hx,Medical History,-812,-833,Bps daily Family Hx,801,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0026591,MOTHER,Mother (person),-1000,-1000,Mother,823,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0011849,Diabetes,Diabetes Mellitus,-1000,-1000,"Diabetes,",831,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C2828386,Passed,Pass (indicator),-760,-696,passed away from PE Father,841,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C1880476,PE,Etoposide-Platinol Regimen,-760,-696,passed away from PE Father,841,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0015671,FATHER,Father (person),-760,-696,passed away from PE Father,841,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",869,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0683474,MI,Motivational Interviewing,-790,-790,MI in 40s.,874,True,"He checks Bps daily Family Hx:  Mother: Diabetes, passed away from PE Father: HTN, MI in 40s.  "
+C0945165,Social Hx,Social history:Finding:Point in time:^Patient:Narrative,-1000,-1000,Social Hx,886,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C0037369,smokes,Smoking,-575,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C0677453,Cigarettes,Cigarette,-575,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C2825051,PACK,Pack unit,-575,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C1442449,Day 1,1 Day,-762,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C1444637,Past,In the past,-575,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-598,-736,Smokes cigarettes 1 pack/day for past 20 years.,897,True,Social Hx: Smokes cigarettes 1 pack/day for past 20 years. 
+C0281875,Illicit drug use,Illicit medication use,-1000,-1000,No illicit drug use.,945,False,No illicit drug use. 
+C0452428,Drinks,Drink (dietary substance),-1000,-1000,Drinks,966,True,Drinks alcohol socially. 
+C0001962,ALCOHOL,ethanol,-861,-861,alcohol socially.,973,True,Drinks alcohol socially. 
+C1518422,Not,Negation,-1000,-1000,not,996,True,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C0026837,Rigor,Muscle Rigidity,-699,-686,"engage in rigorous exercise,",1000,False,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C0015259,Exercise,Exercise,-770,-686,"engage in rigorous exercise,",1000,True,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C0080331,Walk,Walking (activity),-1000,-1000,walks,1033,True,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C0012984,DOG,Canis familiaris,-861,-888,his dog occasionally.,1039,True,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C1998882,Occasionally,Sometimes,-694,-888,his dog occasionally.,1039,True,"Does not engage in rigorous exercise, but walks his dog occasionally.   "
+C0483204,O NOS,O NOS Ab,-1000,-1000,O,1063,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0518766,VITAL,Vital signs,-928,-928,Vitals,1066,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C2603360,T',T prime,-1000,-1000,T,1074,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C2603361,P',P prime,-1000,-1000,P,1082,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C4517892,85,85,-694,-888,85 RR,1085,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C4554402,RR,RR genotype,-861,-888,85 RR,1085,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C1415692,Bp,HP gene,-861,-861,14 BP,1092,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0205246,General,Generalized,-827,-827,150/92 General,1099,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C3825963,Middle-aged men,Middle-aged men,-958,-958,"Middle-aged man,",1115,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0700364,APPEAR,Appearance,-1000,-1000,appears,1132,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0003467,Anxious,Anxiety,-1000,-1000,"anxious,",1140,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0233535,but,Butting,-760,-696,but in no acute distress.,1149,False,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0205178,ACUTE,acute,-760,-696,but in no acute distress.,1149,True,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C0231303,Distress,Distress,-760,-696,but in no acute distress.,1149,False,"O: Vitals: T: 98F, P: 85 RR: 14 BP: 150/92 General: Middle-aged man, appears anxious, but in no acute distress.  "
+C4318503,CV,ciliary vesicle,-1000,-1000,CV,1176,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C0205272,Regular,Regular,-694,-888,"Regular rhythm,",1180,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C0871269,Rhythm,Rhythm,-861,-888,"Regular rhythm,",1180,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C0205307,NORMAL,Normal,-694,-888,"normal rate,",1196,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C1521828,Rate,Rate,-861,-888,"normal rate,",1196,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C0232231,Normal S2,"Normal second heart sound, S>2<",-913,-901,Normal S1/S2.,1209,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C3715215,S1,S1,-660,-901,Normal S1/S2.,1209,True,"CV: Regular rhythm, normal rate, Normal S1/S2. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"No murmurs,",1223,False,"No murmurs, gallops, rubs. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs.,1244,False,"No murmurs, gallops, rubs. "
+C0013604,OEDEMA,Edema,-1000,-1000,No edema.,1250,False,No edema.  
+C0024109,LUNGS,Lung,-1000,-1000,Lungs,1261,True,"Lungs: CTAB, bilaterally. "
+C0951233,CTAB,cetrimonium bromide,-1000,-1000,"CTAB,",1268,True,"Lungs: CTAB, bilaterally. "
+C0028128,NO,nitric oxide,-593,-928,No increased work of breathing.,1287,True,No increased work of breathing. 
+C0859927,Increased work of breathing,Increased work of breathing,-926,-928,No increased work of breathing.,1287,False,No increased work of breathing. 
+C0009080,Clubbing,Clubbed Fingers,-1000,-1000,No clubbing,1319,False,No clubbing or cyanosis.   
+C0010520,CYANOSIS,Cyanosis,-1000,-1000,cyanosis.,1334,False,No clubbing or cyanosis.   
+C3825963,Middle-aged men,Middle-aged men,-772,-720,Middle-aged man with hx of HTN,1349,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0262926,Hx,Medical History,-581,-720,Middle-aged man with hx of HTN,1349,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0020538,HTN,Hypertensive disease,-581,-720,Middle-aged man with hx of HTN,1349,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0150312,PRESENT,Present,-760,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C1282310,Intermittent pain,Intermittent pain,-797,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C1527391,Chest,Anterior thoracic region,-760,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0150312,PRESENT,Present,-760,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0205267,INTERMITTENT,Intermittent,-760,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0008031,CHEST PAIN,Chest Pain,-806,-761,presents with intermittent chest pain,1384,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C1720176,On,Upon - dosing instruction fragment,-581,-683,on exertion over the past few months.,1422,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C0015264,Exertion,Exertion,-748,-683,on exertion over the past few months.,1422,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C4331910,Past Month,Past 30 days,-591,-683,on exertion over the past few months.,1422,True,A: Middle-aged man with hx of HTN who presents with intermittent chest pain on exertion over the past few months. 
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,Symptoms,1460,True,Symptoms seem consistent with angina. 
+C0332290,Consistent with,Consistent with,-882,-901,consistent with angina.,1474,True,Symptoms seem consistent with angina. 
+C0002962,ANGINA,Angina Pectoris,-623,-901,consistent with angina.,1474,True,Symptoms seem consistent with angina. 
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,Angina,1498,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C0750492,Likely,Probably,-1000,-1000,likely,1508,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1515,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C1262865,Nature,Natures,-770,-708,the nature of symptoms,1521,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C1457887,SYMPTOMS,Symptoms,-604,-708,the nature of symptoms,1521,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C2745955,OCCUR,Occurrence,-756,-730,occurring on exertion,1544,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C0015264,Exertion,Exertion,-790,-730,occurring on exertion,1544,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C0332303,Relieved by,Relieved by,-882,-901,relieved by rest.,1576,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C1622890,ResT,site-specific telomere resolvase activity,-790,-901,relieved by rest.,1576,True,Angina is likely given the nature of symptoms occurring on exertion and being relieved by rest. 
+C0262926,Hx,Medical History,-753,-672,Also given patient's hx of HTN,1594,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0020538,HTN,Hypertensive disease,-586,-672,Also given patient's hx of HTN,1594,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,smoking,1629,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0750502,Significant,Significant,-581,-728,patient's significant family history for cardiac events.,1648,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0241889,FAMILY HISTORY,Family history,-778,-728,patient's significant family history for cardiac events.,1648,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0741923,cardiac events,cardiac event,-612,-728,patient's significant family history for cardiac events.,1648,True,Also given patient's hx of HTN and smoking as well as patient's significant family history for cardiac events. 
+C0439092,Less,Less Than,-660,-851,Less likely GERD.,1705,True,Less likely GERD.   
+C0750492,Likely,Probably,-660,-851,Less likely GERD.,1705,True,Less likely GERD.   
+C0017168,GERD,Gastroesophageal reflux disease,-827,-851,Less likely GERD.,1705,True,Less likely GERD.   
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1725,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C1623258,EKG,Electrocardiography,-569,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0015260,stress test,Exercise stress test,-583,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0053932,BMP,Bone Morphogenetic Proteins,-569,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0009555,CBC,Complete Blood Count,-569,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0023767,Lipid A,Lipid A,-582,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C1706365,Panel,Device Panel,-569,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0041199,Troponin,Troponin,-569,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0439659,Start,Beginning,-735,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0001645,Beta Blocker,Adrenergic beta-Antagonists,-583,-740,EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker -,1733,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0556581,{RE},Retinol equivalents,-861,-888,re-evaluate,1817,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0220825,Evaluate,Evaluation,-861,-888,re-evaluate,1817,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C1415692,Bp,HP gene,-593,-733,BP regimen  - Start on aspirin,1829,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0040808,Regimen,Treatment Protocols,-593,-733,BP regimen  - Start on aspirin,1829,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0439659,Start,Beginning,-760,-733,BP regimen  - Start on aspirin,1829,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0004057,ASPIRIN,aspirin,-593,-733,BP regimen  - Start on aspirin,1829,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0360714,Statin,Hydroxymethylglutaryl-CoA Reductase Inhibitors,-1000,-1000,a statin,1864,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0008377,CHOLESTEROL,cholesterol,-1000,-1000,cholesterol,1876,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0205250,Elevated,High,-1000,-1000,elevated,1891,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0034866,recommend,Recommendation,-1000,-1000,Recommend,1903,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation
+C0085134,Smoking Cessation,Cessation of smoking,-1000,-1000,smoking cessation,1913,True,Plan: - EKG - Stress test - BMP / CBC / Lipid panel / Troponin  - Start on a beta blocker - re-evaluate BP regimen  - Start on aspirin and a statin if cholesterol is elevated  - Recommend smoking cessation

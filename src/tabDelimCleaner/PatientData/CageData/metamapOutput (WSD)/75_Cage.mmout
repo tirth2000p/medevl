@@ -1,0 +1,536 @@
+Processing 75_Cage.txt.tx.1: S: Ms Cage is a 56 year old female with a history of HTN who presents for chest pain. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Ms Cage
+Meta Mapping (888):
+   694   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 56 year old female with a history of HTN
+Meta Mapping (640):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C0086287:FEMALE (Females) [Organism Attribute]
+   573   C0262926:History (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for chest pain.
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 75_Cage.txt.tx.2: She had an episode 3 days ago related to exertion where she felt a pressure like pain in her mid chest whithout radiation. 
+
+Phrase: She
+
+Phrase: had
+
+Phrase: an episode 3 days
+Meta Mapping (802):
+   660   C0332189:EPISODE (Episode of) [Temporal Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: ago
+
+Phrase: related to exertion where
+Meta Mapping (708):
+   770   C0439849:Related (Relationships) [Qualitative Concept]
+   770   C0015264:Exertion [Organism Function]
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a pressure like pain
+Meta Mapping (708):
+   770   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in her mid chest whithout radiation.
+Meta Mapping (797):
+   645   C0444598:Mid (Middle) [Spatial Concept]
+   833   C0948310:breast Radiation (Radiotherapy to breast) [Therapeutic or Preventive Procedure]
+Processing 75_Cage.txt.tx.3: THere was associated SOB. 
+
+Phrase: THere
+
+Phrase: was
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: SOB.
+Meta Mapping (1000):
+  1000   C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 75_Cage.txt.tx.4: This resolved in 5-10 mintues with rest, there was no relation to eating, and the pain was not related to breathing or coughing. 
+
+Phrase: This
+
+Phrase: resolved in 5-10 mintues
+Meta Mapping (745):
+   760   C2699488:Resolved (Resolution) [Conceptual Entity]
+   797   C4517521:10.5 [Quantitative Concept]
+
+Phrase: with rest,
+Meta Mapping (1000):
+  1000   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: there
+
+Phrase: was
+
+Phrase: no relation to eating,
+Meta Mapping (843):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   797   C3875154:Relative to [Idea or Concept]
+   604   C0013470:Eating [Organism Function]
+
+Phrase: and
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: related to breathing
+Meta Mapping (746):
+   790   C0439849:Related (Relationships) [Qualitative Concept]
+   790 N C0035203:Breathing (Respiration) [Physiologic Function]
+
+Phrase: or
+
+Phrase: coughing.
+Meta Mapping (1000):
+  1000 N C0010200:COUGHING (Coughing) [Sign or Symptom]
+Processing 75_Cage.txt.tx.5: She has had pain similar to this 2-3 times over the last 4 months without any SOB. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: similar to this 2-3 times
+Meta Mapping (704):
+   753   C2348205:Similar (Similarity) [Qualitative Concept]
+   600   C0808270:Time 2 [Finding]
+
+Phrase: over the last 4 months without any SOB.
+Meta Mapping (641):
+   578   C0205136:Over (Over (spatial)) [Spatial Concept]
+   744   C0439231:MONTHS (month) [Temporal Concept]
+   578 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 75_Cage.txt.tx.6: She has also had some pains in her lower chest that are related to eating big meals. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: also
+
+Phrase: had
+
+Phrase: some pains in her lower chest
+Meta Mapping (846):
+   586   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   809   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+   586   C0574443:HER (Herero language) [Language]
+   586   C1548802:Lower (Body Site Modifier - Lower) [Body Location or Region]
+
+Phrase: that
+
+Phrase: are
+
+Phrase: related to eating big meals.
+Meta Mapping (733):
+   760   C0439849:Related (Relationships) [Qualitative Concept]
+   760   C0013470:Eating [Organism Function]
+   760   C0549177:Big (Large) [Quantitative Concept]
+   760   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 75_Cage.txt.tx.7: There is no associated nausea or vomiting with the most recent CP that she is worried about. 
+
+Phrase: There
+
+Phrase: is
+
+Phrase: no associated nausea
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vomiting with the most recent CP
+Meta Mapping (672):
+   753 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+   586   C0332185:Recent [Temporal Concept]
+   586   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: is
+
+Phrase: worried
+Meta Mapping (1000):
+  1000 N C0233481:Worried [Finding]
+
+Phrase: about.
+Meta Mapping (1000):
+  1000   C0332232:About (Approximate) [Qualitative Concept]
+Processing 75_Cage.txt.tx.8: She denies palpitations, CP/SOB at rest/leg swelling. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: CP/SOB at rest/leg swelling.
+Meta Mapping (741):
+   586   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   753 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+   623   C0181601:rest leg (leg rests) [Medical Device]
+   586 N C0038999:SWELLING (Swelling) [Finding]
+Meta Mapping (741):
+   586   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   753 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+   586   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+   623 N C0581394:Leg swelling (Swelling of lower limb) [Pathologic Function]
+Processing 75_Cage.txt.tx.9: She did not notice any other modifying factors or associated symptoms. 
+
+Phrase: She
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: notice
+
+Phrase: any other modifying factors
+Meta Mapping (855):
+   661   C0392747:MODIFY (Changing) [Functional Concept]
+   827   C1521761:Factor [Functional Concept]
+
+Phrase: or
+
+Phrase: associated symptoms.
+Meta Mapping (1000):
+  1000 N C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+Processing 75_Cage.txt.tx.10: She is worried if she might have had a heart attack.   
+
+Phrase: She
+
+Phrase: is
+
+Phrase: worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: if
+
+Phrase: she
+
+Phrase: might
+
+Phrase: have
+
+Phrase: had
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 75_Cage.txt.tx.11: PMhx: HTN Meds: Chlorthalidone 25mg; lisinopril 10mg FamHx: dad died at 40 from MI, CAD, CABG - mom died at 60 from PE, DM2, HTN -MGM had breast CA Social: 30pack year active smoker, 2-3 glasses wine on weekedn, no illicit drug use  O: Temp 98 P 85 R 14 BP 150/92  PE HEENT: EOM intact, thyroid normal Cardiac: Normal rate/rhythm, no m/r/g, normal s1,s2 no peripheral edema, no chest tenderness, +2 radial, DP,PT,carotid pulses b/l Resp: normal breath sounds b/l Abd: no tenderness, normal b/s, non dist  A Ms Cage is a 56 year old female with a history of HTN presenting for episodic CP related to exertion. 
+
+Phrase: PMhx
+
+Phrase: :
+
+Phrase: HTN Meds
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg
+Meta Mapping (694):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ; lisinopril 10mg FamHx
+Meta Mapping (660):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: died at 40
+Meta Mapping (746):
+   790   C0011065:Died (Cessation of life) [Organism Function]
+   790   C0439509:/40 [Quantitative Concept]
+
+Phrase: from MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CAD,
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: CABG - mom
+Meta Mapping (888):
+   694   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   861   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: died at 60
+Meta Mapping (746):
+   790   C0011065:Died (Cessation of life) [Organism Function]
+   790   C3842585:60% [Quantitative Concept]
+
+Phrase: from PE,
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: DM2,
+
+Phrase: HTN -MGM
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: had
+
+Phrase: breast CA
+Meta Mapping (888):
+   694   C0006141:BREAST (Breast) [Body Part, Organ, or Organ Component]
+   861   C3887642:CA (Hippocampus Proper) [Body Part, Organ, or Organ Component]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: 30pack year active smoker,
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0205177:Active [Qualitative Concept]
+   812   C0337664:Smoker [Finding]
+
+Phrase: 2-3 glasses wine on weekedn,
+Meta Mapping (743):
+   623   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   586   C0015421:Glasses (Eyeglasses) [Medical Device]
+   753   C0043188:WINE (Wine) [Food]
+
+Phrase: no illicit drug use  O
+Meta Mapping (756):
+   756 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: Temp 98 P 85 R 14 BP 150/92  PE HEENT
+Meta Mapping (710):
+   622   C0039476:TEMP (Temperature) [Quantitative Concept]
+   622   C4319627:98 [Quantitative Concept]
+   622   C4517892:85 [Quantitative Concept]
+   622   C2603358:R' (R prime) [Clinical Attribute]
+   622   C1415692:Bp (HP gene) [Gene or Genome]
+   622   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   788   C1512338:HEENT [Body Location or Region]
+
+Phrase: :
+
+Phrase: EOM intact, thyroid normal Cardiac
+Meta Mapping (840):
+   637   C0241886:EOM (Extraocular) [Functional Concept]
+   637   C1554187:Intact (Gender Status - Intact) [Finding]
+   637   C0040132:Thyroid, NOS (Thyroid Gland) [Body Part, Organ, or Organ Component]
+   840   C2349205:normal Cardiac (On examination - heart normal (finding)) [Finding]
+
+Phrase: :
+
+Phrase: Normal rate/rhythm,
+Meta Mapping (851):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   660   C1521828:Rate [Quantitative Concept]
+   827   C0871269:Rhythm [Finding]
+
+Phrase: no m/r/g,
+Meta Mapping (901):
+   913   C0456715:m g (g.m) [Quantitative Concept]
+   660   C2603358:R' (R prime) [Clinical Attribute]
+Meta Mapping (901):
+   734   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+
+Phrase: normal s1,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861 N C3715215:S1 [Finding]
+
+Phrase: s2
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no peripheral edema,
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: no chest tenderness,
+Meta Mapping (1000):
+  1000 N C0239008:chest tenderness (Chest wall tenderness) [Finding]
+
+Phrase: +2 radial, DP,
+Meta Mapping (851):
+   660   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   660   C0920847:Radial (Circumpennate) [Conceptual Entity]
+   827   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: PT,
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: carotid pulses b/l Resp
+Meta Mapping (812):
+   673 N C2367681:carotid PULSES [Finding]
+   804   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: normal breath sounds b/l Abd
+Meta Mapping (836):
+   694   C0231855:Breath sounds, normal (Normal breath sounds) [Finding]
+   799   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: no tenderness,
+Meta Mapping (1000):
+  1000 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: normal b/s,
+Meta Mapping (660):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: non dist  A Ms Cage
+Meta Mapping (762):
+   637   C1518422:Non (Negation) [Functional Concept]
+   637   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+   804   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 56 year old female with a history of HTN presenting
+Meta Mapping (640):
+   571   C0439508:/Year (per year) [Temporal Concept]
+   571   C0580836:Old [Temporal Concept]
+   738   C0086287:FEMALE (Females) [Organism Attribute]
+   571   C0262926:History (Medical History) [Finding]
+   571   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   571   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for episodic CP
+Meta Mapping (888):
+   694   C1455761:Episodic [Temporal Concept]
+   861   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: related to exertion.
+Meta Mapping (746):
+   790   C0439849:Related (Relationships) [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+Processing 75_Cage.txt.tx.12: She is hypertensive in office today and her physical exam is normal  Plan: EKG, CBC, BMP, troponin today in office, will send to ER if EKG is abnormal.
+
+Phrase: She
+
+Phrase: is
+
+Phrase: hypertensive in office today
+Meta Mapping (775):
+   645   C0857121:hypertensive (Hypertensive (finding)) [Finding]
+   645   C0442603:Office [Manufactured Object]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: and
+
+Phrase: her physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: normal  Plan
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: troponin today
+Meta Mapping (888):
+   694   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: in office,
+Meta Mapping (861):
+   861   C0442603:Office [Manufactured Object]
+
+Phrase: will
+
+Phrase: send to ER
+Meta Mapping (746):
+   790   C1519246:Send (Send (transmission)) [Functional Concept]
+   790   C3811131:ER (Estrogen Receptor Measurement) [Laboratory Procedure]
+
+Phrase: if
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: abnormal.
+Meta Mapping (1000):
+  1000   C0205161:ABNORMAL (Abnormal) [Finding]

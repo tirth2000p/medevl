@@ -1,0 +1,471 @@
+Processing 76_Cage.txt.tx.1: Subjective: Pt is a 55 yo F with PMHx of hypertension presenting with chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: a 55 yo F with PMHx of hypertension presenting
+Meta Mapping (665):
+   575   C0450382:55 [Intellectual Product]
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   581   C5205099:Hypertension Present [Finding]
+
+Phrase: with chest pain.
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 76_Cage.txt.tx.2: She noticed a dull, heavy pain in her chest while walking her heavy groceries to the car yesterday. 
+
+Phrase: She
+
+Phrase: noticed
+
+Phrase: a dull, heavy pain in her chest
+Meta Mapping (798):
+   581   C0278144:Dull (Dull pain) [Sign or Symptom]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   804   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+   581   C0574443:HER (Herero language) [Language]
+
+Phrase: while
+
+Phrase: walking
+Meta Mapping (1000):
+  1000   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: her heavy groceries to the car yesterday.
+Meta Mapping (490):
+   581   C0574443:HER (Herero language) [Language]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   581   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 76_Cage.txt.tx.3: The pain did not radiate and was relieved by sitting and resting for 5-10 minutes. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: relieved by sitting
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: and
+
+Phrase: resting for 5-10 minutes.
+Meta Mapping (761):
+   760   C0035253:Resting (Rest) [Daily or Recreational Activity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0439232:minutes (Minute of time) [Temporal Concept]
+Meta Mapping (761):
+   760   C0035253:Resting (Rest) [Daily or Recreational Activity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 76_Cage.txt.tx.4: Associated symptoms include lightheadedness and shortness of breath. 
+
+Phrase: Associated symptoms
+Meta Mapping (1000):
+  1000   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: lightheadedness
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 76_Cage.txt.tx.5: She has had similar symptoms in the past, but not to this extent. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: similar symptoms in the past,
+Meta Mapping (696):
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   760   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   593   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: but
+
+Phrase: not to this extent.
+Meta Mapping (708):
+   770   C1518422:Not (Negation) [Functional Concept]
+   770   C0439792:Extent [Spatial Concept]
+Processing 76_Cage.txt.tx.6: In the last 4 months, this has occurred 2-3 times after strenuous work. 
+
+Phrase: In the last 4 months,
+Meta Mapping (896):
+   896   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: this
+
+Phrase: has
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 2-3 times after strenuous work.
+Meta Mapping (780):
+   833   C3840669:2-3 times (2 to 3 times) [Finding]
+   586   C0043227:Work [Occupational Activity]
+Processing 76_Cage.txt.tx.7: Starting about 1 year ago, she also notices pressure in her chest after eating a large meal. 
+
+Phrase: Starting about 1 year ago,
+Meta Mapping (669):
+   726   C0439659:Start (Beginning) [Temporal Concept]
+   593   C0439508:/Year (per year) [Temporal Concept]
+
+Phrase: she
+
+Phrase: also
+
+Phrase: notices
+
+Phrase: pressure in her chest
+Meta Mapping (916):
+   881   C0438716:Pressure in chest (Chest pressure) [Sign or Symptom]
+   604   C0574443:HER (Herero language) [Language]
+
+Phrase: after eating
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: a large meal.
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 76_Cage.txt.tx.8: She has a family history of PE in her mother and heart attack in her father. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: a family history of PE
+Meta Mapping (745):
+   806   C0241889:FAMILY HISTORY (Family history) [Finding]
+   593   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: in her mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: and
+
+Phrase: heart attack in her father.
+Meta Mapping (752):
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0015671:FATHER (Father (person)) [Family Group]
+Processing 76_Cage.txt.tx.9: She drinks 2-3 glasses of wine per day and has been smoking 1 pack of cigarettes per day for the last 30 years. 
+
+Phrase: She
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: per day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: been
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: 1 pack of cigarettes
+Meta Mapping (733):
+   604   C2827734:1+ (1+ Score) [Quantitative Concept]
+   770   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   604   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: per day for the last 30 years.
+Meta Mapping (696):
+   778   C0439505:Per Day (per day) [Temporal Concept]
+   581   C3842588:30% [Quantitative Concept]
+   581   C0439234:YEARS (year) [Temporal Concept]
+Meta Mapping (696):
+   607   C0439508:per years (per year) [Temporal Concept]
+   748   C0439228:Day (day) [Temporal Concept]
+   581   C3842588:30% [Quantitative Concept]
+Processing 76_Cage.txt.tx.10: Her largest concern is that she is having a heart attack.  
+
+Phrase: Her largest concern
+Meta Mapping (888):
+   694   C0443228:Largest [Quantitative Concept]
+   861   C2699424:Concern [Idea or Concept]
+
+Phrase: is
+
+Phrase: that
+
+Phrase: she
+
+Phrase: is
+
+Phrase: having
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 76_Cage.txt.tx.11: Objective: BP 150/92 HR 85 RR 14 Temp 98 General: Normal body habitus, alert, in no acute distress  Heart: Normal rate regular rhythm, no murmurs, no peripheral edema in lower limb extremities bilaterally. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: BP 150/92 HR 85 RR 14 Temp 98 General
+Meta Mapping (719):
+   623   C1415692:Bp (HP gene) [Gene or Genome]
+   623   C4517892:85 [Quantitative Concept]
+   623   C4554402:RR (RR genotype) [Finding]
+   623   C0039476:TEMP (Temperature) [Quantitative Concept]
+   623   C4319627:98 [Quantitative Concept]
+   790   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Normal body habitus,
+Meta Mapping (623):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   660   C0444584:BODY (Whole body) [Anatomical Structure]
+
+Phrase: alert,
+Meta Mapping (1000):
+  1000   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: in no acute distress  Heart
+Meta Mapping (851):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+   827   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Normal rate regular rhythm,
+Meta Mapping (833):
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   645   C1521828:Rate [Quantitative Concept]
+   645   C0205272:Regular [Qualitative Concept]
+   812 N C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: no peripheral edema in lower limb extremities bilaterally.
+Meta Mapping (742):
+   800   C2712244:No Peripheral Edema [Finding]
+   604   C0023216:LIMB, LOWER (Lower Extremity) [Body Part, Organ, or Organ Component]
+   578   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+Meta Mapping (742):
+   800   C2712244:No Peripheral Edema [Finding]
+   600   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+   578   C0015385:LIMB (Limb structure) [Body Part, Organ, or Organ Component]
+Processing 76_Cage.txt.tx.12: 2+ pulses and upper and lower extremities bilaterally. 
+
+Phrase: 2+ pulses
+Meta Mapping (888):
+   694   C0740116:+2 [Quantitative Concept]
+   861   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: and
+
+Phrase: upper
+Meta Mapping (1000):
+  1000   C1282910:UPPER (Upper) [Spatial Concept]
+
+Phrase: and
+
+Phrase: lower extremities bilaterally.
+Meta Mapping (901):
+   901   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+Processing 76_Cage.txt.tx.13: 2 cm abdominal aorta.  
+
+Phrase: 2 cm abdominal aorta.
+Meta Mapping (824):
+   645   C0740116:+2 [Quantitative Concept]
+   861   C0003484:ABDOMINAL AORTA (Abdominal aorta structure) [Body Part, Organ, or Organ Component]
+Processing 76_Cage.txt.tx.14: Assessment: Pt is a 55 yo F with PMHx of hypertension who presents with progressively worsening dull chest pain after exertion with first onset of symptoms 1 year ago.  
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: a 55 yo F with PMHx of hypertension
+Meta Mapping (656):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   578   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with
+Meta Mapping (833):
+   833   C0150312:PRESENT (Present) [Finding]
+
+Phrase: progressively
+
+Phrase: worsening
+Meta Mapping (1000):
+  1000   C1457868:Worsening (Worse) [Finding]
+
+Phrase: dull chest pain after exertion
+Meta Mapping (816):
+   862   C0232285:CHEST PAIN, DULL (Dull chest pain) [Sign or Symptom]
+   593   C0015264:Exertion [Organism Function]
+
+Phrase: with first onset of symptoms 1 year ago.
+Meta Mapping (744):
+   578   C0332287:With (In addition to) [Functional Concept]
+   578   C1279901:First (Firstly) [Qualitative Concept]
+   578   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   789   C3274945:Year of Onset [Temporal Concept]
+Processing 76_Cage.txt.tx.15: Most likely Diagnosis: Stable angina Other: unstable angina, heart attack, aortic stenosis, PE Plan:  EKG CBC, BMP Order a Transthoracic Echo Possibly start beta blocker based on results of testing Advise follow up with PCP to alter blood pressure medication regimen
+
+Phrase: Most likely Diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: :
+
+Phrase: Stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: Other
+
+Phrase: :
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: heart attack,
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: aortic stenosis,
+Meta Mapping (1000):
+  1000   C0003507:AORTIC STENOSIS (Aortic Valve Stenosis) [Disease or Syndrome]
+
+Phrase: PE Plan
+Meta Mapping (888):
+   694   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG CBC,
+Meta Mapping (888):
+   694   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   861   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: Order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: a Transthoracic Echo
+Meta Mapping (888):
+   694   C0205503:Transthoracic (Transthoracic approach) [Spatial Concept]
+   861   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: Possibly
+Meta Mapping (1000):
+  1000   C2362652:Possibly (Possible diagnosis) [Qualitative Concept]
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: beta blocker based on results of testing
+Meta Mapping (715):
+   778   C0001645:Beta Blocker (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+   748   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   591   C0456984:test results (Test Result) [Laboratory or Test Result]
+
+Phrase: Advise
+
+Phrase: follow up with PCP
+Meta Mapping (783):
+   833   C0589120:Follow-up (Follow-up status) [Finding]
+   604   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+Meta Mapping (783):
+   833   C1522577:Followup (follow-up) [Health Care Activity]
+   604   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: alter
+Meta Mapping (916):
+   916   C0392747:Altered (Changing) [Functional Concept]
+
+Phrase: blood pressure medication regimen
+Meta Mapping (861):
+   708   C0849164:blood medication (blood medications) [Therapeutic or Preventive Procedure]
+   645   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   812   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Meta Mapping (861):
+   694   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+   645   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   812   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]

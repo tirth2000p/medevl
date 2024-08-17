@@ -1,0 +1,620 @@
+Processing 173_Cage.txt.tx.1: CC: chest pain  gary cage is a 48-year-old male with a history of hypertension presenting for an episode of chest pain 3 days ago. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain  gary cage
+Meta Mapping (861):
+   694   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   645   C0458974:gary (Gari (substance)) [Food]
+   812   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 48-year-old male with a history of hypertension presenting
+Meta Mapping (699):
+   571   C4319608:48 [Quantitative Concept]
+   571   C0439508:/Year (per year) [Temporal Concept]
+   571   C0580836:Old [Temporal Concept]
+   738   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   609   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+   571   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for an episode of chest pain 3 days ago.
+Meta Mapping (733):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   598   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   578   C3842675:Day 3 [Finding]
+Processing 173_Cage.txt.tx.2: Pt said he was carrying groceries and has 7/10 chest pain in the middle of his chest. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: said
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: 7/10 chest pain in the middle of his chest.
+Meta Mapping (754):
+   591   C5191365:10.7 [Quantitative Concept]
+   779   C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   573   C0549183:middle (Midline (qualifier value)) [Spatial Concept]
+   573   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+Processing 173_Cage.txt.tx.3: The pain resolved after 5-10 minutes of sitting in his car. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved after 5-10 minutes of sitting
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0439232:minutes (Minute of time) [Temporal Concept]
+   748 N C0277814:SITTING (Sitting position) [Finding]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 173_Cage.txt.tx.4: He denies any associated conditions with this episode of pain such as pain radiation, dizziness, abdominal pain, palpitations, or feeling of dread. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any associated conditions with this episode of pain
+Meta Mapping (734):
+   578   C1552551:ANY (Any) [Qualitative Concept]
+   600   C0332281:Associated with [Qualitative Concept]
+   711 N C0012634:condition (Disease) [Disease or Syndrome]
+   604   C0332189:Episode of [Temporal Concept]
+   578 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: such as pain radiation,
+Meta Mapping (1000):
+  1000   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000 N C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: or
+
+Phrase: feeling of dread.
+Meta Mapping (790):
+   790 N C1527305:Feeling (Feelings) [Mental Process]
+Processing 173_Cage.txt.tx.5: He has had other episodes of minor chest pain over the past 4 months that have occurred with movement and are transient. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: other episodes of minor chest pain
+Meta Mapping (857):
+   654   C0029537:Other chest pain [Sign or Symptom]
+   773   C0332189:Episode of [Temporal Concept]
+   586   C0026193:Minor (Minor (person)) [Population Group]
+
+Phrase: over the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: that
+
+Phrase: have
+
+Phrase: occurred with movement
+Meta Mapping (746):
+   790   C1709305:Occurred (Occur (action)) [Activity]
+   790   C0026649:Movement [Organism Function]
+
+Phrase: and
+
+Phrase: are
+
+Phrase: transient.
+Meta Mapping (1000):
+  1000   C0205374:Transient (Transitory) [Temporal Concept]
+Processing 173_Cage.txt.tx.6: He also has a "pressure" that he feels in the epigastric area after meals that has been going on for about a year. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: has
+
+Phrase: a "
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: "
+
+Phrase: that
+
+Phrase: he
+
+Phrase: feels in the epigastric area
+Meta Mapping (696):
+   760   C1527305:feels (Feelings) [Mental Process]
+   760   C0521440:Epigastric [Body Location or Region]
+   760   C0205146:AREA (Area) [Spatial Concept]
+
+Phrase: after meals
+Meta Mapping (1000):
+  1000   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: has
+
+Phrase: been
+
+Phrase: going on
+
+Phrase: for about
+Meta Mapping (1000):
+  1000   C0332232:About (Approximate) [Qualitative Concept]
+
+Phrase: a year.
+Meta Mapping (1000):
+  1000   C0439508:/Year (per year) [Temporal Concept]
+Processing 173_Cage.txt.tx.7: Pt is concerned this could be a heart attack.  meds: lisinopril, chlorthalidone for HTN, started 5 years ago  PMHx: HTN Social: no smoking or drugs, occasional alcohol on weekends; poor diet and exercise habits FamHx: diabetes and HTN in mom, mom died of PE in 60s; heart attack in dad in 40s  VS: BP 150/92, T98, RR 14, HR 85 PE:  - General: no acute distress - cardio: RRR, no rubs, murmur, gallops; normal S1, S2 - Respiratory: CTAB, no respiratory distress - Abdominal: no tenderness - MSK: no tenderness to palpation on anterior chest  Labs: no labs  Assessment: Mr. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: this
+
+Phrase: could
+
+Phrase: be
+
+Phrase: a heart attack.  meds
+Meta Mapping (901):
+   734   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   827   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: chlorthalidone for HTN,
+Meta Mapping (746):
+   790   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: 5 years ago  PMHx
+Meta Mapping (694):
+   694   C4086543:< 5 years (Life Expectancy Less than Five Years) [Intellectual Product]
+
+Phrase: :
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: no smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: or
+
+Phrase: drugs,
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: occasional alcohol on weekends
+Meta Mapping (733):
+   604   C0521114:Occasional (Infrequent) [Temporal Concept]
+   770   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+   604   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: ; poor diet
+Meta Mapping (1000):
+  1000 N C0588012:poor diet (Diet poor) [Finding]
+
+Phrase: and
+
+Phrase: exercise habits FamHx
+Meta Mapping (623):
+   660   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+   660   C0018464:Habits (Behaviorial Habits) [Individual Behavior]
+
+Phrase: :
+
+Phrase: diabetes
+Meta Mapping (1000):
+  1000   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: HTN in mom,
+Meta Mapping (746):
+   790   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   623   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: died of PE
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: in 60s
+
+Phrase: ; heart attack in dad
+Meta Mapping (783):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   604   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: in 40s
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: T98,
+
+Phrase: RR 14,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: HR 85 PE
+Meta Mapping (790):
+   660   C4517892:85 [Quantitative Concept]
+   827   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :  -
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: no acute distress - cardio
+Meta Mapping (851):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+   827   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: murmur,
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: gallops
+
+Phrase: ; normal S1,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861 N C3715215:S1 [Finding]
+
+Phrase: S2 - Respiratory
+Meta Mapping (888):
+   694   C1419718:S2 (RPS2 gene) [Gene or Genome]
+   861   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no respiratory distress - Abdominal
+Meta Mapping (901):
+   734 N C0476273:Distress, Respiratory (Respiratory distress) [Sign or Symptom]
+   827   C0000726:Abdominal (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: no tenderness - MSK
+Meta Mapping (888):
+   694 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   861   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no tenderness to palpation
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: on anterior chest  Labs
+Meta Mapping (901):
+   734   C0230132:Anterior chest (Anterior chest wall structure) [Body Location or Region]
+   827 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: no labs  Assessment
+Meta Mapping (888):
+   694 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C0024485:MR (Magnetic Resonance Imaging) [Diagnostic Procedure]
+Processing 173_Cage.txt.tx.8: Cage is a 48yo male with a hx of uncontrolled HTN and a family hx of premature MI presenting with chest pain with exertion over past 4 months with the most severe episode 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 48yo male with a hx of uncontrolled HTN
+Meta Mapping (637):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:Hx (Medical History) [Finding]
+   575   C0205318:Uncontrolled [Qualitative Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: a family hx of premature MI presenting
+Meta Mapping (692):
+   581   C0015576:Family [Family Group]
+   748   C0262926:Hx (Medical History) [Finding]
+   581   C0151526:Premature (Premature Birth) [Pathologic Function]
+   581   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   581   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with chest pain with exertion
+Meta Mapping (792):
+   593   C0332287:With (In addition to) [Functional Concept]
+   808   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: over past 4 months with the most severe episode 3 days ago.
+Meta Mapping (676):
+   568   C0585022:Over day (During day) [Temporal Concept]
+   766   C4086725:Past 3 Months [Temporal Concept]
+   570   C0205082:Severe (Severe (severity modifier)) [Finding]
+   570   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 173_Cage.txt.tx.9: Most likely diagnosis is unstable angina given the progression of midsternal chest pain that worsens with activity and improves with rest. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: the progression of midsternal chest pain
+Meta Mapping (753):
+   753   C0449258:Progression [Functional Concept]
+   620   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: worsens with activity
+Meta Mapping (746):
+   790   C1457868:worsen (Worse) [Finding]
+   790   C0441655:ACTIVITY (Activities) [Activity]
+
+Phrase: and
+
+Phrase: improves with rest.
+Meta Mapping (746):
+   790   C0184511:Improves (Improved) [Finding]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 173_Cage.txt.tx.10: Other possible diagnosis is costochondritis, GERD, PUD, pancreatitis. 
+
+Phrase: Other possible diagnosis
+Meta Mapping (1000):
+  1000   C2362652:Possible diagnosis [Qualitative Concept]
+
+Phrase: is
+
+Phrase: costochondritis,
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: PUD,
+
+Phrase: pancreatitis.
+Meta Mapping (1000):
+  1000   C0030305:PANCREATITIS (Pancreatitis) [Disease or Syndrome]
+Processing 173_Cage.txt.tx.11: Plan: - Need to rule out MI - ECG to assess for MI, if normal, need to order exercise stress test - Advised dietary changes or addition or increase in current BP meds to address HTN and risk factors for heart disease - Calculate ASCVD risk to determine if statin necessary
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: Need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out MI - ECG
+Meta Mapping (851):
+   660   C0439787:Out (Out (direction)) [Spatial Concept]
+   660   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   827   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for MI,
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: if
+
+Phrase: normal,
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: exercise stress test - Advised dietary changes
+Meta Mapping (822):
+   694   C0015260:Exercise stress test [Diagnostic Procedure]
+   827   C0086153:Dietary changes (Dietary Modification) [Therapeutic or Preventive Procedure]
+
+Phrase: or
+
+Phrase: addition
+Meta Mapping (1000):
+  1000   C0332287:Addition (In addition to) [Functional Concept]
+
+Phrase: or
+
+Phrase: increase in current BP meds
+Meta Mapping (733):
+   760   C0442805:Increase [Functional Concept]
+   593   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   593   C1415692:Bp (HP gene) [Gene or Genome]
+   593   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: address
+Meta Mapping (1000):
+  1000   C1442065:Address [Intellectual Product]
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: risk factors for heart disease -
+Meta Mapping (874):
+   874   C0741920:Heart disease RISK FACTOR (coronary DISEASE RISK FACTOR) [Finding]
+
+Phrase: Calculate
+Meta Mapping (1000):
+  1000   C1441506:Calculate (Calculation) [Activity]
+
+Phrase: ASCVD
+Meta Mapping (1000):
+  1000   C3665365:ASCVD (Arteriosclerotic cardiovascular disease, NOS) [Disease or Syndrome]
+
+Phrase: risk
+Meta Mapping (1000):
+  1000   C0035647:Risk [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: determine
+
+Phrase: if
+
+Phrase: statin
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: necessary

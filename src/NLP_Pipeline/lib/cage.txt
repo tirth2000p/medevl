@@ -1,0 +1,39 @@
+C0027051,Myocardial Infarction
+C0340293,Anterior myocardial infarction
+C0262568,Subendocardial myocardial infarction
+C4699470,Heart attack (myocardial infarction)
+C3843082,Heart attack or M.I.
+C0155626,Acute myocardial infarction
+C0348593,Subsequent myocardial infarction
+C0340324,Silent myocardial infarction
+C0340305,Inferior Wall Myocardial Infarction
+C0340319,Posterior myocardial infarction
+C0746727,Septal myocardial infarction
+C0262564,Anterolateral Myocardial Infarction
+C1998297,Recent myocardial infarction
+C0340312,Lateral myocardial infarction
+C0262565,Anteroseptal Myocardial Infarction
+C0264708,Acute myocardial infarction of atrium
+C1400513,Transmural myocardial infarction
+C1299620,myocardial infarction with complication
+C1168331,Apical myocardial infarction
+C4324584,Periprocedural myocardial infarction
+C1112662,Posterolateral myocardial infarction
+C1112770,Inferolateral myocardial infarction
+C1142433,Posteroinferior myocardial infarction
+C2062875,myocardial infarction arrhythmias
+C0264700,Acute Inferior Myocardial Infarction
+C2349195,Acute Anterior Wall Myocardial Infarction
+C4290140,recurrent myocardial infarction
+C0264706,True posterior myocardial infarction
+C0264699,Acute anteroseptal myocardial infarction
+C0340315,Acute widespread myocardial infarction
+C1400511,"infarction; myocardial, nontransmural"
+C0264705,Acute myocardial infarction of posterolateral wall
+C1868996,Acute transmural myocardial infarction
+C5578063,Small focal myocardial infarction
+C0264702,Acute myocardial infarction of apical-lateral wall
+C2063306,acute inferoapical myocardial infarction
+C2063308,acute inferoseptal myocardial infarction
+C4509201,Other type of myocardial infarction
+C2964335,PhenX measure - myocardial infarction

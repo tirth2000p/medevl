@@ -1,0 +1,402 @@
+Processing 147_Cage.txt.tx.1: HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+
+Phrase: HPI Patient
+Meta Mapping (861):
+   861   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: 47 year old male with a past medical history
+Meta Mapping (709):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   623   C0455458:Past medical history (PMH - past medical history) [Finding]
+
+Phrase: significant for HTN presenting
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   604   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: to the clinic for a history of chest pain.
+Meta Mapping (746):
+   575   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   742   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   651   C4512001:History of chest pain [Finding]
+Processing 147_Cage.txt.tx.2: He began having moments of chest pain dating back to 4 months ago. 
+
+Phrase: He
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: having
+
+Phrase: moments of chest pain dating
+Meta Mapping (655):
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   593   C0237553:Dating (Dating (Social)) [Social Behavior]
+
+Phrase: back to 4 months ago.
+Meta Mapping (686):
+   760   C0004600:BACK (Back) [Body Location or Region]
+   593   C0439231:MONTHS (month) [Temporal Concept]
+Processing 147_Cage.txt.tx.3: At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+
+Phrase: At
+
+Phrase: that time
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: 2-3 instance of chest pain
+Meta Mapping (864):
+   648   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   753   C1550608:Instance [Idea or Concept]
+   623   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: during exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a couple seconds
+Meta Mapping (888):
+   694   C0010222:couple (Couples (persons)) [Family Group]
+   861   C0457385:Seconds (seconds) [Temporal Concept]
+
+Phrase: and
+
+Phrase: were
+
+Phrase: rated
+Meta Mapping (1000):
+  1000   C0871208:Rated (Rating (action)) [Activity]
+
+Phrase: 2/10 in terms of pain.
+Meta Mapping (676):
+   753   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   753   C3842590:10% [Quantitative Concept]
+   719   C1515273:Term (Term (temporal)) [Temporal Concept]
+   753   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 147_Cage.txt.tx.4: His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+
+Phrase: His most recent instance of chest pain
+Meta Mapping (761):
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   581   C0332185:Recent [Temporal Concept]
+   748   C1550608:Instance [Idea or Concept]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 147_Cage.txt.tx.5: This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+
+Phrase: This period of pain
+Meta Mapping (783):
+   604   C1080058:This (This (eukaryote)) [Eukaryote]
+   819   C0013390:Period Pain (Dysmenorrhea) [Disease or Syndrome]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 mins after resting
+Meta Mapping (752):
+   640   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   726   C0702093:/min (Per Minute) [Temporal Concept]
+   593   C0035253:Resting (Rest) [Daily or Recreational Activity]
+Meta Mapping (752):
+   593   C0439084:>5 [Quantitative Concept]
+   790   C0456692:/10 min [Temporal Concept]
+   593   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: 7/10 in pain.
+Meta Mapping (783):
+   819   C5191365:10.7 [Quantitative Concept]
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 147_Cage.txt.tx.6: He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: blurry vision,
+Meta Mapping (1000):
+  1000 N C0344232:blurry vision (Blurred vision) [Finding]
+
+Phrase: nausea/vomiting,
+Meta Mapping (1000):
+  1000 N C0027498:Nausea/vomiting (Nausea and vomiting) [Sign or Symptom]
+
+Phrase: tachypnea,
+Meta Mapping (1000):
+  1000 N C0231835:Tachypnoea (Tachypnea) [Finding]
+
+Phrase: and
+
+Phrase: recent life stressors
+Meta Mapping (901):
+   660   C0332185:Recent [Temporal Concept]
+   901   C0683574:life stressors [Qualitative Concept]
+
+Phrase: or
+
+Phrase: changes.
+Meta Mapping (1000):
+  1000   C0392747:changes (Changing) [Functional Concept]
+Processing 147_Cage.txt.tx.7: PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. 
+
+Phrase: PMH Hypertension   Medications
+Meta Mapping (901):
+   660   C0262926:PMH (Medical History) [Finding]
+   901   C0684167:hypertension medications (hypertensive medication) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: clorpidorize  Vitals BP
+Meta Mapping (754):
+   589   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 P
+
+Phrase: :
+
+Phrase: 85 R
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: :
+
+Phrase: 14 T
+
+Phrase: :
+
+Phrase: 98.0F  Physical exam
+Meta Mapping (824):
+   645   C4319627:98 [Quantitative Concept]
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: ;  CV
+Meta Mapping (1000):
+  1000   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+Processing 147_Cage.txt.tx.8: Normal s1 and s2. 
+
+Phrase: Normal s1
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: s2.
+Meta Mapping (1000):
+  1000   C1179705:S2 (S2 innervation) [Body Location or Region]
+Processing 147_Cage.txt.tx.9: no murmurs. 
+
+Phrase: no murmurs.
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+Processing 147_Cage.txt.tx.10: No discoloration or swelling on chest wall. 
+
+Phrase: No discoloration
+Meta Mapping (1000):
+  1000 N C0332572:Discolouration (Abnormal color) [Finding]
+
+Phrase: or
+
+Phrase: swelling on chest wall.
+Meta Mapping (783):
+   819 N C0347940:Chest swelling [Finding]
+   604   C0677535:Wall (Walls of a building) [Manufactured Object]
+Meta Mapping (783):
+   770 N C0013604:SWELLING (Edema) [Pathologic Function]
+   666   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+Processing 147_Cage.txt.tx.11: No pain on palpation. 
+
+Phrase: No pain on palpation.
+Meta Mapping (783):
+   833   C0234225:No pain (Absence of pain) [Finding]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 147_Cage.txt.tx.12: No bruit heard bilaterally on neck vasculature . 
+
+Phrase: No bruit heard bilaterally on neck vasculature .
+Meta Mapping (704):
+   581   C1298908:No (no) [Finding]
+   581 N C0006318:BRUIT (Bruit) [Finding]
+   714 N C0018767:hear (Hearing) [Physiologic Function]
+   612   C1184251:Neck vasculature (Vasculature of neck) [Body Part, Organ, or Organ Component]
+Processing 147_Cage.txt.tx.13: No JVP. 
+
+Phrase: No JVP.
+Processing 147_Cage.txt.tx.14: Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally. 
+
+Phrase: Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally.
+Meta Mapping (775):
+   793   C0920847:Radial (Circumpennate) [Conceptual Entity]
+   793   C0015811:Femoral (Femur) [Body Part, Organ, or Organ Component]
+   793   C0442037:Popliteal [Body Location or Region]
+   835   C1706488:Dorsalis pedis pulse [Organ or Tissue Function]
+Processing 147_Cage.txt.tx.15: No swelling in lower extremities.  
+
+Phrase: No swelling in lower extremities.
+Meta Mapping (796):
+   593   C1298908:No (no) [Finding]
+   827 N C0581394:lower extremity swelling (Swelling of lower limb) [Pathologic Function]
+Processing 147_Cage.txt.tx.16: Lungs: Regular rate of breathing, no use of accessory muscles. 
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Regular rate of breathing,
+Meta Mapping (783):
+   604   C0205272:Regular [Qualitative Concept]
+   819   C0231832:Breathing Rate (Respiratory rate) [Clinical Attribute]
+
+Phrase: no use of accessory muscles.
+Meta Mapping (857):
+   593   C1298908:No (no) [Finding]
+   806   C1524063:Use of [Functional Concept]
+   640 N C0158784:accessory muscles (Accessory skeletal muscle) [Congenital Abnormality]
+Processing 147_Cage.txt.tx.17: Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+
+Phrase: Symmetrical chest wall expansion  Assessment  Patient
+Meta Mapping (839):
+   632   C0332516:Symmetrical [Finding]
+   672   C0231902:Chest expansion [Finding]
+   632   C0677535:Wall (Walls of a building) [Manufactured Object]
+   827   C0679830:assessment patient (patient assessment) [Health Care Activity]
+
+Phrase: is
+
+Phrase: 47 year old male with a past medical history
+Meta Mapping (709):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   623   C0455458:Past medical history (PMH - past medical history) [Finding]
+
+Phrase: significant for HTN presenting
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   604   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: to the clinic for a 4 month history of chest pain.
+Meta Mapping (717):
+   571   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   738   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   571   C0439231:Month (month) [Temporal Concept]
+   630   C4512001:History of chest pain [Finding]
+Processing 147_Cage.txt.tx.18: Physical exam significant for normal cardiovascular exam.  
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: significant for normal cardiovascular exam.
+Meta Mapping (761):
+   760   C0750502:Significant [Idea or Concept]
+   631   C0577867:CARDIOVASCULAR normal (Cardiovascular system normal) [Finding]
+   593   C0582103:Exam (Medical Examination) [Health Care Activity]
+Processing 147_Cage.txt.tx.19: Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: Stable angina -  progressive worsening of chest pain
+Meta Mapping (833):
+   581   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   607   C1299435:Progressive Angina [Disease or Syndrome]
+   748   C1457868:Worsening (Worse) [Finding]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Meta Mapping (833):
+   581   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   581   C0205329:Progressive [Functional Concept]
+   774   C0002965:Worsening angina (Angina, Unstable) [Disease or Syndrome]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: kidney function tests.
+Meta Mapping (1000):
+  1000   C0022662:Kidney Function Tests [Laboratory Procedure]
+Processing 147_Cage.txt.tx.20: Costochondritis GERD
+
+Phrase: Costochondritis GERD
+Meta Mapping (888):
+   694   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+   861   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]

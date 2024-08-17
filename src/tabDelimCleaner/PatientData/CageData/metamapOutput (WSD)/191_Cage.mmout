@@ -1,0 +1,421 @@
+Processing 191_Cage.txt.tx.1: GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+
+Phrase: GC
+Meta Mapping (1000):
+  1000   C4281799:Gc (GC, vitamin D binding protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: is
+
+Phrase: a 55F with cHTN
+Meta Mapping (604):
+   604   C1511511:CHTN (Cooperative Human Tissue Network) [Health Care Related Organization]
+
+Phrase: diagnosed
+Meta Mapping (1000):
+  1000   C0011900:Diagnosed (Diagnosis) [Diagnostic Procedure]
+
+Phrase: 10 years ago
+Meta Mapping (901):
+   901   C4086544:< 10 years (Life Expectancy Less than Ten Years) [Intellectual Product]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0231290:Following (Status post) [Temporal Concept]
+
+Phrase: an episode of chest pain 3 days ago.
+Meta Mapping (789):
+   600   C0619883:AN 3 [Amino Acid, Peptide, or Protein]
+   770   C0332189:Episode of [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   578   C0439228:DAYS (day) [Temporal Concept]
+Processing 191_Cage.txt.tx.2: She describes substernal pressure that "took her breath away" and reports feeling faint. 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: substernal
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: that "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away"
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: feeling faint.
+Meta Mapping (1000):
+  1000   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+Processing 191_Cage.txt.tx.3: This episode lasted 5-10 minutes and resolved after sitting in her car. 
+
+Phrase: This episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved after sitting
+Meta Mapping (746):
+   790   C1514893:Resolved (physiologic resolution) [Pathologic Function]
+   790 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in her car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 191_Cage.txt.tx.4: She denies recurrence. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: recurrence.
+Meta Mapping (1000):
+  1000   C0034897:Recurrence [Phenomenon or Process]
+Processing 191_Cage.txt.tx.5: It is the first time she has had pain this severe, she reports previous "twinges" over the past 4 mo with exertion. 
+
+Phrase: It
+
+Phrase: is
+
+Phrase: the first time
+Meta Mapping (888):
+   861   C0205435:First (First (number)) [Quantitative Concept]
+   861   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: she
+
+Phrase: has
+
+Phrase: had
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: this severe,
+Meta Mapping (1000):
+  1000   C0205082:Severe (Severe (severity modifier)) [Finding]
+
+Phrase: she
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: previous "twinges"
+Meta Mapping (694):
+   694   C0205156:Previous [Temporal Concept]
+
+Phrase: over the past 4 mo with exertion.
+Meta Mapping (687):
+   607   C0301616:over-exertion (Overexertion) [Pathologic Function]
+   581   C1444637:Past (In the past) [Temporal Concept]
+   748   C0332177:/mo (Monthly (qualifier value)) [Temporal Concept]
+Processing 191_Cage.txt.tx.6: She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: resting
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: current chest pain,
+Meta Mapping (901):
+   660   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   901 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: swelling of extremities,
+Meta Mapping (841):
+   841 N C0158369:extremity swelling (Swelling of limb) [Sign or Symptom]
+
+Phrase: headache,
+Meta Mapping (1000):
+  1000 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: vision changes.
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+Processing 191_Cage.txt.tx.7: She has not been seen by cardiologist and denies previous testing. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: been
+
+Phrase: seen by cardiologist
+Meta Mapping (1000):
+  1000 N C0583557:Seen by cardiologist [Finding]
+
+Phrase: and
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: previous testing.
+Meta Mapping (888):
+   694   C0205156:Previous [Temporal Concept]
+   861   C0039593:Testing [Functional Concept]
+Processing 191_Cage.txt.tx.8: She does not have a blood pressure cuff at home. 
+
+Phrase: She
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: have
+
+Phrase: a blood pressure cuff
+Meta Mapping (1000):
+  1000   C0180208:Blood pressure cuff [Medical Device]
+
+Phrase: at home.
+Meta Mapping (1000):
+  1000 N C4534363:At home [Finding]
+Processing 191_Cage.txt.tx.9: She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: taking
+
+Phrase: her blood pressure medications today
+Meta Mapping (861):
+   708   C0849164:blood medications [Therapeutic or Preventive Procedure]
+   645   C0460139:Pressure (Pressure (finding)) [Finding]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Meta Mapping (861):
+   694   C1271104:Blood Pressure (Blood pressure finding) [Finding]
+   645   C0013227:Medications (Pharmaceutical Preparations) [Pharmacologic Substance]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: been on the same doses
+Meta Mapping (695):
+   760   C0445247:SAME (Same) [Qualitative Concept]
+   760   C0178602:Doses (Dosage) [Quantitative Concept]
+
+Phrase: for the past 10 years.
+Meta Mapping (901):
+   660   C1444637:Past (In the past) [Temporal Concept]
+   901   C4086544:< 10 years (Life Expectancy Less than Ten Years) [Intellectual Product]
+Processing 191_Cage.txt.tx.10: PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: hypercholesterolemia Meds
+Meta Mapping (888):
+   694 N C0020443:HYPERCHOLESTEROLEMIA (Hypercholesterolemia) [Disease or Syndrome]
+   861 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorothiozone
+
+Phrase: (?
+
+Phrase: )
+Processing 191_Cage.txt.tx.11: 25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  
+
+Phrase: 25mg tab PO daily,
+Meta Mapping (775):
+   645   C1705223:Tab (Tablet Dosing Unit) [Quantitative Concept]
+   812   C0442027:PO (Oral) [Spatial Concept]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10 mg PO
+Meta Mapping (916):
+   756   C0987217:Lisinopril 10 MG [Clinical Drug]
+   812   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: 150/92 today in clinic, afebrile PE
+Meta Mapping (713):
+   629   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   629   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   629   C0277797:Afebrile (Apyrexial) [Finding]
+   795   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: S1,
+Meta Mapping (1000):
+  1000   C3715215:S1 [Finding]
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no carotid bruits.
+Meta Mapping (1000):
+  1000 N C0007280:carotid bruits (Carotid bruit) [Finding]
+Processing 191_Cage.txt.tx.12: 2+ bilateral radial pulses. 
+
+Phrase: 2+ bilateral radial pulses.
+Meta Mapping (861):
+   645   C2827735:2+ (2+ Score) [Quantitative Concept]
+   645   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+   861   C0518831:radial PULSES [Finding]
+Processing 191_Cage.txt.tx.13: No LE edema bilaterally. 
+
+Phrase: No LE edema bilaterally.
+Meta Mapping (790):
+   660   C2697858:LE (LE, Rat Strain) [Mammal]
+   827 N C0013604:OEDEMA (Edema) [Pathologic Function]
+Processing 191_Cage.txt.tx.14: Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to posterior auscultation
+Meta Mapping (733):
+   770   C1709157:Clear (Negative Surgical Margin) [Finding]
+   770   C0205095:POSTERIOR (Dorsal) [Spatial Concept]
+   770   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: bilaterally A/P
+
+Phrase: :
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C1446409:rule (Positive) [Finding]
+
+Phrase: out myocardial infarction in setting of angina.
+Meta Mapping (706):
+   581   C0849355:Out (Removed) [Qualitative Concept]
+   778   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+   581   C1318139:{Setting} [Quantitative Concept]
+   581 N C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 191_Cage.txt.tx.15: Unstable angina. 
+
+Phrase: Unstable angina.
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+Processing 191_Cage.txt.tx.16: - ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology
+
+Phrase: - ECG today
+Meta Mapping (888):
+   694   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: in clinic
+Meta Mapping (888):
+   861   C0150312:In (Present) [Finding]
+   861   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: identify
+
+Phrase: ST-segment changes - BP cuff for home,
+Meta Mapping (775):
+   647   C0232326:ST segment changes (EKG ST segment changes) [Finding]
+   581   C1415692:Bp (HP gene) [Gene or Genome]
+   748   C0441107:Cuff (Cuffs device) [Manufactured Object]
+   581   C1553498:Home (home health encounter) [Health Care Activity]
+
+Phrase: instructions for how to
+Meta Mapping (770):
+   770   C1442085:Instructions [Intellectual Product]
+
+Phrase: properly
+
+Phrase: measure
+Meta Mapping (1000):
+  1000   C0242485:Measure (Measurement) [Functional Concept]
+
+Phrase: blood pressures at home, return with log - cardiology
+Meta Mapping (707):
+   604   C1272641:blood pressures (Systemic arterial pressure) [Finding]
+   767   C0579192:Return Home (Returned home) [Finding]
+   578   C1708728:Log (Event Log) [Intellectual Product]
+   578   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]

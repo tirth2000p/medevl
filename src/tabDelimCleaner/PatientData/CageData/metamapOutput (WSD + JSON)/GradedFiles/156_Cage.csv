@@ -1,0 +1,159 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0542339,Sub-,Inferior,-1000,-1000,Sub,0,True,Sub: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,5,True,Sub: Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,9,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C1413296,Yo,CDR2 gene,-575,-637,a 47 yo male with a history of HTN,17,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C1706180,Male,"Male Gender, Self Report",-742,-637,a 47 yo male with a history of HTN,17,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C2004062,History,History of previous events,-575,-637,a 47 yo male with a history of HTN,17,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C0020538,HTN,Hypertensive disease,-575,-637,a 47 yo male with a history of HTN,17,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C0150312,PRESENT,Present,-760,-761,presents with progressing chest pain,56,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C0205329,progressing,Progressive,-760,-761,presents with progressing chest pain,56,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C0008031,CHEST PAIN,Chest Pain,-806,-761,presents with progressing chest pain,56,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C4331910,Past Month,Past 30 days,-896,-896,over the past 4 months.,93,True,Cage is a 47 yo male with a history of HTN who presents with progressing chest pain over the past 4 months. 
+C1442459,3 Days,3 Days,-901,-901,"3 days ago,",117,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0206243,Carrying,Carrying,-694,-694,carrying groceries,136,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0184567,Sudden onset pain,Acute onset pain,-900,-835,"sudden-onset deeply achy, heavy chest pain,",163,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C3843505,Deeply,Deeply,-629,-835,"sudden-onset deeply achy, heavy chest pain,",163,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0235715,ache chest,Chest aching of,-794,-835,"sudden-onset deeply achy, heavy chest pain,",163,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-629,-835,"sudden-onset deeply achy, heavy chest pain,",163,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0871208,Rated,Rating (action),-1000,-1000,rated,207,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C3842590,10%,10%,-861,-861,"7/10,",213,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0012833,Lightheadedness,Dizziness,-1000,-1000,with light headedness,219,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0015127,cause,Etiology aspects,-966,-966,that caused,241,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,257,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C2348338,Drop,Drop British,-1000,-1000,drop,260,True,"3 days ago, he was carrying groceries and had sudden-onset deeply achy, heavy chest pain, rated 7/10, with light headedness that caused him to drop his groceries. "
+C1705827,SAT,SAT1 wt Allele,-770,-708,sat in the car,289,True,"After he sat in the car for 5-10 minutes, the pain subsided on its own. "
+C0004381,Car,Automobiles,-770,-708,sat in the car,289,True,"After he sat in the car for 5-10 minutes, the pain subsided on its own. "
+C3845579,5-10 minutes,5-10 minutes,-1000,-1000,"for 5-10 minutes,",304,True,"After he sat in the car for 5-10 minutes, the pain subsided on its own. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,322,True,"After he sat in the car for 5-10 minutes, the pain subsided on its own. "
+C0450429,LOC,Location,-1000,-1000,No LOC.,352,True,No LOC. 
+C2348205,Similar,Similarity,-694,-888,Similar events,360,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C0441471,Events,Event,-861,-888,Similar events,360,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C1709305,Happened,Occur (action),-753,-704,happened over the past 4 months,380,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C4331910,Past Month,Past 30 days,-767,-704,happened over the past 4 months,380,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C0015264,exerting,Exertion,-1000,-1000,exerting,418,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C1513491,Most Recent episode,Most Recent,-1000,-1000,the most recent episode,443,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C0205393,Most,Most,-694,-888,the most severe.,471,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C0205082,Severe,Severe (severity modifier),-861,-888,the most severe.,471,True,"Similar events have happened over the past 4 months while exerting himself, though the most recent episode was the most severe. "
+C4288581,Noted,Notable,-1000,-1000,noted,496,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C1998882,Occasionally,Sometimes,-1000,-1000,occasionally,510,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0596545,experiences,Experience,-1000,-1000,experiences,523,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0438716,Pressure in chest,Chest pressure,-648,-813,a pressure sensation in his chest,535,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0542538,"Sensation, NOS",Observation of Sensation,-753,-813,a pressure sensation in his chest,535,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0019602,HIS,histidine,-586,-813,a pressure sensation in his chest,535,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0013470,Eating,Eating,-1000,-1000,after eating,569,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0549177,Big,Large,-694,-888,a big lunch,582,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C2697949,Lunch,Lunch,-861,-888,a big lunch,582,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C1517741,Last,Last,-612,-775,that lasts 3-5 minutes,594,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0702093,/minute,Per Minute,-812,-775,that lasts 3-5 minutes,594,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0019602,HIS,histidine,-770,-770,subsides on his own.,621,True,He also noted that he occasionally experiences a pressure sensation in his chest after eating a big lunch that lasts 3-5 minutes and subsides on his own. 
+C0205369,Specific,Specific qualifier value,-694,-888,no specific foods,652,True,There are no specific foods that trigger this pain. 
+C0016452,FOODS,Food,-861,-888,no specific foods,652,True,There are no specific foods that trigger this pain. 
+C0032930,Trigger,Precipitating Factors,-1000,-1000,trigger,675,True,There are no specific foods that trigger this pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,this pain.,683,False,There are no specific foods that trigger this pain. 
+C0441471,Events,Event,-1000,-1000,These events,694,True,These events have been going on for about 1 year. 
+C0332232,About,Approximate,-660,-802,for about 1 year.,726,True,These events have been going on for about 1 year. 
+C0439508,/Year,per year,-827,-802,for about 1 year.,726,True,These events have been going on for about 1 year. 
+C0013404,DYSPNOEA,Dyspnea,-1000,-1000,"No dyspnea,",744,False,"No dyspnea, diaphoresis, headaches, anxiety, vision changes.  "
+C0700590,DIAPHORESIS,Increased sweating,-1000,-1000,"diaphoresis,",756,False,"No dyspnea, diaphoresis, headaches, anxiety, vision changes.  "
+C0018681,Headaches,Headache,-1000,-1000,"headaches,",769,False,"No dyspnea, diaphoresis, headaches, anxiety, vision changes.  "
+C0003467,ANXIETY,Anxiety,-1000,-1000,"anxiety,",780,False,"No dyspnea, diaphoresis, headaches, anxiety, vision changes.  "
+C0750280,Visual Changes,Visual changes,-964,-964,vision changes.,789,False,"No dyspnea, diaphoresis, headaches, anxiety, vision changes.  "
+C1709820,ROS,ROS1 wt Allele,-1000,-1000,ROS,806,True,"ROS: as per HPI, all other systems reviewed and were negative.  "
+C0373548,As,Arsenic measurement,-790,-790,"as per HPI,",811,True,"ROS: as per HPI, all other systems reviewed and were negative.  "
+C0085104,SYSTEM,Drug Delivery Systems,-966,-966,other systems,827,True,"ROS: as per HPI, all other systems reviewed and were negative.  "
+C1709940,Reviewed,Reviewed,-1000,-1000,reviewed,841,True,"ROS: as per HPI, all other systems reviewed and were negative.  "
+C0205160,Negative,Negative,-1000,-1000,negative.,859,True,"ROS: as per HPI, all other systems reviewed and were negative.  "
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,Meds,870,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,chlorthalidone,876,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0024671,MG,Mammography,-827,-790,(25 mg daily,891,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0332173,Daily,Daily,-660,-790,(25 mg daily,891,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0065374,Lysinopril,lisinopril,-1000,-1000,lisinopril,906,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C3842590,10%,10%,-660,-851,(10 mg daily,917,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0024671,MG,Mammography,-827,-851,(10 mg daily,917,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0332173,Daily,Daily,-660,-851,(10 mg daily,917,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies,931,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0262926,PMH,Medical History,-861,-861,NKDA PMH,942,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0020538,HYPERTENSION,Hypertensive disease,-1000,-1000,hypertension,952,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0011900,Diagnosed,Diagnosis,-1000,-1000,diagnosed,966,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C4086543,< 5 years,Life Expectancy Less than Five Years,-901,-901,5 years ago,976,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0543467,surgeries,Operative Surgical Procedures,-694,-694,No surgeries FH,989,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-1000,-1000,dad,1006,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0683474,MI,Motivational Interviewing,-770,-733,MI at age 40,1014,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0001779,AGE,Age,-604,-733,MI at age 40,1014,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C3842587,40%,40%,-604,-733,MI at age 40,1014,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0011900,Diagnosed,Diagnosis,-790,-746,"diagnosed with CAD,",1035,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C1504769,CAD,"DFFB protein, human",-790,-746,"diagnosed with CAD,",1035,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0565930,/s,per second,-660,-802,s/p CABG.,1058,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C0010055,CABG,Coronary Artery Bypass Surgery,-827,-802,s/p CABG.,1058,True,"Meds: chlorthalidone (25 mg daily), lisinopril (10 mg daily) Allergies: NKDA PMH: hypertension (diagnosed 5 years ago) No surgeries FH: dad had MI at age 40 and was diagnosed with CAD, is s/p CABG. "
+C1442163,MoM,Multiple of the median,-1000,-1000,Mom,1068,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",1076,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0378717,dm ii,elongation factor DmS-II,-1000,-1000,"DM II,",1081,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C1306577,Died,Death (finding),-770,-733,died of PE SH,1088,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0070939,PE,phosphoethanolamine,-770,-733,died of PE SH,1088,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0038108,SH,Saint Helena Islands,-770,-733,died of PE SH,1088,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0043227,works,Work,-770,-708,works at Capital 1,1103,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0006909,Capital,Capital,-604,-708,works at Capital 1,1103,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0592503,Brand,Proprietary Name,-966,-966,in branding.,1122,True,"Mom has HTN, DM II, died of PE SH: works at Capital 1 in branding. "
+C0239059,smoke cigarette,Cigarette smoke (substance),-645,-753,Smokes 1 ppd cigarettes x 20 years.,1135,True,Smokes 1 ppd cigarettes x 20 years. 
+C1710647,PPD,WISP3 wt Allele,-629,-753,Smokes 1 ppd cigarettes x 20 years.,1135,True,Smokes 1 ppd cigarettes x 20 years. 
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-818,-753,Smokes 1 ppd cigarettes x 20 years.,1135,True,Smokes 1 ppd cigarettes x 20 years. 
+C0452428,Drinks,Drink (dietary substance),-578,-678,Drinks 2-3 glasses of wine 2x/week.,1171,True,Drinks 2-3 glasses of wine 2x/week. 
+C0015421,Glasses,Eyeglasses,-744,-678,Drinks 2-3 glasses of wine 2x/week.,1171,True,Drinks 2-3 glasses of wine 2x/week. 
+C0043188,WINE,Wine,-578,-678,Drinks 2-3 glasses of wine 2x/week.,1171,True,Drinks 2-3 glasses of wine 2x/week. 
+C4484139,week 2,week 2,-600,-678,Drinks 2-3 glasses of wine 2x/week.,1171,True,Drinks 2-3 glasses of wine 2x/week. 
+C0242508,Recreational Drugs,Recreational Drugs,-1000,-1000,No recreational drugs.,1207,True,No recreational drugs.  
+C2826278,OBJ,Observation Object,-1000,-1000,Obj,1231,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0215604,T 98,T 98,-637,-727,T 98 P 85 R 14 BP 150/92 Exam,1240,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C4517892,85,85,-623,-727,T 98 P 85 R 14 BP 150/92 Exam,1240,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C2603358,R',R prime,-623,-727,T 98 P 85 R 14 BP 150/92 Exam,1240,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C1708288,BP,HP wt Allele,-623,-727,T 98 P 85 R 14 BP 150/92 Exam,1240,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0582103,Exam,Medical Examination,-790,-727,T 98 P 85 R 14 BP 150/92 Exam,1240,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0205246,General,Generalized,-1000,-1000,General,1271,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0205178,ACUTE,acute,-694,-888,"no acute distress,",1280,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0231303,Distress,Distress,-861,-888,"no acute distress,",1280,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0700364,APPEAR,Appearance,-1000,-1000,appears,1299,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0027769,Nervous,Nervousness,-694,-888,nervous Cardio,1307,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0018787,Cardio-,Heart,-861,-888,nervous Cardio,1307,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0018808,murmurs,Heart murmur,-1000,-1000,no murmurs/,1328,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1339,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C1823304,PMI,TMEM11 gene,-632,-808,"PMI normal, radial pulses 2+ Resp",1353,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0232143,Normal radial pulse,Normal radial pulse,-677,-808,"PMI normal, radial pulses 2+ Resp",1353,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0231832,RESP,Respiratory rate,-799,-808,"PMI normal, radial pulses 2+ Resp",1353,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0035203,Breathing,Respiration,-660,-790,nonlabored breathing  Assessment,1388,False,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C1516048,Assessment,Assessed,-827,-790,nonlabored breathing  Assessment,1388,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1422,True,"Obj: VS: T 98 P 85 R 14 BP 150/92 Exam: General: no acute distress, appears nervous Cardio: RRR, no murmurs/rubs/gallops, PMI normal, radial pulses 2+ Resp: nonlabored breathing  Assessment: Mr. "
+C0337189,Cage,Cage device,-1000,-1000,Cage,1426,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C1413296,Yo,CDR2 gene,-578,-649,47 yo M with a history of HTN,1434,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0369637,M NOS,M NOS ANTIBODY,-744,-649,47 yo M with a history of HTN,1434,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C2004062,History,History of previous events,-578,-649,47 yo M with a history of HTN,1434,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0020538,HTN,Hypertensive disease,-578,-649,47 yo M with a history of HTN,1434,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0150312,PRESENT,Present,-760,-761,presents with progressive chest pain,1468,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0205329,Progressive,Progressive,-760,-761,presents with progressive chest pain,1468,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0008031,CHEST PAIN,Chest Pain,-806,-761,presents with progressive chest pain,1468,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C2745955,OCCUR,Occurrence,-753,-666,occurs in the setting of exertion,1510,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C1318139,{Setting},{Setting},-753,-666,occurs in the setting of exertion,1510,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0015264,Exertion,Exertion,-753,-666,occurs in the setting of exertion,1510,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0035253,Rest,Rest,-790,-790,subsides with rest.,1549,True,Cage is 47 yo M with a history of HTN who presents with progressive chest pain that occurs in the setting of exertion that subsides with rest. 
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,Family history,1569,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C4288581,Notable,Notable,-790,-746,"notable for HTN,",1587,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C0020538,HTN,Hypertensive disease,-623,-746,"notable for HTN,",1587,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C0683474,MI,Motivational Interviewing,-770,-733,"MI at age 40,",1604,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C0001779,AGE,Age,-604,-733,"MI at age 40,",1604,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C3842587,40%,40%,-604,-733,"MI at age 40,",1604,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C1504769,CAD,"DFFB protein, human",-1000,-1000,CAD.,1622,True,"Family history is notable for HTN, MI at age 40, and CAD. "
+C0562319,Cardiac exam,Examination of heart,-1000,-1000,Cardiac exam,1627,True,Cardiac exam is within normal limits. 
+C3812801,IS,Immunogenicity Specimen Assessments Domain,-770,-783,is within normal limits.,1640,True,Cardiac exam is within normal limits. 
+C0442816,Normal limits,Normal limits,-833,-783,is within normal limits.,1640,True,Cardiac exam is within normal limits. 
+C0750501,most likely,most likely,-734,-901,Most likely diagnosis,1665,True,Most likely diagnosis is angina given chest pain with exertion that subsides with rest. 
+C0011900,DIAGNOSIS,Diagnosis,-827,-901,Most likely diagnosis,1665,True,Most likely diagnosis is angina given chest pain with exertion that subsides with rest. 
+C0742281,chest pain angina,chest pain angina,-820,-768,angina given chest pain with exertion,1690,True,Most likely diagnosis is angina given chest pain with exertion that subsides with rest. 
+C0015264,Exertion,Exertion,-586,-768,angina given chest pain with exertion,1690,True,Most likely diagnosis is angina given chest pain with exertion that subsides with rest. 
+C0035253,Rest,Rest,-790,-790,subsides with rest.,1733,True,Most likely diagnosis is angina given chest pain with exertion that subsides with rest. 
+C0011900,Diagnoses,Diagnosis,-1000,-1000,Other diagnoses,1753,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C0332257,include,Including (qualifier),-1000,-1000,include,1769,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C0683474,MI,Motivational Interviewing,-1000,-1000,MI,1777,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C0340643,AORTIC DISSECTION,Dissection of aorta,-660,-839,aortic dissection  Plan ekg stress test,1784,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C0599880,Plan,Treatment Plan,-632,-839,aortic dissection  Plan ekg stress test,1784,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C1623258,EKG,Electrocardiography,-632,-839,aortic dissection  Plan ekg stress test,1784,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test
+C0015260,stress test,Exercise stress test,-827,-839,aortic dissection  Plan ekg stress test,1784,True,Other diagnoses include MI and aortic dissection  Plan ekg stress test

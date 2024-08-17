@@ -1,0 +1,131 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0030705,*^patient,Patients,-861,-861,HPI Patient,0,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0439508,/Year,per year,-575,-709,47 year old male with a past medical history,15,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0580836,Old,Old,-575,-709,47 year old male with a past medical history,15,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C1706180,Male,"Male Gender, Self Report",-742,-709,47 year old male with a past medical history,15,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0455458,Past medical history,PMH - past medical history,-623,-709,47 year old male with a past medical history,15,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0750502,Significant,Significant,-770,-733,significant for HTN presenting,60,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0020538,HTN,Hypertensive disease,-604,-733,significant for HTN presenting,60,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0449450,Presenting,Presentation,-604,-733,significant for HTN presenting,60,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0041260,TO,Tryptophanase,-575,-746,to the clinic for a history of chest pain.,91,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0002424,Clinic,Ambulatory Care Facilities,-742,-746,to the clinic for a history of chest pain.,91,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C4512001,History of chest pain,History of chest pain,-651,-746,to the clinic for a history of chest pain.,91,True,HPI Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a history of chest pain. 
+C0439659,Begin,Beginning,-966,-966,began,137,True,He began having moments of chest pain dating back to 4 months ago. 
+C0024902,Pain of breast,Mastodynia,-650,-655,moments of chest pain dating,150,True,He began having moments of chest pain dating back to 4 months ago. 
+C0237553,Dating,Dating (Social),-593,-655,moments of chest pain dating,150,True,He began having moments of chest pain dating back to 4 months ago. 
+C0004600,BACK,Back,-760,-686,back to 4 months ago.,179,True,He began having moments of chest pain dating back to 4 months ago. 
+C0439231,MONTHS,month,-593,-686,back to 4 months ago.,179,True,He began having moments of chest pain dating back to 4 months ago. 
+C0040223,TIME,Time,-1000,-1000,that time,204,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C4687960,2 OF 3,Severity Two Out of Three,-648,-864,2-3 instance of chest pain,221,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C1550608,Instance,Instance,-753,-864,2-3 instance of chest pain,221,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0008031,CHEST PAIN,Chest Pain,-623,-864,2-3 instance of chest pain,221,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0015264,Exertion,Exertion,-1000,-1000,during exertion,248,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C1517741,Last,Last,-966,-966,lasted,269,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0010222,couple,Couples (persons),-694,-888,a couple seconds,276,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0457385,Seconds,seconds,-861,-888,a couple seconds,276,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0871208,Rated,Rating (action),-1000,-1000,rated,302,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C2981700,2+,"2+ Score, WHO",-753,-676,2/10 in terms of pain.,308,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C3842590,10%,10%,-753,-676,2/10 in terms of pain.,308,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C1515273,Term,Term (temporal),-719,-676,2/10 in terms of pain.,308,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-753,-676,2/10 in terms of pain.,308,True,At that time he had 2-3 instance of chest pain during exertion that lasted a couple seconds and were rated 2/10 in terms of pain. 
+C0523697,HIS,Histidine measurement,-581,-761,His most recent instance of chest pain,331,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C0332185,Recent,Recent,-581,-761,His most recent instance of chest pain,331,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C1550608,Instance,Instance,-748,-761,His most recent instance of chest pain,331,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C0024902,Pain of breast,Mastodynia,-610,-761,His most recent instance of chest pain,331,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C1442459,3 Days,3 Days,-901,-901,3 days ago,374,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,391,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-694,-694,heavy groceries.,400,True,His most recent instance of chest pain was 3 days ago while carrying heavy groceries. 
+C1080058,This,This (eukaryote),-604,-783,This period of pain,417,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0013390,Period Pain,Dysmenorrhea,-819,-783,This period of pain,417,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C1517741,Last,Last,-966,-966,lasted,437,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C4086718,5-10,PSA Level Five to Ten,-640,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0702093,/min,Per Minute,-726,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0035253,Resting,Rest,-593,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0439084,>5,>5,-593,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0456692,/10 min,/10 min,-790,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C0035253,Resting,Rest,-593,-752,5-10 mins after resting,444,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C5191365,10.7,10.7,-819,-783,7/10 in pain.,476,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-770,-783,7/10 in pain.,476,True,This period of pain lasted 5-10 mins after resting and was 7/10 in pain. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,493,True,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0018681,Headaches,Headache,-1000,-1000,"headaches,",500,False,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0344232,blurry vision,Blurred vision,-1000,-1000,"blurry vision,",511,False,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0027498,Nausea/vomiting,Nausea and vomiting,-1000,-1000,"nausea/vomiting,",526,False,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0231835,Tachypnoea,Tachypnea,-1000,-1000,"tachypnea,",543,False,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0332185,Recent,Recent,-660,-901,recent life stressors,558,True,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0683574,life stressors,life stressors,-901,-901,recent life stressors,558,True,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0392747,changes,Changing,-1000,-1000,changes.,583,True,"He denies headaches, blurry vision, nausea/vomiting, tachypnea, and recent life stressors or changes.   "
+C0262926,PMH,Medical History,-660,-901,PMH Hypertension   Medications,594,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0684167,hypertension medications,hypertensive medication,-901,-901,PMH Hypertension   Medications,594,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0065374,Lysinopril,lisinopril,-1000,-1000,"lisinopril,",626,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0518766,VITAL,Vital signs,-589,-754,clorpidorize  Vitals BP,638,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C1708288,BP,HP wt Allele,-827,-754,clorpidorize  Vitals BP,638,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C4517892,85,85,-694,-888,85 R,673,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0205090,R-,Right,-861,-888,85 R,673,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C4319627,98,98,-645,-824,98.0F  Physical exam,685,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0031809,"Exam, Physical",Physical Examination,-861,-824,98.0F  Physical exam,685,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C4318503,CV,ciliary vesicle,-1000,-1000,;  CV,705,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0205272,Regular,Regular,-694,-888,regular rate,712,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C1521828,Rate,Rate,-861,-888,regular rate,712,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0871269,Rhythm,Rhythm,-1000,-1000,rhythm.,729,True,"PMH Hypertension   Medications: lisinopril, clorpidorize  Vitals BP: 150/92 P: 85 R: 14 T: 98.0F  Physical exam;  CV: regular rate and rhythm. "
+C0205307,NORMAL,Normal,-694,-888,Normal s1,737,True,Normal s1 and s2. 
+C3715215,S1,S1,-861,-888,Normal s1,737,True,Normal s1 and s2. 
+C1179705,S2,S2 innervation,-1000,-1000,s2.,751,True,Normal s1 and s2. 
+C0018808,murmurs,Heart murmur,-1000,-1000,no murmurs.,755,False,no murmurs. 
+C0332572,Discolouration,Abnormal color,-1000,-1000,No discoloration,767,False,No discoloration or swelling on chest wall. 
+C0347940,Chest swelling,Chest swelling,-819,-783,swelling on chest wall.,787,False,No discoloration or swelling on chest wall. 
+C0677535,Wall,Walls of a building,-604,-783,swelling on chest wall.,787,True,No discoloration or swelling on chest wall. 
+C0013604,SWELLING,Edema,-770,-783,swelling on chest wall.,787,False,No discoloration or swelling on chest wall. 
+C0205076,Chest Wall,Chest wall structure,-666,-783,swelling on chest wall.,787,True,No discoloration or swelling on chest wall. 
+C0234225,No pain,Absence of pain,-833,-783,No pain on palpation.,811,True,No pain on palpation. 
+C0030247,PALPATION,Palpation,-604,-783,No pain on palpation.,811,True,No pain on palpation. 
+C1298908,No,no,-581,-704,No bruit heard bilaterally on neck vasculature .,833,True,No bruit heard bilaterally on neck vasculature . 
+C0006318,BRUIT,Bruit,-581,-704,No bruit heard bilaterally on neck vasculature .,833,False,No bruit heard bilaterally on neck vasculature . 
+C0018767,hear,Hearing,-714,-704,No bruit heard bilaterally on neck vasculature .,833,False,No bruit heard bilaterally on neck vasculature . 
+C1184251,Neck vasculature,Vasculature of neck,-612,-704,No bruit heard bilaterally on neck vasculature .,833,True,No bruit heard bilaterally on neck vasculature . 
+C0920847,Radial,Circumpennate,-793,-775,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally.",890,True,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally. "
+C0015811,Femoral,Femur,-793,-775,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally.",890,True,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally. "
+C0442037,Popliteal,Popliteal,-793,-775,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally.",890,True,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally. "
+C1706488,Dorsalis pedis pulse,Dorsalis pedis pulse,-835,-775,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally.",890,True,"Radial, femoral, popliteal, dorsalis pedis pulse +2 bilaterally. "
+C1298908,No,no,-593,-796,No swelling in lower extremities.,955,True,No swelling in lower extremities.  
+C0581394,lower extremity swelling,Swelling of lower limb,-827,-796,No swelling in lower extremities.,955,False,No swelling in lower extremities.  
+C0024109,LUNGS,Lung,-1000,-1000,Lungs,990,True,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C0205272,Regular,Regular,-604,-783,"Regular rate of breathing,",997,True,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C0231832,Breathing Rate,Respiratory rate,-819,-783,"Regular rate of breathing,",997,True,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C1298908,No,no,-593,-857,no use of accessory muscles.,1024,True,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C1524063,Use of,Use of,-806,-857,no use of accessory muscles.,1024,True,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C0158784,accessory muscles,Accessory skeletal muscle,-640,-857,no use of accessory muscles.,1024,False,"Lungs: Regular rate of breathing, no use of accessory muscles. "
+C0332516,Symmetrical,Symmetrical,-632,-839,Symmetrical chest wall expansion  Assessment  Patient,1053,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0231902,Chest expansion,Chest expansion,-672,-839,Symmetrical chest wall expansion  Assessment  Patient,1053,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0677535,Wall,Walls of a building,-632,-839,Symmetrical chest wall expansion  Assessment  Patient,1053,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0679830,assessment patient,patient assessment,-827,-839,Symmetrical chest wall expansion  Assessment  Patient,1053,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0439508,/Year,per year,-575,-709,47 year old male with a past medical history,1110,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0580836,Old,Old,-575,-709,47 year old male with a past medical history,1110,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C1706180,Male,"Male Gender, Self Report",-742,-709,47 year old male with a past medical history,1110,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0455458,Past medical history,PMH - past medical history,-623,-709,47 year old male with a past medical history,1110,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0750502,Significant,Significant,-770,-733,significant for HTN presenting,1155,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0020538,HTN,Hypertensive disease,-604,-733,significant for HTN presenting,1155,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0449450,Presenting,Presentation,-604,-733,significant for HTN presenting,1155,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0041260,TO,Tryptophanase,-571,-717,to the clinic for a 4 month history of chest pain.,1186,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0002424,Clinic,Ambulatory Care Facilities,-738,-717,to the clinic for a 4 month history of chest pain.,1186,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0439231,Month,month,-571,-717,to the clinic for a 4 month history of chest pain.,1186,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C4512001,History of chest pain,History of chest pain,-630,-717,to the clinic for a 4 month history of chest pain.,1186,True,Symmetrical chest wall expansion  Assessment  Patient is 47 year old male with a past medical history significant for HTN presenting to the clinic for a 4 month history of chest pain. 
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical exam,1237,True,Physical exam significant for normal cardiovascular exam.  
+C0750502,Significant,Significant,-760,-761,significant for normal cardiovascular exam.,1251,True,Physical exam significant for normal cardiovascular exam.  
+C0577867,CARDIOVASCULAR normal,Cardiovascular system normal,-631,-761,significant for normal cardiovascular exam.,1251,True,Physical exam significant for normal cardiovascular exam.  
+C0582103,Exam,Medical Examination,-593,-761,significant for normal cardiovascular exam.,1251,True,Physical exam significant for normal cardiovascular exam.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1296,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1547311,Stable,Patient Condition Code - Stable,-581,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1299435,Progressive Angina,Progressive Angina,-607,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1457868,Worsening,Worse,-748,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0024902,Pain of breast,Mastodynia,-610,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1547311,Stable,Patient Condition Code - Stable,-581,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0205329,Progressive,Progressive,-581,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0002965,Worsening angina,"Angina, Unstable",-774,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0024902,Pain of breast,Mastodynia,-610,-833,Stable angina -  progressive worsening of chest pain,1301,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0015264,Exertion,Exertion,-1000,-1000,on exertion.,1354,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1301820,Obtain,Obtain,-1000,-1000,obtain,1367,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C1623258,EKG,Electrocardiography,-1000,-1000,"EKG,",1374,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0009555,CBC,Complete Blood Count,-1000,-1000,"CBC,",1379,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0022662,Kidney Function Tests,Kidney Function Tests,-1000,-1000,kidney function tests.,1384,True,"Plan Stable angina -  progressive worsening of chest pain on exertion. obtain EKG, CBC, kidney function tests. "
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-694,-888,Costochondritis GERD,1407,True,Costochondritis GERD
+C0017168,GERD,Gastroesophageal reflux disease,-861,-888,Costochondritis GERD,1407,True,Costochondritis GERD

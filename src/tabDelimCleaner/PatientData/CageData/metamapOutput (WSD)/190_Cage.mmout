@@ -1,0 +1,618 @@
+Processing 190_Cage.txt.tx.1: HPI: Mr. 
+
+Phrase: HPI
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 190_Cage.txt.tx.2: Gerry Cage is a 46 year old with hypertension who presents with chest pain. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old with hypertension
+Meta Mapping (672):
+   586   C0439508:/Year (per year) [Temporal Concept]
+   753   C0580836:Old [Temporal Concept]
+   586   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with chest pain.
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 190_Cage.txt.tx.3: He reports an episode of mid-sternal chest pain that he describes as a "deep ache and heavy" while he was walking while carrying heavy groceries 3 days ago which was non-radiating and lasted for 5-10 minutes. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: an episode of mid-sternal chest pain
+Meta Mapping (745):
+   581   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   778   C0332189:Episode of [Temporal Concept]
+   607   C0241243:STERNAL PAIN (sternal pain) [Finding]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (745):
+   581   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   778   C0332189:Episode of [Temporal Concept]
+   581   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   612   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Meta Mapping (745):
+   581   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   609   C0575503:Pain of sternum [Finding]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: describes as a "deep ache
+Meta Mapping (695):
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heavy"
+Meta Mapping (1000):
+  1000   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: was
+
+Phrase: walking
+Meta Mapping (1000):
+  1000   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries 3 days ago
+Meta Mapping (764):
+   637   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: which
+
+Phrase: was
+
+Phrase: non-radiating
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C0332301:radiating (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: lasted for 5-10 minutes.
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 190_Cage.txt.tx.4: He also had lightheadedness during this episode and had to sit down and rest which resolved his pain. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: had
+
+Phrase: lightheadedness during this episode
+Meta Mapping (708):
+   770   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   604   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: to sit down
+Meta Mapping (833):
+   660   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0728713:sit (Does sit) [Finding]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: rest
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: which
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: his pain.
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 190_Cage.txt.tx.5: He notes that for the past 4 months, he had several episodes of pain when he exerted himself which lasted a couple of seconds. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that for the past 4 months,
+Meta Mapping (767):
+   767   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: several episodes of pain
+Meta Mapping (852):
+   604   C0439064:Several (Numerous) [Quantitative Concept]
+   816   C0332189:Episode of [Temporal Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: exerted
+Meta Mapping (1000):
+  1000   C0015264:Exerted (Exertion) [Organism Function]
+
+Phrase: himself which
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a couple of seconds.
+Meta Mapping (708):
+   770   C0010222:couple (Couples (persons)) [Family Group]
+   604   C0457385:Seconds (seconds) [Temporal Concept]
+Processing 190_Cage.txt.tx.6: He also reports a feeling of "pressure" in his epigastrium after eating a heavy meal. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: a feeling of "pressure"
+Meta Mapping (708):
+   770   C1527305:Feeling (Feelings) [Mental Process]
+   604   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: in his epigastrium after eating
+Meta Mapping (733):
+   593   C0150312:In (Present) [Finding]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   760   C0230185:Epigastrium [Body Location or Region]
+   593   C0013470:Eating [Organism Function]
+
+Phrase: a heavy meal.
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 190_Cage.txt.tx.7: He denies fever, chills, nausea, vomiting, and shortness of breath.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: fever,
+Meta Mapping (1000):
+  1000 N C0015967:FEVER (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 190_Cage.txt.tx.8: Medical History: Hypertension, treated with Chlorthalidone and Lisinopril Family history: Mother - Pulmonary embolism in 60's, father - myocardial infarction in  40's and had a bypass surgery Social history: -Tobacco: Currently smokes tobacco 1 pack/day for past 20 years -Alcohol:3-4 glasses/week -Denies marijuana and drug use PE: -No chest wall tenderness, regular rate and rhythm, no edema swelling -Lungs: Clear to auscultation bilaterally  Assessment: Mr. 
+
+Phrase: Medical History
+Meta Mapping (1000):
+  1000   C1704706:Medical History (Medical History Domain) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Hypertension,
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: treated with Chlorthalidone
+Meta Mapping (901):
+   882   C0332293:Treated with [Therapeutic or Preventive Procedure]
+   790   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril Family history
+Meta Mapping (901):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   901   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: Mother - Pulmonary embolism in 60's,
+Meta Mapping (763):
+   593   C0026591:MOTHER (Mother (person)) [Family Group]
+   806   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: father - myocardial infarction in  40's
+Meta Mapping (619):
+   637   C0015671:FATHER (Father (person)) [Family Group]
+   673   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: had a bypass surgery Social history
+Meta Mapping (826):
+   673   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   840   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: : -
+
+Phrase: Tobacco
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Currently smokes tobacco 1 pack/day
+Meta Mapping (780):
+   632   C0521116:Currently (Current (present time)) [Temporal Concept]
+   643   C0439994:smoke tobacco (Tobacco smoke) [Hazardous or Poisonous Substance]
+   827   C4524862:Pack/Day (Packs per Day) [Quantitative Concept]
+
+Phrase: for
+
+Phrase: past 20 years -Alcohol
+Meta Mapping (861):
+   645   C1444637:Past (In the past) [Temporal Concept]
+   694   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   812   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 3-4 glasses/week -
+Meta Mapping (861):
+   694   C0442757:3 4 (3/4) [Finding]
+   645   C0015421:Glasses (Eyeglasses) [Medical Device]
+   812   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: marijuana and drug use PE
+Meta Mapping (794):
+   708   C0024810:MARIJUANA USE (Marijuana Smoking) [Individual Behavior]
+   637   C0013227:Drug (Pharmaceutical Preparations) [Pharmacologic Substance]
+   804   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Meta Mapping (794):
+   637   C0936079:Marijuana (Cannabis) [Plant]
+   673 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+   804   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: : -
+
+Phrase: No chest wall tenderness,
+Meta Mapping (916):
+   645   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   923 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+
+Phrase: regular rate and rhythm,
+Meta Mapping (775):
+   645   C0205272:Regular [Qualitative Concept]
+   645   C1521828:Rate [Quantitative Concept]
+   812 N C0871269:Rhythm [Finding]
+
+Phrase: no edema swelling -Lungs
+Meta Mapping (861):
+   708   C0577599:No swelling (Swelling absent) [Finding]
+   645 N C0013604:OEDEMA (Edema) [Pathologic Function]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+Meta Mapping (861):
+   694   C0577599:No Edema (Swelling absent) [Finding]
+   645 N C0013604:SWELLING (Edema) [Pathologic Function]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+Meta Mapping (861):
+   645   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   694 N C0474434:edema swelling (Swelling or edema) [Finding]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Clear to auscultation bilaterally  Assessment
+Meta Mapping (754):
+   637 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   637   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   804   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 190_Cage.txt.tx.9: Cage is a 46 year old male with hypertension and 20 pack-year tobacco use who presents for mid-sternal chest pain with exertion. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with hypertension
+Meta Mapping (673):
+   581   C0439508:/Year (per year) [Temporal Concept]
+   581   C0580836:Old [Temporal Concept]
+   748   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: 20 pack-year tobacco use
+Meta Mapping (857):
+   673   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   637   C0439508:/Year (per year) [Temporal Concept]
+   840   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+Meta Mapping (857):
+   637   C3842589:20% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+
+Phrase: who
+
+Phrase: presents for mid-sternal chest pain
+Meta Mapping (725):
+   753   C0150312:PRESENT (Present) [Finding]
+   783   C0241243:STERNAL PAIN (sternal pain) [Finding]
+   753   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (725):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   790   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 190_Cage.txt.tx.10: Vitals are significant for an elevated blood pressure of 150/92 , and physical exam does not reveal chest wall tenderness. 
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: are
+
+Phrase: significant for an elevated blood pressure of 150/92 ,
+Meta Mapping (726):
+   742   C0750502:Significant [Idea or Concept]
+   623   C0497247:Elevated Blood Pressure (Increase in blood pressure) [Finding]
+
+Phrase: and
+
+Phrase: physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: reveal
+Meta Mapping (1000):
+  1000   C0443289:reveal (Revealed) [Qualitative Concept]
+
+Phrase: chest wall tenderness.
+Meta Mapping (1000):
+  1000 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+Processing 190_Cage.txt.tx.11: Differential diagnosis of chest pain includes acute coronary syndrome due to pain with exertion and significant family history and risk factors of hypertension and tobacco use. 
+
+Phrase: Differential diagnosis of chest pain
+Meta Mapping (872):
+   806   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: acute coronary syndrome due to pain
+Meta Mapping (864):
+   833   C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+   623   C0678226:Due To (Due to) [Functional Concept]
+   586   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: significant family history
+Meta Mapping (901):
+   660   C0750502:Significant [Idea or Concept]
+   901   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: and
+
+Phrase: risk factors of hypertension
+Meta Mapping (783):
+   833   C0035648:Risk Factors (risk factors) [Finding]
+   604   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: tobacco use.
+Meta Mapping (1000):
+  1000   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+Processing 190_Cage.txt.tx.12: Other diagnosis include costochondritis which is unlikely due to lack of tenderness on palpation and pulmonary embolism which is unlikely due to recurring nature of pain with exertion. 
+
+Phrase: Other diagnosis
+Meta Mapping (1000):
+  1000   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: costochondritis
+Meta Mapping (1000):
+  1000 N C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: unlikely due to lack of tenderness
+Meta Mapping (753):
+   753   C1710571:Unlikely (Unlikely Related to Intervention) [Qualitative Concept]
+   623   C0678226:Due To (Due to) [Functional Concept]
+   586   C0332268:lack (Lacking) [Qualitative Concept]
+   586   C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: on palpation
+Meta Mapping (1000):
+  1000   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: pulmonary embolism
+Meta Mapping (1000):
+  1000 N C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: unlikely due to recurring nature of pain
+Meta Mapping (763):
+   748   C1710571:Unlikely (Unlikely Related to Intervention) [Qualitative Concept]
+   612   C0678226:Due To (Due to) [Functional Concept]
+   581   C0034897:recurring (Recurrence) [Phenomenon or Process]
+   607   C1518852:Pain Nature [Clinical Attribute]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 190_Cage.txt.tx.13: Biliary sludge/gallstones are a possibility due to epigastric pain after eating.   
+
+Phrase: Biliary sludge/gallstones
+Meta Mapping (901):
+   734   C0282074:Biliary Sludge [Disease or Syndrome]
+   827   C0008350:GALLSTONES (Cholelithiasis) [Disease or Syndrome]
+
+Phrase: are
+
+Phrase: a possibility due to epigastric pain
+Meta Mapping (778):
+   681   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   623   C0678226:Due To (Due to) [Functional Concept]
+   623   C0232493:Epigastric pain [Sign or Symptom]
+
+Phrase: after eating.
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+Processing 190_Cage.txt.tx.14: Plan: -Get EKG while resting -Get labs - CBC, CMP, troponin -Schedule patient for stress test  -Get right upper quadrant ultrasound to check for gallstones in gallbladder
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: Get
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: while
+
+Phrase: resting
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: -
+
+Phrase: Get
+
+Phrase: labs - CBC,
+Meta Mapping (888):
+   694   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+   861   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: troponin -Schedule patient for stress test  -
+Meta Mapping (759):
+   617   C0523952:troponin test (Troponin measurement) [Laboratory Procedure]
+   783   C0030703:Schedule, Patient (Schedules, Patient) [Health Care Activity]
+   586   C0038435:Stress [Finding]
+Meta Mapping (759):
+   586   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   783   C0030703:Schedule, Patient (Schedules, Patient) [Health Care Activity]
+   623   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: Get
+
+Phrase: right upper quadrant ultrasound
+Meta Mapping (916):
+   756   C0230177:Right Upper Quadrant (Structure of right upper quadrant of abdomen) [Body Location or Region]
+   812   C1456803:Ultrasound (Ultrasonics (sound)) [Natural Phenomenon or Process]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: check for gallstones
+Meta Mapping (746):
+   790   C1283174:Check (Checking (action)) [Activity]
+   790   C0008350:GALLSTONES (Cholelithiasis) [Disease or Syndrome]
+
+Phrase: in gallbladder
+Meta Mapping (1000):
+  1000   C0016976:Gall Bladder (Gallbladder) [Body Part, Organ, or Organ Component]

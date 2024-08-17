@@ -1,0 +1,382 @@
+Processing 44_Cage.txt.tx.1: Sub. 
+
+Phrase: Sub.
+Meta Mapping (1000):
+  1000   C1264637:SUB (Substance amount) [Quantitative Concept]
+Processing 44_Cage.txt.tx.2: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 44_Cage.txt.tx.3: Cage is a 55yo female presenting with exertional chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55yo female presenting with exertional chest pain.
+Meta Mapping (724):
+   578   C0086287:FEMALE (Females) [Organism Attribute]
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   633   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+Processing 44_Cage.txt.tx.4: Last episode was 3 days ago and occurred when carrying heavy groceries. 
+
+Phrase: Last episode
+Meta Mapping (888):
+   694   C1517741:Last [Qualitative Concept]
+   861   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: and
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: when
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 44_Cage.txt.tx.5: During which time she endorsed SOB and some mild nausea. 
+
+Phrase: During which time
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: she
+
+Phrase: endorsed
+
+Phrase: SOB
+Meta Mapping (1000):
+  1000   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: some mild nausea.
+Meta Mapping (888):
+   694   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   861   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Processing 44_Cage.txt.tx.6: It did not radiate. 
+
+Phrase: It
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 44_Cage.txt.tx.7: She also experiences some mild substernal discomfort after meals. 
+
+Phrase: She
+
+Phrase: also
+
+Phrase: experiences
+Meta Mapping (1000):
+  1000   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: some mild substernal discomfort after meals.
+Meta Mapping (685):
+   586   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   586   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   753   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+   586   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 44_Cage.txt.tx.8: No pain or symptoms with rest. 
+
+Phrase: No pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: or
+
+Phrase: symptoms with rest.
+Meta Mapping (746):
+   790 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   623   C0035253:Rest [Daily or Recreational Activity]
+Processing 44_Cage.txt.tx.9: Resting dissipates symptoms. 
+
+Phrase: Resting
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: dissipates
+
+Phrase: symptoms.
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 44_Cage.txt.tx.10: Describes the discomfort as a 7/10 and says that it is a dull ache and heavy feeling. 
+
+Phrase: Describes
+
+Phrase: the discomfort as a 7/10
+Meta Mapping (722):
+   753   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+   617   C5191365:10.7 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: says
+
+Phrase: that
+
+Phrase: it
+
+Phrase: is
+
+Phrase: a dull ache
+Meta Mapping (888):
+   694   C0278144:Dull (Dull pain) [Sign or Symptom]
+   861   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heavy feeling.
+Meta Mapping (1000):
+  1000   C0581912:Heavy feeling [Finding]
+Processing 44_Cage.txt.tx.11: Negative ROS at time of interview.  
+
+Phrase: Negative ROS at time of interview.
+Meta Mapping (712):
+   783   C4727296:ROS Negative (ROS1 Negative) [Laboratory or Test Result]
+   586   C0040223:TIME (Time) [Temporal Concept]
+   586   C0021822:Interview [Activity]
+Processing 44_Cage.txt.tx.12: Objective: VS: T98 R85 R14 BP 150/92 P.E.: 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T98 R85 R14 BP 150/92 P.E.
+Meta Mapping (793):
+   793   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+Processing 44_Cage.txt.tx.13: RRR, lungs CTA bilaterally, extremities are warm and well perfused. 
+
+Phrase: RRR,
+
+Phrase: lungs CTA bilaterally,
+Meta Mapping (790):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   827   C3540513:CTA (PCYT1A wt Allele) [Gene or Genome]
+
+Phrase: extremities
+Meta Mapping (1000):
+  1000   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: are
+
+Phrase: warm
+Meta Mapping (1000):
+  1000   C0582051:Warm (Feels warm) [Finding]
+
+Phrase: and
+
+Phrase: well
+Meta Mapping (1000):
+  1000   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: perfused.
+Meta Mapping (966):
+   966   C1549542:Perfuse [Functional Concept]
+Processing 44_Cage.txt.tx.14: Denies abdominal or chest tenderness with palpation.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: abdominal
+Meta Mapping (1000):
+  1000   C0000726:Abdominal (Abdomen) [Body Location or Region]
+
+Phrase: or
+
+Phrase: chest tenderness with palpation.
+Meta Mapping (783):
+   833 N C0239008:chest tenderness (Chest wall tenderness) [Finding]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 44_Cage.txt.tx.15: PMHx: HTN Family history concerning for CAD in father (died from MI at 40) and pulm. embolism in mother Meds- Chlorthalidone, lisinopril  Assessment: Ms. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN Family history concerning for CAD
+Meta Mapping (745):
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   623   C0241889:FAMILY HISTORY (Family history) [Finding]
+   719   C2699424:Concern [Idea or Concept]
+   586   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: in father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: (
+
+Phrase: died from MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at 40
+Meta Mapping (1000):
+  1000   C0439509:/40 [Quantitative Concept]
+
+Phrase: )
+
+Phrase: and
+
+Phrase: pulm. embolism in mother Meds- Chlorthalidone,
+Meta Mapping (723):
+   586   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   753   C1704212:Embolism, NOS (Embolus) [Finding]
+   586   C0026591:MOTHER (Mother (person)) [Family Group]
+   586   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   586   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril  Assessment
+Meta Mapping (888):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 44_Cage.txt.tx.16: Cage is a 55yo female who presents with a several month history of exertional chest pain that subsides with rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55yo female
+Meta Mapping (861):
+   861   C0086287:FEMALE (Females) [Organism Attribute]
+
+Phrase: who
+
+Phrase: presents with a several month history of exertional chest pain
+Meta Mapping (743):
+   739   C0150312:PRESENT (Present) [Finding]
+   739   C0439231:Month (month) [Temporal Concept]
+   797   C4512001:History of chest pain [Finding]
+   739   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: subsides with rest.
+Meta Mapping (790):
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 44_Cage.txt.tx.17: She also endorsed substernal discomfort that sometimes occurs after meals. 
+
+Phrase: She also endorsed substernal discomfort
+Meta Mapping (812):
+   812   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: sometimes
+Meta Mapping (1000):
+  1000   C1998882:Sometimes [Temporal Concept]
+
+Phrase: occurs after meals.
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 44_Cage.txt.tx.18: P.E. is benign and PMHx sig. for HTN  Plan: -Cardiac stress test to evaluate for stable angina -EKG to rule out MI -start on PPI to alleviate possible GERD symptoms  Differential -stable angina -GERD -MI -muscle strain -costochondritis
+
+Phrase: P.E.
+Meta Mapping (861):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: is
+
+Phrase: benign
+Meta Mapping (1000):
+  1000   C0205183:BENIGN (Benign) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: PMHx sig.
+Meta Mapping (861):
+   861   C1515092:SIG (Surveillance Implementation Group) [Health Care Related Organization]
+
+Phrase: for HTN  Plan
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: Cardiac stress test
+Meta Mapping (1000):
+  1000   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate for stable angina -EKG
+Meta Mapping (761):
+   760   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   806 N C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   760   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out MI -start on PPI
+Meta Mapping (733):
+   593   C0439787:Out (Out (direction)) [Spatial Concept]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   760   C0439659:Start (Beginning) [Temporal Concept]
+   593 N C0871125:PPI (prepulse inhibition activity) [Physiologic Function]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: alleviate
+
+Phrase: possible GERD symptoms  Differential -stable angina -GERD -MI -muscle strain -costochondritis
+Meta Mapping (745):
+   622   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   622 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   622 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   622   C0443199:Differential (Differential quality) [Qualitative Concept]
+   634 N C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   622   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   634 N C0080194:Muscle Strain (Muscle strain) [Injury or Poisoning]
+   788 N C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]

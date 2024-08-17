@@ -1,0 +1,116 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0439508,/Year,per year,-645,-775,46 year old male,12,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0580836,Old,Old,-645,-775,46 year old male,12,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C1706180,Male,"Male Gender, Self Report",-812,-775,46 year old male,12,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0150312,PRESENT,Present,-790,-730,presents after experiencing,29,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0237607,experience,Practice Experience,-756,-730,presents after experiencing,29,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C4321249,AN,DIAPH3 wt Allele,-575,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0332189,Episode of,Episode of,-764,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0184567,Sudden onset pain,Acute onset pain,-617,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0205125,DEEP,Deep (qualifier value),-575,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-575,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C1527391,Chest,Anterior thoracic region,-575,-824,an episode of sudden onset deep heavy chest pain,57,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C1272689,Started,Started,-1000,-1000,started,111,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,132,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-694,-694,heavy groceries.,141,True,Subjective: 46 year old male presents after experiencing an episode of sudden onset deep heavy chest pain that started while he was carrying heavy groceries. 
+C0700287,reports,Reporting,-1000,-1000,reports,161,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,174,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C0205265,Initially,Initially,-827,-802,initially 7/10,187,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C3842590,10%,10%,-827,-802,initially 7/10,187,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1517741,Last,Last,-726,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C4517521,10.5,10.5,-797,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C0439232,minutes,Minute of time,-760,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1517741,Last,Last,-726,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C3842590,10%,10%,-760,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C0886384,minute 5,5 minutes Office visit,-797,-752,lasted about 5-10 minutes,206,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1705850,Before,Before - dosing instruction fragment,-604,-733,before resolving with rest.,232,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C3714811,resolving,Resolved,-770,-733,before resolving with rest.,232,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1622890,ResT,site-specific telomere resolvase activity,-604,-733,before resolving with rest.,232,True,He reports that the pain was initially 7/10 and lasted about 5-10 minutes before resolving with rest. 
+C1317574,Notes,Note (document),-1000,-1000,notes,263,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C4331910,Past Month,Past 30 days,-783,-783,that in the past 4 month,269,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C1519042,2-3,Phase II/III Trial,-1000,-1000,2-3,305,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0332189,Episodes,Episode of,-1000,-1000,"such episodes,",309,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0205156,Previous,Previous,-694,-872,the previous ones,332,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0205447,ONE,One,-827,-872,the previous ones,332,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0205171,Only,Singular,-1000,-1000,only,350,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C1517741,Last,Last,-966,-966,lasted,355,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0565930,/second,per second,-1000,-1000,a second,362,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0205448,Two,Two,-790,-790,two at most.,374,True,"He notes that in the past 4 month he has had 2-3 such episodes, however the previous ones only lasted a second or two at most. "
+C0700287,reports,Reporting,-1000,-1000,reports,390,True,He reports that he does not exercise very much. 
+C1518422,Not,Negation,-1000,-1000,not,411,True,He reports that he does not exercise very much. 
+C1522704,Exercise,Exercise Pain Management,-1000,-1000,exercise,415,True,He reports that he does not exercise very much. 
+C0442824,Very much,Very,-1000,-1000,very much.,424,True,He reports that he does not exercise very much. 
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,"a heart attack,",466,True,"He inquires if he may have had a heart attack, given his family history. "
+C1442162,GIVEN,GIVEN,-1000,-1000,given,482,True,"He inquires if he may have had a heart attack, given his family history. "
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,his family history.,488,True,"He inquires if he may have had a heart attack, given his family history. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,511,True,He denies shortness of breath or decreased exercise tolerance.    
+C0013404,SHORTNESS OF BREATH,Dyspnea,-1000,-1000,shortness of breath,518,False,He denies shortness of breath or decreased exercise tolerance.    
+C0424551,DECREASED EXERCISE TOLERANCE,Impaired exercise tolerance,-1000,-1000,decreased exercise tolerance.,541,False,He denies shortness of breath or decreased exercise tolerance.    
+C1571702,Objective,Objective observation,-1000,-1000,Objective,574,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C2004062,History,History of previous events,-861,-861,Pertinent History,585,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C0015671,FATHER,Father (person),-760,-687,Father with history of MI,604,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C2004062,History,History of previous events,-593,-687,Father with history of MI,604,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C0683474,MI,Motivational Interviewing,-593,-687,Father with history of MI,604,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C0001779,AGE,Age,-637,-762,at age 40 s/p CABG.,630,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C3842587,40%,40%,-637,-762,at age 40 s/p CABG.,630,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C0010055,CABG,Coronary Artery Bypass Surgery,-804,-762,at age 40 s/p CABG.,630,True,Objective: Pertinent History: Father with history of MI at age 40 s/p CABG. 
+C0026591,MOTHER,Mother (person),-760,-816,Mother with history of hypertension.,650,True,Mother with history of hypertension. 
+C0455527,History of - hypertension,H/O: hypertension,-695,-816,Mother with history of hypertension.,650,True,Mother with history of hypertension. 
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical Exam,687,True,"Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. "
+C0518766,"Signs, Vital",Vital signs,-1000,-1000,Vital signs,703,True,"Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. "
+C1708288,BP,HP wt Allele,-827,-827,"BP 150/92,",716,True,"Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. "
+C0518766,VITAL,Vital signs,-688,-721,vitals otherwise within normal limits.,727,True,"Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. "
+C0442816,Normal limits,Normal limits,-640,-721,vitals otherwise within normal limits.,727,True,"Physical Exam:  Vital signs: BP 150/92, vitals otherwise within normal limits. "
+C4318503,CV,ciliary vesicle,-1000,-1000,CV,766,True,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C0205272,Regular,Regular,-694,-888,Regular rate,770,True,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C0871208,Rate,Rating (action),-861,-888,Regular rate,770,True,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C0871269,Rhythm,Rhythm,-1000,-1000,"rhythm,",787,True,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C0018808,MURMUR,Heart murmur,-1000,-1000,"no murmur,",795,False,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C4283816,RUB,Rubricyte Count,-1000,-1000,rub.,817,True,"CV: Regular rate and rhythm, no murmur, gallop, or rub. "
+C0425687,Jugular venous distension,Jugular venous engorgement,-1000,-1000,No jugular venous distension.,822,False,No jugular venous distension. 
+C0428897,Jugular venous pressure,Jugular venous pressure,-694,-694,Jugular venous pressure 3.5 cm.,852,True,Jugular venous pressure 3.5 cm. 
+C0205099,CENTRAL,Central,-1000,-1000,Central,884,True,Central and peripheral pulses 2+ bilaterally. 
+C0232139,peripheral pulses,Peripheral pulse,-861,-861,peripheral pulses 2+ bilaterally.,896,True,Central and peripheral pulses 2+ bilaterally. 
+C0007280,carotid bruits,Carotid bruit,-1000,-1000,No carotid bruits.,930,False,No carotid bruits. 
+C0239340,Lower Extremity oedema,Edema of lower extremity,-1000,-1000,No lower extremity edema.,949,False,No lower extremity edema. 
+C0024109,LUNG,Lung,-1000,-1000,Lung,975,True,Lung: Clear to auscultation bilaterally. 
+C1709157,Clear,Negative Surgical Margin,-770,-708,Clear to auscultation bilaterally.,981,True,Lung: Clear to auscultation bilaterally. 
+C0004339,AUSCULTATION,Auscultation,-604,-708,Clear to auscultation bilaterally.,981,True,Lung: Clear to auscultation bilaterally. 
+C0028128,NO,nitric oxide,-593,-928,No increased work of breathing.,1016,True,No increased work of breathing. 
+C0859927,Increased work of breathing,Increased work of breathing,-926,-928,No increased work of breathing.,1016,False,No increased work of breathing. 
+C0000726,ABDOMEN,Abdomen,-1000,-1000,Abdomen,1048,True,Abdomen: No abdominal bruits.  
+C0221755,abdominal bruits,Abdominal bruit,-1000,-1000,No abdominal bruits.,1057,False,Abdomen: No abdominal bruits.  
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1079,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0439508,/Year,per year,-573,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0580836,Old,Old,-573,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0857121,hypertensive,Hypertensive (finding),-573,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C1706180,Male,"Male Gender, Self Report",-739,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0241889,FAMILY HISTORY,Family history,-593,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0683474,MI,Motivational Interviewing,-573,-680,46 year old hypertensive male with family history of MI,1091,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0332239,Young,Young,-694,-888,at young age,1147,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0001779,AGE,Age,-861,-888,at young age,1147,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0150312,PRESENT,Present,-748,-769,presents with worsening exertional chest pain concerning,1160,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C1457868,Worsening,Worse,-748,-769,presents with worsening exertional chest pain concerning,1160,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0232288,"Chest pain, exertional",Chest pain on exertion,-814,-769,presents with worsening exertional chest pain concerning,1160,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C2699424,Concern,Concern,-714,-769,presents with worsening exertional chest pain concerning,1160,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C1956346,CORONARY ARTERY DISEASE,Coronary Artery Disease,-1000,-1000,for coronary artery disease.,1217,True,Assessment: 46 year old hypertensive male with family history of MI at young age presents with worsening exertional chest pain concerning for coronary artery disease. 
+C0020538,HYPERTENSION,Hypertensive disease,-1000,-1000,His hypertension,1246,True,His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+C1532253,Sedentary Lifestyle,Sedentary lifestyle,-1000,-1000,sedentary lifestyle,1267,True,His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+C1882509,Put,put - instruction imperative,-1000,-1000,put,1287,True,His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+C4699158,Increased risk,Increased risk,-833,-833,him at increased risk,1291,True,His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,for heart attack.,1313,True,His hypertension and sedentary lifestyle put him at increased risk for heart attack.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1332,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C1623258,EKG,Electrocardiography,-861,-888,EKG now,1339,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C1948052,Now,Now (temporal qualifier),-694,-888,EKG now,1339,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1347,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C1516048,Assess,Assessed,-770,-733,assess for prior MI,1350,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C2826257,PRIOR,Prior Medication Usage,-770,-733,assess for prior MI,1350,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C0683474,MI,Motivational Interviewing,-770,-733,assess for prior MI,1350,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C3887511,Evidence,Evidence,-770,-772,evidence of ischemic changes.,1373,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C2826576,Ischemic Change,Ischemic Change,-650,-772,evidence of ischemic changes.,1373,True,Plan:  EKG now to assess for prior MI or evidence of ischemic changes. 
+C0015260,Exercise stress test,Exercise stress test,-1000,-1000,Exercise stress test,1403,True,Exercise stress test to assess for demand ischemia. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1424,True,Exercise stress test to assess for demand ischemia. 
+C1516048,Assess,Assessed,-770,-783,assess for demand ischemia.,1427,True,Exercise stress test to assess for demand ischemia. 
+C4049375,Demand ischemia,Ischemia co-occurrent and due to increased oxygen demand,-833,-783,assess for demand ischemia.,1427,True,Exercise stress test to assess for demand ischemia. 
+C0420385,Cardiological referral,Referral to cardiology service,-822,-822,Referral to cardiology.,1455,True,Referral to cardiology.

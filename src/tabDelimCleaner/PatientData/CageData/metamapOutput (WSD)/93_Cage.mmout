@@ -1,0 +1,633 @@
+Processing 93_Cage.txt.tx.1: S:  CC: "I had chest pain" HPI: Mr. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: "I
+Meta Mapping (1000):
+  1000   C0021966:I- (Iodides) [Inorganic Chemical]
+
+Phrase: had
+
+Phrase: chest pain" HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 93_Cage.txt.tx.2: Cage is a 46 yo M with history of HTN who presents after having an episode of substernal, dull chest pain 4 days ago while carrying groceries to his car. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo M with history of HTN
+Meta Mapping (678):
+   767   C2346751:A/m (Ampere per Meter) [Quantitative Concept]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   578   C0262512:History, NOS (History of present illness) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: after
+
+Phrase: having
+
+Phrase: an episode of substernal, dull chest pain 4 days ago
+Meta Mapping (787):
+   573   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   760   C0332189:Episode of [Temporal Concept]
+   611   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+   573   C0278144:Dull (Dull pain) [Sign or Symptom]
+   574   C3840892:Day 4 [Finding]
+
+Phrase: while
+
+Phrase: carrying groceries to his car.
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 93_Cage.txt.tx.3: The pain started abruptly, "knocked the wind out of him", and was associated with some dizziness. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: abruptly,
+
+Phrase: "
+
+Phrase: knocked
+
+Phrase: the wind out of him",
+Meta Mapping (695):
+   760   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+   593   C0439787:Out (Out (direction)) [Spatial Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with some dizziness.
+Meta Mapping (783):
+   833   C0332281:Associated with [Qualitative Concept]
+   770   C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Processing 93_Cage.txt.tx.4: It was non radiating. 
+
+Phrase: It
+
+Phrase: was
+
+Phrase: non radiating.
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C0332301:radiating (Radiating to) [Functional Concept]
+Processing 93_Cage.txt.tx.5: The pain resolved when he sat in his car and rested for 5-10 minutes. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: sat in his car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: rested for 5-10 minutes.
+Meta Mapping (761):
+   760   C0035253:rested (Rest) [Daily or Recreational Activity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (761):
+   760   C0035253:rested (Rest) [Daily or Recreational Activity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 93_Cage.txt.tx.6: Notes some history of passing "twinges" in the same area in the past, that lasted less than a second, and usually were associated with physical activity. 
+
+Phrase: Notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: some history of passing "twinges"
+Meta Mapping (695):
+   593   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   760   C0262512:History, NOS (History of present illness) [Finding]
+
+Phrase: in the same area in the past,
+Meta Mapping (755):
+   638   C1444637:In the past [Temporal Concept]
+   581   C0445247:SAME (Same) [Qualitative Concept]
+   748   C0205146:AREA (Area) [Spatial Concept]
+
+Phrase: that
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: less than a second,
+Meta Mapping (783):
+   833   C0439092:Less Than [Quantitative Concept]
+   770   C0565930:/second (per second) [Temporal Concept]
+
+Phrase: and
+
+Phrase: usually
+Meta Mapping (1000):
+  1000   C3538928:Usually (Usual) [Qualitative Concept]
+
+Phrase: were
+
+Phrase: associated with physical activity.
+Meta Mapping (888):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+Processing 93_Cage.txt.tx.7: He denies nausea, vomiting, abd pain, cough, headaches, blurred vision, and had no other associated symptoms at that time.  
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: abd pain,
+Meta Mapping (888):
+   694   C0000726:abd (Abdomen) [Body Location or Region]
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: cough,
+Meta Mapping (1000):
+  1000 N C0010200:COUGH (Coughing) [Sign or Symptom]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: blurred vision,
+Meta Mapping (1000):
+  1000 N C0344232:BLURRED VISION (Blurred vision) [Finding]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: no other associated symptoms at
+Meta Mapping (745):
+   797   C0231221:NO SYMPTOMS (Asymptomatic) [Finding]
+   593   C0332281:Associated (Associated with) [Qualitative Concept]
+Meta Mapping (745):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   806 N C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+
+Phrase: that time.
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+Processing 93_Cage.txt.tx.8: He is concerned today that he had a heart attack, since his father died in his 50s from cardiac causes.  
+
+Phrase: He
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: today
+Meta Mapping (1000):
+  1000   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a heart attack,
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: since
+
+Phrase: his father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died in his 50s
+Meta Mapping (708):
+   770   C1306577:Died (Death (finding)) [Finding]
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: from cardiac causes.
+Meta Mapping (1000):
+  1000   C0741922:CARDIAC causes [Disease or Syndrome]
+Processing 93_Cage.txt.tx.9: ROS:  Pmhx: HTN Meds: Chlorthalidone 25mg daily, lisinopril 10mg daily No surgical history No allergies Tob: 1ppd x 20 years ETOH: 2-3  glasses of wine on the weekend No illicit substances Works in IT  O: Physical Exam VS: Afebrile General: alert and oriented CV: regular rate and rhythm, no murmurs rubs or gallops Pulm: lungs clear to auscultation bilaterally  Assessment: Mr Cage is a 46 yo M with HTN and a long smoking history who presents with a single episode of chest pain 4 days ago that has since resolved. 
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Pmhx
+
+Phrase: :
+
+Phrase: HTN Meds
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg daily,
+Meta Mapping (635):
+   660   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   660   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10mg daily
+Meta Mapping (635):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   660   C0332173:Daily [Temporal Concept]
+
+Phrase: No surgical history
+Meta Mapping (1000):
+  1000 N C0744961:surgical history [Finding]
+
+Phrase: No allergies Tob
+Meta Mapping (888):
+   694 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+   861   C1420851:TOB (TOB1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 1ppd x 20 years ETOH
+Meta Mapping (785):
+   673   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   804   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3  glasses of wine
+Meta Mapping (875):
+   668 N C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on the weekend
+Meta Mapping (1000):
+  1000   C0680190:Weekend [Temporal Concept]
+
+Phrase: No illicit substances
+Meta Mapping (983):
+   983   C2697662:Illicit Substance [Chemical Viewed Functionally]
+
+Phrase: Works in IT  O
+Meta Mapping (770):
+   770   C0043227:works (Work) [Occupational Activity]
+
+Phrase: :
+
+Phrase: Physical Exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: Afebrile General
+Meta Mapping (888):
+   694 N C0277797:Afebrile (Apyrexial) [Finding]
+   861   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: alert
+Meta Mapping (1000):
+  1000   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: and
+
+Phrase: oriented CV
+Meta Mapping (888):
+   694   C1961028:Oriented (Oriented to place) [Finding]
+   861   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to auscultation bilaterally  Assessment
+Meta Mapping (687):
+   760 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   760   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   760   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr Cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo M with HTN
+Meta Mapping (712):
+   783   C2346751:A/m (Ampere per Meter) [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: a long smoking history
+Meta Mapping (824):
+   645   C0205166:LONG (Long) [Qualitative Concept]
+   861   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: who
+
+Phrase: presents with a single episode of chest pain 4 days ago
+Meta Mapping (715):
+   738   C0150312:PRESENT (Present) [Finding]
+   756   C0556986:Single episode [Temporal Concept]
+   744   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   737   C3840892:Day 4 [Finding]
+
+Phrase: that
+
+Phrase: has
+
+Phrase: since
+Meta Mapping (1000):
+  1000   C1711239:Since [Temporal Concept]
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 93_Cage.txt.tx.10: He notes a history of cardiac disease in his father who passed in his 50s. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: a history of cardiac disease
+Meta Mapping (843):
+   844   C0730226:History of Disease (H/O: Disorder) [Finding]
+   593   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: in his father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: who
+
+Phrase: passed in his 50s.
+Meta Mapping (708):
+   770   C2828386:Passed (Pass (indicator)) [Finding]
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+Processing 93_Cage.txt.tx.11: Suspect this is likely anginal in nature, but given the smoking and family history will pursue full cardiac work up.  
+
+Phrase: Suspect
+Meta Mapping (1000):
+  1000   C1571873:Suspect (Allergy Clinical Status - Suspect) [Idea or Concept]
+
+Phrase: this
+
+Phrase: is
+
+Phrase: likely anginal in nature,
+Meta Mapping (709):
+   604   C0750492:Likely (Probably) [Idea or Concept]
+   699   C0002962:anginas (Angina Pectoris) [Sign or Symptom]
+   604   C1262865:Nature (Natures) [Functional Concept]
+
+Phrase: but
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: the smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: and
+
+Phrase: family history
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: will
+
+Phrase: pursue
+
+Phrase: full cardiac work up.
+Meta Mapping (861):
+   604   C0443225:Full [Qualitative Concept]
+   770   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   833   C0750430:Work-up [Diagnostic Procedure]
+Processing 93_Cage.txt.tx.12: Plan: EKG in office today to evaluate for any signs of T wave inversions or ST elevations, though have a low suspicion for MI given his complete resolution of symptoms, and the exertional nature of the pain he described. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG in office today
+Meta Mapping (775):
+   645   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   645   C0442603:Office [Manufactured Object]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate for any signs of T wave inversions
+Meta Mapping (721):
+   744   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   744 N C0311392:SIGNS (Physical findings) [Finding]
+   793 N C0520888:inversions t wave (Inverted T wave) [Finding]
+
+Phrase: or
+
+Phrase: ST elevations,
+Meta Mapping (983):
+   983 N C0520886:ST ELEVATION (ST segment elevation (finding)) [Finding]
+
+Phrase: though
+
+Phrase: have
+
+Phrase: a low suspicion for MI
+Meta Mapping (696):
+   593   C0205251:Low (low) [Qualitative Concept]
+   760   C0242114:SUSPICION (Suspicion) [Mental Process]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: his complete resolution of symptoms,
+Meta Mapping (733):
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0205197:COMPLETE (Complete) [Qualitative Concept]
+   760   C2699488:Resolution [Conceptual Entity]
+   593   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+
+Phrase: and
+
+Phrase: the exertional nature of the pain
+Meta Mapping (722):
+   586   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   783   C1518852:Pain Nature [Clinical Attribute]
+
+Phrase: he
+
+Phrase: described.
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+Processing 93_Cage.txt.tx.13: Order ECHO to evaluate for any hypertrophy, valvular dysfunction, or heart failure. 
+
+Phrase: Order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: ECHO
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate for any hypertrophy,
+Meta Mapping (708):
+   770   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   770 N C0020564:HYPERTROPHY (Hypertrophy) [Pathologic Function]
+
+Phrase: valvular dysfunction,
+Meta Mapping (853):
+   623   C0184252:Valves (Medical Valves) [Medical Device]
+   861   C0031847:dysfunction (physiopathological) [Functional Concept]
+
+Phrase: or
+
+Phrase: heart failure.
+Meta Mapping (1000):
+  1000 N C0018801:Failure, Heart (Heart failure) [Disease or Syndrome]
+Processing 93_Cage.txt.tx.14: Lower suspicion for this given normal physical exam Schedule stress test Will advise smoking cessation (did not do in the encounter today)
+
+Phrase: Lower suspicion for this given normal physical exam Schedule stress test
+Meta Mapping (699):
+   571   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+   738   C0242114:SUSPICION (Suspicion) [Mental Process]
+   571   C0205307:NORMAL (Normal) [Qualitative Concept]
+   589   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+   571   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+   589   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: Will
+
+Phrase: advise
+
+Phrase: smoking cessation
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+
+Phrase: (
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: do in the encounter today
+Meta Mapping (696):
+   760   C2828361:Do (Do (activity)) [Activity]
+   760   C1947978:Encounter [Behavior]
+   760   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: )

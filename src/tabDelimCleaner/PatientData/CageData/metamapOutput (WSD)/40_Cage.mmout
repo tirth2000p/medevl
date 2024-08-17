@@ -1,0 +1,524 @@
+Processing 40_Cage.txt.tx.1: Subjective Mr. 
+
+Phrase: Subjective Mr.
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.2: Cage, 40yo male, with PMHx pertinent for HTN, presented with a recent episode of chest pain. 
+
+Phrase: Cage,
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: 40yo male,
+Meta Mapping (861):
+   861   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: with PMHx
+
+Phrase: pertinent for HTN,
+Meta Mapping (623):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: presented with a recent episode of chest pain.
+Meta Mapping (742):
+   744   C0449450:Presented (Presentation) [Idea or Concept]
+   770   C0332185:Recent episode (Recent) [Temporal Concept]
+   765   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 40_Cage.txt.tx.3: It happened 3 days ago when he was carrying grocery bags in the parking lot walking towards his car. 
+
+Phrase: It
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying grocery bags in the parking lot walking
+Meta Mapping (704):
+   578   C0206243:Carrying [Activity]
+   744   C0179196:Bags (Bag, device) [Manufactured Object]
+   604   C0442639:Parking lot (Car park) [Manufactured Object]
+   584   C3846681:Walk-in, not otherwise specified [Finding]
+
+Phrase: towards his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 40_Cage.txt.tx.4: The pain started suddenly, located in his left chest, without radiating to anywhere. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: suddenly,
+
+Phrase: located in his left chest,
+Meta Mapping (744):
+   760   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C3841482:Thoracic-left [Body Location or Region]
+
+Phrase: without radiating to anywhere.
+Meta Mapping (810):
+   604   C0332288:Without [Qualitative Concept]
+   833   C0332301:Radiating to [Functional Concept]
+Processing 40_Cage.txt.tx.5: The pain was 7/10. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: 7/10.
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+Processing 40_Cage.txt.tx.6: Mr. 
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.7: Cage had to sit down and took a rest for about 5 â€“ 10 minutes before the pain went away. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: had
+
+Phrase: to sit down
+Meta Mapping (833):
+   660   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0728713:sit (Does sit) [Finding]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: a rest for about 5 â€“ 10 minutes
+Meta Mapping (694):
+   744   C0035253:Rest [Daily or Recreational Activity]
+   604   C0456692:/10 minutes (/10 min) [Temporal Concept]
+
+Phrase: before the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: went
+
+Phrase: away.
+Processing 40_Cage.txt.tx.8: He also reported feeling light headed while he was having the pain. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: reported
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+
+Phrase: feeling light headed
+Meta Mapping (888):
+   660   C1527305:Feeling (Feelings) [Mental Process]
+   901   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: was
+
+Phrase: having
+
+Phrase: the pain.
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 40_Cage.txt.tx.9: During the past 4 month, Mr. 
+
+Phrase: During the past 4 month,
+Meta Mapping (913):
+   913   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.10: Cage endorsed having some episodes of little pain in his chest but they were not as bad as the one he just had and went away quickly.  
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: endorsed
+
+Phrase: having
+
+Phrase: some episodes of little pain
+Meta Mapping (833):
+   593   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   790   C0332189:Episode of [Temporal Concept]
+   593   C0700321:Little (Small) [Quantitative Concept]
+   593   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in his chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: but
+
+Phrase: they
+
+Phrase: were
+
+Phrase: not as bad
+Meta Mapping (746):
+   790   C1518422:Not (Negation) [Functional Concept]
+   790   C0205169:Bad [Qualitative Concept]
+
+Phrase: as the one
+Meta Mapping (1000):
+  1000   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: he
+
+Phrase: just
+
+Phrase: had
+
+Phrase: and
+
+Phrase: went
+
+Phrase: away quickly.
+Processing 40_Cage.txt.tx.11: His PMHx is pertinent for HTN. 
+
+Phrase: His PMHx
+
+Phrase: is
+
+Phrase: pertinent for HTN.
+Meta Mapping (623):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 40_Cage.txt.tx.12: Medication wise, he is talking chlrothiladone 25mg daily and Lisinopril 10mg daily, consistently.  
+
+Phrase: Medication
+Meta Mapping (1000):
+  1000   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: wise,
+Meta Mapping (1000):
+  1000   C1427738:WISE (SOSTDC1 gene) [Gene or Genome]
+
+Phrase: he
+
+Phrase: is
+
+Phrase: talking
+Meta Mapping (1000):
+  1000   C0234856:Talking (Speaking (activity)) [Daily or Recreational Activity]
+
+Phrase: chlrothiladone 25mg
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: and
+
+Phrase: Lisinopril 10mg daily,
+Meta Mapping (635):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   660   C0332173:Daily [Temporal Concept]
+
+Phrase: consistently.
+Processing 40_Cage.txt.tx.13: Mr. 
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.14: Cage denied being allergic to any medication. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: being
+
+Phrase: allergic to any medication.
+Meta Mapping (708):
+   770   C0700624:Allergic [Functional Concept]
+   604   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+Processing 40_Cage.txt.tx.15: Family medical history is pertinent for dad having a heart attack at the age of 40 and a bypass procedure, and mon having hypertension. 
+
+Phrase: Family medical history
+Meta Mapping (1000):
+  1000   C0241889:Family Medical History (Family history) [Finding]
+
+Phrase: is
+
+Phrase: pertinent for dad
+Meta Mapping (623):
+   623   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: having
+
+Phrase: a heart attack at the age of 40
+Meta Mapping (677):
+   770   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   578   C0001779:AGE (Age) [Organism Attribute]
+   578   C3842587:40% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: a bypass procedure,
+Meta Mapping (888):
+   694   C0741847:Bypass [Therapeutic or Preventive Procedure]
+   861   C0184661:Procedure (Interventional procedure) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: mon
+Meta Mapping (1000):
+  1000   C0026409:MON (Mongolian language) [Language]
+
+Phrase: having
+
+Phrase: hypertension.
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Processing 40_Cage.txt.tx.16: He works in Capitol One in IT; he is single, living in an apartment. 
+
+Phrase: He
+
+Phrase: works in Capitol One
+Meta Mapping (733):
+   770   C0043227:works (Work) [Occupational Activity]
+   770   C0731046:capitol [Organic Chemical,Pharmacologic Substance]
+   770   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: in IT
+
+Phrase: ;
+
+Phrase: he
+
+Phrase: is
+
+Phrase: single,
+Meta Mapping (1000):
+  1000   C0037179:Single (Unmarried person) [Population Group]
+
+Phrase: living in an apartment.
+Meta Mapping (708):
+   770   C0595998:Living (Household composition) [Finding]
+   770   C0457933:Apartment (Residential flat) [Manufactured Object]
+Processing 40_Cage.txt.tx.17: He eats in the companyâ€™s cafeteria. 
+
+Phrase: He
+
+Phrase: eats in the companyâ€™s cafeteria.
+Meta Mapping (672):
+   753   C0013470:Eat (Eating) [Organism Function]
+   753   C1004632:Cafeteria [Eukaryote]
+Processing 40_Cage.txt.tx.18: Typical meals contain a lot of meat, potatoes, and less vegetables and fruits. 
+
+Phrase: Typical meals
+Meta Mapping (888):
+   694   C3538928:Typical (Usual) [Qualitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: contain
+Meta Mapping (1000):
+  1000   C2700400:Contain (Contain (action)) [Activity]
+
+Phrase: a lot of meat,
+Meta Mapping (783):
+   833   C3900172:A lot (A Lot of the Time) [Finding]
+   604   C1561493:Meat (Animal raised for meat production) [Animal]
+
+Phrase: potatoes,
+Meta Mapping (1000):
+  1000   C0032846:Potatoes (Potato) [Food]
+
+Phrase: and
+
+Phrase: less vegetables
+Meta Mapping (888):
+   694   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0042440:Vegetables [Food]
+
+Phrase: and
+
+Phrase: fruits.
+Meta Mapping (1000):
+  1000   C0016767:Fruits (Fruit) [Food]
+Processing 40_Cage.txt.tx.19: He has a 20 pack year smoking history, drink socially on the weekends, and denied drug uses. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: a 20 pack year smoking history,
+Meta Mapping (857):
+   673   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   637   C0439508:/Year (per year) [Temporal Concept]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (857):
+   637   C3842589:20% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: drink
+Meta Mapping (1000):
+  1000   C0452428:Drink (Drink (dietary substance)) [Food]
+
+Phrase: socially on the weekends,
+Meta Mapping (770):
+   770   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: and
+
+Phrase: denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: drug uses.
+Meta Mapping (983):
+   983 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+Processing 40_Cage.txt.tx.20: Objective V: 98 85 14 150/92 Physical exam: no pertinent findings Lab: no admission labs A/P:  Mr. 
+
+Phrase: Objective V
+Meta Mapping (694):
+   694   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: 98 85 14 150/92 Physical exam
+Meta Mapping (768):
+   629   C4319627:98 [Quantitative Concept]
+   629   C4517892:85 [Quantitative Concept]
+   818   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: no pertinent findings Lab
+Meta Mapping (790):
+   660   C2926606:Findings (Procedure findings:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+   827   C0022877:Lab (Laboratory) [Health Care Related Organization,Manufactured Object]
+
+Phrase: :
+
+Phrase: no admission labs
+Meta Mapping (888):
+   694   C0809949:Admission (Admission activity) [Health Care Activity]
+   861 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: A/P
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.21: Cage, 40yo male, with PMHx pertinent for HTN, presented with a recent episode of chest pain. 
+
+Phrase: Cage,
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: 40yo male,
+Meta Mapping (861):
+   861   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: with PMHx
+
+Phrase: pertinent for HTN,
+Meta Mapping (623):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: presented with a recent episode of chest pain.
+Meta Mapping (742):
+   744   C0449450:Presented (Presentation) [Idea or Concept]
+   770   C0332185:Recent episode (Recent) [Temporal Concept]
+   765   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 40_Cage.txt.tx.22: Differential includes heart attack and musculoskeletal pain.  
+
+Phrase: Differential
+Meta Mapping (1000):
+  1000   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C2700399:Include (Include (action)) [Activity]
+
+Phrase: heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: musculoskeletal pain.
+Meta Mapping (1000):
+  1000   C0026858:MUSCULOSKELETAL PAIN (Musculoskeletal Pain) [Finding]
+Processing 40_Cage.txt.tx.23: Chest pain:  order EKG, if result is abnormal, will refer Mr. 
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: order EKG,
+Meta Mapping (888):
+   694   C1705178:Order (Order (action)) [Activity]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: result
+Meta Mapping (1000):
+  1000   C1546471:Result (What subject filter - Result) [Idea or Concept]
+
+Phrase: is
+
+Phrase: abnormal,
+Meta Mapping (1000):
+  1000   C0205161:ABNORMAL (Abnormal) [Finding]
+
+Phrase: will
+
+Phrase: refer
+Meta Mapping (1000):
+  1000   C0205543:Refer (Referring) [Functional Concept]
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 40_Cage.txt.tx.24: Cage to a cardiology clinic for further workups.
+
+Phrase: Cage to a cardiology clinic
+Meta Mapping (745):
+   760   C0337189:Cage (Cage device) [Manufactured Object]
+   640   C1552453:Cardiology clinic (Ambulatory Health Care Facilities; Clinic/Center; Rehabilitation: Cardiac Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for further workups.
+Meta Mapping (694):
+   694   C1517331:Further [Spatial Concept]

@@ -1,0 +1,640 @@
+Processing 54_Cage.txt.tx.1: Subjective CC: chest pain on Sunday HPI: Gerry Cage is a male patient with a past medical history of hypertension who present to clinic with sudden onset chest pain 4 days ago which came about while carrying heavy groceries. 
+
+Phrase: Subjective CC
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain on Sunday HPI
+Meta Mapping (745):
+   806   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   593   C0585025:Sunday [Temporal Concept]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a male patient with a past medical history of hypertension
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   611   C0332119:Past history of [Finding]
+   573   C0205476:Medical [Functional Concept]
+   573   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   611   C0262926:History of MEDICAL (Medical History) [Finding]
+   573   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   573   C0205476:Medical [Functional Concept]
+   615   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+Meta Mapping (716):
+   573   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   757   C0870869:medical patient (medical patients) [Patient or Disabled Group]
+   615   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: present to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with sudden onset chest pain 4 days ago
+Meta Mapping (787):
+   685   C0184567:Sudden onset pain (Acute onset pain) [Sign or Symptom]
+   629   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   795   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: which
+
+Phrase: came
+
+Phrase: about
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 54_Cage.txt.tx.2: He describes it as a substernal, midline, 7/10 deep ache that was associated with lightheadedness and which knocked his wind out. 
+
+Phrase: He
+
+Phrase: describes
+
+Phrase: it
+
+Phrase: as
+
+Phrase: a substernal, midline,
+Meta Mapping (861):
+   861   C0549183:MIDLINE (Midline (qualifier value)) [Spatial Concept]
+
+Phrase: 7/10 deep
+Meta Mapping (790):
+   660   C3842590:10% [Quantitative Concept]
+   827   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+
+Phrase: ache
+Meta Mapping (1000):
+  1000   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: associated with lightheadedness
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: which
+
+Phrase: knocked
+
+Phrase: his
+
+Phrase: wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: out.
+Meta Mapping (1000):
+  1000   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 54_Cage.txt.tx.3: He reports that this pain resolved after 5-10 minutes of rest. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: this pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved after 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 54_Cage.txt.tx.4: He has had intermittent episodes of pain in the same area also prompted by exertion over the last 3-4 months, but that they are much more minor and hardly noticeable. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: intermittent episodes of pain
+Meta Mapping (880):
+   652   C1282310:Intermittent pain [Sign or Symptom]
+   816   C0332189:Episode of [Temporal Concept]
+
+Phrase: in the same area
+Meta Mapping (888):
+   694   C0445247:SAME (Same) [Qualitative Concept]
+   861   C0205146:AREA (Area) [Spatial Concept]
+
+Phrase: also
+
+Phrase: prompted by exertion
+Meta Mapping (746):
+   790   C0871157:prompted (Prompting) [Functional Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: over the last 3-4 months,
+Meta Mapping (886):
+   886   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: but
+
+Phrase: that
+
+Phrase: they
+
+Phrase: are
+
+Phrase: much more minor
+Meta Mapping (802):
+   660   C4281574:Much [Finding]
+   827   C0026193:Minor (Minor (person)) [Population Group]
+
+Phrase: and
+
+Phrase: hardly noticeable.
+Meta Mapping (694):
+   694   C3898981:Hardly (Hardly at All) [Finding]
+Processing 54_Cage.txt.tx.5: He also has pressure with large meals. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: has
+
+Phrase: pressure with large meals.
+Meta Mapping (733):
+   770   C0460139:Pressure (Pressure (finding)) [Finding]
+   770   C0549177:LARGE (Large) [Quantitative Concept]
+   770   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 54_Cage.txt.tx.6: PMHx: Hypertension Meds: chlorthalidone 25 mg PO qd, lisinopril 10mg PO qd Allergies: NKDA SocialHx: EtOH 4-6 drinks/week; tobacco 20 pack years (current smoker), no other drugs; work: branding at CapitalOne; activity level: slowly walks approx. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: Hypertension Meds
+Meta Mapping (888):
+   694   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone 25 mg PO qd,
+Meta Mapping (875):
+   717   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   637   C0442027:PO (Oral) [Spatial Concept]
+   804   C0332173:QD (Daily) [Temporal Concept]
+
+Phrase: lisinopril 10mg PO qd Allergies
+Meta Mapping (786):
+   881   C0571941:Lisinopril allergy [Disease or Syndrome]
+   637   C0442027:PO (Oral) [Spatial Concept]
+   637   C0332173:QD (Daily) [Temporal Concept]
+
+Phrase: :
+
+Phrase: NKDA SocialHx
+
+Phrase: :
+
+Phrase: EtOH 4-6 drinks/week
+Meta Mapping (762):
+   637   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   637   C0452428:Drinks (Drink (dietary substance)) [Food]
+   804   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: ; tobacco 20 pack years
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   875   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   812   C2825051:PACK (Pack unit) [Drug Delivery Device]
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   861   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   812   C0439234:YEARS (year) [Temporal Concept]
+Meta Mapping (861):
+   645   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   645   C3842589:20% [Quantitative Concept]
+   861   C1277691:Pack years [Intellectual Product]
+
+Phrase: (current smoker
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: no
+
+Phrase: other drugs
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: ; work
+Meta Mapping (1000):
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: :
+
+Phrase: branding at CapitalOne
+Meta Mapping (756):
+   756   C0592503:Brand (Proprietary Name) [Intellectual Product]
+
+Phrase: ; activity level
+Meta Mapping (1000):
+  1000 N C0683317:Activity level (activity level) [Finding]
+
+Phrase: :
+
+Phrase: slowly
+Meta Mapping (1000):
+  1000   C0439834:Slowly (Slow) [Qualitative Concept]
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: approx.
+Processing 54_Cage.txt.tx.7: 1 mile daily; Other: 4-5 cups of coffee daily  Objective Vitals: Temp 98F; Pulse 85 bpm; Respirations 14 breaths/min, BP 150/92 PE: general: NAD, appropraitely dressed cardiac: nl s1/s2, no mrg pulm: CTAB, no increased wob  Assessment (summary statement, followed by most likely diagnosis and other differential diagnosis considerations) Gerry Cage is a male patient with a past medical history of hypertension who present to clinic with sudden onset chest pain 4 days ago which came about while carrying heavy groceries. 
+
+Phrase: 1 mile daily
+Meta Mapping (851):
+   660   C2827734:1+ (1+ Score) [Quantitative Concept]
+   827   C0331865:Mile (Miles) [Quantitative Concept]
+   660   C0332173:Daily [Temporal Concept]
+
+Phrase: ;
+
+Phrase: Other
+
+Phrase: :
+
+Phrase: 4-5 cups of coffee daily  Objective Vitals
+Meta Mapping (817):
+   623   C4687967:4 OF 5 (Severity Four Out of Five) [Finding]
+   744   C0180231:Cups (Cup Device) [Medical Device]
+   578   C0009237:Coffee [Food]
+   578   C0332173:Daily [Temporal Concept]
+   578   C1571702:Objective (Objective observation) [Qualitative Concept]
+   506   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Temp 98F
+Meta Mapping (694):
+   694   C0039476:TEMP (Temperature) [Quantitative Concept]
+
+Phrase: ; Pulse 85 bpm
+Meta Mapping (623):
+   660   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+   660   C4517892:85 [Quantitative Concept]
+
+Phrase: ; Respirations 14 breaths/min,
+Meta Mapping (824):
+   645   C0035203:respirations (Respiration) [Physiologic Function]
+   861   C0439386:breaths/min (breaths per minute) [Quantitative Concept]
+
+Phrase: BP 150/92 PE
+Meta Mapping (791):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   812   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: general
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: NAD,
+Meta Mapping (1000):
+  1000   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: appropraitely
+
+Phrase: dressed
+Meta Mapping (966):
+   966   C0453926:Dress (dress garment) [Manufactured Object]
+
+Phrase: cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: nl s1/s2,
+Meta Mapping (851):
+   660   C0560008:nL (nanolitre) [Quantitative Concept]
+   660   C3715215:S1 [Finding]
+   827   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no mrg
+Meta Mapping (1000):
+  1000   C1422304:MRG (MAS1L gene) [Gene or Genome]
+
+Phrase: pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no increased wob  Assessment
+Meta Mapping (802):
+   660   C0442805:INCREASED (Increase) [Functional Concept]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: (summary statement,
+Meta Mapping (888):
+   694   C1706244:Summary (Summary (document)) [Intellectual Product]
+   861   C1710187:Statement [Idea or Concept]
+
+Phrase: followed by most likely diagnosis
+Meta Mapping (762):
+   806   C0332283:Followed by [Temporal Concept]
+   770 N C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+
+Phrase: and
+
+Phrase: other differential diagnosis considerations
+Meta Mapping (901):
+   734   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+   827   C0518609:considerations (Consideration) [Finding]
+
+Phrase: )
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a male patient with a past medical history of hypertension
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   611   C0332119:Past history of [Finding]
+   573   C0205476:Medical [Functional Concept]
+   573   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   611   C0262926:History of MEDICAL (Medical History) [Finding]
+   573   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (716):
+   760   C0150904:male patient (patient is male) [Organism Attribute]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   573   C0205476:Medical [Functional Concept]
+   615   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+Meta Mapping (716):
+   573   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C1444637:Past (In the past) [Temporal Concept]
+   757   C0870869:medical patient (medical patients) [Patient or Disabled Group]
+   615   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: present to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with sudden onset chest pain 4 days ago
+Meta Mapping (787):
+   685   C0184567:Sudden onset pain (Acute onset pain) [Sign or Symptom]
+   629   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   795   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: which
+
+Phrase: came
+
+Phrase: about
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 54_Cage.txt.tx.8: It has since resolved, but he has had other such chest pain episodes over the last 3-4 months associated with activity. 
+
+Phrase: It
+
+Phrase: has
+
+Phrase: since
+Meta Mapping (1000):
+  1000   C1711239:Since [Temporal Concept]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: ,
+
+Phrase: but
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: other such chest pain episodes over the last 3-4 months
+Meta Mapping (683):
+   605   C0029537:Other chest pain [Sign or Symptom]
+   738   C0332189:Episodes (Episode of) [Temporal Concept]
+   571   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: associated with activity.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C1561536:*Activity (*Activity (kind of quantity)) [Idea or Concept]
+Processing 54_Cage.txt.tx.9: 1. 
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 54_Cage.txt.tx.10: Unstable angina 2. 
+
+Phrase: Unstable angina 2.
+Meta Mapping (901):
+   901   C0002965:Angina, Unstable [Disease or Syndrome]
+Processing 54_Cage.txt.tx.11: GERD 3. 
+
+Phrase: GERD 3.
+Meta Mapping (861):
+   861   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 54_Cage.txt.tx.12: Stable angina 4. 
+
+Phrase: Stable angina 4.
+Meta Mapping (901):
+   901   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 54_Cage.txt.tx.13: Hiatal hernia  Plan (listed diagnostics and therapeutics including counseling, follow up instructions) 1. 
+
+Phrase: Hiatal hernia  Plan
+Meta Mapping (901):
+   734   C3489393:HIATAL HERNIA (Hiatal Hernia) [Disease or Syndrome]
+   827   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: (listed diagnostics
+Meta Mapping (855):
+   661   C0745732:List [Intellectual Product]
+   827   C0011900:Diagnostic (Diagnosis) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: therapeutics
+Meta Mapping (1000):
+  1000   C0087111:Therapeutics (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: counseling,
+Meta Mapping (1000):
+  1000   C0740209:Counseling NOS (Encounter due to counseling) [Finding]
+
+Phrase: follow up instructions
+Meta Mapping (901):
+   734   C1522577:Followup (follow-up) [Health Care Activity]
+   827   C0302828:instructions (Instruction [Publication Type]) [Intellectual Product]
+Meta Mapping (901):
+   734   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   827   C0302828:instructions (Instruction [Publication Type]) [Intellectual Product]
+
+Phrase: )
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 54_Cage.txt.tx.14: Send to ED for cardiac workup including EKG, cardiac enzymes, cholesterol 2. 
+
+Phrase: Send to ED
+Meta Mapping (746):
+   790   C1519246:Send (Send (transmission)) [Functional Concept]
+   790   C3538926:ED (Endocrine System Findings Domain) [Intellectual Product]
+
+Phrase: for cardiac workup
+Meta Mapping (901):
+   694   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: cardiac enzymes,
+Meta Mapping (1000):
+  1000   C0443763:Cardiac enzymes [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: cholesterol 2.
+Meta Mapping (861):
+   861   C0008377:CHOLESTEROL (cholesterol) [Biologically Active Substance,Organic Chemical]
+Processing 54_Cage.txt.tx.15: Encourage tobacco cessation and reduction of caffeine intake 3. 
+
+Phrase: Encourage
+
+Phrase: tobacco cessation
+Meta Mapping (1000):
+  1000   C0600549:Tobacco Cessation (Tobacco Use Cessation) [Individual Behavior]
+
+Phrase: and
+
+Phrase: reduction of caffeine intake 3.
+Meta Mapping (745):
+   797   C0861096:Caffeine Reduction (caffeine decreased) [Finding]
+   593   C1512806:Intake [Functional Concept]
+Meta Mapping (745):
+   760   C1293152:Reduction (Reduction procedure) [Therapeutic or Preventive Procedure]
+   640   C4062719:Caffeine intake [Finding]
+Processing 54_Cage.txt.tx.16: Take Tums antacids 4. 
+
+Phrase: Take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: Tums antacids 4.
+Meta Mapping (790):
+   827   C0723950:Tums [Inorganic Chemical,Pharmacologic Substance]
+   827   C0003138:ANTACIDS (Antacids) [Pharmacologic Substance]
+Processing 54_Cage.txt.tx.17: Start statin if elevated cholesterol 5. 
+
+Phrase: Start statin
+Meta Mapping (888):
+   694   C0439659:Start (Beginning) [Temporal Concept]
+   861   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: elevated cholesterol 5.
+Meta Mapping (901):
+   901   C0020443:Cholesterol, Elevated (Hypercholesterolemia) [Disease or Syndrome]
+Processing 54_Cage.txt.tx.18: Increase activity level 6. 
+
+Phrase: Increase activity level 6.
+Meta Mapping (824):
+   812   C0442805:Increase [Functional Concept]
+   861   C0683317:Activity level (activity level) [Finding]
+Processing 54_Cage.txt.tx.19: Cardiac catheterization if indicated
+
+Phrase: Cardiac catheterization
+Meta Mapping (1000):
+  1000   C0018795:Cardiac catheterisation (Cardiac Catheterization Procedures) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: indicated
+Meta Mapping (1000):
+  1000   C1444656:Indicated [Finding]

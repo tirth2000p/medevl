@@ -1,0 +1,485 @@
+Processing 207_Cage.txt.tx.1: 47 y/o male presenting for an episode of deep aching central chest pain 3d ago while carrying heavy groceries from the grocery store. 
+
+Phrase: 47 y/o male presenting for an episode of deep aching central chest pain 3d ago
+Meta Mapping (673):
+   566   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   733   C0449450:Presenting (Presentation) [Idea or Concept]
+   578   C0332189:Episode of [Temporal Concept]
+   566   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   566   C0234238:Aching (Ache) [Sign or Symptom]
+   590   C0423634:Central chest pain [Sign or Symptom]
+   566   C1442459:3D (3 Days) [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries from the grocery store.
+Meta Mapping (711):
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   767   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+Processing 207_Cage.txt.tx.2: He reports associated SOB however the symptoms improved when he sat down to rest. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: associated SOB however
+Meta Mapping (790):
+   660   C0332281:Associated (Associated with) [Qualitative Concept]
+   827   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: the symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: improved
+Meta Mapping (1000):
+  1000   C0184511:Improved [Finding]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: rest.
+Meta Mapping (1000):
+  1000   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 207_Cage.txt.tx.3: Denies n/v, sweating, palpitations, dizziness, chagnes in vision, or recent leg swelling. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: n/v,
+Meta Mapping (694):
+   694   C0441922:N+ (N+ (tumor staging)) [Intellectual Product]
+
+Phrase: sweating
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+
+Phrase: ,
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: chagnes in vision,
+Meta Mapping (623):
+   623   C0042789:Vision [Organism Function]
+
+Phrase: or
+
+Phrase: recent leg swelling.
+Meta Mapping (901):
+   660   C0332185:Recent [Temporal Concept]
+   901 N C0581394:Leg swelling (Swelling of lower limb) [Pathologic Function]
+Processing 207_Cage.txt.tx.4: Hx of HTN however run 120s/80s at home. 
+
+Phrase: Hx of HTN
+Meta Mapping (746):
+   790   C0262926:Hx (Medical History) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: however
+
+Phrase: run
+Meta Mapping (1000):
+  1000   C0600140:run (Does run (finding)) [Finding]
+
+Phrase: 120s/80s
+
+Phrase: at home.
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+Processing 207_Cage.txt.tx.5: Hx of similar episodes in the past while running or doing exercise.  
+
+Phrase: Hx of similar episodes
+Meta Mapping (852):
+   770   C0262926:Hx (Medical History) [Finding]
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+   636   C0332189:Episode of [Temporal Concept]
+
+Phrase: in the past
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: while
+
+Phrase: running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: doing
+
+Phrase: exercise.
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+Processing 207_Cage.txt.tx.6: PMHx: HTN Social: smokes 1p/d 20y family: mom: diabetes PE, Dad: Heart attack in 40s, cardiac bypass surgery  Meds: clorthalidone 25mg PO daily, lisinopril 10mg PO daily  Objective: HR 85 BP 150/92 RR 14 T98.0 General: alert, awake, oriented, well appearing man in appropriate dress and no acute distress HENT: EOMI, mmm, no conjunctival injection Cardiovascular: Pulses 2+ in all extremities, RRR, no m/r/g, no peripheral edema, PMI 2cm in 5th intercostal space Pulm: CTAB, no wheezes/rhonchi/crackles Abd: soft, nontender, nondistended, +BS, no HSM  Assessment: 47 y/o male with PMHx of HTN presenting with episode 3d ago of nonradiating deep substernal pressure while carrying heavy groceries and history of similar pain with exercise. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: 1p/d 20y family
+Meta Mapping (791):
+   645   C1327810:1p (Chromosome 1 Short Arm) [Gene or Genome]
+   812   C0015576:Family [Family Group]
+
+Phrase: :
+
+Phrase: mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: diabetes PE,
+Meta Mapping (888):
+   694   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   861   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Heart attack in 40s,
+Meta Mapping (833):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: cardiac bypass surgery  Meds
+Meta Mapping (916):
+   756   C0010055:Cardiac bypass surgery (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   812   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: clorthalidone 25mg PO daily,
+Meta Mapping (750):
+   812   C0442027:PO (Oral) [Spatial Concept]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10mg PO daily  Objective
+Meta Mapping (766):
+   637   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   637   C0442027:PO (Oral) [Spatial Concept]
+   637   C0332173:Daily [Temporal Concept]
+   804   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: HR 85 BP 150/92 RR 14 T98.0 General
+Meta Mapping (710):
+   623   C4517892:85 [Quantitative Concept]
+   623   C1415692:Bp (HP gene) [Gene or Genome]
+   623   C4554402:RR (RR genotype) [Finding]
+   623   C3842591:0% [Quantitative Concept]
+   790   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: alert,
+Meta Mapping (1000):
+  1000   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: awake,
+Meta Mapping (1000):
+  1000   C0234422:Awake [Finding]
+
+Phrase: oriented
+Meta Mapping (1000):
+  1000   C1961028:Oriented (Oriented to place) [Finding]
+
+Phrase: ,
+
+Phrase: well appearing man in appropriate dress
+Meta Mapping (716):
+   586   C0205170:Well (Good) [Qualitative Concept]
+   553   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   753   C0086582:MAN (Males) [Organism Attribute]
+   586   C1548787:Appropriate [Qualitative Concept]
+   586   C0453926:Dress (dress garment) [Manufactured Object]
+
+Phrase: and
+
+Phrase: no acute distress HENT
+Meta Mapping (623):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+
+Phrase: :
+
+Phrase: EOMI,
+
+Phrase: mmm,
+Meta Mapping (1000):
+  1000 N C0026987:MMM (Myelofibrosis) [Neoplastic Process]
+
+Phrase: no conjunctival injection
+Meta Mapping (1000):
+  1000 N C1761613:CONJUNCTIVAL INJECTION (Conjunctival hyperemia) [Finding]
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: Pulses
+Meta Mapping (1000):
+  1000 N C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: 2+
+Meta Mapping (1000):
+  1000   C2827735:2+ (2+ Score) [Quantitative Concept]
+
+Phrase: in all extremities,
+Meta Mapping (1000):
+  1000   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: RRR,
+
+Phrase: no m/r/g,
+Meta Mapping (901):
+   913   C0456715:m g (g.m) [Quantitative Concept]
+   660   C0205090:R- (Right) [Spatial Concept]
+Meta Mapping (901):
+   734   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   827   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+
+Phrase: no peripheral edema,
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: PMI 2cm in 5th intercostal space
+Meta Mapping (614):
+   586   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+   666   C4068815:5th intercostal space [Body Space or Junction]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no wheezes/rhonchi/
+Meta Mapping (983):
+   983 N C0035508:Wheeze - rhonchi (Rhonchi) [Finding]
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: Abd
+Meta Mapping (1000):
+  1000   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: soft, nontender, nondistended, +BS,
+Meta Mapping (775):
+   645   C0205358:Soft [Qualitative Concept]
+   645   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   812   C4050217:BS (Bug Search Subtest (WPPSI-IV)) [Intellectual Product]
+
+Phrase: no HSM  Assessment
+Meta Mapping (888):
+   694   C1537594:HSM (LRRC4B gene) [Gene or Genome]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 47 y/o male with PMHx of HTN presenting
+Meta Mapping (636):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   575   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with episode 3d ago of nonradiating deep substernal pressure
+Meta Mapping (677):
+   559   C0205125:With depth (Deep (qualifier value)) [Spatial Concept]
+   762   C0332189:Episode of [Temporal Concept]
+   575   C1442459:3D (3 Days) [Temporal Concept]
+   575   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: history of similar pain
+Meta Mapping (733):
+   770   C2004062:History (History of previous events) [Finding]
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exercise.
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+Processing 207_Cage.txt.tx.7: Exam and interview notable for 20 pack year smoking history, family history of father with heart attack in 40s, and elevated BP but normal cardiovascular exam. 
+
+Phrase: Exam
+Meta Mapping (1000):
+  1000   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: and
+
+Phrase: interview
+Meta Mapping (1000):
+  1000   C0021822:Interview [Activity]
+
+Phrase: notable for 20 pack year smoking history,
+Meta Mapping (763):
+   748   C4288581:Notable [Qualitative Concept]
+   612   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   581   C0439234:Year (year) [Temporal Concept]
+   612   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (763):
+   748   C4288581:Notable [Qualitative Concept]
+   581   C3842589:20% [Quantitative Concept]
+   612   C1277691:Pack Year (Pack years) [Intellectual Product]
+   612   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: family history of father
+Meta Mapping (783):
+   833   C0241889:FAMILY HISTORY (Family history) [Finding]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with heart attack in 40s,
+Meta Mapping (763):
+   593   C0332287:With (In addition to) [Functional Concept]
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: elevated BP
+Meta Mapping (1000):
+  1000   C0497247:Elevated BP (Increase in blood pressure) [Finding]
+
+Phrase: but
+
+Phrase: normal cardiovascular exam.
+Meta Mapping (851):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   660   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+   827   C0582103:Exam (Medical Examination) [Health Care Activity]
+Processing 207_Cage.txt.tx.8: Most likely stable angina given family history, histroy of hypertension and several episodes of deep pain with shortness of breath when exercising. 
+
+Phrase: Most likely stable angina given family history,
+Meta Mapping (786):
+   651   C0750501:most likely [Idea or Concept]
+   651   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   818   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: histroy of hypertension
+Meta Mapping (623):
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: several episodes of deep pain
+Meta Mapping (851):
+   593   C0439064:Several (Numerous) [Quantitative Concept]
+   790   C0332189:Episode of [Temporal Concept]
+   640   C0234229:Deep pain [Sign or Symptom]
+
+Phrase: with shortness of breath
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: when
+
+Phrase: exercising.
+Meta Mapping (966):
+   966   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+Processing 207_Cage.txt.tx.9: Other differentials include GERD, PE, hypertensive emergency, myocarditis. 
+
+Phrase: Other differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: hypertensive emergency,
+Meta Mapping (1000):
+  1000   C0745136:Hypertensive emergency [Disease or Syndrome]
+
+Phrase: myocarditis.
+Meta Mapping (1000):
+  1000   C0027059:MYOCARDITIS (Myocarditis) [Disease or Syndrome]
+Processing 207_Cage.txt.tx.10: -ecg today -will refer to cardiology for stress test -start 81mg aspirin  Zach Mayo M3
+
+Phrase: -ecg today -
+Meta Mapping (888):
+   694   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: will
+
+Phrase: refer to cardiology
+Meta Mapping (746):
+   790   C0205543:Refer (Referring) [Functional Concept]
+   790   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: for stress test -start 81mg aspirin  Zach Mayo M3
+Meta Mapping (740):
+   645   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   626   C0439659:Start (Beginning) [Temporal Concept]
+   626   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+   626   C1077578:Mayo (Bikinia le-testui) [Plant]
+   793   C1300554:m3 (Cubic Meter) [Quantitative Concept]

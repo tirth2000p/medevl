@@ -1,0 +1,117 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,5,True,"HPI: Gerry Cage is a 47 y/o male who complains of ""chest pain"" 4 days ago. "
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,5,True,"HPI: Gerry Cage is a 47 y/o male who complains of ""chest pain"" 4 days ago. "
+C1706180,Male,"Male Gender, Self Report",-812,-812,a 47 y/o male,19,True,"HPI: Gerry Cage is a 47 y/o male who complains of ""chest pain"" 4 days ago. "
+C0024902,Pain of breast,Mastodynia,-777,-767,"complains of ""chest pain"" 4 days ago.",37,True,"HPI: Gerry Cage is a 47 y/o male who complains of ""chest pain"" 4 days ago. "
+C3840892,Day 4,Day 4,-757,-767,"complains of ""chest pain"" 4 days ago.",37,True,"HPI: Gerry Cage is a 47 y/o male who complains of ""chest pain"" 4 days ago. "
+C1527305,Feeling,Feelings,-593,-875,feeling pressure in his chest,88,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C0438716,Pressure in chest,Chest pressure,-844,-875,feeling pressure in his chest,88,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C1412323,HIS,AKR1B10 gene,-593,-875,feeling pressure in his chest,88,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C0206243,Carrying,Carrying,-1000,-1000,carrying,124,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-578,-522,"heavy groceries to his car 4 days ago,",133,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C1412323,HIS,AKR1B10 gene,-578,-522,"heavy groceries to his car 4 days ago,",133,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C0004381,Car,Automobiles,-578,-522,"heavy groceries to his car 4 days ago,",133,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C3840892,Day 4,Day 4,-584,-522,"heavy groceries to his car 4 days ago,",133,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,176,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C0702093,/minute,Per Minute,-760,-760,persisted for a few minutes,185,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C1705827,SAT,SAT1 wt Allele,-833,-833,sat down.,222,True,"He describes feeling pressure in his chest while carrying heavy groceries to his car 4 days ago, and the pain persisted for a few minutes after he sat down. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,232,True,The pain lasted a total of 4-5 minutes. 
+C1517741,Last,Last,-966,-966,lasted,241,True,The pain lasted a total of 4-5 minutes. 
+C0439810,Total,Total,-753,-722,a total of 4-5 minutes.,248,True,The pain lasted a total of 4-5 minutes. 
+C0886384,minute 5,5 minutes Office visit,-617,-722,a total of 4-5 minutes.,248,True,The pain lasted a total of 4-5 minutes. 
+C1521828,Rate,Rate,-966,-966,He rates,272,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-760,-745,the pain at 7/10,281,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C5191365,10.7,10.7,-631,-745,the pain at 7/10,281,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C0700287,reports,Reporting,-1000,-1000,reports,302,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C1527305,Feeling,Feelings,-770,-916,feeling short of breath,310,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C0013404,Short of breath,Dyspnea,-909,-916,feeling short of breath,310,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C3842589,20%,20%,-660,-790,for 15-20 seconds,334,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C0457385,Seconds,seconds,-827,-790,for 15-20 seconds,334,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,358,True,He rates the pain at 7/10 and reports feeling short of breath for 15-20 seconds while the pain persisted. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,381,True,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,other symptoms,388,False,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0332257,Including,Including (qualifier),-1000,-1000,including,403,True,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0851346,Radiation,Radiation,-1000,-1000,"radiation,",413,True,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0027498,Nausea/vomiting,Nausea and vomiting,-1000,-1000,"nausea/vomiting,",424,False,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0042789,Vision,Vision,-660,-884,"vision/hearing changes,",441,True,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0429199,Hearing change,Hearing change,-867,-884,"vision/hearing changes,",441,False,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0700590,Profuse sweating,Increased sweating,-1000,-1000,profuse sweating.,468,False,"He denies other symptoms including radiation, nausea/vomiting, vision/hearing changes, or profuse sweating. "
+C0439064,Several,Numerous,-578,-678,"several similar episodes over the past 4 months,",497,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C2348205,Similar,Similarity,-578,-678,"several similar episodes over the past 4 months,",497,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0332189,Episodes,Episode of,-744,-678,"several similar episodes over the past 4 months,",497,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C4331910,Past Month,Past 30 days,-584,-678,"several similar episodes over the past 4 months,",497,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C4281574,Much,Much,-799,-750,much less intense at 2/10,566,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0522510,Intense,With intensity,-799,-750,much less intense at 2/10,566,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C3842590,10%,10%,-799,-750,much less intense at 2/10,566,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0040223,TIME,Time,-1000,-1000,each time,592,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0332281,Associated with,Associated with,-882,-901,associated with exertion.,611,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0015264,Exertion,Exertion,-790,-901,associated with exertion.,611,True,"He has had several similar episodes over the past 4 months, but these have been much less intense at 2/10 each time and were associated with exertion. "
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,Family history,637,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0750502,Significant,Significant,-790,-746,significant for MI,655,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0683474,MI,Motivational Interviewing,-623,-746,significant for MI,655,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0150312,In,Present,-581,-733,"in his father at 40 years old,",674,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C1412323,HIS,AKR1B10 gene,-581,-733,"in his father at 40 years old,",674,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0015671,FATHER,Father (person),-748,-733,"in his father at 40 years old,",674,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C4699619,>40 years,>40 years,-612,-733,"in his father at 40 years old,",674,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0580836,Old,Old,-581,-733,"in his father at 40 years old,",674,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0020538,HYPERTENSION,Hypertensive disease,-1000,-1000,hypertension,716,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C1705232,FATAL,Death Related to Adverse Event,-593,-761,fatal pulmonary embolism at 60,733,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-806,-761,fatal pulmonary embolism at 60,733,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C3842585,60%,60%,-593,-761,fatal pulmonary embolism at 60,733,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0026591,MOTHER,Mother (person),-1000,-1000,in his mother.,764,True,"Family history is significant for MI in his father at 40 years old, as well as hypertension and fatal pulmonary embolism at 60 in his mother. "
+C0700287,reports,Reporting,-1000,-1000,reports,782,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C2700095,20 Pack,Twenty Pack,-612,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0439508,/Year,per year,-581,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0262926,History,Medical History,-748,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0677453,Cigarettes,Cigarette,-581,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C3842589,20%,20%,-581,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C1277691,Pack Year,Pack years,-612,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0262926,History,Medical History,-748,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0677453,Cigarettes,Cigarette,-581,-719,"a 20 pack-year history of cigarettes,",790,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0814443,moderate alcohol use,moderate or no alcohol use,-1000,-1000,moderate alcohol use,839,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,864,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0242508,Recreational Drugs,Recreational Drugs,-1000,-1000,recreational drugs.,871,True,"He reports a 20 pack-year history of cigarettes, as well as moderate alcohol use; he denies recreational drugs. "
+C0700287,reports,Reporting,-1000,-1000,reports,894,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C0547040,Minimal,Minimal,-694,-888,minimal exercise,902,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C1522704,Exercise,Exercise Pain Management,-861,-888,minimal exercise,902,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C0013470,Eating,Eating,-1000,-1000,"eating """,923,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C3812801,IS,Immunogenicity Specimen Assessments Domain,-760,-686,"is in front of him.""",940,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C0205094,Front,Anterior,-760,-686,"is in front of him.""",940,True,"He reports minimal exercise and eating ""whatever is in front of him.""  "
+C0013227,Medications,Pharmaceutical Preparations,-1000,-1000,Medications,962,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,"chlorthalidone,",975,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0571941,Lisinopril allergy,Lisinopril allergy,-983,-983,lisinopril Allergies,991,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C3845888,Known allergy,Known allergy,-677,-880,no known allergies  Physical exam,1013,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0031809,"Exam, Physical",Physical Examination,-861,-880,no known allergies  Physical exam,1013,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0018787,Cardiac,Heart,-1000,-1000,Cardiac,1048,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0232231,Normal S2,"Normal second heart sound, S>2<",-913,-901,"normal S1/S2,",1057,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C3715215,S1,S1,-660,-901,"normal S1/S2,",1057,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"no murmurs,",1071,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1083,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0205272,Regular,Regular,-660,-851,with regular rate/rhythm.,1089,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C1521828,Rate,Rate,-660,-851,with regular rate/rhythm.,1089,True,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0871269,Rhythm,Rhythm,-827,-851,with regular rate/rhythm.,1089,False,"Medications: chlorthalidone, lisinopril Allergies: no known allergies  Physical exam: Cardiac: normal S1/S2, no murmurs, rubs, with regular rate/rhythm. "
+C0425687,Jugular venous distension,Jugular venous engorgement,-1000,-1000,"No jugular venous distension,",1115,False,"No jugular venous distension, no carotid bruits. "
+C0007280,carotid bruits,Carotid bruit,-1000,-1000,no carotid bruits.,1145,False,"No jugular venous distension, no carotid bruits. "
+C0024109,pulmonary,Lung,-1000,-1000,Pulmonary,1164,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0231855,"Breath sounds, normal",Normal breath sounds,-804,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0205378,Vesicular,Vesicular,-748,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0205094,ANTERIOR,Anterior,-581,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0205307,NORMAL,Normal,-581,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0231857,"Breath sounds, vesicular",Vesicular breathing,-814,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0205094,ANTERIOR,Anterior,-581,-755,normal vesicular breath sounds in all anterior,1175,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0205095,POSTERIOR,Dorsal,-645,-852,posterior lung fields Extremities,1226,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0225759,Lung field,Lung field,-677,-852,posterior lung fields Extremities,1226,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0015385,Extremities,Limb structure,-812,-852,posterior lung fields Extremities,1226,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0232143,Normal radial pulse,Normal radial pulse,-912,-908,"normal radial/pedal pulses,",1261,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0016504,Pedal,Foot,-645,-908,"normal radial/pedal pulses,",1261,True,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C0013604,OEDEMA,Edema,-1000,-1000,no edema.,1289,False,"Pulmonary: normal vesicular breath sounds in all anterior and posterior lung fields Extremities: normal radial/pedal pulses, no edema.  "
+C1516048,Assessment,Assessed,-694,-888,Assessment/Plan,1300,True,Assessment/Plan: Mr. 
+C0599880,Plan,Treatment Plan,-861,-888,Assessment/Plan,1300,True,Assessment/Plan: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1317,True,Assessment/Plan: Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1321,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C0029408,a o,Degenerative polyarthritis,-607,-692,a 47 y/o male with signs,1329,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C1706180,Male,"Male Gender, Self Report",-748,-692,a 47 y/o male with signs,1329,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C0311392,SIGNS,Physical findings,-581,-692,a 47 y/o male with signs,1329,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,symptoms,1358,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C2699424,Concern,Concern,-737,-766,concerning for unstable angina,1367,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina
+C0002965,"Angina, Unstable","Angina, Unstable",-833,-766,concerning for unstable angina,1367,True,Cage is a 47 y/o male with signs and symptoms concerning for unstable angina

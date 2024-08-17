@@ -1,0 +1,673 @@
+Processing 136_Cage.txt.tx.1: Gerry Cage is a 46 year old M with history of HTN who presents after an episode of chest pain a few days ago. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old M with history of HTN
+Meta Mapping (676):
+   762   C4331833:a.m. [Qualitative Concept]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   575   C2004062:History (History of previous events) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents after an episode of chest pain
+Meta Mapping (738):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   777   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: a few days ago.
+Meta Mapping (790):
+   660   C0205388:Few [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+Processing 136_Cage.txt.tx.2: He said he was carrying groceries when he felt substernal chest pain that caused him to drop everything. 
+
+Phrase: He
+
+Phrase: said
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: substernal chest pain
+Meta Mapping (1000):
+  1000   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that caused
+Meta Mapping (966):
+   966   C0015127:cause (Etiology aspects) [Functional Concept]
+
+Phrase: him
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: everything.
+Processing 136_Cage.txt.tx.3: The chest pain stopped after 5-10 minutes. 
+
+Phrase: The chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: stopped after 5-10 minutes.
+Meta Mapping (761):
+   760   C1272691:stopped (To be stopped) [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (761):
+   760   C1272691:stopped (To be stopped) [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 136_Cage.txt.tx.4: Notably, he has had 2-3 similar episodes in the past month, each of which he described as a ping of chest pain that lasted a few seconds and resolved without other management. 
+
+Phrase: Notably,
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2-3 similar episodes in the past month,
+Meta Mapping (721):
+   604   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   604   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: each of which
+
+Phrase: he
+
+Phrase: described as a ping of chest pain
+Meta Mapping (735):
+   748   C1552738:described [Idea or Concept]
+   777   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds
+Meta Mapping (1000):
+  1000   C4036225:Few seconds [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved without other management.
+Meta Mapping (708):
+   770 N C1514893:Resolved (physiologic resolution) [Pathologic Function]
+   770   C1273870:Management (Management procedure) [Occupational Activity]
+Processing 136_Cage.txt.tx.5: Associated with lightheadedness, but otherwise denies syncope, trauma, vision changes or aura, SOB, abdominal pain, back pain, nausea/vomiting, leg swelling, or changes in urination or bowel movements. 
+
+Phrase: Associated with lightheadedness,
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: otherwise
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: syncope,
+Meta Mapping (1000):
+  1000 N C0039070:SYNCOPE (Syncope) [Sign or Symptom]
+
+Phrase: trauma,
+Meta Mapping (1000):
+  1000 N C0043251:Trauma (Wounds and Injuries) [Injury or Poisoning]
+
+Phrase: vision changes
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: or
+
+Phrase: aura,
+Meta Mapping (1000):
+  1000 N C0236018:AURA (Aura) [Finding]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000 N C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+
+Phrase: back pain,
+Meta Mapping (1000):
+  1000 N C0004604:BACKPAIN (Back Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000 N C1963071:Back pain (Back Pain, CTCAE 3.0) [Finding]
+
+Phrase: nausea/vomiting,
+Meta Mapping (1000):
+  1000   C0027498:Nausea/vomiting (Nausea and vomiting) [Sign or Symptom]
+
+Phrase: leg swelling,
+Meta Mapping (1000):
+  1000   C0581394:Leg swelling (Swelling of lower limb) [Pathologic Function]
+
+Phrase: or
+
+Phrase: changes in urination
+Meta Mapping (746):
+   790   C0392747:changes (Changing) [Functional Concept]
+   790   C0042034:Urination [Organism Function]
+
+Phrase: or
+
+Phrase: bowel movements.
+Meta Mapping (1000):
+  1000   C0011135:Bowel movements (Defecation) [Organism Function]
+Processing 136_Cage.txt.tx.6: Has had a few episodes of burning substernal chest pain following eating as well that are not associated with these episodes. 
+
+Phrase: Has
+
+Phrase: had
+
+Phrase: a few episodes of burning substernal chest pain
+Meta Mapping (777):
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   645   C0235716:chest burning pain of [Sign or Symptom]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0332282:Following [Temporal Concept]
+
+Phrase: eating as well
+Meta Mapping (746):
+   790   C0013470:Eating [Organism Function]
+   790   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: are
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: associated with these episodes.
+Meta Mapping (783):
+   833   C0332281:Associated with [Qualitative Concept]
+   770   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 136_Cage.txt.tx.7: Denies history of anxiety or panic attacks. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: history of anxiety
+Meta Mapping (746):
+   790 N C2004062:History (History of previous events) [Finding]
+   623 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: or
+
+Phrase: panic attacks.
+Meta Mapping (1000):
+  1000 N C0086769:PANIC ATTACKS (Panic Attacks) [Mental or Behavioral Dysfunction]
+Processing 136_Cage.txt.tx.8: Denies personal or family history of thyroid disease. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: personal
+Meta Mapping (1000):
+  1000   C1519021:Personal (Personal Attribute) [Organism Attribute]
+
+Phrase: or
+
+Phrase: family history of thyroid disease.
+Meta Mapping (928):
+   900 N C0850707:family history of disease (history (of) disease family) [Finding]
+   593   C0040132:Thyroid, NOS (Thyroid Gland) [Body Part, Organ, or Organ Component]
+Processing 136_Cage.txt.tx.9: Dad had a heart attack in his 40s and had CAD. 
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: had
+
+Phrase: a heart attack in his 40s
+Meta Mapping (722):
+   790   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: CAD.
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+Processing 136_Cage.txt.tx.10: Mom had HTN and T2DM and passed away due to PE. 
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: had
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: T2DM
+
+Phrase: and
+
+Phrase: passed
+Meta Mapping (1000):
+  1000   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: away due to PE.
+Meta Mapping (810):
+   833   C0678226:Due To (Due to) [Functional Concept]
+   770   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 136_Cage.txt.tx.11: Takes chlorthalidone and lisinopril for HTN - with good BP control at home and medication adherence. 
+
+Phrase: Takes
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril for HTN -
+Meta Mapping (746):
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: with good BP control
+Meta Mapping (851):
+   660   C0205170:Good [Qualitative Concept]
+   660   C1415692:Bp (HP gene) [Gene or Genome]
+   827   C2587213:Control (Control function) [Functional Concept]
+
+Phrase: at home
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+
+Phrase: and
+
+Phrase: medication adherence.
+Meta Mapping (1000):
+  1000   C2364172:Medication Adherence (Adherence To Medication Regime) [Finding]
+Processing 136_Cage.txt.tx.12: Does not exercise, drinks a lot of coffee and has a poorly balanced diet.   
+
+Phrase: Does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: ,
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000 N C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: a lot of coffee
+Meta Mapping (783):
+   833 N C3900172:A lot (A Lot of the Time) [Finding]
+   604   C0009237:Coffee [Food]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: a poorly balanced diet.
+Meta Mapping (901):
+   660   C0205169:Poorly (Bad) [Qualitative Concept]
+   901   C0452410:Balanced diet [Therapeutic or Preventive Procedure]
+Processing 136_Cage.txt.tx.13: BP 150/92 HR: 85 RR: 14 Temp: 98  General: well-appearing male in no acute distress CV: regular rate and rhythm; non tender to palpation of anterior chest wall Pulm: lungs clear to auscultation bilaterally with equal breath sounds.  
+
+Phrase: BP 150/92 HR
+Meta Mapping (645):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 Temp
+Meta Mapping (861):
+   861   C0039476:TEMP (Temperature) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: 98  General
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: well-appearing male in no acute distress CV
+Meta Mapping (687):
+   578   C0205170:Well (Good) [Qualitative Concept]
+   544   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C0205178:ACUTE (acute) [Temporal Concept]
+   578 N C0231303:Distress [Finding]
+   578   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: ; non tender to palpation of anterior chest wall
+Meta Mapping (735):
+   770   C0520960:Non-tender [Qualitative Concept]
+   578   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   633   C0230132:Anterior chest wall (Anterior chest wall structure) [Body Location or Region]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to auscultation bilaterally
+Meta Mapping (708):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   770   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: with equal breath sounds.
+Meta Mapping (901):
+   660   C0205163:Equal [Qualitative Concept]
+   901   C0035234:Breath sounds (Respiratory Sounds) [Clinical Attribute]
+Processing 136_Cage.txt.tx.14: Abd: non tender to palaption in all four quadrants LE: no edema  Gerry Cage is a 46 year old M with history of HTN who presents with 3-4 episodes of chest pain in the last month worsened by exertion and associated with lightheadedness. 
+
+Phrase: Abd
+Meta Mapping (1000):
+  1000   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: non tender to palaption
+Meta Mapping (833):
+   833   C0520960:Non-tender [Qualitative Concept]
+
+Phrase: in all four quadrants LE
+Meta Mapping (901):
+   734   C0439738:Four quadrants [Spatial Concept]
+   827   C1423767:LE (HPS4 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no edema  Gerry Cage
+Meta Mapping (851):
+   660 N C0013604:OEDEMA (Edema) [Pathologic Function]
+   660   C1019207:gerry (Gerris) [Eukaryote]
+   827   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old M with history of HTN
+Meta Mapping (676):
+   762   C4331833:a.m. [Qualitative Concept]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   575   C2004062:History (History of previous events) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with 3-4 episodes of chest pain
+Meta Mapping (714):
+   744   C0150312:PRESENT (Present) [Finding]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   765   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: in the last month
+Meta Mapping (1000):
+  1000   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: worsened by exertion
+Meta Mapping (746):
+   790   C1457868:WORSENED (Worse) [Finding]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 136_Cage.txt.tx.15: Notably, has FH significant for dad with CAD/history of MI at early age and mom with PE. 
+
+Phrase: Notably,
+
+Phrase: has
+
+Phrase: FH
+
+Phrase: significant for dad
+Meta Mapping (746):
+   790   C1546944:Significant (Event Seriousness - Significant) [Qualitative Concept]
+   623   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: with CAD/history of MI
+Meta Mapping (733):
+   593   C0332287:With (In addition to) [Functional Concept]
+   593   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   760   C2004062:History (History of previous events) [Finding]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at early age
+Meta Mapping (888):
+   694   C1279919:Early [Temporal Concept]
+   861   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: and
+
+Phrase: mom with PE.
+Meta Mapping (746):
+   790   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   623   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 136_Cage.txt.tx.16: VS notable for elevated BP, but physical exam is unremarkable.  
+
+Phrase: VS
+
+Phrase: notable for elevated BP,
+Meta Mapping (783):
+   770   C4288581:Notable [Qualitative Concept]
+   666   C0497247:Elevated BP (Increase in blood pressure) [Finding]
+
+Phrase: but
+
+Phrase: physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: unremarkable.
+Meta Mapping (1000):
+  1000   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+Processing 136_Cage.txt.tx.17: 1. 
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2981698:1+ (1+ Score, WHO) [Intellectual Product]
+Processing 136_Cage.txt.tx.18: Arrhythmia: chest pain with positive FH  2. 
+
+Phrase: Arrhythmia
+Meta Mapping (1000):
+  1000   C0003811:Arrythmia (Cardiac Arrhythmia) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chest pain with positive FH  2.
+Meta Mapping (722):
+   790   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   586   C1514241:POSITIVE (Positive Finding) [Finding]
+Processing 136_Cage.txt.tx.19: Anxiety/panic attacks: less likely given lack of SOB and psych hx/inciting events 3. 
+
+Phrase: Anxiety/panic attacks
+Meta Mapping (901):
+   913   C0700031:Anxiety attacks (Anxiety attack) [Mental or Behavioral Dysfunction]
+   827   C0030318:Panic [Finding]
+Meta Mapping (901):
+   660   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+   901   C0086769:PANIC ATTACKS (Panic Attacks) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: less likely given lack of SOB
+Meta Mapping (685):
+   586   C0547044:Less (Smaller) [Qualitative Concept]
+   586   C0750492:Likely (Probably) [Idea or Concept]
+   753   C0332268:lack (Lacking) [Qualitative Concept]
+   586   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: psych hx/inciting events 3.
+Meta Mapping (740):
+   804   C1306597:psych (Psychiatric problem) [Mental or Behavioral Dysfunction]
+   804   C0262926:Hx (Medical History) [Finding]
+   804   C0441471:Events (Event) [Event]
+Processing 136_Cage.txt.tx.20: GERD: substernal chest pain that burns at times, but less likely to cause lightheadedness 4. 
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: substernal chest pain
+Meta Mapping (1000):
+  1000   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that burns at times,
+Meta Mapping (708):
+   770   C0006434:BURNS (Burn injury) [Injury or Poisoning]
+   604   C0040223:times (Time) [Temporal Concept]
+
+Phrase: but
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: cause
+Meta Mapping (1000):
+  1000   C0015127:cause (Etiology aspects) [Functional Concept]
+
+Phrase: lightheadedness 4.
+Meta Mapping (861):
+   861   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 136_Cage.txt.tx.21: Stable angina: chest pain on exertion, none at rest  Will do EKG with possible ECHO. 
+
+Phrase: Stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chest pain on exertion,
+Meta Mapping (1000):
+  1000   C0232288:Chest pain on exertion [Sign or Symptom]
+
+Phrase: none at rest
+Meta Mapping (746):
+   790   C0549184:NONE (None) [Finding]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: Will
+
+Phrase: do
+
+Phrase: EKG with possible ECHO.
+Meta Mapping (733):
+   770   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   604   C0332149:Possible [Finding]
+   604   C1655045:Echo (Echo (insect)) [Eukaryote]
+Processing 136_Cage.txt.tx.22: May require a beta blocker. 
+
+Phrase: May
+
+Phrase: require
+
+Phrase: a beta blocker.
+Meta Mapping (901):
+   901   C0001645:Beta Blocker (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+Processing 136_Cage.txt.tx.23: Can trial pepcid for GERD.
+
+Phrase: Can
+
+Phrase: trial pepcid for GERD.
+Meta Mapping (733):
+   604   C0008976:Trial (Clinical Trials) [Research Activity]
+   770   C0678119:Pepcid [Organic Chemical,Pharmacologic Substance]
+   604   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]

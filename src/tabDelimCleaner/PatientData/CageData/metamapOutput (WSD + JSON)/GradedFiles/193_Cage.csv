@@ -1,0 +1,144 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,12,True,Subjective: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,16,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0439659,Begin,Beginning,-966,-966,began,30,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0278140,Severe pain,Severe pain,-913,-901,severe chest pain,43,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C1527391,Chest,Anterior thoracic region,-827,-901,severe chest pain,43,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0205082,Severe,Severe (severity modifier),-660,-901,severe chest pain,43,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-901,-901,severe chest pain,43,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0439816,Tightness,Tightness sensation quality,-645,-763,tightness 3 days ago.,65,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0439228,DAYS,day,-812,-763,tightness 3 days ago.,65,True,Cage says she began having severe chest pain and tightness 3 days ago. 
+C0043194,WAS,Wiskott-Aldrich Syndrome,-790,-746,was after walking,90,True,It was after walking and carrying heavy jugs of liquid. 
+C0080331,Walking,Walking (activity),-790,-746,was after walking,90,True,It was after walking and carrying heavy jugs of liquid. 
+C0206243,Carrying,Carrying,-593,-725,carrying heavy jugs of liquid.,112,True,It was after walking and carrying heavy jugs of liquid. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-593,-725,carrying heavy jugs of liquid.,112,True,It was after walking and carrying heavy jugs of liquid. 
+C1881295,JUG,Jug Dosing Unit,-726,-725,carrying heavy jugs of liquid.,112,True,It was after walking and carrying heavy jugs of liquid. 
+C1304698,Liquid,Liquid (finding),-593,-725,carrying heavy jugs of liquid.,112,True,It was after walking and carrying heavy jugs of liquid. 
+C1517741,Last,Last,-966,-966,lasted,146,True,It lasted 5-10 minutes and was 7/10 in severity. 
+C3845579,5-10 minutes,5-10 minutes,-1000,-1000,5-10 minutes,153,True,It lasted 5-10 minutes and was 7/10 in severity. 
+C5191365,10.7,10.7,-819,-783,7/10 in severity.,174,True,It lasted 5-10 minutes and was 7/10 in severity. 
+C0439793,Severity,Severities,-770,-783,7/10 in severity.,174,True,It lasted 5-10 minutes and was 7/10 in severity. 
+C3843616,10 - severe,10 - severe,-783,-783,7/10 in severity.,174,True,It lasted 5-10 minutes and was 7/10 in severity. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,192,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C1518422,Not,Negation,-1000,-1000,not,205,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0332301,radiate,Radiating to,-760,-761,radiate down her left arm,209,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0574443,HER,Herero language,-760,-761,radiate down her left arm,209,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0230347,Left Arm,Left upper arm structure,-806,-761,radiate down her left arm,209,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C1518422,Not,Negation,-1000,-1000,not,243,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C1282910,UPPER,Upper,-790,-790,accompanied by upper,247,True,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0024031,lower backpain,Low Back Pain,-1000,-1000,"lower back pain,",271,False,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0012833,Dizzyness,Dizziness,-1000,-1000,"dizziness,",288,False,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C0007859,NECK PAIN,Neck Pain,-1000,-1000,neck pain.,302,False,"The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. "
+C1527305,feels,Feelings,-1000,-1000,feels,317,True,She feels completely fine now.  
+C0205197,Completely,Complete,-827,-851,completely fine now.,323,True,She feels completely fine now.  
+C0205232,Fine,Fine - adjective,-827,-851,completely fine now.,323,True,She feels completely fine now.  
+C1948052,Now,Now (temporal qualifier),-827,-851,completely fine now.,323,True,She feels completely fine now.  
+C0030705,*^patient,Patients,-1000,-1000,Patient,345,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C0574443,HER,Herero language,-593,-725,"her BP readings at work,",358,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C1415692,Bp,HP gene,-593,-725,"her BP readings at work,",358,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C0034754,Reading,Reading (activity),-726,-725,"her BP readings at work,",358,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C0043227,Work,Work,-593,-725,"her BP readings at work,",358,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C3845713,Almost daily,Nearly every day,-1000,-1000,"almost daily,",392,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C3538928,Usually,Usual,-694,-888,usually normal.,410,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C0205307,NORMAL,Normal,-861,-888,usually normal.,410,True,"Patient says her BP readings at work, which is almost daily, are usually normal. "
+C0087130,Unsure,Uncertainty,-861,-861,unsure why,433,True,She is unsure why her BP is elevated today.  
+C1415692,Bp,HP gene,-861,-861,her BP is,444,True,She is unsure why her BP is elevated today.  
+C0205250,Elevated,High,-1000,-1000,elevated,454,True,She is unsure why her BP is elevated today.  
+C0750526,Today,Today (temporal qualifier),-1000,-1000,today.,463,True,She is unsure why her BP is elevated today.  
+C1571702,Objective,Objective observation,-694,-853,Objective vitals,471,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C0518766,VITAL,Vital signs,-789,-853,Objective vitals,471,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C1415692,Bp,HP gene,-645,-645,BP 150/92 HR,489,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C4517892,85,85,-694,-888,85 RR,502,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C4554402,RR,RR genotype,-861,-888,85 RR,502,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C0039476,TEMP,Temperature,-645,-763,14 Temp 98F  PE,508,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C1880476,PE,Etoposide-Platinol Regimen,-812,-763,14 Temp 98F  PE,508,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C0205246,General,Generalized,-1000,-1000,General,525,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C1551345,ACUTE,acute inpatient encounter,-694,-888,No acute distress.,534,True,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C0231303,Distress,Distress,-861,-888,No acute distress.,534,False,Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+C0018787,HEART,Heart,-1000,-1000,Heart,554,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C0450429,locations,Location,-586,-512,RRR at all 4 locations Lungs,561,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C0024109,LUNGS,Lung,-586,-512,RRR at all 4 locations Lungs,561,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C3540513,CTA,PCYT1A wt Allele,-694,-888,CTA Extremities,591,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C0015385,Extremities,Limb structure,-861,-888,CTA Extremities,591,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C0013604,OEDEMA,Edema,-694,-888,No edema  Assessment,608,False,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C1516048,Assessment,Assessed,-861,-888,No edema  Assessment,608,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,630,True,Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,"Cage,",634,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C1428412,FHX,FOXJ2 gene,-1000,-1000,with FHx,640,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0750502,Significant,Significant,-790,-746,"significant for HTN,",649,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0020538,HTN,Hypertensive disease,-623,-746,"significant for HTN,",649,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0011816,DM,dextromethorphan,-1000,-1000,"DM,",670,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0027051,HEART ATTACK,Myocardial Infarction,-806,-752,heart attack in her father,678,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0574443,HER,Herero language,-593,-752,heart attack in her father,678,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0015671,FATHER,Father (person),-593,-752,heart attack in her father,678,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C1516077,At,At,-578,-711,"at a young age of 40 years old,",705,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0332239,Young,Young,-578,-711,"at a young age of 40 years old,",705,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C4699619,>40 years,>40 years,-604,-711,"at a young age of 40 years old,",705,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0231337,Old age,Senility,-767,-711,"at a young age of 40 years old,",705,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0311392,SIGNS,Physical findings,-753,-746,signs in her history 3 days,741,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0574443,HER,Herero language,-586,-746,signs in her history 3 days,741,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0262926,History,Medical History,-586,-746,signs in her history 3 days,741,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C3842675,Day 3,Day 3,-600,-746,signs in her history 3 days,741,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0332290,Consistent with,Consistent with,-790,-746,ago consistent with a heart attack.,769,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C0027051,HEART ATTACK,Myocardial Infarction,-623,-746,ago consistent with a heart attack.,769,True,"Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  "
+C1517331,Further,Further,-694,-901,Further workup,806,True,Further workup is required to determine next steps in management. 
+C0750430,Work-up,Work-up,-861,-901,Further workup,806,True,Further workup is required to determine next steps in management. 
+C1514873,Required,Requirement,-1000,-1000,required,824,True,Further workup is required to determine next steps in management. 
+C1883351,To,To,-1000,-1000,to,833,True,Further workup is required to determine next steps in management. 
+C1883708,Next,Then,-604,-733,next steps in management.,846,True,Further workup is required to determine next steps in management. 
+C1261552,steps,Step (specific stage),-770,-733,next steps in management.,846,True,Further workup is required to determine next steps in management. 
+C1273870,Management,Management procedure,-604,-733,next steps in management.,846,True,Further workup is required to determine next steps in management. 
+C3812801,IS,Immunogenicity Specimen Assessments Domain,-760,-745,is at a high risk,876,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0332167,HIGH RISK,High risk of,-806,-745,is at a high risk,876,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,for heart attack,894,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C1947971,Given,Give - dosing instruction imperative,-1000,-1000,given,911,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"her HTN,",917,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C1428412,FHX,FOXJ2 gene,-1000,-1000,"FHx,",926,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0332185,Recent,Recent,-593,-629,recent symtoms of chest pain.,935,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0024902,Pain of breast,Mastodynia,-650,-629,recent symtoms of chest pain.,935,True,"She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  "
+C0547044,Less,Smaller,-660,-866,Less likely diagnoses,966,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0332148,Likelihood diagnosis,Probable diagnosis,-848,-866,Less likely diagnoses,966,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0340288,STABLE ANGINA,Stable angina,-1000,-1000,Stable angina,989,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0027051,HEART ATTACK,Myocardial Infarction,-833,-783,Heart attack like symptoms,1004,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0683368,symptoms,Symptoms aspect,-604,-783,Heart attack like symptoms,1004,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0277793,Attack,Onset of illness,-770,-783,Heart attack like symptoms,1004,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0476270,symptoms heart,Cardiovascular symptoms,-819,-783,Heart attack like symptoms,1004,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C1881534,Make,Make - Instruction Imperative,-1000,-1000,make,1031,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0547044,Less,Smaller,-660,-877,this a less likely diagnosis.,1036,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C0332148,Likelihood diagnosis,Probable diagnosis,-865,-877,this a less likely diagnosis.,1036,True,Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-770,-733,pain only with exertion,1075,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C0205171,Only,Singular,-604,-733,pain only with exertion,1075,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C0015264,Exertion,Exertion,-604,-733,pain only with exertion,1075,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C1518422,Not,Negation,-790,-746,not at rest,1100,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C0035253,Rest,Rest,-790,-746,not at rest,1100,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C0332290,Consistent with,Consistent with,-882,-882,consistent with this.,1116,True,"However, pain only with exertion (not at rest) is consistent with this. "
+C0017168,GERD,Gastroesophageal reflux disease,-1000,-1000,GERD,1138,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0547044,Less,Smaller,-861,-888,"Less likely,",1144,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0750492,Likely,Probably,-861,-888,"Less likely,",1144,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0443199,Differential,Differential quality,-790,-790,although on differential,1157,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-694,-888,because of her heavy meals,1182,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C1998602,Meals,Meal (occasion for eating),-861,-888,because of her heavy meals,1182,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C1947971,Give,Give - dosing instruction imperative,-966,-966,giving,1209,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0574443,HER,Herero language,-593,-745,her heaviness in her chest.,1216,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C0742339,chest heaviness,chest heaviness,-797,-745,her heaviness in her chest.,1216,True,"GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. "
+C1883351,To,To,-1000,-1000,to,1261,True,"You would expect to see burning also, however.    "
+C0042789,see,Vision,-1000,-1000,see,1264,True,"You would expect to see burning also, however.    "
+C0085624,Burning,Burning sensation,-861,-861,"burning also,",1268,True,"You would expect to see burning also, however.    "
+C1301732,Plan,Planned,-861,-861,Plan 1.,1294,True,Plan 1. 
+C1623258,EKG,Electrocardiography,-1000,-1000,"EKG,",1302,True,"EKG, Troponins 2. "
+C0041199,Troponins,Troponin,-861,-861,Troponins 2.,1307,True,"EKG, Troponins 2. "
+C0041199,Troponins,Troponin,-1000,-1000,Troponins,1323,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C1514241,POSITIVE,Positive Finding,-1000,-1000,positive,1337,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C1623258,EKG,Electrocardiography,-1000,-1000,EKG,1349,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0332290,Consistent with,Consistent with,-833,-783,"consistent with a STEMI,",1356,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C1536220,STEMI,ST segment elevation myocardial infarction,-604,-783,"consistent with a STEMI,",1356,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0007189,Cardiology,Cardiology discipline,-1000,-1000,cardiology,1381,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0009818,Consult,Consultation,-1000,-1000,consult,1392,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0027552,Needed,Needs,-1000,-1000,needed,1400,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0439086,<3,<3 (qualifier value),-1000,-1000,3.,1407,True,"If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. "
+C0004057,ASPIRIN,aspirin,-812,-824,Aspirin 81mg QD 4.,1410,True,Aspirin 81mg QD 4. 
+C0309985,QD-4,QD-4,-861,-824,Aspirin 81mg QD 4.,1410,True,Aspirin 81mg QD 4. 
+C1655045,Echo,Echo (insect),-1000,-1000,Echo,1429,True,Echo if #1 is positive
+C0750557,If,If,-861,-861,if #1,1434,True,Echo if #1 is positive
+C1514241,POSITIVE,Positive Finding,-1000,-1000,positive,1443,True,Echo if #1 is positive

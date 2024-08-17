@@ -1,0 +1,147 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: 55 yoF who presents to the clinic with chest pain. 
+C0450382,55,55,-694,-694,55 yoF,12,True,Subjective: 55 yoF who presents to the clinic with chest pain. 
+C0150312,PRESENT,Present,-770,-708,presents to the clinic,23,True,Subjective: 55 yoF who presents to the clinic with chest pain. 
+C0002424,Clinic,Ambulatory Care Facilities,-770,-708,presents to the clinic,23,True,Subjective: 55 yoF who presents to the clinic with chest pain. 
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,with chest pain.,46,True,Subjective: 55 yoF who presents to the clinic with chest pain. 
+C0184567,Sudden onset pain,Acute onset pain,-923,-916,The sudden onset chest pain,63,True,The sudden onset chest pain and shortness of breath while holding groceries yesterday. 
+C1527391,Chest,Anterior thoracic region,-812,-916,The sudden onset chest pain,63,True,The sudden onset chest pain and shortness of breath while holding groceries yesterday. 
+C2707305,Shortness of breath,Shortness of breath:-:Point in time:^Patient:-,-1000,-1000,shortness of breath,95,True,The sudden onset chest pain and shortness of breath while holding groceries yesterday. 
+C1948035,Hold,Hold (action),-627,-627,holding groceries yesterday.,121,True,The sudden onset chest pain and shortness of breath while holding groceries yesterday. 
+C3842590,10%,10%,-645,-824,7/10 chest pain,150,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C0008031,CHEST PAIN,Chest Pain,-861,-824,7/10 chest pain,150,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C1552738,described,described,-790,-746,described as dull,166,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C0278144,Dull,Dull pain,-790,-746,described as dull,166,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C2982691,Reside,Reside,-719,-704,resided after 15 minutes of sitting,188,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C1442447,15 Minutes,15 Minutes,-790,-704,resided after 15 minutes of sitting,188,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C0277814,SITTING,Sitting position,-753,-704,resided after 15 minutes of sitting,188,True,7/10 chest pain described as dull and resided after 15 minutes of sitting down. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,230,True,Patient reported she did not try to reproduce the pain. 
+C0700287,Reported,Reporting,-1000,-1000,reported,238,True,Patient reported she did not try to reproduce the pain. 
+C1518422,Not,Negation,-1000,-1000,not,255,True,Patient reported she did not try to reproduce the pain. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,263,True,Patient reported she did not try to reproduce the pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain.,276,False,Patient reported she did not try to reproduce the pain. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,286,True,Patient has experienced twinges in the past. 
+C1444637,Past,In the past,-593,-593,experienced twinges in the past.,298,True,Patient has experienced twinges in the past. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,331,True,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,339,True,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0239340,Lower Extremity oedema,Edema of lower extremity,-1000,-1000,"lower extremity edema,",346,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C1956415,Paroxysmal nocturnal dyspnoea,Paroxysmal nocturnal dyspnea,-1000,-1000,"paroxysmal nocturnal dyspnea,",369,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0085619,Orthopnoea,Orthopnea,-1000,-1000,"orthopnea,",399,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,"palpitations,",410,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0012833,Lightheadedness,Dizziness,-1000,-1000,"lightheadedness,",424,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0012833,Dizzyness,Dizziness,-1000,-1000,"dizziness,",441,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C2828386,Pass,Pass (indicator),-966,-966,passing,452,False,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0439787,Out,Out (direction),-1000,-1000,out.,460,True,"Patient denies lower extremity edema, paroxysmal nocturnal dyspnea, orthopnea, palpitations, lightheadedness, dizziness, passing out. "
+C0030705,*^patient,Patients,-1000,-1000,Patient,465,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C0700287,reports,Reporting,-1000,-1000,reports,473,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C0232109,Normal blood pressures,Normal arterial pulse pressure,-1000,-1000,normal blood pressures,481,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C1883727,Taken,Taken,-760,-696,taken by the nurse monthly.,509,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C0028661,NURSE,Nurses,-760,-696,taken by the nurse monthly.,509,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C0332177,Monthly,Monthly (qualifier value),-760,-696,taken by the nurse monthly.,509,True,Patient reports normal blood pressures when taken by the nurse monthly. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,537,True,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C2700401,Deny,Deny (action),-1000,-1000,denies,545,True,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C1457887,SYMPTOMS,Symptoms,-790,-746,"symptoms of GERD,",552,False,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C0017168,GERD,Gastroesophageal reflux disease,-623,-746,"symptoms of GERD,",552,False,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C1882919,Reflux,Reflux within Device Medical Device Problem,-1000,-1000,"no reflux,",570,False,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C0011168,DYSPHAGIA,Deglutition Disorders,-1000,-1000,no dysphagia.,595,False,"Patient denies symptoms of GERD, no reflux, no vomitting, no dysphagia.  "
+C1571702,Objective,Objective observation,-1000,-1000,Objective,610,True,"Objective: Allergies: NKDA, Medications: Lisinopril, chlorthalidone. "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies,621,True,"Objective: Allergies: NKDA, Medications: Lisinopril, chlorthalidone. "
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-1000,-1000,Medications,638,True,"Objective: Allergies: NKDA, Medications: Lisinopril, chlorthalidone. "
+C0065374,Lysinopril,lisinopril,-1000,-1000,"Lisinopril,",651,True,"Objective: Allergies: NKDA, Medications: Lisinopril, chlorthalidone. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,chlorthalidone.,663,True,"Objective: Allergies: NKDA, Medications: Lisinopril, chlorthalidone. "
+C0232117,PULSE,Pulse Rate,-861,-888,"Pulse 85,",688,True,"VS: 98F, Pulse 85, Respiratory rate 14, BP 150/92. "
+C4517892,85,85,-861,-888,"Pulse 85,",688,True,"VS: 98F, Pulse 85, Respiratory rate 14, BP 150/92. "
+C0231832,Respiratory Rate,Respiratory rate,-901,-901,"Respiratory rate 14,",698,True,"VS: 98F, Pulse 85, Respiratory rate 14, BP 150/92. "
+C1415692,Bp,HP gene,-827,-827,BP 150/92.,719,True,"VS: 98F, Pulse 85, Respiratory rate 14, BP 150/92. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",736,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C1442163,MoM,Multiple of the median,-660,-790,"PFHx. mom diabetes,",741,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C0011849,Diabetes,Diabetes Mellitus,-827,-790,"PFHx. mom diabetes,",741,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"htn,",761,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-833,-783,pulmonary embolism at 60.,766,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C3842585,60%,60%,-604,-783,pulmonary embolism at 60.,766,True,"PMHx: HTN, PFHx. mom diabetes, htn, pulmonary embolism at 60. "
+C0006142,BREAST CANCER,Malignant neoplasm of breast,-1000,-1000,breast cancer.,797,True,MGM: breast cancer. 
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-694,-888,"Dad CAD,",812,True,"Dad CAD, MI at 40. "
+C1707433,CAD,Collision-Induced Dissociation,-861,-888,"Dad CAD,",812,True,"Dad CAD, MI at 40. "
+C0683474,MI,Motivational Interviewing,-790,-746,MI at 40.,821,True,"Dad CAD, MI at 40. "
+C3842587,40%,40%,-623,-746,MI at 40.,821,True,"Dad CAD, MI at 40. "
+C0205448,Two,Two,-694,-888,two brothers,831,True,"two brothers healthy, no children. "
+C0337527,Brothers,Brothers,-861,-888,two brothers,831,True,"two brothers healthy, no children. "
+C3898900,Healthy,Healthy,-1000,-1000,"healthy,",844,True,"two brothers healthy, no children. "
+C0680063,Children,Offspring,-1000,-1000,no children.,853,True,"two brothers healthy, no children. "
+C1443354,Lives with husband,Lives with husband,-1000,-1000,lives with husband,872,True,PSHx: lives with husband and in a house. 
+C1515981,And,And,-770,-708,and in a house.,891,True,PSHx: lives with husband and in a house. 
+C0442519,house,Home environment,-770,-708,and in a house.,891,True,PSHx: lives with husband and in a house. 
+C0402283,Works manager,Works manager,-819,-772,Works as branding manager,907,True,Works as branding manager at capital one. 
+C0592503,Brand,Proprietary Name,-570,-772,Works as branding manager,907,True,Works as branding manager at capital one. 
+C0006909,Capital,Capital,-694,-888,at capital one.,933,True,Works as branding manager at capital one. 
+C0205447,ONE,One,-861,-888,at capital one.,933,True,Works as branding manager at capital one. 
+C3842588,30%,30%,-637,-840,30 yo pack smoking history.,949,True,30 yo pack smoking history. 
+C1413296,Yo,CDR2 gene,-637,-840,30 yo pack smoking history.,949,True,30 yo pack smoking history. 
+C2825051,PACK,Pack unit,-637,-840,30 yo pack smoking history.,949,True,30 yo pack smoking history. 
+C1519384,Smoking History,Tobacco Smoking History,-840,-840,30 yo pack smoking history.,949,True,30 yo pack smoking history. 
+C1519042,2-3,Phase II/III Trial,-1000,-1000,2-3,977,True,2-3 drinks every week. no other drug use. 
+C0394996,DRINK,Acute alcoholic intoxication,-1000,-1000,drinks,981,True,2-3 drinks every week. no other drug use. 
+C0332174,/week,Weekly,-1000,-1000,every week.,988,True,2-3 drinks every week. no other drug use. 
+C0242510,Drug use,Drug usage,-1000,-1000,no other drug use.,1000,False,2-3 drinks every week. no other drug use. 
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical exam,1019,True,Physical exam: Lung sounds CTAB. 
+C0024109,LUNG,Lung,-1000,-1000,Lung,1034,True,Physical exam: Lung sounds CTAB. 
+C0175663,"Sound, NOS",Sounds device,-1000,-1000,sounds,1039,True,Physical exam: Lung sounds CTAB. 
+C0951233,CTAB,cetrimonium bromide,-1000,-1000,CTAB.,1046,True,Physical exam: Lung sounds CTAB. 
+C0018787,HEART,Heart,-1000,-1000,Heart,1052,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C0205307,NORMAL,Normal,-694,-888,"Normal S1,",1059,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C3715215,S1,S1,-861,-888,"Normal S1,",1059,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C1419718,S2,RPS2 gene,-770,-733,"S2 with physiologic splitting,",1070,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C0205463,Physiologic,Physiological,-604,-733,"S2 with physiologic splitting,",1070,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C1534709,Splitting,Splitting,-604,-733,"S2 with physiologic splitting,",1070,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1113,False,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C0232117,PULSE,Pulse Rate,-1000,-1000,pulses,1128,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C2827735,2+,2+ Score,-1000,-1000,2+.,1135,True,"Heart: Normal S1, S2 with physiologic splitting, no mrumurs, rubs, gallops. pulses 2+. "
+C0439090,LE,Less Than or Equal to,-694,-888,No LE swelling.,1139,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0013604,SWELLING,Edema,-861,-888,No LE swelling.,1139,False,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C1298908,No,no,-581,-720,"no pain upon palpation of the chest,",1155,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0024902,Pain of breast,Mastodynia,-772,-720,"no pain upon palpation of the chest,",1155,False,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0030247,PALPATION,Palpation,-581,-720,"no pain upon palpation of the chest,",1155,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0037004,SHOULDER,Shoulder,-694,-888,shoulder Assessment,1192,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C1516048,Assessment,Assessed,-861,-888,shoulder Assessment,1192,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0008031,CHEST PAIN,Chest Pain,-861,-861,55yoF w/ chest pain,1213,False,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C1282927,short,Shortened,-718,-711,shortness upon exertion,1237,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0015264,Exertion,Exertion,-623,-711,shortness upon exertion,1237,True,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0240889,RELIEVED WITH REST,RELIEVED WITH REST,-1000,-1000,relieved with rest.,1261,False,"No LE swelling. no pain upon palpation of the chest, shoulder Assessment: 55yoF w/ chest pain and shortness upon exertion relieved with rest.  "
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1282,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0151744,Cardiac ischemia,Myocardial Ischemia,-1000,-1000,for Cardiac Ischemia,1288,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C1705178,Order,Order (action),-694,-888,"order EKG,",1310,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C1623258,EKG,Electrocardiography,-861,-888,"order EKG,",1310,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0041199,Troponins,Troponin,-694,-888,"troponins CKMB,",1321,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0523584,CKMB,Creatine kinase MB measurement,-861,-888,"troponins CKMB,",1321,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0030705,*^patient,Patients,-1000,-1000,Patient,1337,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C4740705,Moderate risk,Moderate risk,-694,-888,moderate risk chest pain.,1349,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0008031,CHEST PAIN,Chest Pain,-861,-888,moderate risk chest pain.,1349,True,"Plan: for Cardiac Ischemia: order EKG, troponins CKMB, Patient has moderate risk chest pain. "
+C0599880,Plan,Treatment Plan,-760,-816,"plan for Exercise stress test,",1379,True,"May plan for Exercise stress test, echocardiogram if abnormal EKG and troponins. "
+C0015260,Exercise stress test,Exercise stress test,-862,-816,"plan for Exercise stress test,",1379,True,"May plan for Exercise stress test, echocardiogram if abnormal EKG and troponins. "
+C0013516,Echocardiogram,Echocardiography,-1000,-1000,echocardiogram,1410,True,"May plan for Exercise stress test, echocardiogram if abnormal EKG and troponins. "
+C0522055,Abnormal EKG,Electrocardiogram abnormal,-1000,-1000,abnormal EKG,1428,True,"May plan for Exercise stress test, echocardiogram if abnormal EKG and troponins. "
+C0041199,Troponins,Troponin,-1000,-1000,troponins.,1445,True,"May plan for Exercise stress test, echocardiogram if abnormal EKG and troponins. "
+C1705178,Order,Order (action),-1000,-1000,order,1460,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C1549405,Outpatient,Patient Class - Outpatient,-575,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C3888140,CT,Computed Tomography Study File,-742,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C3842588,30%,30%,-575,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0580836,Old,Old,-575,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C1277691,Pack Year,Pack years,-595,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C1519384,Smoking History,Tobacco Smoking History,-598,-744,outpatient CT for 30 year old pack smoking history,1466,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0162791,Guidelines,Guidelines,-861,-861,as USPSTF guidelines,1517,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0034866,recommend,Recommendation,-1000,-1000,recommend,1538,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0030705,Patients,Patients,-770,-733,patients between 50-80,1548,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C3843766,<50,<50,-604,-733,patients between 50-80,1548,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C3842583,80%,80%,-604,-733,patients between 50-80,1548,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0220908,screen,Screening procedure,-966,-966,screened.,1574,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C3842588,30%,30%,-645,-861,30 pack year hx.,1597,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C1277691,Pack Year,Pack years,-694,-861,30 pack year hx.,1597,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0262926,Hx,Medical History,-812,-861,30 pack year hx.,1597,True,May order outpatient CT for 30 year old pack smoking history as USPSTF guidelines recommend patients between 50-80 be screened. if they have 30 pack year hx. 
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN,1614,True,HTN: management outpatient. 
+C1273870,Management,Management procedure,-694,-888,management outpatient.,1619,True,HTN: management outpatient. 
+C1549405,Outpatient,Patient Class - Outpatient,-861,-888,management outpatient.,1619,True,HTN: management outpatient. 
+C0686904,need,Patient need for (contextual qualifier),-1000,-1000,need,1646,True,May need to go up on lisinopril and chlorthalidone.
+C0041260,TO,Tryptophanase,-1000,-1000,to,1651,True,May need to go up on lisinopril and chlorthalidone.
+C1822658,GO,GORAB gene,-833,-833,go up,1654,True,May need to go up on lisinopril and chlorthalidone.
+C0065374,Lysinopril,lisinopril,-1000,-1000,on lisinopril,1660,True,May need to go up on lisinopril and chlorthalidone.
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,chlorthalidone.,1678,True,May need to go up on lisinopril and chlorthalidone.

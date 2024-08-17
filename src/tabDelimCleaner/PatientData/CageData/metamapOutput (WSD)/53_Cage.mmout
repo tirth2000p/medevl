@@ -1,0 +1,431 @@
+Processing 53_Cage.txt.tx.1: S -middle aged man with a episode of chest pain occurring 3 days ago -pt was at grocery carrying heavy bags and then experience acute onset of non-radiating pain in the center of his chest -pt went ot go rest in his car and pain passed after 5- 10 min of resting -pt described pain as a deep ache - for the last few months patient has noticed that he will occasionally have chest pain on exertion but it will only last a few seconds. this episode was much more severe - Associated symptoms: lightheadedness - Pt also notes that for the past year he has been experiencing pressure in his epigastrium after lunch  PMHx: HTN FHx: Father had MI at age 40 and was found to have CAD and undergo bypass, Mother had HTN, T2DM and died of PE SHx: 2-3 glasses of wine on weekends, smoke 1 pack a day for over 20 years  O VS: BP 150/92  Other VS stable  A Middle aged man with hx of HTN presenting after an acute episode of non-radiating chest pain on exertion that occurred 3 days ago.  
+
+Phrase: S -
+
+Phrase: middle aged man with a episode of chest pain
+Meta Mapping (724):
+   748   C3825963:Middle-aged men [Age Group]
+   598   C0332189:Episode of [Temporal Concept]
+   598   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: occurring
+Meta Mapping (966):
+   966   C2745955:OCCUR (Occurrence) [Temporal Concept]
+
+Phrase: 3 days ago -pt
+Meta Mapping (824):
+   694   C1442459:3 Days [Temporal Concept]
+   812   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: was at grocery
+Meta Mapping (790):
+   790   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy bags
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0179196:Bags (Bag, device) [Manufactured Object]
+
+Phrase: and
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: experience
+Meta Mapping (1000):
+  1000   C0596545:Experience [Mental Process]
+
+Phrase: acute onset of non-radiating pain
+Meta Mapping (776):
+   820   C0184567:Acute onset pain [Sign or Symptom]
+   586   C1518422:Non (Negation) [Functional Concept]
+   586   C0332301:radiating (Radiating to) [Functional Concept]
+
+Phrase: in the center of his chest -pt
+Meta Mapping (706):
+   774   C0205099:In center (Central) [Spatial Concept]
+   581   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   581   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: went
+
+Phrase: ot
+Meta Mapping (1000):
+  1000   C1318464:OT (Occupational therapy regime) [Therapeutic or Preventive Procedure]
+
+Phrase: go
+Meta Mapping (1000):
+  1000   C1822658:GO (GORAB gene) [Gene or Genome]
+
+Phrase: rest in his car
+Meta Mapping (733):
+   770   C0035253:Rest [Daily or Recreational Activity]
+   604   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: passed after 5- 10 min of resting -pt
+Meta Mapping (698):
+   744   C2828386:Passed (Pass (indicator)) [Finding]
+   767   C4517521:10.5 [Quantitative Concept]
+   744   C0702093:/min (Per Minute) [Temporal Concept]
+   744   C0035253:Resting (Rest) [Daily or Recreational Activity]
+   744   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: pain as a deep ache -
+Meta Mapping (745):
+   797   C0234229:Deep pain [Sign or Symptom]
+   593   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: for the last few months patient
+Meta Mapping (813):
+   691   C4331910:Last Month (Past 30 days) [Temporal Concept]
+   812   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: noticed
+
+Phrase: that
+
+Phrase: he
+
+Phrase: will
+
+Phrase: occasionally
+Meta Mapping (1000):
+  1000   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: have
+
+Phrase: chest pain on exertion
+Meta Mapping (1000):
+  1000   C0232288:Chest pain on exertion [Sign or Symptom]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: will
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds.
+Meta Mapping (1000):
+  1000   C4036225:Few seconds [Temporal Concept]
+
+Phrase: this episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: much more severe - Associated symptoms
+Meta Mapping (794):
+   637   C4281574:Much [Finding]
+   853   C0436345:severe symptoms (Symptom severe) [Finding]
+   637   C0332281:Associated (Associated with) [Qualitative Concept]
+Meta Mapping (794):
+   637   C4281574:Much [Finding]
+   637   C0205082:Severe (Severe (severity modifier)) [Finding]
+   840   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: lightheadedness - Pt
+Meta Mapping (888):
+   694   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   861   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: also
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that for the past year
+Meta Mapping (806):
+   806   C4086728:Past Year [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: been
+
+Phrase: experiencing pressure in his epigastrium
+Meta Mapping (716):
+   560   C0596545:Experience [Mental Process]
+   760   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   593   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   593   C0230185:Epigastrium [Body Location or Region]
+
+Phrase: after lunch  PMHx
+Meta Mapping (694):
+   694   C2697949:Lunch [Daily or Recreational Activity]
+
+Phrase: :
+
+Phrase: HTN FHx
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: MI at age 40
+Meta Mapping (733):
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0001779:AGE (Age) [Organism Attribute]
+   604   C3842587:40% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: found
+Meta Mapping (1000):
+  1000   C0150312:Found (Present) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: have
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: and
+
+Phrase: undergo
+
+Phrase: bypass,
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM
+
+Phrase: and
+
+Phrase: died of PE SHx
+Meta Mapping (708):
+   770   C1546956:Died (Patient Outcome - Died) [Finding]
+   770   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: smoke 1
+Meta Mapping (861):
+   861   C0037366:Smoke [Hazardous or Poisonous Substance]
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day for over 20 years  O
+Meta Mapping (728):
+   607   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   748   C0439228:Day (day) [Temporal Concept]
+   612   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP 150/92
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: Other
+
+Phrase: VS
+
+Phrase: stable
+Meta Mapping (1000):
+  1000   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+
+Phrase: A Middle aged man with hx of HTN presenting
+Meta Mapping (687):
+   748   C3825963:Middle-aged men [Age Group]
+   575   C0262926:Hx (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   575   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: after an acute episode of non-radiating chest pain
+Meta Mapping (779):
+   575   C0687676:AFTER (Post) [Temporal Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   595   C1547228:Non-acute [Intellectual Product]
+   623 N C0232289:Chest pain, radiating (Radiating chest pain) [Sign or Symptom]
+
+Phrase: on exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 53_Cage.txt.tx.2: 1. 
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2981698:1+ (1+ Score, WHO) [Intellectual Product]
+Processing 53_Cage.txt.tx.3: Stable Angina - Chest pain that occurs upon exertion. 
+
+Phrase: Stable Angina - Chest pain
+Meta Mapping (916):
+   645   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   923   C0742281:angina chest pain (chest pain angina) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurs upon exertion.
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0015264:Exertion [Organism Function]
+Processing 53_Cage.txt.tx.4: Unlikely to be unstable because pain does not occur at rest 2. 
+
+Phrase: Unlikely
+Meta Mapping (1000):
+  1000   C0750558:Unlikely [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: unstable
+Meta Mapping (1000):
+  1000   C0443343:Unstable (Unstable status) [Finding]
+
+Phrase: because
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: occur at rest 2.
+Meta Mapping (708):
+   770   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   770   C0035253:Rest [Daily or Recreational Activity]
+Processing 53_Cage.txt.tx.5: GERD - Plan: - Lifestyle: healthy diet, more exercise, smoking cessation - If needed: beta blockers, CCBs - more severe cases of angina need cardiac cath
+
+Phrase: GERD - Plan
+Meta Mapping (888):
+   694   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: Lifestyle
+Meta Mapping (1000):
+  1000   C0023676:Lifestyle (Life Style) [Social Behavior]
+
+Phrase: :
+
+Phrase: healthy diet,
+Meta Mapping (1000):
+  1000   C0452415:Diet, Healthy [Finding]
+
+Phrase: more
+Meta Mapping (1000):
+  1000   C0205172:More [Quantitative Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: ,
+
+Phrase: smoking cessation -
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+
+Phrase: If
+
+Phrase: needed
+Meta Mapping (1000):
+  1000   C0686904:needed (Patient need for (contextual qualifier)) [Functional Concept]
+
+Phrase: :
+
+Phrase: beta blockers,
+Meta Mapping (1000):
+  1000   C0001645:Beta blockers (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+
+Phrase: CCBs - more severe cases of angina
+Meta Mapping (676):
+   553   C0006684:CCB (Calcium Channel Blockers) [Pharmacologic Substance]
+   586   C0205082:Severe (Severe (severity modifier)) [Finding]
+   753   C1533148:Cases (Case unit dose) [Quantitative Concept]
+   586   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0686904:need (Patient need for (contextual qualifier)) [Functional Concept]
+
+Phrase: cardiac cath
+Meta Mapping (694):
+   694   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]

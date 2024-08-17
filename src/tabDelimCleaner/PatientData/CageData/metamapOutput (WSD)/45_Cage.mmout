@@ -1,0 +1,319 @@
+Processing 45_Cage.txt.tx.1: S: HPI - Cage is a 46 yo m with PMH of HTN, FH of CAD, who presents with 4 months of CP with exertion. most recently 3 days ago that is substernal and took breath away. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: HPI - Cage
+Meta Mapping (861):
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo m with PMH of HTN,
+Meta Mapping (678):
+   767   C4331833:a.m. [Qualitative Concept]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   578   C0262926:PMH (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: FH of CAD,
+Meta Mapping (623):
+   623   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: who
+
+Phrase: presents with 4 months of CP
+Meta Mapping (666):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0439231:MONTHS (month) [Temporal Concept]
+   753   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: with exertion. most recently 3 days ago
+Meta Mapping (731):
+   632   C0015264:Exertion [Organism Function]
+   632   C0332185:Recently (Recent) [Temporal Concept]
+   799   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: substernal
+
+Phrase: and
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: breath away.
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 45_Cage.txt.tx.2: No radiation to Left arm. 
+
+Phrase: No radiation to Left arm.
+Meta Mapping (779):
+   806   C3846110:No Radiation (No radiation therapy) [Finding]
+   640   C0230347:Left Arm (Left upper arm structure) [Body Part, Organ, or Organ Component]
+Processing 45_Cage.txt.tx.3: Went away with rest.  
+
+Phrase: Went
+
+Phrase: away with rest.
+Meta Mapping (790):
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 45_Cage.txt.tx.4: Meds -Chlorthalidone/ lisinopril  PMH - HTN  PSH - none  FH: Dad - HTN, CAD MOM- PE, HTN, Diabetes  SH - high Na intake, Eats whatever at cafeteria at work for meal - not always healthy   O: Vitals - 150/92 85 14 98F  General - awake, alert, in no distress, mildly anxious  Cardio - RRR, No M/G/R Lung - CTAB  Abd - soft, nontender, non distended  A:Mr. 
+
+Phrase: Meds -Chlorthalidone/ lisinopril  PMH - HTN  PSH -
+Meta Mapping (603):
+   632   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   632   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   632   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   632   C0262926:PMH (Medical History) [Finding]
+   632   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: none  FH
+
+Phrase: :
+
+Phrase: Dad - HTN,
+Meta Mapping (888):
+   694   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: CAD MOM- PE,
+Meta Mapping (851):
+   660   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   660   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   827   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Diabetes  SH - high Na intake,
+Meta Mapping (822):
+   637   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   637   C0038108:SH (Saint Helena Islands) [Geographic Area]
+   637   C1299351:High (Abnormally high) [Qualitative Concept]
+   637   C0597484:Na+ (sodium cation) [Element, Ion, or Isotope]
+   804   C1512806:Intake [Functional Concept]
+
+Phrase: Eats
+Meta Mapping (966):
+   966   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: whatever at cafeteria
+Meta Mapping (790):
+   790   C1004632:Cafeteria [Eukaryote]
+
+Phrase: at work for meal -
+Meta Mapping (783):
+   833   C3842633:At work [Finding]
+   604   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: not always healthy   O
+Meta Mapping (608):
+   645   C1518422:Not (Negation) [Functional Concept]
+   645   C2003902:Always (Always (frequency)) [Temporal Concept]
+   645   C3898900:Healthy [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vitals - 150/92 85 14 98F  General - awake, alert,
+Meta Mapping (711):
+   553   C0442732:Vital (Vital (qualifier value)) [Qualitative Concept]
+   624   C4517892:85 [Quantitative Concept]
+   624   C0205246:General (Generalized) [Spatial Concept]
+   624   C0234422:Awake [Finding]
+   791   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: in no distress,
+Meta Mapping (1000):
+  1000 N C0231303:Distress [Finding]
+
+Phrase: mildly anxious  Cardio - RRR,
+Meta Mapping (608):
+   645   C0750532:MILDLY [Qualitative Concept]
+   645 N C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+   645   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: No M/G/R Lung - CTAB  Abd - soft, nontender, non distended  A
+Meta Mapping (608):
+   643   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   622   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+   622   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   622   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   622   C0000726:abd (Abdomen) [Body Location or Region]
+   622   C0205358:Soft [Qualitative Concept]
+   622   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   622   C1518422:Non (Negation) [Functional Concept]
+   622 N C0700124:Distended (Dilated) [Finding]
+Meta Mapping (608):
+   634   C0456715:m g (g.m) [Quantitative Concept]
+   622   C2603358:R' (R prime) [Clinical Attribute]
+   622   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   622   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   622   C0000726:abd (Abdomen) [Body Location or Region]
+   622   C0205358:Soft [Qualitative Concept]
+   622   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   622   C1518422:Non (Negation) [Functional Concept]
+   622 N C0700124:Distended (Dilated) [Finding]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 45_Cage.txt.tx.5: Cage is a 46 yo male with FH of CAD and HTN, PMH of HTN, and likely high sodium diet, who presented with subacute CP that is suspicious for cardiac etiology. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo male with FH of CAD
+Meta Mapping (645):
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: and
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: PMH of HTN,
+Meta Mapping (746):
+   790   C0262926:PMH (Medical History) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: likely high sodium diet,
+Meta Mapping (916):
+   645   C0750492:Likely (Probably) [Idea or Concept]
+   923   C0452340:High sodium diet (high sodium diet) [Finding]
+
+Phrase: who
+
+Phrase: presented with subacute CP
+Meta Mapping (733):
+   770   C0449450:Presented (Presentation) [Idea or Concept]
+   770   C0205365:SUBACUTE (Subacute) [Temporal Concept]
+   770   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: suspicious for cardiac etiology.
+Meta Mapping (733):
+   770   C0750493:Suspicious [Qualitative Concept]
+   604   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   604   C0015127:etiology (Etiology aspects) [Functional Concept]
+Processing 45_Cage.txt.tx.6: His most likely ddx is stable angina due to his symptoms of CP when doing strenuous activity. 
+
+Phrase: His most likely ddx
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1412326:DDX (AKR1C3 gene) [Gene or Genome]
+
+Phrase: is
+
+Phrase: stable angina due to his symptoms of CP
+Meta Mapping (759):
+   770   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   578   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Meta Mapping (759):
+   744   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   767   C0858277:angina symptoms (angina symptom) [Sign or Symptom]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: when
+
+Phrase: doing
+
+Phrase: strenuous activity.
+Meta Mapping (1000):
+  1000   C1514989:Strenuous Activity (Strenuous Exercise) [Daily or Recreational Activity]
+Processing 45_Cage.txt.tx.7: He also describes GERD symptomology after lunch that occurs in the same location. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: describes
+
+Phrase: GERD symptomology after lunch
+Meta Mapping (541):
+   604   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   604   C2697949:Lunch [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: occurs in the same location.
+Meta Mapping (696):
+   760   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   760   C0445247:SAME (Same) [Qualitative Concept]
+   760   C0450429:Location [Spatial Concept]
+Processing 45_Cage.txt.tx.8: Other ddx GERD, Anxiety, Gas pain.  
+
+Phrase: Other ddx GERD,
+Meta Mapping (888):
+   694   C1412326:DDX (AKR1C3 gene) [Gene or Genome]
+   861   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: Anxiety,
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: Gas pain.
+Meta Mapping (1000):
+  1000   C0476289:GAS PAIN (Abdominal wind pain) [Sign or Symptom]
+Processing 45_Cage.txt.tx.9: P: -EKG in office  -Increase lisinopril  -CBC/BMP  -Schedule a stress test if EKG is neg
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: : -
+
+Phrase: EKG in office  -Increase lisinopril  -CBC/BMP  -
+Meta Mapping (762):
+   629   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   629   C0442603:Office [Manufactured Object]
+   629   C0442805:Increase [Functional Concept]
+   629   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   629   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   795   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: Schedule
+Meta Mapping (1000):
+  1000   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+
+Phrase: a stress test
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: neg
+Meta Mapping (1000):
+  1000   C3853545:NEG (Negative - answer) [Qualitative Concept]

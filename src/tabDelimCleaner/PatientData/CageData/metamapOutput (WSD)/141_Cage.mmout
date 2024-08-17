@@ -1,0 +1,522 @@
+Processing 141_Cage.txt.tx.1: Subjective:  Mr. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 141_Cage.txt.tx.2: Cage is a man who presents with complaints of chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a man
+Meta Mapping (1000):
+  1000   C0025266:Man (Male population group) [Population Group]
+
+Phrase: who
+
+Phrase: presents with complaints of chest pain.
+Meta Mapping (772):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0277786:complaints (Chief complaint (finding)) [Finding]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 141_Cage.txt.tx.3: He reports that he was carrying groceries to his car yesterday when he experienced an episode of chest pain. he describes the pain as a dull ache, 8/10 intensity with no radiation. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries to his car yesterday
+Meta Mapping (506):
+   586   C0206243:Carrying [Activity]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: an episode of chest pain.
+Meta Mapping (858):
+   593   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   760   C0332189:EPISODE (Episode of) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: he
+
+Phrase: describes
+
+Phrase: the pain as a dull ache,
+Meta Mapping (722):
+   783   C0278144:Dull Pain (Dull pain) [Sign or Symptom]
+   586   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: 8/10 intensity with no radiation.
+Meta Mapping (725):
+   617   C4517523:10.8 [Quantitative Concept]
+   753   C0522510:Intensity (With intensity) [Qualitative Concept]
+   586   C0851346:Radiation [Natural Phenomenon or Process]
+Processing 141_Cage.txt.tx.4: He also experienced light headedness and a sensation of the "wind being knocked out of him". 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: light headedness
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: a sensation of the "wind
+Meta Mapping (686):
+   760   C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+   593   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: being
+
+Phrase: knocked out of him".
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+Processing 141_Cage.txt.tx.5: He endorses similar, less severe episodes of this for the past 3-4 months. 
+
+Phrase: He
+
+Phrase: endorses
+
+Phrase: similar, less severe episodes of this for the past 3-4 months.
+Meta Mapping (672):
+   570   C2348205:Similar (Similarity) [Qualitative Concept]
+   570   C0205082:Severe (Severe (severity modifier)) [Finding]
+   736   C0332189:Episode of [Temporal Concept]
+   601   C4086725:Past 3 Months [Temporal Concept]
+Processing 141_Cage.txt.tx.6: They typically start during exertion and end within a couple seconds. 
+
+Phrase: They
+
+Phrase: typically
+
+Phrase: start during exertion
+Meta Mapping (746):
+   790   C0439659:Start (Beginning) [Temporal Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: end within a couple seconds.
+Meta Mapping (696):
+   760   C2746065:End (Stop (qualifier value)) [Temporal Concept]
+   593   C0010222:couple (Couples (persons)) [Family Group]
+   593   C0457385:Seconds (seconds) [Temporal Concept]
+Processing 141_Cage.txt.tx.7: The pain resolves with rest and seems to be worse with activity. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolves with rest
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: seems
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: worse with activity.
+Meta Mapping (1000):
+  1000   C4476688:Worse with activity (Aggravated by activity) [Finding]
+Processing 141_Cage.txt.tx.8: He has not tried any medications for the pain. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: tried
+
+Phrase: any medications for the pain.
+Meta Mapping (696):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   760   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   593 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 141_Cage.txt.tx.9: He denies headaches, abdominal pain, dyspnea, or orthopnea.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000 N C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+
+Phrase: dyspnea,
+Meta Mapping (1000):
+  1000 N C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: orthopnea.
+Meta Mapping (1000):
+  1000 N C0085619:Orthopnoea (Orthopnea) [Finding]
+Processing 141_Cage.txt.tx.10: Medication - Chlorthalidone, Lisinopril  Allergies - NKA   PMH - HTN  Surg Hx - None SH: 21 pack year history, 2-3 glasses of wine on weekends, no drugs, lives at home by himself, Bachelor's degree, works in IT for Capital One  FH: MI and CABG in Father, HTN, DM, PE in Mother  Objective:  General: Alert, well-appearing, mild distress due to concern for diagnosis  Heart: Normal rate, regular rhythm. 
+
+Phrase: Medication - Chlorthalidone,
+Meta Mapping (888):
+   694   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   861   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: Lisinopril  Allergies - NKA   PMH - HTN  Surg Hx -
+Meta Mapping (813):
+   635   C0571941:Lisinopril allergy [Disease or Syndrome]
+   629   C1705924:NKA (TAC1 wt Allele) [Gene or Genome]
+   629   C0262926:PMH (Medical History) [Finding]
+   629   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   629   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   795   C0262926:Hx (Medical History) [Finding]
+
+Phrase: None SH
+Meta Mapping (1000):
+  1000   C0038108:SH (Saint Helena Islands) [Geographic Area]
+
+Phrase: :
+
+Phrase: 21 pack year history,
+Meta Mapping (824):
+   694   C1277691:Pack Year (Pack years) [Intellectual Product]
+   812   C0262926:History (Medical History) [Finding]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: no drugs,
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: lives
+Meta Mapping (1000):
+  1000 N C0595998:lives (Household composition) [Finding]
+
+Phrase: at home by himself,
+Meta Mapping (833):
+   833 N C4534363:At home [Finding]
+
+Phrase: Bachelor's degree,
+Meta Mapping (1000):
+  1000   C2346951:Bachelor's Degree (Bachelor's Degree Completion) [Organism Attribute]
+
+Phrase: works in IT
+Meta Mapping (790):
+   790   C0043227:works (Work) [Occupational Activity]
+
+Phrase: for Capital One  FH
+Meta Mapping (623):
+   660   C0006909:Capital [Quantitative Concept]
+   660   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: CABG in Father,
+Meta Mapping (746):
+   790   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   623   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: PE in Mother  Objective
+Meta Mapping (733):
+   770   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   604   C0026591:MOTHER (Mother (person)) [Family Group]
+   604   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Alert,
+Meta Mapping (1000):
+  1000   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: well-appearing,
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: mild distress due to concern
+Meta Mapping (840):
+   593   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   760   C0231303:Distress [Finding]
+   640   C0678226:Due To (Due to) [Functional Concept]
+   593   C2699424:Concern [Idea or Concept]
+
+Phrase: for diagnosis  Heart
+Meta Mapping (888):
+   694   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+   861   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: regular rhythm.
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+Processing 141_Cage.txt.tx.11: No m/r/g Lungs: Cta b/l Abdomen: Normal bowel sounds, soft, non tender to palpation  Assessment:  Mr. 
+
+Phrase: No m/r/g Lungs
+Meta Mapping (861):
+   708   C0456715:m g (g.m) [Quantitative Concept]
+   645   C0205090:R- (Right) [Spatial Concept]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+Meta Mapping (861):
+   694   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   645   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Cta b/l Abdomen
+Meta Mapping (791):
+   645   C3540513:CTA (PCYT1A wt Allele) [Gene or Genome]
+   812   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Normal bowel sounds,
+Meta Mapping (1000):
+  1000 N C0278005:Normal bowel sounds [Finding]
+
+Phrase: soft,
+Meta Mapping (1000):
+  1000   C0205358:Soft [Qualitative Concept]
+
+Phrase: non tender to palpation  Assessment
+Meta Mapping (752):
+   806   C0520960:Non-tender [Qualitative Concept]
+   593   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   593   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 141_Cage.txt.tx.12: Cage is a man with HTN and 21 pack year history who presents with complaints of episodic chest pain that occurs with exertion and is relieved by rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a man with HTN
+Meta Mapping (708):
+   770   C0025266:Man (Male population group) [Population Group]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: 21 pack year history
+Meta Mapping (824):
+   694   C1277691:Pack Year (Pack years) [Intellectual Product]
+   812   C0262926:History (Medical History) [Finding]
+
+Phrase: who
+
+Phrase: presents with complaints of episodic chest pain
+Meta Mapping (761):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0277786:complaints (Chief complaint (finding)) [Finding]
+   748   C1455761:Episodic [Temporal Concept]
+   772   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurs with exertion
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: relieved by rest.
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 141_Cage.txt.tx.13: The most likely diagnosis is stable angina. 
+
+Phrase: The most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 141_Cage.txt.tx.14: Other diagnoses include unstable angina, coronary vasospasm, and myocardial infarction.  
+
+Phrase: Other diagnoses
+Meta Mapping (1000):
+  1000   C0011900:Diagnoses (Diagnosis) [Diagnostic Procedure]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: coronary vasospasm,
+Meta Mapping (1000):
+  1000   C0010073:Coronary Vasospasm (Coronary Artery Vasospasm) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: myocardial infarction.
+Meta Mapping (1000):
+  1000   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Processing 141_Cage.txt.tx.15: Plan:  - Labs including CBC, cardiac markers  - Perform ECG and cardiac stress test - Start nitrate for chest pain episodes  - Return to office to discuss test results  - Smoking cessation counseling
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :  -
+
+Phrase: Labs
+Meta Mapping (1000):
+  1000   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: cardiac markers  -
+Meta Mapping (1000):
+  1000   C1271630:Cardiac markers [Laboratory Procedure]
+
+Phrase: Perform
+Meta Mapping (1000):
+  1000   C0884358:Perform (Performed) [Functional Concept]
+
+Phrase: ECG
+Meta Mapping (1000):
+  1000   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: cardiac stress test - Start nitrate for chest pain episodes  - Return
+Meta Mapping (742):
+   615   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+   739   C1266653:NITRATE (Nitrate measurement (procedure)) [Laboratory Procedure]
+   573   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   591   C1518853:Pain Start (Pain Origin) [Clinical Attribute]
+   573   C0332189:Episodes (Episode of) [Temporal Concept]
+   573   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+Meta Mapping (742):
+   615   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+   573   C0439659:Start (Beginning) [Temporal Concept]
+   739   C1266653:NITRATE (Nitrate measurement (procedure)) [Laboratory Procedure]
+   593   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   573   C0332189:Episodes (Episode of) [Temporal Concept]
+   573   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+Meta Mapping (742):
+   611   C0423636:Cardiac chest pain (Cardiac pain) [Sign or Symptom]
+   593   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   573   C0439659:Start (Beginning) [Temporal Concept]
+   739   C1266653:NITRATE (Nitrate measurement (procedure)) [Laboratory Procedure]
+   573   C0332189:Episodes (Episode of) [Temporal Concept]
+   573   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+
+Phrase: to office
+Meta Mapping (1000):
+  1000   C0442603:Office [Manufactured Object]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: test results  - Smoking cessation counseling
+Meta Mapping (857):
+   673   C0456984:test results (Test Result) [Laboratory or Test Result]
+   840   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   804   C0740209:Counseling NOS (Encounter due to counseling) [Finding]

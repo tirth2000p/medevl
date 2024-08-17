@@ -1,0 +1,200 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective:   Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,14,True,Subjective:   Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,18,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C2987187,Pleasant,Pleasant,-593,-702,pleasant appearing male with PMHx,26,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0700364,APPEAR,Appearance,-560,-702,pleasant appearing male with PMHx,26,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C1706180,Male,"Male Gender, Self Report",-760,-702,pleasant appearing male with PMHx,26,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0750502,Significant,Significant,-790,-746,significant for hypertension,60,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0020538,HYPERTENSION,Hypertensive disease,-623,-746,significant for hypertension,60,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0150312,PRESENT,Present,-790,-746,presents to clinic,93,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0002424,Clinic,Ambulatory Care Facilities,-790,-746,presents to clinic,93,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0521125,For,Preposition For,-593,-858,for evaluation of chest pain.,112,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0220825,Evaluation,Evaluation,-760,-858,for evaluation of chest pain.,112,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C0024902,Pain of breast,Mastodynia,-650,-858,for evaluation of chest pain.,112,True,Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,142,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0439659,Begin,Beginning,-966,-966,began,151,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C3838679,4+,4+ Answer to question,-586,-691,~4 months ago with exertion related,157,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0439231,MONTHS,month,-753,-691,~4 months ago with exertion related,157,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0015264,Exertion,Exertion,-586,-691,~4 months ago with exertion related,157,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0439849,Related,Relationships,-586,-691,~4 months ago with exertion related,157,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C1290942,Climbing stairs,Climbing stairs,-1000,-1000,to climbing stairs,193,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0080331,Walking,Walking (activity),-770,-733,walking to his car.,216,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0523697,HIS,Histidine measurement,-604,-733,walking to his car.,216,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C0004381,Car,Automobiles,-604,-733,walking to his car.,216,True,The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+C1442792,State,State,-1000,-1000,states,239,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,246,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C0523697,HIS,Histidine measurement,-770,-722,located in his chest,268,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C1527391,Chest,Anterior thoracic region,-770,-722,located in his chest,268,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C1527305,feels,Feelings,-770,-708,"feels like a ""pressure.""",293,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C0460139,Pressure,Pressure (finding),-770,-708,"feels like a ""pressure.""",293,True,"He states the pain is centrally located in his chest and feels like a ""pressure."" "
+C0205172,More,More,-861,-888,"More recently,",318,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C0332185,Recently,Recent,-861,-888,"More recently,",318,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C0205388,Few,Few,-660,-790,"a few days ago,",333,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C0439228,DAYS,day,-827,-790,"a few days ago,",333,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C0205172,More,More,-660,-901,a more severe pain,360,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C0278140,Severe pain,Severe pain,-901,-901,a more severe pain,360,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C1708715,Loading,Loading Technique,-694,-694,loading groceries.,389,True,"More recently, a few days ago, he noticed a more severe pain as he was loading groceries. "
+C1442792,State,State,-1000,-1000,states,418,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,425,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C3812801,IS,Immunogenicity Specimen Assessments Domain,-760,-696,"is like a ""deep pressure""",434,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C0205125,DEEP,Deep (qualifier value),-760,-696,"is like a ""deep pressure""",434,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C0460139,Pressure,Pressure (finding),-760,-696,"is like a ""deep pressure""",434,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C1515187,Take,Take,-966,-966,took,468,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C0016204,Wind NOS,Flatulence,-760,-695,"the wind out of him.""",473,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C0439787,Out,Out (direction),-593,-695,"the wind out of him.""",473,True,"Again, he states the pain is like a ""deep pressure"" and it ""took the wind out of him."" "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,495,True,The pain subsided with sitting in his car for ~10 mins. 
+C0277814,SITTING,Sitting position,-790,-790,subsided with sitting,504,True,The pain subsided with sitting in his car for ~10 mins. 
+C0150312,In,Present,-586,-734,in his car for ~10 mins.,526,True,The pain subsided with sitting in his car for ~10 mins. 
+C0523697,HIS,Histidine measurement,-586,-734,in his car for ~10 mins.,526,True,The pain subsided with sitting in his car for ~10 mins. 
+C0004381,Car,Automobiles,-753,-734,in his car for ~10 mins.,526,True,The pain subsided with sitting in his car for ~10 mins. 
+C0456692,/10 min,/10 min,-606,-734,in his car for ~10 mins.,526,True,The pain subsided with sitting in his car for ~10 mins. 
+C0332319,Denied,Denied (qualifier),-1000,-1000,Denied,551,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C1552551,ANY,Any,-586,-888,any pain radiating to his neck,558,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C1960989,Pain radiating to neck,Pain radiating to neck,-864,-888,any pain radiating to his neck,558,False,Denied any pain radiating to his neck or his left arm during this episode. 
+C0523697,HIS,Histidine measurement,-586,-888,any pain radiating to his neck,558,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C0523697,HIS,Histidine measurement,-586,-725,his left arm during this episode.,592,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C0230347,Left Arm,Left upper arm structure,-790,-725,his left arm during this episode.,592,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C0332189,EPISODE,Episode of,-586,-725,his left arm during this episode.,592,True,Denied any pain radiating to his neck or his left arm during this episode. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,639,True,Additionally denies any syncope related to the pain or pain at rest. 
+C0039070,SYNCOPE,Syncope,-1000,-1000,any syncope,646,False,Additionally denies any syncope related to the pain or pain at rest. 
+C0439849,Related,Relationships,-770,-708,related to the pain,658,True,Additionally denies any syncope related to the pain or pain at rest. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-770,-708,related to the pain,658,False,Additionally denies any syncope related to the pain or pain at rest. 
+C0234253,Pain at rest,Rest pain,-1000,-1000,pain at rest.,681,False,Additionally denies any syncope related to the pain or pain at rest. 
+C1316572,Note,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},-1000,-1000,notes,703,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C1998882,Occasionally,Sometimes,-1000,-1000,occasionally,712,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C2348205,Similar,Similarity,-575,-714,"a similar pressure 5-10 mins after eating meals,",729,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C4037946,Pressure.min,Pressure.min,-745,-714,"a similar pressure 5-10 mins after eating meals,",729,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C4517521,10.5,10.5,-595,-714,"a similar pressure 5-10 mins after eating meals,",729,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C0013470,Eating,Eating,-575,-714,"a similar pressure 5-10 mins after eating meals,",729,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C1998602,Meals,Meal (occasion for eating),-575,-714,"a similar pressure 5-10 mins after eating meals,",729,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C1442792,State,State,-1000,-1000,states,782,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C0460139,Pressure,Pressure (finding),-1000,-1000,this pressure,789,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C1705242,Different,Different,-790,-790,different than what,806,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C0596545,Experience,Experience,-966,-966,experienced,829,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C1708715,Loading,Loading Technique,-694,-694,loading groceries.,847,True,"He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,866,True,Denies any history of reflux or previous MI. 
+C1552551,ANY,Any,-604,-733,any history of reflux,873,True,Denies any history of reflux or previous MI. 
+C0262926,History,Medical History,-770,-733,any history of reflux,873,False,Denies any history of reflux or previous MI. 
+C0232483,Reflux,Reflux,-604,-733,any history of reflux,873,False,Denies any history of reflux or previous MI. 
+C0205156,Previous,Previous,-694,-888,previous MI.,898,True,Denies any history of reflux or previous MI. 
+C0683474,MI,Motivational Interviewing,-861,-888,previous MI.,898,True,Denies any history of reflux or previous MI. 
+C1299394,Most significant,Most significant,-734,-901,His most significant concern,911,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C2699424,Concern,Concern,-827,-901,His most significant concern,911,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,a heart attack,961,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C4761403,OR,Oroqen Chinese,-748,-692,or at risk of a heart attack.,976,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C0035647,Risk,Risk,-748,-692,or at risk of a heart attack.,976,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C0027051,HEART ATTACK,Myocardial Infarction,-778,-692,or at risk of a heart attack.,976,True,His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,Meds,1007,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0065374,Lysinopril,lisinopril,-1000,-1000,"Lisinopril,",1013,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0008294,Chlortalidone,chlorthalidone,-694,-694,chlorthalidone  PMHx,1025,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0020538,HYPERTENSION,Hypertensive disease,-694,-888,Hypertension  FHx,1047,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C1428412,FHX,FOXJ2 gene,-861,-888,Hypertension  FHx,1047,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0565599,Maternal hypertension,Maternal hypertension,-830,-830,"Hypertension in mother,",1066,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0155668,previous Heart attack,Old myocardial infarction,-1000,-1000,previous heart attack,1090,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C1536078,Bypass Surgery,Bypass Surgery,-806,-745,bypass surgery in father   SHx,1116,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0015671,FATHER,Father (person),-593,-745,bypass surgery in father   SHx,1116,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0037369,smokes,Smoking,-632,-768,"smokes 1 ppd x 20 years,",1148,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0048678,PPD,4-phenylenediamine,-632,-768,"smokes 1 ppd x 20 years,",1148,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-827,-768,"smokes 1 ppd x 20 years,",1148,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0452428,Drinks,Drink (dietary substance),-1000,-1000,drinks,1173,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0015421,Glasses,Eyeglasses,-760,-686,a few glasses of wine,1180,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0043188,WINE,Wine,-593,-686,a few glasses of wine,1180,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0728831,Social,Social,-694,-847,on social occasions.,1202,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C0521114,Occasional,Infrequent,-777,-847,on social occasions.,1202,True,"Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,1223,True,Denies any illicit drug use including cocaine.   
+C0281875,Illicit drug use,Illicit medication use,-1000,-1000,any illicit drug use,1230,False,Denies any illicit drug use including cocaine.   
+C0332257,Including,Including (qualifier),-1000,-1000,including,1251,True,Denies any illicit drug use including cocaine.   
+C0009170,COCAINE,cocaine,-1000,-1000,cocaine.,1261,True,Denies any illicit drug use including cocaine.   
+C0018017,Objective,objective (goal),-1000,-1000,Objective,1272,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0215604,T 98,T 98,-1000,-1000,"T=98,",1289,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C2603361,P',P prime,-861,-888,"P=85,",1295,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C4517892,85,85,-861,-888,"P=85,",1295,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C1708288,BP,HP wt Allele,-1000,-1000,BP,1301,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0031809,"Exam, Physical",Physical Examination,-901,-901,=14  Physical Exam,1314,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0205246,General,Generalized,-1000,-1000,General,1336,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0699718,PT,Physical therapy (field),-1000,-1000,Pt,1345,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C2004580,Alert,Alert note,-1000,-1000,"alert,",1351,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C1961029,Oriented to time,Oriented to time,-1000,-1000,oriented to time,1358,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0442504,Place,Place,-1000,-1000,"in place,",1375,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0205170,Well,Good,-861,-872,"well groomed,",1385,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0018249,groom,Grooming,-827,-872,"well groomed,",1385,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C1518422,Not,Negation,-753,-697,not in any acute distress - CV,1409,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0205178,ACUTE,acute,-753,-697,not in any acute distress - CV,1409,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0231303,Distress,Distress,-753,-697,not in any acute distress - CV,1409,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C4318503,CV,ciliary vesicle,-753,-697,not in any acute distress - CV,1409,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0232231,Normal S2,"Normal second heart sound, S>2<",-913,-901,"Normal S1/S2,",1441,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C3715215,S1,S1,-660,-901,"Normal S1/S2,",1441,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0018808,murmurs,Heart murmur,-1000,-1000,no murmurs/,1460,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1471,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0232278,gallop s3,Protodiastolic gallop with abnormally audible third heart sound,-717,-890,/gallops/S3/S4.,1475,False,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C2349970,S4+,S4+,-827,-890,/gallops/S3/S4.,1475,True,"Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. "
+C0741968,carotids,carotid,-1000,-1000,Carotids,1491,True,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C1996904,Free,Free (available (qualifier)),-790,-746,free of bruits,1500,True,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C0006318,bruits,Bruit,-623,-746,free of bruits,1500,False,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C0004339,AUSCULTATION,Auscultation,-1000,-1000,on auscultation,1515,True,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C0522499,PALPABLE,Palpable,-760,-686,palpable with 2+ pulses bilaterally.,1535,True,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C0391850,PULSES,Physiologic pulse,-593,-686,palpable with 2+ pulses bilaterally.,1535,False,Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,No pain,1572,False,No pain elicited with palpation of the anterior chest wall. 
+C0449265,elicited,Elicited by,-744,-721,elicited with palpation of the anterior chest wall.,1580,True,No pain elicited with palpation of the anterior chest wall. 
+C0030247,PALPATION,Palpation,-744,-721,elicited with palpation of the anterior chest wall.,1580,True,No pain elicited with palpation of the anterior chest wall. 
+C0230132,Anterior chest wall,Anterior chest wall structure,-800,-721,elicited with palpation of the anterior chest wall.,1580,True,No pain elicited with palpation of the anterior chest wall. 
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,1632,True,PMI is 2 cm in diameter and nondisplaced. 
+C0805899,Diameter 2,Diameter 2,-652,-652,2 cm in diameter,1639,True,PMI is 2 cm in diameter and nondisplaced. 
+C0746928,non displaced,non displaced,-1000,-1000,nondisplaced.,1660,True,PMI is 2 cm in diameter and nondisplaced. 
+C0442038,Radial,Radial,-660,-623,"Radial, post tib,",1674,True,"Radial, post tib, dorsalis pedis all 2+ b/l. "
+C0687676,Post,Post,-660,-623,"Radial, post tib,",1674,True,"Radial, post tib, dorsalis pedis all 2+ b/l. "
+C4727455,Pedi,Northern Sotho Language,-861,-861,dorsalis pedis,1692,True,"Radial, post tib, dorsalis pedis all 2+ b/l. "
+C2981700,2+,"2+ Score, WHO",-660,-660,all 2+ b/l.,1707,True,"Radial, post tib, dorsalis pedis all 2+ b/l. "
+C0024109,LUNGS,Lung,-1000,-1000,- Lungs,1719,True,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0951233,CTAB,cetrimonium bromide,-1000,-1000,"CTAB,",1728,True,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0043144,Wheezes,Wheezing,-1000,-1000,no wheezes/,1734,False,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0034642,Crackles,Rales,-1000,-1000,crackles,1745,False,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0035508,RHONCHI,Rhonchi,-694,-888,/rhonchi - Extremities,1753,False,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0015385,Extremities,Limb structure,-861,-888,/rhonchi - Extremities,1753,True,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C1516048,Assessment,Assessed,-861,-861,No LEE  Assessment,1777,True,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1797,True,"- Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. "
+C0337189,Cage,Cage device,-1000,-1000,Cage,1801,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0262926,PMH,Medical History,-581,-548,a gentleman with PMH s/f HTN,1809,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C3714799,F/s,Frames Per Second,-607,-548,a gentleman with PMH s/f HTN,1809,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0020538,HTN,Hypertensive disease,-581,-548,a gentleman with PMH s/f HTN,1809,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0150312,PRESENT,Present,-748,-761,presents for evaluation of exertional chest pain.,1842,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0220825,Evaluation,Evaluation,-748,-761,presents for evaluation of exertional chest pain.,1842,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0239313,EXERTIONAL,exercise induced,-748,-761,presents for evaluation of exertional chest pain.,1842,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C0024902,Pain of breast,Mastodynia,-772,-761,presents for evaluation of exertional chest pain.,1842,True,Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,1892,True,Denies any radiation or syncope. 
+C0851346,Radiation,Radiation,-1000,-1000,any radiation,1899,True,Denies any radiation or syncope. 
+C0039070,SYNCOPE,Syncope,-1000,-1000,syncope.,1916,False,Denies any radiation or syncope. 
+C0031809,"Exam, Physical",Physical Examination,-673,-632,"Physical exam unremarkable, cardiac exam",1925,True,"Physical exam unremarkable, cardiac exam wnl. "
+C0205307,UNREMARKABLE,Normal,-637,-632,"Physical exam unremarkable, cardiac exam",1925,True,"Physical exam unremarkable, cardiac exam wnl. "
+C0018787,Cardiac,Heart,-637,-632,"Physical exam unremarkable, cardiac exam",1925,True,"Physical exam unremarkable, cardiac exam wnl. "
+C1442162,GIVEN,GIVEN,-593,-724,Given history of exertional CP,1971,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0262926,History,Medical History,-760,-724,Given history of exertional CP,1971,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0239313,EXERTIONAL,exercise induced,-593,-724,Given history of exertional CP,1971,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0006938,CP,captopril,-593,-724,Given history of exertional CP,1971,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0205183,BENIGN,Benign,-660,-901,"benign physical exam,",2006,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0031809,"Exam, Physical",Physical Examination,-901,-901,"benign physical exam,",2006,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0332148,Likelihood diagnosis,Probable diagnosis,-964,-964,most likely diagnosis,2028,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0340288,STABLE ANGINA,Stable angina,-1000,-1000,stable angina.,2053,True,"Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. "
+C0443199,Differential,Differential quality,-966,-966,Other differentials,2068,True,Other differentials include unstable angina vs. 
+C0332257,include,Including (qualifier),-1000,-1000,include,2088,True,Other differentials include unstable angina vs. 
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,unstable angina,2096,True,Other differentials include unstable angina vs. 
+C0017168,GERD,Gastroesophageal reflux disease,-1000,-1000,GERD.,2116,True,GERD.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,2123,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1301820,Obtain,Obtain,-1000,-1000,Obtain,2132,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0205547,Routine,Routine,-694,-888,routine EKG -,2139,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1623258,EKG,Electrocardiography,-861,-888,routine EKG -,2139,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1301820,Obtain,Obtain,-1000,-1000,Obtain,2153,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1655045,Echo,Echo (insect),-1000,-1000,Echo -,2160,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1301820,Obtain,Obtain,-1000,-1000,Obtain,2167,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0920208,Stress Echo,"Echocardiography, Stress",-902,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0039593,Testing,Testing,-645,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1947971,Give,Give - dosing instruction imperative,-612,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0015260,stress testing,Exercise stress test,-694,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1947971,Give,Give - dosing instruction imperative,-612,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1655045,Echo,Echo (insect),-812,-852,stress testing - Given echo,2174,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0038435,Stress,Stress,-694,-872,"stress results,",2206,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C1274040,Result,Result,-827,-872,"stress results,",2206,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C0750591,consider,consider,-1000,-1000,consider,2226,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C3242309,symptomatic relief,symptomatic relief,-666,-666,nitro for symptomatic relief.,2235,True,"Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  "
+C2675477,MS3,"MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3",-1000,-1000,MS3,2285,True,"Geetika Reichmann, MS3"

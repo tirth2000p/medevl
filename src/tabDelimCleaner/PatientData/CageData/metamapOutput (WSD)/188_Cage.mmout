@@ -1,0 +1,540 @@
+Processing 188_Cage.txt.tx.1: Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: HPI
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 y/o M
+Meta Mapping (812):
+   812   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: who
+
+Phrase: presents with episodic chest pain.
+Meta Mapping (761):
+   760   C0150312:PRESENT (Present) [Finding]
+   797   C3808668:Episodic pain [Sign or Symptom]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (761):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C1455761:Episodic [Temporal Concept]
+   806   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 188_Cage.txt.tx.2: He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+
+Phrase: He
+
+Phrase: describes
+
+Phrase: having
+
+Phrase: midline chest 7/10 pain
+Meta Mapping (785):
+   673   C1183734:Midline chest (Intrathoracic part of chest) [Body Location or Region]
+   637   C3842590:10% [Quantitative Concept]
+   804   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Meta Mapping (785):
+   637   C1660780:midline (midline cell component) [Cell Component]
+   875   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   637   C3842590:10% [Quantitative Concept]
+
+Phrase: a few days ago
+Meta Mapping (790):
+   660   C0205388:Few [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: while
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 188_Cage.txt.tx.3: The pain caused him to drop everything and he felt lightheaded and like "the wind was knocked out of him". 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: caused
+Meta Mapping (966):
+   966   C0015127:cause (Etiology aspects) [Functional Concept]
+
+Phrase: him
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: everything
+
+Phrase: and
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: lightheaded
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and like "
+Meta Mapping (833):
+   833   C1515981:And [Idea or Concept]
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out of him".
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+Processing 188_Cage.txt.tx.4: The pain subsided after 5-10 minutes. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided after 5-10 minutes.
+Meta Mapping (806):
+   806   C0456692:/10 minutes (/10 min) [Temporal Concept]
+Processing 188_Cage.txt.tx.5: He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: endorses
+
+Phrase: other less severe episodes of pain
+Meta Mapping (764):
+   586   C0205082:Severe (Severe (severity modifier)) [Finding]
+   773   C0332189:Episode of [Temporal Concept]
+   617   C0237283:Pain - other [Finding]
+Meta Mapping (764):
+   586   C0205394:OTHER (Other) [Qualitative Concept]
+   617   C0278140:Severe pain [Finding]
+   773   C0332189:Episode of [Temporal Concept]
+
+Phrase: (2/10
+Meta Mapping (888):
+   861   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: )
+
+Phrase: that
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds 2-3 times
+Meta Mapping (812):
+   673   C4036225:Few seconds [Temporal Concept]
+   804   C0040223:times (Time) [Temporal Concept]
+
+Phrase: a month.
+Meta Mapping (1000):
+  1000   C0439231:Month (month) [Temporal Concept]
+Processing 188_Cage.txt.tx.6: No palpitations, or shortness of breath.  
+
+Phrase: No palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: or
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 188_Cage.txt.tx.7: PMH/PSH: HTN, no surgeries. 
+
+Phrase: PMH/PSH
+Meta Mapping (694):
+   694   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: no surgeries.
+Meta Mapping (1000):
+  1000   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+Processing 188_Cage.txt.tx.8: Medication: Chlorthalidone 25mg 1/day. 
+
+Phrase: Medication
+Meta Mapping (1000):
+  1000   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg 1/day.
+Meta Mapping (791):
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   812   C0439228:Day (day) [Temporal Concept]
+Processing 188_Cage.txt.tx.9: Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. 
+
+Phrase: Lisinopril 10 mg 1/day Allergies
+Meta Mapping (804):
+   694   C0987217:Lisinopril 10 MG [Clinical Drug]
+   632   C0439228:Day (day) [Temporal Concept]
+   799   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: None FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died of MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in his 40s,
+
+Phrase: had
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: underwent
+
+Phrase: bypass.
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+Processing 188_Cage.txt.tx.10: Mother HTN, T2DM, died of pulmonary embolism. 
+
+Phrase: Mother HTN,
+Meta Mapping (888):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: died of pulmonary embolism.
+Meta Mapping (783):
+   770   C1306577:Died (Death (finding)) [Finding]
+   833   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+Processing 188_Cage.txt.tx.11: SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   
+
+Phrase: SHx
+
+Phrase: :
+
+Phrase: Works
+Meta Mapping (1000):
+  1000   C0043227:works (Work) [Occupational Activity]
+
+Phrase: IT at capital one,
+Meta Mapping (722):
+   770   C0006909:Capital [Quantitative Concept]
+   770   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: 1ppd,
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: no
+
+Phrase: other substances.
+Meta Mapping (1000):
+  1000   C0439861:Substances (Substance) [Substance]
+Processing 188_Cage.txt.tx.12: Objective: Vitals 98.0F, 85, 14, 150/92. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vitals 98.0F,
+Meta Mapping (587):
+   589   C0442732:Vital (Vital (qualifier value)) [Qualitative Concept]
+   660   C4319627:98 [Quantitative Concept]
+
+Phrase: 85,
+Meta Mapping (1000):
+  1000   C4517892:85 [Quantitative Concept]
+
+Phrase: 14,
+
+Phrase: 150/92.
+Processing 188_Cage.txt.tx.13: General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. 
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: well appearing,
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: no acute distress CV
+Meta Mapping (851):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+   827   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: palpated
+Meta Mapping (928):
+   928 N C1527305:feels (Feelings) [Mental Process]
+
+Phrase: 5th intercostal space midclavicular Labs
+Meta Mapping (875):
+   717   C4068815:5th intercostal space [Body Space or Junction]
+   637   C0442127:Midclavicular [Spatial Concept]
+   804 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: None  Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 46 y/o M w/PMH of HTN
+Meta Mapping (673):
+   600   C3846401:M & Y [Finding]
+   744   C0262926:PMH (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: FHx of MI,
+Meta Mapping (746):
+   790   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with episodic exertional chest pain
+Meta Mapping (916):
+   645   C1455761:Episodic [Temporal Concept]
+   923   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 188_Cage.txt.tx.14: Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. 
+
+Phrase: Most likely differential
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: is
+
+Phrase: angina pectoris due to episodic exertional chest pain,
+Meta Mapping (840):
+   770   C0002962:ANGINA PECTORIS (Angina Pectoris) [Sign or Symptom]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C1455761:Episodic [Temporal Concept]
+   633   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: FHx of cardiac conditions.
+Meta Mapping (772):
+   770   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   650   C0018799:Cardiac condition (Heart Diseases) [Disease or Syndrome]
+Processing 188_Cage.txt.tx.15: Other differential considerations could include arrhythmia or cardiomyopathy.  
+
+Phrase: Other differential considerations
+Meta Mapping (888):
+   694   C0443199:Differential (Differential quality) [Qualitative Concept]
+   861   C0518609:considerations (Consideration) [Finding]
+
+Phrase: could
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C2700399:Include (Include (action)) [Activity]
+
+Phrase: arrhythmia
+Meta Mapping (1000):
+  1000   C0003811:Arrythmia (Cardiac Arrhythmia) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: cardiomyopathy.
+Meta Mapping (1000):
+  1000   C0878544:CARDIOMYOPATHY (Cardiomyopathies) [Disease or Syndrome]
+Processing 188_Cage.txt.tx.16: Plan: 1. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 188_Cage.txt.tx.17: Obtain EKG, CBC, CMP, troponins 2. 
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: troponins 2.
+Meta Mapping (861):
+   861   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 188_Cage.txt.tx.18: Possibly order cardiac stress test. 
+
+Phrase: Possibly
+Meta Mapping (1000):
+  1000   C2362652:Possibly (Possible diagnosis) [Qualitative Concept]
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: cardiac stress test.
+Meta Mapping (1000):
+  1000   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+Processing 188_Cage.txt.tx.19: 3. 
+
+Phrase: 3.
+Meta Mapping (1000):
+  1000   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+Processing 188_Cage.txt.tx.20: Reassess after EKG and lab results obtained.  
+
+Phrase: Reassess after EKG
+Meta Mapping (790):
+   790   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: lab results
+Meta Mapping (872):
+   694   C0022877:Lab (Laboratory) [Health Care Related Organization,Manufactured Object]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+
+Phrase: obtained.
+Meta Mapping (1000):
+  1000   C1301820:Obtained (Obtain) [Functional Concept]
+Processing 188_Cage.txt.tx.21: 4. 
+
+Phrase: 4.
+Meta Mapping (1000):
+  1000   C3838679:4+ (4+ Answer to question) [Finding]
+Processing 188_Cage.txt.tx.22: May prescribe medications such as beta blockers. 
+
+Phrase: May
+
+Phrase: prescribe
+
+Phrase: medications such as beta blockers.
+Meta Mapping (745):
+   760   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   640   C0001645:Beta blockers (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+Processing 188_Cage.txt.tx.23: 5. 
+
+Phrase: 5.
+Meta Mapping (1000):
+  1000   C0439084:>5 [Quantitative Concept]
+Processing 188_Cage.txt.tx.24: May adjust dosage of anti-hypertensives given BP of 150/92
+
+Phrase: May
+
+Phrase: adjust
+
+Phrase: dosage of anti-hypertensives
+Meta Mapping (783):
+   770   C0178602:Dosage [Quantitative Concept]
+   666   C0003364:Anti-Hypertensives (Antihypertensive Agents) [Pharmacologic Substance]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: BP of 150/92
+Meta Mapping (770):
+   770   C1415692:Bp (HP gene) [Gene or Genome]

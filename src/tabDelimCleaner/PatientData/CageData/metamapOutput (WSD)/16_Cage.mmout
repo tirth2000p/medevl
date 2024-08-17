@@ -1,0 +1,537 @@
+Processing 16_Cage.txt.tx.1: Subjective: Mr. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 16_Cage.txt.tx.2: Cage is a ___ year old man who presents following an single instance of chest pain 3 days ago- he describes the pain as a sudden horrible pain that went away on its own after 5 minutes. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a ___ year old man
+Meta Mapping (851):
+   660   C0439508:/Year (per year) [Temporal Concept]
+   660   C0580836:Old [Temporal Concept]
+   827   C0025266:Man (Male population group) [Population Group]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0231290:Following (Status post) [Temporal Concept]
+
+Phrase: an single instance of chest pain 3 days ago-
+Meta Mapping (781):
+   595   C0619883:AN 3 [Amino Acid, Peptide, or Protein]
+   575   C0087136:single (Unmarried) [Finding]
+   742   C1550608:Instance [Idea or Concept]
+   590   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   575   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: he
+
+Phrase: describes
+
+Phrase: the pain as a sudden horrible pain
+Meta Mapping (607):
+   607   C0184567:Sudden pain (Acute onset pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: went
+
+Phrase: away on its own
+
+Phrase: after 5 minutes.
+Meta Mapping (1000):
+  1000   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 16_Cage.txt.tx.3: He was carrying heavy groceries in from the car when it started and had to sit and rest in his car for 5 minutes for the pain to go away before proceeding with activities. 
+
+Phrase: He
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries in
+Meta Mapping (623):
+   623   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: from the car
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: it
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: sit
+Meta Mapping (1000):
+  1000   C0277814:Sit (Sitting position) [Finding]
+
+Phrase: and
+
+Phrase: rest in his car
+Meta Mapping (733):
+   770   C0035253:Rest [Daily or Recreational Activity]
+   604   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5 minutes for the pain
+Meta Mapping (725):
+   586   C0521125:For (Preposition For) [Qualitative Concept]
+   783   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   586   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: go
+Meta Mapping (1000):
+  1000   C1822658:GO (GORAB gene) [Gene or Genome]
+
+Phrase: away before proceeding with activities.
+Meta Mapping (593):
+   593   C0441655:Activities [Activity]
+Processing 16_Cage.txt.tx.4: At the time, he was  not experiencing any shortness of breath, palpitations or dizziness. 
+
+Phrase: At the time,
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966 N C0596545:Experience [Mental Process]
+
+Phrase: any shortness of breath,
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: palpitations
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: or
+
+Phrase: dizziness.
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Processing 16_Cage.txt.tx.5: He notes that his chest at the time was not tender to palpation or worse with changes in position. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that
+
+Phrase: his chest at the time
+Meta Mapping (696):
+   593   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   593   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: was
+
+Phrase: not tender to palpation
+Meta Mapping (733):
+   604   C1518422:Not (Negation) [Functional Concept]
+   770   C0234234:Tender [Qualitative Concept]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: or
+
+Phrase: worse with changes
+Meta Mapping (746):
+   790 N C1279889:Worse (Deterioration of status) [Finding]
+   623   C0392747:changes (Changing) [Functional Concept]
+
+Phrase: in position.
+Meta Mapping (1000):
+  1000   C0733755:Position (Positioning Attribute) [Spatial Concept]
+Processing 16_Cage.txt.tx.6: He is not currently experiencing any symptoms. 
+
+Phrase: He
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966 N C0596545:Experience [Mental Process]
+
+Phrase: any symptoms.
+Meta Mapping (1000):
+  1000 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 16_Cage.txt.tx.7: He notes that for the past 4 months he has had brief episodes such as this one but all of which went away after less than a minute.   
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that for the past 4 months
+Meta Mapping (767):
+   767   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: brief episodes such as this one
+Meta Mapping (672):
+   586   C1879313:Brief [Temporal Concept]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   586   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: but
+
+Phrase: all of which
+
+Phrase: went
+
+Phrase: away
+
+Phrase: after
+
+Phrase: less than a minute.
+Meta Mapping (783):
+   833   C0439092:Less Than [Quantitative Concept]
+   770   C0702093:/minute (Per Minute) [Temporal Concept]
+Processing 16_Cage.txt.tx.8: Objective: Vs: T 98; P 85, R 14, BP 150/92 Physical exam: Cardiac: Regular rate and rhythm, no murmurs rubs or gallops, carotids without bruits Respiratory: Lungs clear to auscultation bilaterally; breathing comfortably without distress Abdomen: soft, nontender to palpation in all four quadrants  Family history: father had heart attack at age 40 and required bypass surgery mother had HTN and died from PE at age 60 PMH: HTN, managed by PCP  medications: Chlorthalidone 25 1 daily lisinopril 10 mg 1 daily  Assessment: Mr. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vs
+
+Phrase: :
+
+Phrase: T 98
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ; P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: BP 150/92 Physical exam
+Meta Mapping (812):
+   637   C1415692:Bp (HP gene) [Gene or Genome]
+   840   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops,
+
+Phrase: carotids without bruits
+Meta Mapping (841):
+   841 N C0007280:carotid bruits (Carotid bruit) [Finding]
+
+Phrase: Respiratory
+Meta Mapping (1000):
+  1000   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to auscultation bilaterally
+Meta Mapping (708):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   770   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: ;
+
+Phrase: breathing
+Meta Mapping (1000):
+  1000 N C0035203:Breathing (Respiration) [Physiologic Function]
+
+Phrase: comfortably without distress Abdomen
+Meta Mapping (797):
+   783 N C0235295:ABDOMINAL DISTRESS (Abdominal distress) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: soft, nontender to palpation
+Meta Mapping (733):
+   604   C0205358:Soft [Qualitative Concept]
+   770   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: in all four quadrants  Family history
+Meta Mapping (888):
+   694   C0439738:Four quadrants [Spatial Concept]
+   861   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: heart attack at age 40
+Meta Mapping (752):
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   593   C0001779:AGE (Age) [Organism Attribute]
+   593   C0439509:/40 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: required bypass surgery mother
+Meta Mapping (861):
+   645   C1514873:Required (Requirement) [Functional Concept]
+   694   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   812   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: died from PE
+Meta Mapping (746):
+   790   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 60 PMH
+Meta Mapping (851):
+   660   C0001779:AGE (Age) [Organism Attribute]
+   660   C3842585:60% [Quantitative Concept]
+   827   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: managed by PCP  medications
+Meta Mapping (733):
+   770   C1273870:Managed (Management procedure) [Occupational Activity]
+   770   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+   770   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25 1 daily lisinopril 10 mg 1 daily  Assessment
+Meta Mapping (760):
+   623   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   623   C0332173:Daily [Temporal Concept]
+   654   C0987217:Lisinopril 10 MG [Clinical Drug]
+   790   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 16_Cage.txt.tx.9: Cage is a ___ year old man with a PMH of HTN who presents 3 days after a single 5 minute instance of substernal chest pain which resolved spontaneously after 5 minutes of rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a ___ year old man with a PMH of HTN
+Meta Mapping (652):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C0025266:Man (Male population group) [Population Group]
+   575   C0262926:PMH (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: 3 days after a single 5 minute instance of substernal chest pain
+Meta Mapping (740):
+   599   C4687965:3 OF 5 (Severity Three Out of Five) [Finding]
+   736   C0439228:DAYS (day) [Temporal Concept]
+   570   C0087136:single (Unmarried) [Finding]
+   570   C0702093:/minute (Per Minute) [Temporal Concept]
+   570   C1550608:Instance [Idea or Concept]
+   604   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: which
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: spontaneously after 5 minutes of rest.
+Meta Mapping (722):
+   783   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   753   C0035253:Rest [Daily or Recreational Activity]
+Processing 16_Cage.txt.tx.10: He is currently asymptomatic. 
+
+Phrase: He
+
+Phrase: is
+
+Phrase: currently asymptomatic.
+Meta Mapping (888):
+   694   C0521116:Currently (Current (present time)) [Temporal Concept]
+   861   C0231221:Asymptomatic [Finding]
+Processing 16_Cage.txt.tx.11: Physical exam significant for BP of 150/92.  
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: significant for BP of 150/92.
+Meta Mapping (672):
+   753   C0750502:Significant [Idea or Concept]
+   586   C1415692:Bp (HP gene) [Gene or Genome]
+Processing 16_Cage.txt.tx.12: DDX: 1) stable angina 2) unstable angina 3) MI 4) pericarditis 5) chostochondritis 6) GERD  Plan - blood troponin and EKG -CBC/BMP -CXR
+
+Phrase: DDX
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: stable angina 2
+Meta Mapping (901):
+   901   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: unstable angina 3
+Meta Mapping (901):
+   901   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: MI 4
+Meta Mapping (861):
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: )
+
+Phrase: pericarditis 5
+Meta Mapping (861):
+   861   C0031046:PERICARDITIS (Pericarditis) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: chostochondritis 6
+Meta Mapping (861):
+   861   C0040213:chostochondritis (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: GERD  Plan - blood troponin
+Meta Mapping (833):
+   645   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   645   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   645   C0005768:BLOOD (In Blood) [Body Substance]
+   812   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: and
+
+Phrase: EKG -CBC/BMP -CXR
+Meta Mapping (833):
+   645   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   645   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   645   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   812   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]

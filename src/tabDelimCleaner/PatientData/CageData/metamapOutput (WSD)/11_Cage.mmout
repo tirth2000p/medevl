@@ -1,0 +1,893 @@
+Processing 11_Cage.txt.tx.1: S: Gerry Cage is a 55 year old female with a history of HTN, current smoker, and family history of fatal MI in father at age 40 who presents to clinic with chest pain. patient states that 3 days ago she had episode of sternal chest pain, described as pressure, while she was carrying groceries to her car, which resolved with rest. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 year old female with a history of HTN,
+Meta Mapping (657):
+   573   C0450382:55 [Intellectual Product]
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+   573   C0262926:History (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: current smoker,
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: and
+
+Phrase: family history of fatal MI
+Meta Mapping (752):
+   806   C0241889:FAMILY HISTORY (Family history) [Finding]
+   593   C1705232:FATAL (Death Related to Adverse Event) [Finding]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in father at age 40
+Meta Mapping (724):
+   593   C0150312:In (Present) [Finding]
+   760   C0015671:FATHER (Father (person)) [Family Group]
+   593   C0001779:AGE (Age) [Organism Attribute]
+   593   C0439509:/40 [Quantitative Concept]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with chest pain. patient
+Meta Mapping (901):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   827   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: she
+
+Phrase: had
+
+Phrase: episode of sternal chest pain,
+Meta Mapping (861):
+   760   C0332189:EPISODE (Episode of) [Temporal Concept]
+   593   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   653   C0575503:Pain of sternum [Finding]
+
+Phrase: described as pressure,
+Meta Mapping (746):
+   790   C1552738:described [Idea or Concept]
+   790   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries to her car,
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: which
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 11_Cage.txt.tx.2: She did not have nausea, vomiting, radiation of pain during episode. 
+
+Phrase: She
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: have
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: radiation of pain
+Meta Mapping (858):
+   858   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: during episode.
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 11_Cage.txt.tx.3: She states similar episodes  have occurred 2-3 times over the past 4 months, each time with strenuous activity, but were not as severe. 
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: similar episodes
+Meta Mapping (888):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+   861   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: have
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 2-3 times over the past 4 months,
+Meta Mapping (732):
+   800   C3840669:2-3 times (2 to 3 times) [Finding]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: each time with strenuous activity,
+Meta Mapping (752):
+   593   C1457900:Each (Each (qualifier value)) [Quantitative Concept]
+   760   C0040223:TIME (Time) [Temporal Concept]
+   640   C1514989:Strenuous Activity (Strenuous Exercise) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: were
+
+Phrase: not as severe.
+Meta Mapping (858):
+   858   C4316743:Not severe [Qualitative Concept]
+Processing 11_Cage.txt.tx.4: She states she also gets some mid sternal discomfort after large meals which resolves with time.  
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: she
+
+Phrase: also
+
+Phrase: gets
+Meta Mapping (1000):
+  1000   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: some mid sternal discomfort after large meals
+Meta Mapping (687):
+   581   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   748   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+   571   C0426814:Large sternum [Finding]
+   581   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: which
+
+Phrase: resolves with time.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0040223:TIME (Time) [Temporal Concept]
+Processing 11_Cage.txt.tx.5: O:  T 98, P 85, R 14, BP 150/92 General: Well appearing female who appears stated age and is in no acute distress.  
+
+Phrase: O
+Meta Mapping (1000):
+  1000   C0483204:O NOS (O NOS Ab) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: :
+
+Phrase: T 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: BP 150/92 General
+Meta Mapping (791):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   812   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Well appearing female
+Meta Mapping (840):
+   660   C0205170:Well (Good) [Qualitative Concept]
+   627   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   827   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: stated age
+Meta Mapping (888):
+   694   C1301808:stated (Geographic state) [Geographic Area]
+   861   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: and
+
+Phrase: is in no acute distress.
+Meta Mapping (696):
+   760   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   760   C0205178:ACUTE (acute) [Temporal Concept]
+   760 N C0231303:Distress [Finding]
+Processing 11_Cage.txt.tx.6: Cardiovascular: regular rate and rhythm with no S3, S4, murmurs, rubs, or gallops. 
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm with no S3,
+Meta Mapping (708):
+   770 N C0871269:Rhythm [Finding]
+   604 N C0232237:S3 (S3 - Third heart sound) [Finding]
+
+Phrase: S4,
+Meta Mapping (1000):
+  1000   C2349970:S4+ [Element, Ion, or Isotope]
+
+Phrase: murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops.
+Processing 11_Cage.txt.tx.7: No edema of the lower extremities. 
+
+Phrase: No edema of the lower extremities.
+Meta Mapping (830):
+   586   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   858 N C0239340:Edema of lower extremities (Edema of lower extremity) [Finding]
+Processing 11_Cage.txt.tx.8: No peripheral cyanosis. 
+
+Phrase: No peripheral cyanosis.
+Meta Mapping (1000):
+  1000 N C0235532:Peripheral cyanosis [Finding]
+Processing 11_Cage.txt.tx.9: Radial and dorsalis pedis pulses 2+ bilaterally. normal capillary refill.  
+
+Phrase: Radial
+Meta Mapping (1000):
+  1000   C0442038:Radial [Conceptual Entity]
+
+Phrase: and
+
+Phrase: dorsalis pedis pulses 2+ bilaterally. normal capillary refill.
+Meta Mapping (809):
+   668   C1997492:Dorsalis pedis PULSES (Dorsalis pedis pulse rate) [Clinical Attribute]
+   835   C0232357:Normal Capillary refill (Normal capillary filling) [Finding]
+Processing 11_Cage.txt.tx.10: Lungs: Lungs are clear with no rales, rhonchi, wheezing. 
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: are
+
+Phrase: clear with no rales,
+Meta Mapping (708):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   604 N C0034642:RALES (Rales) [Finding]
+
+Phrase: rhonchi,
+Meta Mapping (1000):
+  1000 N C0035508:RHONCHI (Rhonchi) [Finding]
+
+Phrase: wheezing.
+Meta Mapping (1000):
+  1000 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+Processing 11_Cage.txt.tx.11: Abdomen: normal bowel sounds. 
+
+Phrase: Abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: normal bowel sounds.
+Meta Mapping (1000):
+  1000   C0278005:Normal bowel sounds [Finding]
+Processing 11_Cage.txt.tx.12: No tenderness to palpation.   
+
+Phrase: No tenderness to palpation.
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 11_Cage.txt.tx.13: A/P: Gerry Cage is a 55 year old female with a history of HTN, current smoker, and family history of fatal MI in father at age 40 who presents to clinic 3 days after episode of retrosternal, pressure like chest pain with onset during activity which resolved on its own. 
+
+Phrase: A/P
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 year old female with a history of HTN,
+Meta Mapping (657):
+   573   C0450382:55 [Intellectual Product]
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+   573   C0262926:History (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: current smoker,
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: and
+
+Phrase: family history of fatal MI
+Meta Mapping (752):
+   806   C0241889:FAMILY HISTORY (Family history) [Finding]
+   593   C1705232:FATAL (Death Related to Adverse Event) [Finding]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in father at age 40
+Meta Mapping (724):
+   593   C0150312:In (Present) [Finding]
+   760   C0015671:FATHER (Father (person)) [Family Group]
+   593   C0001779:AGE (Age) [Organism Attribute]
+   593   C0439509:/40 [Quantitative Concept]
+
+Phrase: who
+
+Phrase: presents to clinic 3 days
+Meta Mapping (752):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   781   C3842675:Day 3 [Finding]
+
+Phrase: after episode of retrosternal, pressure
+Meta Mapping (840):
+   593   C0231290:After (Status post) [Temporal Concept]
+   806   C0332189:Episode of [Temporal Concept]
+   593   C0442179:Retrosternal [Spatial Concept]
+   593   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: like chest pain with onset
+Meta Mapping (761):
+   593   C0870814:Like [Mental Process]
+   806   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   593   C0206132:Onset (Age of Onset) [Quantitative Concept]
+Meta Mapping (761):
+   593   C0870814:Like [Mental Process]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   797   C1507009:Pain onset [Finding]
+
+Phrase: during activity
+Meta Mapping (1000):
+  1000   C0441655:ACTIVITY (Activities) [Activity]
+
+Phrase: which
+
+Phrase: resolved on its own.
+Meta Mapping (770):
+   770   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 11_Cage.txt.tx.14: History is notable for HTN, current 1 pack per day smoker, and fatal MI in father at age 40. 
+
+Phrase: History
+Meta Mapping (1000):
+  1000   C0262926:History (Medical History) [Finding]
+
+Phrase: is
+
+Phrase: notable for HTN,
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: current 1 pack per day smoker,
+Meta Mapping (759):
+   617   C3241966:Current Smoker [Finding]
+   753   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   617   C1442449:Day 1 (1 Day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: fatal MI in father
+Meta Mapping (733):
+   604   C1705232:FATAL (Death Related to Adverse Event) [Finding]
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: at age 40.
+Meta Mapping (888):
+   861   C0001779:AGE (Age) [Organism Attribute]
+   861   C0439509:/40 [Quantitative Concept]
+Processing 11_Cage.txt.tx.15: Exam was normal but blood pressure was 150/92 in clinic.   
+
+Phrase: Exam
+Meta Mapping (1000):
+  1000   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: was
+
+Phrase: normal
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: was
+
+Phrase: 150/92 in clinic.
+Meta Mapping (812):
+   812   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+Processing 11_Cage.txt.tx.16: 1. 
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 11_Cage.txt.tx.17: Angina: Symptoms of retrosternal chest pain with activity consistent with angina. 
+
+Phrase: Angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Symptoms of retrosternal chest pain
+Meta Mapping (858):
+   760   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   593   C0442179:Retrosternal [Spatial Concept]
+   641   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with activity
+Meta Mapping (1000):
+  1000   C0441655:ACTIVITY (Activities) [Activity]
+
+Phrase: consistent with angina.
+Meta Mapping (901):
+   882   C0332290:Consistent with [Idea or Concept]
+   623   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 11_Cage.txt.tx.18: Patient has several risk factors including HTN, current smoker, history of father with fatal MI. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: several risk factors
+Meta Mapping (901):
+   660   C0439064:Several (Numerous) [Quantitative Concept]
+   901   C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: current smoker,
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: history of father
+Meta Mapping (746):
+   790   C0262926:History (Medical History) [Finding]
+   623   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with fatal MI.
+Meta Mapping (888):
+   694   C1705232:FATAL (Death Related to Adverse Event) [Finding]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 11_Cage.txt.tx.19: Will order EKG to assess for changes. 
+
+Phrase: Will
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for changes.
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0392747:changes (Changing) [Functional Concept]
+Processing 11_Cage.txt.tx.20: Recommend cardiac stress test for diagnosis of angina; patient is agreeable, so will schedule now. 
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: cardiac stress test for diagnosis of angina
+Meta Mapping (741):
+   814   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+   581   C0011900:DIAGNOSIS (Diagnosis) [Diagnostic Procedure]
+   581 N C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: ; patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: agreeable,
+
+Phrase: so
+
+Phrase: will
+
+Phrase: schedule
+Meta Mapping (1000):
+  1000   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+
+Phrase: now.
+Meta Mapping (1000):
+  1000   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+Processing 11_Cage.txt.tx.21: As blood pressure is elevated in clinic will continue chlorthalidone 25 mg, order BMP and increase lisinopril to 20 mg if kidney function is normal. 
+
+Phrase: As blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: is
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: in clinic
+Meta Mapping (888):
+   861   C0150312:In (Present) [Finding]
+   861   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: will
+
+Phrase: continue
+Meta Mapping (1000):
+  1000   C0549178:Continue (Continuous) [Idea or Concept]
+
+Phrase: chlorthalidone 25 mg,
+Meta Mapping (1000):
+  1000   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+
+Phrase: order BMP
+Meta Mapping (888):
+   694   C1705178:Order (Order (action)) [Activity]
+   861   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: and
+
+Phrase: increase lisinopril to 20 mg
+Meta Mapping (807):
+   593   C0442805:Increase [Functional Concept]
+   844   C0987219:Lisinopril 20 MG [Clinical Drug]
+
+Phrase: if
+
+Phrase: kidney function
+Meta Mapping (1000):
+  1000   C0232804:Kidney function (Renal function) [Organ or Tissue Function]
+
+Phrase: is
+
+Phrase: normal.
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+Processing 11_Cage.txt.tx.22: Will also order lipid panel to assess for other risk factors of angina, and start on statin if cholesterol elevated.  
+
+Phrase: Will
+
+Phrase: also
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: lipid panel
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for other risk factors of angina,
+Meta Mapping (692):
+   748   C1516048:Assess (Assessed) [Activity]
+   778   C0035648:Risk Factors (risk factors) [Finding]
+   748   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: start on statin
+Meta Mapping (746):
+   790   C0439659:Start (Beginning) [Temporal Concept]
+   623   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: cholesterol
+Meta Mapping (1000):
+  1000   C0008377:CHOLESTEROL (cholesterol) [Biologically Active Substance,Organic Chemical]
+
+Phrase: elevated.
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+Processing 11_Cage.txt.tx.23: 2. 
+
+Phrase: 2.
+Meta Mapping (1000):
+  1000   C2827735:2+ (2+ Score) [Quantitative Concept]
+Processing 11_Cage.txt.tx.24: Myocardial infarction: Less likely given resolution of symptoms, normal cardiac and lung exam, but still possible given symptoms, risk factors, and family history. 
+
+Phrase: Myocardial infarction
+Meta Mapping (1000):
+  1000   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Less likely given resolution of symptoms,
+Meta Mapping (685):
+   586   C0439092:Less (Less Than) [Quantitative Concept]
+   586   C0750492:Likely (Probably) [Idea or Concept]
+   753   C2699488:Resolution [Conceptual Entity]
+   586   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: normal cardiac
+Meta Mapping (1000):
+  1000   C2349205:normal Cardiac (On examination - heart normal (finding)) [Finding]
+
+Phrase: and
+
+Phrase: lung exam,
+Meta Mapping (888):
+   694   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: but
+
+Phrase: still possible given symptoms,
+Meta Mapping (763):
+   645   C0332149:Possible [Finding]
+   812   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: risk factors,
+Meta Mapping (1000):
+  1000   C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: and
+
+Phrase: family history.
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+Processing 11_Cage.txt.tx.25: Will order EKG to rule out.   
+
+Phrase: Will
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out.
+Meta Mapping (1000):
+  1000   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 11_Cage.txt.tx.26: 3. 
+
+Phrase: 3.
+Meta Mapping (1000):
+  1000   C2827736:3+ (3+ Score) [Quantitative Concept]
+Processing 11_Cage.txt.tx.27: GERD: Some symptoms of retrosternal pain reported by patient consistent with GERD, but recent symptoms reported as separate by patient. 
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Some symptoms of retrosternal pain
+Meta Mapping (752):
+   593   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   760   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   640   C0151826:RETROSTERNAL PAIN (Retrosternal pain) [Sign or Symptom]
+Meta Mapping (752):
+   593   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   593   C0442179:Retrosternal [Spatial Concept]
+   797   C0030193:Pain symptoms (Pain) [Sign or Symptom]
+
+Phrase: reported by patient
+Meta Mapping (901):
+   882   C1709908:Reported By [Group]
+   790   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: consistent with GERD,
+Meta Mapping (901):
+   882   C0332290:Consistent with [Idea or Concept]
+   623   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: recent symptoms
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: reported as separate
+Meta Mapping (746):
+   790   C0700287:Reported (Reporting) [Health Care Activity]
+   790   C0443299:Separate [Qualitative Concept]
+
+Phrase: by patient.
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+Processing 11_Cage.txt.tx.28: Some underlying GERD likely, but does not account for current symptoms. 
+
+Phrase: Some underlying GERD likely,
+Meta Mapping (851):
+   660   C4722602:Underlying [Finding]
+   827   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: but
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: account for current symptoms.
+Meta Mapping (733):
+   770   C2741673:Account # (Account number:Identifier:Point in time:^Patient:Nominal) [Clinical Attribute]
+   770   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   770 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 11_Cage.txt.tx.29: Will rule out above diagnoses first.   
+
+Phrase: Will
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out above diagnoses first.
+Meta Mapping (775):
+   645   C0439787:Out (Out (direction)) [Spatial Concept]
+   812   C0011900:Diagnoses (Diagnosis) [Diagnostic Procedure]
+   645   C1279901:First (Firstly) [Qualitative Concept]
+Processing 11_Cage.txt.tx.30: 4. 
+
+Phrase: 4.
+Meta Mapping (1000):
+  1000   C3838679:4+ (4+ Answer to question) [Finding]
+Processing 11_Cage.txt.tx.31: Pulmonary embolism: Unlikely given resolution of symptoms, no swelling of lower extremities concerning for DVT, no shortness of breath, and non pleuritic nature of chest pain. 
+
+Phrase: Pulmonary embolism
+Meta Mapping (1000):
+  1000 N C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: :
+
+Phrase: Unlikely given resolution of symptoms,
+Meta Mapping (687):
+   593   C0750558:Unlikely [Finding]
+   760   C2699488:Resolution [Conceptual Entity]
+   593   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: no swelling of lower extremities
+Meta Mapping (796):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   827 N C0581394:lower extremity swelling (Swelling of lower limb) [Pathologic Function]
+
+Phrase: concerning for DVT,
+Meta Mapping (730):
+   756   C2699424:Concern [Idea or Concept]
+   790 N C0149871:DVT NOS (Deep Vein Thrombosis) [Disease or Syndrome]
+
+Phrase: no shortness of breath,
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: non pleuritic nature of chest pain.
+Meta Mapping (826):
+   586   C1518422:Non (Negation) [Functional Concept]
+   514 N C0032231:Pleuritides (Pleurisy) [Disease or Syndrome]
+   753   C1262865:Nature (Natures) [Functional Concept]
+   626 N C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 11_Cage.txt.tx.32: Consider additional work up if cardiac stress test is negative.
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: additional work up
+Meta Mapping (901):
+   660   C1524062:Additional [Functional Concept]
+   901   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: cardiac stress test
+Meta Mapping (1000):
+  1000   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: negative.
+Meta Mapping (1000):
+  1000   C0205160:Negative [Finding]

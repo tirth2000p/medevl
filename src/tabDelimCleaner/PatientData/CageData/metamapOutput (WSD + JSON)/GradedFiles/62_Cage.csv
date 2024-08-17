@@ -1,0 +1,162 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,12,True,Subjective: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,16,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0450382,55,55,-575,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0439508,/Year,per year,-575,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0580836,Old,Old,-575,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0086287,FEMALE,Females,-742,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0262926,History,Medical History,-575,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0020538,HTN,Hypertensive disease,-575,-672,a 55-year-old female with history of HTN,24,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,smoking,69,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0449450,Presented,Presentation,-770,-733,presented to clinic today,81,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0002424,Clinic,Ambulatory Care Facilities,-770,-733,presented to clinic today,81,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0750526,Today,Today (temporal qualifier),-770,-733,presented to clinic today,81,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0423732,after pain,After pains,-595,-734,after any episode of chest pain 3 days ago.,107,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-764,-734,after any episode of chest pain 3 days ago.,107,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C1527391,Chest,Anterior thoracic region,-575,-734,after any episode of chest pain 3 days ago.,107,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C3842675,Day 3,Day 3,-578,-734,after any episode of chest pain 3 days ago.,107,True,Cage is a 55-year-old female with history of HTN and smoking who presented to clinic today after any episode of chest pain 3 days ago. 
+C0206243,Carrying,Carrying,-604,-705,carrying lots of groceries,159,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C1115660,LOT,Lot Number,-737,-705,carrying lots of groceries,159,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0004381,Car,Automobiles,-1000,-1000,from her car,186,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C1527305,feel,Feelings,-966,-966,felt,208,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0205125,DEEP,Deep (qualifier value),-586,-691,a deep ache in her sternum,213,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0234238,ACHE,Ache,-753,-691,a deep ache in her sternum,213,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0574443,HER,Herero language,-586,-691,a deep ache in her sternum,213,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0038293,STERNUM,Sternum,-586,-691,a deep ache in her sternum,213,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0277814,SITTING,Sitting position,-790,-790,away after sitting,250,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0150312,In,Present,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0574443,HER,Herero language,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0004381,Car,Automobiles,-748,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C4517521,10.5,10.5,-607,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0702093,/minute,Per Minute,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0150312,In,Present,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0574443,HER,Herero language,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0004381,Car,Automobiles,-748,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C3842590,10%,10%,-581,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C0886384,minute 5,5 minutes Office visit,-607,-733,in her car for 5-10 minutes.,269,True,She was carrying lots of groceries from her car when she felt a deep ache in her sternum that went away after sitting in her car for 5-10 minutes. 
+C3846110,No Radiation,No radiation therapy,-806,-745,no radiation of the pain,308,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-593,-745,no radiation of the pain,308,False,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C0234225,No pain,Absence of pain,-631,-745,no radiation of the pain,308,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C0851346,Radiation,Radiation,-760,-745,no radiation of the pain,308,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C1298908,No,no,-593,-745,no radiation of the pain,308,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C1507012,Pain radiation,Pain radiation,-797,-745,no radiation of the pain,308,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C0699794,ranked,Rank,-1000,-1000,ranked,341,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-753,-722,the pain at a 7/10.,348,False,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C5191365,10.7,10.7,-617,-722,the pain at a 7/10.,348,True,There was no radiation of the pain and she ranked the pain at a 7/10. 
+C2003901,NEVER,Never (frequency),-1000,-1000,never,376,True,She has never had this exact episode before but she has had episodes of twinges previously. 
+C1080058,This,This (eukaryote),-604,-761,this exact episode before,386,True,She has never had this exact episode before but she has had episodes of twinges previously. 
+C2828393,Exact,Exact (qualifier),-604,-761,this exact episode before,386,True,She has never had this exact episode before but she has had episodes of twinges previously. 
+C0332189,EPISODE,Episode of,-770,-761,this exact episode before,386,True,She has never had this exact episode before but she has had episodes of twinges previously. 
+C0332189,Episode of,Episode of,-816,-816,episodes of twinges previously.,428,True,She has never had this exact episode before but she has had episodes of twinges previously. 
+C1881534,Make,Make - Instruction Imperative,-966,-966,made,468,True,Nothing made it worse. 
+C1279889,Worse,Deterioration of status,-1000,-1000,it worse.,473,True,Nothing made it worse. 
+C1515187,Take,Take,-1000,-1000,take,492,True,She does take Chlorthalidone 25 mg and Lisinopril 10 mg every day. 
+C0984827,Chlorthalidone 25 MG,Chlorthalidone 25 MG,-1000,-1000,Chlorthalidone 25 mg,497,True,She does take Chlorthalidone 25 mg and Lisinopril 10 mg every day. 
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-1000,-1000,Lisinopril 10 mg,522,True,She does take Chlorthalidone 25 mg and Lisinopril 10 mg every day. 
+C0332173,Every Day,Daily,-1000,-1000,every day.,539,True,She does take Chlorthalidone 25 mg and Lisinopril 10 mg every day. 
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,Family history,550,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0237881,significant,Statistical Significance,-770,-733,significant for her dad,568,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0574443,HER,Herero language,-604,-733,significant for her dad,568,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-604,-733,significant for her dad,568,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0027051,HEART ATTACK,Myocardial Infarction,-790,-722,a heart attack in his 40s,600,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0019602,HIS,histidine,-586,-722,a heart attack in his 40s,600,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0027552,Needed,Needs,-1000,-1000,needed,634,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0010055,CABG,Coronary Artery Bypass Surgery,-770,-708,a CABG for CAD.,641,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C1707433,CAD,Collision-Induced Dissociation,-604,-708,a CABG for CAD.,641,True,Family history is significant for her dad who had a heart attack in his 40s and who needed a CABG for CAD. 
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,smoking,670,True,She has been smoking 1 ppd for 30 years. 
+C2827734,1+,1+ Score,-593,-724,1 ppd for 30 years.,678,True,She has been smoking 1 ppd for 30 years. 
+C0048678,PPD,4-phenylenediamine,-760,-724,1 ppd for 30 years.,678,True,She has been smoking 1 ppd for 30 years. 
+C3842588,30%,30%,-593,-724,1 ppd for 30 years.,678,True,She has been smoking 1 ppd for 30 years. 
+C0439234,YEARS,year,-593,-724,1 ppd for 30 years.,678,True,She has been smoking 1 ppd for 30 years. 
+C0595998,lives,Household composition,-760,-696,lives in the West End,702,True,She lives in the West End and works for Capital One. 
+C1705493,West,West (direction),-760,-696,lives in the West End,702,True,She lives in the West End and works for Capital One. 
+C2746065,End,Stop (qualifier value),-760,-696,lives in the West End,702,True,She lives in the West End and works for Capital One. 
+C0043227,works,Work,-770,-733,works for Capital One.,728,True,She lives in the West End and works for Capital One. 
+C0006909,Capital,Capital,-770,-733,works for Capital One.,728,True,She lives in the West End and works for Capital One. 
+C0205447,ONE,One,-770,-733,works for Capital One.,728,True,She lives in the West End and works for Capital One. 
+C0233481,Worried,Worried,-1000,-1000,worried,758,True,She is worried that she has had a heart attack.  
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,a heart attack.,783,True,She is worried that she has had a heart attack.  
+C1571702,Objective,Objective observation,-1000,-1000,Objective,800,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C0518766,"Signs, Vital",Vital signs,-1000,-1000,Vital Signs,811,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C1708288,BP,HP wt Allele,-622,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C4517892,85,85,-622,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C4554402,RR,RR genotype,-622,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C4319627,98,98,-622,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C3842591,0%,0%,-622,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C0070939,PE,phosphoethanolamine,-788,-716,BP 150/92 HR 85 RR 14 T 98.0 PE,824,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C4318503,CV,ciliary vesicle,-1000,-1000,CV,857,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C3715215,S1,S1,-1000,-1000,S1,861,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C1419718,S2,RPS2 gene,-1000,-1000,S2,868,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C2349184,Field,Force Field,-560,-560,audible in all 4 fields.,871,True,Objective: Vital Signs: BP 150/92 HR 85 RR 14 T 98.0 PE: CV: S1 and S2 audible in all 4 fields. 
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,896,True,PMI is appropriately located in the 5th intercostal space midaxillary line. 
+C4068815,5th intercostal space,5th intercostal space,-800,-763,located in the 5th intercostal space midaxillary line.,917,True,PMI is appropriately located in the 5th intercostal space midaxillary line. 
+C0446443,Midaxillary line,Midaxillary line,-770,-763,located in the 5th intercostal space midaxillary line.,917,True,PMI is appropriately located in the 5th intercostal space midaxillary line. 
+C1298908,No,no,-586,-776,No pain on palpation of sternum.,972,True,No pain on palpation of sternum. 
+C0575503,Pain of sternum,Pain of sternum,-820,-776,No pain on palpation of sternum.,972,False,No pain on palpation of sternum. 
+C0030247,PALPATION,Palpation,-586,-776,No pain on palpation of sternum.,972,True,No pain on palpation of sternum. 
+C0518831,radial PULSES,radial PULSES,-861,-861,Radial pulses 2+ bilaterally.,1005,True,Radial pulses 2+ bilaterally. 
+C0741968,carotids,carotid,-827,-827,"Carotids 2+ bilaterally,",1035,True,"Carotids 2+ bilaterally, no bruits.  "
+C0006318,bruits,Bruit,-1000,-1000,no bruits.,1060,False,"Carotids 2+ bilaterally, no bruits.  "
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1072,True,Assessment: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,1084,True,Assessment: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1088,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0450382,55,55,-575,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0439508,/Year,per year,-575,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0580836,Old,Old,-575,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0086287,FEMALE,Females,-742,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0262926,History,Medical History,-575,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0020538,HTN,Hypertensive disease,-575,-672,a 55-year-old female with history of HTN,1096,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,smoking,1141,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0449450,Presented,Presentation,-770,-783,presented for chest pain,1153,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-833,-783,presented for chest pain,1153,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C1709305,Happened,Occur (action),-645,-763,that happened 3 days ago.,1178,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0439228,DAYS,day,-812,-763,that happened 3 days ago.,1178,True,Cage is a 55-year-old female with history of HTN and smoking who presented for chest pain that happened 3 days ago. 
+C0750501,most likely,most likely,-790,-851,Most likely due to stable angina,1204,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0678226,Due To,Due to,-790,-851,Most likely due to stable angina,1204,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0340288,STABLE ANGINA,Stable angina,-790,-851,Most likely due to stable angina,1204,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0332287,With,In addition to,-604,-916,with history of smoking,1237,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C4721824,History of smoking,Smoking History,-909,-916,with history of smoking,1237,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN,1265,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0332189,Episodes,Episode of,-1000,-1000,no other episodes.,1273,True,Most likely due to stable angina with history of smoking and HTN and no other episodes. 
+C0439092,Less,Less Than,-645,-861,Less likely unstable angina,1292,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0750492,Likely,Probably,-645,-861,Less likely unstable angina,1292,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0002965,"Angina, Unstable","Angina, Unstable",-861,-861,Less likely unstable angina,1292,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C1457887,SYMPTOMS,Symptoms,-694,-888,no symptoms today,1321,False,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0750526,Today,Today (temporal qualifier),-861,-888,no symptoms today,1321,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-1000,-1000,costochondritis,1344,False,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0234225,No pain,Absence of pain,-833,-783,no pain on palpation,1361,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0030247,PALPATION,Palpation,-604,-783,no pain on palpation,1361,True,Less likely unstable angina (no symptoms today) and costochondritis (no pain on palpation).  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1385,True,Plan: - I discussed with the patient the physical exam findings. 
+C0021966,I-,Iodides,-1000,-1000,I,1393,True,Plan: - I discussed with the patient the physical exam findings. 
+C1273395,Discussed with patient,Discussed with patient,-881,-881,discussed with the patient,1395,True,Plan: - I discussed with the patient the physical exam findings. 
+C0311392,Physical Exam findings,Physical findings,-1000,-1000,the physical exam findings.,1422,True,Plan: - I discussed with the patient the physical exam findings. 
+C1708288,BP,HP wt Allele,-861,-861,Today's BP,1450,True,Today's BP was elevated though patient is taking medications as prescribed. 
+C0205250,Elevated,High,-1000,-1000,elevated,1465,True,Today's BP was elevated though patient is taking medications as prescribed. 
+C0030705,*^patient,Patients,-1000,-1000,patient,1481,True,Today's BP was elevated though patient is taking medications as prescribed. 
+C1290952,Taking medications,Taking medication (activity),-1000,-1000,taking medications,1492,True,Today's BP was elevated though patient is taking medications as prescribed. 
+C0278329,Prescribed,Prescribed,-1000,-1000,prescribed.,1514,True,Today's BP was elevated though patient is taking medications as prescribed. 
+C0442805,Increase,Increase,-1000,-1000,increase,1534,True,We will increase Lisinopril to 20 mg. 
+C0987219,Lisinopril 20 MG,Lisinopril 20 MG,-881,-881,Lisinopril to 20 mg.,1543,True,We will increase Lisinopril to 20 mg. 
+C1283174,Check,Checking (action),-1000,-1000,check,1569,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0527443,bmp-2,bone morphogenetic protein 2,-819,-783,BMP in 2 weeks -,1575,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0439230,WEEKS,week,-604,-783,BMP in 2 weeks -,1575,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0015260,Exercise stress test,Exercise stress test,-1000,-1000,an exercise stress test,1604,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C1883351,To,To,-1000,-1000,to,1628,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0233426,look,Personal appearance,-770,-708,look for CAD especially,1631,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C1707433,CAD,Collision-Induced Dissociation,-770,-708,look for CAD especially,1631,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0332287,With,In addition to,-575,-717,with history of smoking 1 ppd x 30 years,1655,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C4721824,History of smoking,Smoking History,-790,-717,with history of smoking 1 ppd x 30 years,1655,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0048678,PPD,4-phenylenediamine,-575,-717,with history of smoking 1 ppd x 30 years,1655,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C3842588,30%,30%,-575,-717,with history of smoking 1 ppd x 30 years,1655,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0439234,YEARS,year,-575,-717,with history of smoking 1 ppd x 30 years,1655,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN.,1707,True,Will check BMP in 2 weeks - We will get an exercise stress test to look for CAD especially with history of smoking 1 ppd x 30 years as well as HTN. 
+C2584313,Discuss,Discussion (communication),-966,-966,discussed,1715,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C1274040,Result,Result,-966,-966,that results,1725,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C1547282,Show,Show,-1000,-1000,show,1756,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C2826257,PRIOR,Prior Medication Usage,-694,-888,a prior infarct -,1782,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C0021308,INFARCT,Infarction,-861,-888,a prior infarct -,1782,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C0042789,see,Vision,-1000,-1000,see,1808,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C0699718,PT,Physical therapy (field),-593,-761,pt 1 week after test.,1812,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C4484138,week 1,week 1,-797,-761,pt 1 week after test.,1812,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.
+C0456984,Test,Test Result,-593,-761,pt 1 week after test.,1812,True,We discussed that results could potentially show us if there has been a prior infarct - We will see pt 1 week after test.

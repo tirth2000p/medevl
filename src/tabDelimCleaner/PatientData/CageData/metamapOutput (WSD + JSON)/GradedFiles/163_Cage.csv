@@ -1,0 +1,187 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-694,-888,Subjective - Mr.,0,True,Subjective - Mr. 
+C2347167,Mr.,Mr. - Title,-861,-888,Subjective - Mr.,0,True,Subjective - Mr. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,17,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,17,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0029408,a o,Degenerative polyarthritis,-595,-664,a 46 y/o male with hx of HTN,31,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C1706180,Male,"Male Gender, Self Report",-742,-664,a 46 y/o male with hx of HTN,31,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0262926,Hx,Medical History,-575,-664,a 46 y/o male with hx of HTN,31,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0020538,HTN,Hypertensive disease,-575,-664,a 46 y/o male with hx of HTN,31,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C1515187,Take,Take,-1000,-1000,takes,61,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,Chlorthalidone,67,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0065374,Lysinopril,lisinopril,-861,-888,Lisinopril daily,86,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0332173,Daily,Daily,-694,-888,Lisinopril daily,86,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0277786,Presenting Complaint,Chief complaint (finding),-767,-750,presenting with complaints of episodic CP.,104,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0332189,Episode of,Episode of,-581,-750,presenting with complaints of episodic CP.,104,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0006938,CP,captopril,-586,-750,presenting with complaints of episodic CP.,104,True,Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,147,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C1442792,State,State,-1000,-1000,states,155,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C1442459,3 Days,3 Days,-901,-901,that 3 days ago,162,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0206243,Carrying,Carrying,-694,-694,carrying groceries,185,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0205099,CENTRAL,Central,-694,-888,a central CP,220,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0006938,CP,captopril,-861,-888,a central CP,220,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C1552738,described,described,-760,-696,"described as a ""deep ache"".",233,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0205125,DEEP,Deep (qualifier value),-760,-696,"described as a ""deep ache"".",233,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0234238,ACHE,Ache,-760,-696,"described as a ""deep ache"".",233,True,"Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a ""deep ache"". "
+C0699718,PT,Physical therapy (field),-1000,-1000,Pt,261,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C1705827,SAT,SAT1 wt Allele,-770,-733,sat in his car,273,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C1412323,HIS,AKR1B10 gene,-604,-733,sat in his car,273,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C0004381,Car,Automobiles,-604,-733,sat in his car,273,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C3845579,5-10 minutes,5-10 minutes,-1000,-1000,for 5-10 minutes,288,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-861,-888,the pain then,309,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C1883708,Then,Then,-694,-888,the pain then,309,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C0205197,Completely,Complete,-1000,-1000,completely,323,True,Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+C2348205,Similar,Similarity,-604,-852,similar episodes of CP,355,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C0332189,Episode of,Episode of,-816,-852,similar episodes of CP,355,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C0006938,CP,captopril,-604,-852,similar episodes of CP,355,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C4331910,Last Month,Past 30 days,-896,-896,for the last 4 months,378,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C0205171,Only,Singular,-1000,-1000,only,405,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C2745955,OCCUR,Occurrence,-1000,-1000,occur,410,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C0015259,Exercise,Exercise,-966,-966,exercising,427,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C0205177,Active,Active,-1000,-1000,active.,447,True,He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,Pain,455,True,Pain does not radiate elsewhere. 
+C1518422,Not,Negation,-1000,-1000,not,465,True,Pain does not radiate elsewhere. 
+C0332301,radiate,Radiating to,-1000,-1000,radiate,469,True,Pain does not radiate elsewhere. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,488,True,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0332185,Recent,Recent,-694,-888,"any recent fever,",495,True,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0015967,FEVER,Fever,-861,-888,"any recent fever,",495,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0010200,COUGH,Coughing,-1000,-1000,"cough,",513,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C2826600,CONGESTION,Tissue Congestion,-1000,-1000,"congestion,",520,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0013404,SOB,Dyspnea,-1000,-1000,"SOB,",532,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0000726,abd,Abdomen,-694,-888,"abd pain,",537,True,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-861,-888,"abd pain,",537,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0027497,NAUSEA,Nausea,-1000,-1000,"nausea,",547,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0042963,VOMITING,Vomiting,-1000,-1000,vomiting,555,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0011991,DIARRHOEA,Diarrhea,-1000,-1000,diarrhea.,565,False,"Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. "
+C0699718,PT,Physical therapy (field),-1000,-1000,Pt,575,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C0439994,Smoke,Tobacco smoke,-1000,-1000,smokes,578,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C0677453,Cigarettes,Cigarette,-1000,-1000,"cigarettes,",585,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C2827734,1+,1+ Score,-623,-771,1 ppd for,597,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C1144026,PPD,"EIF2C2 protein, human",-790,-771,1 ppd for,597,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-1000,-1000,>20 years.,607,True,"Pt smokes cigarettes, 1 ppd for >20 years. "
+C0001948,Drinking,Alcohol consumption,-1000,-1000,drinking,627,True,Endorses drinking 3-5 drinks each weekend. 
+C0442758,3 5,3/5,-1000,-1000,3-5,636,True,Endorses drinking 3-5 drinks each weekend. 
+C0394996,DRINK,Acute alcoholic intoxication,-1000,-1000,drinks,640,True,Endorses drinking 3-5 drinks each weekend. 
+C0680190,Weekend,Weekend,-1000,-1000,each weekend.,647,True,Endorses drinking 3-5 drinks each weekend. 
+C0015576,Familial,Family,-604,-733,Familial hx of father,661,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0262926,Hx,Medical History,-770,-733,Familial hx of father,661,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0015671,FATHER,Father (person),-604,-733,Familial hx of father,661,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0332287,With,In addition to,-604,-722,with MI in 40s,683,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0683474,MI,Motivational Interviewing,-770,-722,with MI in 40s,683,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0010055,CABG,Coronary Artery Bypass Surgery,-1000,-1000,CABG,702,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0026591,MOTHER,Mother (person),-790,-746,"; mother with HTN,",706,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0020538,HTN,Hypertensive disease,-623,-746,"; mother with HTN,",706,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0011849,Diabetes,Diabetes Mellitus,-1000,-1000,diabetes,725,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C1880476,PE,Etoposide-Platinol Regimen,-1000,-1000,PE.,738,True,"Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. "
+C0424577,No complaints,No complaints,-774,-719,No further medical complaints at this time.,742,True,No further medical complaints at this time.   
+C1517331,Further,Further,-581,-719,No further medical complaints at this time.,742,True,No further medical complaints at this time.   
+C0205476,Medical,Medical,-581,-719,No further medical complaints at this time.,742,True,No further medical complaints at this time.   
+C0040223,TIME,Time,-581,-719,No further medical complaints at this time.,742,True,No further medical complaints at this time.   
+C1571702,Objective,Objective observation,-804,-794,"Objective - Vital signs T 98,",788,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0150404,Vital signs,Taking vital signs,-840,-794,"Objective - Vital signs T 98,",788,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C4319627,98,98,-804,-794,"Objective - Vital signs T 98,",788,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C2603361,P',P prime,-861,-888,"P 85,",818,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C4517892,85,85,-861,-888,"P 85,",818,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0205090,R-,Right,-861,-861,"R 14,",824,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C1708288,BP,HP wt Allele,-637,-812,BP 150/92 Physical exam,830,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0031809,"Exam, Physical",Physical Examination,-840,-812,BP 150/92 Physical exam,830,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0205246,General,Generalized,-637,-619,"General - Well nourished, well developed,",855,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C2364291,Well nourished,Actual Positive Nutritional Status,-673,-619,"General - Well nourished, well developed,",855,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0205178,ACUTE,acute,-637,-822,No acute distress Cardiovascular - Regular rate,897,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0231303,Distress,Distress,-637,-822,No acute distress Cardiovascular - Regular rate,897,False,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0007226,Cardiovascular,Cardiovascular system,-637,-822,No acute distress Cardiovascular - Regular rate,897,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0205272,Regular,Regular,-637,-822,No acute distress Cardiovascular - Regular rate,897,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C1521828,Rate,Rate,-804,-822,No acute distress Cardiovascular - Regular rate,897,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0871269,Rhythm,Rhythm,-1000,-1000,"rhythm,",949,True,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"no murmurs,",957,False,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,969,False,"Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. "
+C0085649,Peripheral oedema,Peripheral edema,-901,-901,No peripheral edema bilaterally.,985,False,No peripheral edema bilaterally. 
+C0205076,Chest Wall,Chest wall structure,-913,-913,Chest - Chest wall,1018,True,"Chest - Chest wall is nontender, no crepitus.  "
+C0520960,Nontender,Non-tender,-1000,-1000,"nontender,",1040,True,"Chest - Chest wall is nontender, no crepitus.  "
+C0277964,Crepitus,Subcutaneous crepitus,-1000,-1000,no crepitus.,1051,False,"Chest - Chest wall is nontender, no crepitus.  "
+C0024109,LUNGS,Lung,-1000,-1000,Lungs -,1065,True,Lungs - Clear to auscultate bilaterally. 
+C1709157,Clear,Negative Surgical Margin,-1000,-1000,Clear,1073,True,Lungs - Clear to auscultate bilaterally. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1079,True,Lungs - Clear to auscultate bilaterally. 
+C0043144,WHEEZING,Wheezing,-694,-888,"No wheezing, rales",1106,False,"No wheezing, rales or rhonchi.  "
+C0034642,RALES,Rales,-861,-888,"No wheezing, rales",1106,False,"No wheezing, rales or rhonchi.  "
+C0035508,RHONCHI,Rhonchi,-1000,-1000,rhonchi.,1128,False,"No wheezing, rales or rhonchi.  "
+C1420279,msk,SIK1 gene,-660,-828,"MSK - Good tone,",1138,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0205170,Good,Good,-660,-828,"MSK - Good tone,",1138,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C3543842,tonic,TONICS,-755,-828,"MSK - Good tone,",1138,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0560560,Moving,Moving,-1000,-1000,moving,1155,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C1282135,extremities skin,Skin of part of limb,-660,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0687712,warm,warming process,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0205222,Dry,Dry,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C1516048,Assessment,Assessed,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C2347167,Mr.,Mr. - Title,-799,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0015385,Extremities,Limb structure,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0558035,Skin assessment,Skin assessment,-691,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0687712,warm,warming process,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C0205222,Dry,Dry,-632,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C2347167,Mr.,Mr. - Title,-799,-827,"all extremities Skin - warm, dry  Assessment - Mr.",1162,True,"MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. "
+C1019207,gerry,Gerris,-694,-888,Gerry cage,1213,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0337189,Cage,Cage device,-861,-888,Gerry cage,1213,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0029408,a o,Degenerative polyarthritis,-591,-660,a 46 y/o male w/ hx of HTN presenting,1227,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C1706180,Male,"Male Gender, Self Report",-573,-660,a 46 y/o male w/ hx of HTN presenting,1227,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0262926,Hx,Medical History,-739,-660,a 46 y/o male w/ hx of HTN presenting,1227,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0020538,HTN,Hypertensive disease,-573,-660,a 46 y/o male w/ hx of HTN presenting,1227,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0449450,Presenting,Presentation,-573,-660,a 46 y/o male w/ hx of HTN presenting,1227,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C1455761,Episodic,Episodic,-637,-762,"for episodic, CP x 4 months.",1265,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0006938,CP,captopril,-637,-762,"for episodic, CP x 4 months.",1265,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C0439231,MONTHS,month,-804,-762,"for episodic, CP x 4 months.",1265,True,"Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. "
+C3539997,SX,Sint Maarten (Dutch Part),-1000,-1000,Sx,1294,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0205171,Only,Singular,-1000,-1000,only,1297,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C2745955,OCCUR,Occurrence,-790,-746,"occur with exercise,",1302,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0015259,Exercise,Exercise,-790,-746,"occur with exercise,",1302,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0750502,Significant,Significant,-645,-861,significant cardiac risk factors,1323,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0018787,Cardiac,Heart,-812,-861,significant cardiac risk factors,1323,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0035648,Risk Factors,risk factors,-861,-861,significant cardiac risk factors,1323,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0332257,include,Including (qualifier),-1000,-1000,include,1356,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,"smoking,",1364,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0001948,ALCOHOL USE,Alcohol consumption,-1000,-1000,"alcohol use,",1373,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",1386,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0015576,Familial,Family,-581,-836,familial hx of MI/CABG/DM/PE.,1391,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C4695787,Hx of CABG,Coronary artery bypass graft surgery:Hx:Pt:^Patient:Ord,-804,-836,familial hx of MI/CABG/DM/PE.,1391,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0683474,MI,Motivational Interviewing,-581,-836,familial hx of MI/CABG/DM/PE.,1391,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0011816,DM,dextromethorphan,-581,-836,familial hx of MI/CABG/DM/PE.,1391,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C1880476,PE,Etoposide-Platinol Regimen,-581,-836,familial hx of MI/CABG/DM/PE.,1391,True,"Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. "
+C0150404,Vital signs,Taking vital signs,-1000,-1000,Vital signs,1421,True,Vital signs notable for HTN.  
+C4288581,Notable,Notable,-790,-746,notable for HTN.,1433,True,Vital signs notable for HTN.  
+C0020538,HTN,Hypertensive disease,-623,-746,notable for HTN.,1433,True,Vital signs notable for HTN.  
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,Ddx,1451,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,"Angina,",1456,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0683474,MI,Motivational Interviewing,-1000,-1000,"MI,",1464,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C1880476,PE,Etoposide-Platinol Regimen,-1000,-1000,"PE,",1468,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0080194,Muscle Strain,Muscle strain,-694,-861,"muscle strain  Plan - EKG,",1472,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0599880,Plan,Treatment Plan,-645,-861,"muscle strain  Plan - EKG,",1472,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C1623258,EKG,Electrocardiography,-812,-861,"muscle strain  Plan - EKG,",1472,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0041199,Troponin,Troponin,-1000,-1000,"troponin,",1499,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0010287,CK,Creatine Kinase,-1000,-1000,"CK,",1509,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0442603,Office,Office,-861,-861,in office,1513,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,1523,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0220825,Evaluate,Evaluation,-1000,-1000,evaluate,1526,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0521116,CURRENT,Current (present time),-660,-901,current cardiac status.,1535,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C2735302,Cardiac status,Cardiac status:-:Point in time:^Patient:-,-901,-901,current cardiac status.,1535,True,"Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. "
+C0428460,Lipid level,Finding of lipid level,-966,-966,Lipid levels,1559,True,Lipid levels in office. 
+C0442603,Office,Office,-861,-861,in office.,1572,True,Lipid levels in office. 
+C0205543,Refer,Referring,-1000,-1000,Refer,1585,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0041260,TO,Tryptophanase,-593,-724,to cardiologist for further imaging,1591,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0175906,CARDIOLOGIST,Cardiologists,-760,-724,to cardiologist for further imaging,1591,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C1517331,Further,Further,-593,-724,to cardiologist for further imaging,1591,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0011923,Imaging,Diagnostic Imaging,-593,-724,to cardiologist for further imaging,1591,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0332149,Possible,Possible,-694,-888,(possible echocardiogram,1627,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0013516,Echocardiogram,Echocardiography,-861,-888,(possible echocardiogram,1627,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C0439148,{U},Unit,-861,-861,w/u.,1657,True,- Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+C1999230,Provide,Providing (action),-1000,-1000,provide,1664,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C1847730,NTG,"GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO (finding)",-578,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C0039225,Tablets,Tablet Dosage Form,-744,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C0332189,Episode of,Episode of,-587,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C0006938,CP,captopril,-578,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C0332156,Return,Return to (contextual qualifier) (qualifier value),-578,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C1882442,Precautions,Precaution,-578,-732,NTG tablets for episodes of CP  - return precautions -,1672,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C1457868,Worsening,Worse,-1000,-1000,worsening,1727,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C0006938,CP,captopril,-861,-861,/unrelenting CP.,1736,True,- provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+C1514989,Strenuous Exercise,Strenuous Exercise,-1000,-1000,No strenuous exercise,1753,True,No strenuous exercise at home until appointment with cardiology.
+C4534363,At home,At home,-833,-783,at home until appointment,1775,False,No strenuous exercise at home until appointment with cardiology.
+C0003629,Appointment,Appointments,-604,-783,at home until appointment,1775,True,No strenuous exercise at home until appointment with cardiology.
+C0007189,Cardiology,Cardiology discipline,-1000,-1000,with cardiology.,1801,True,No strenuous exercise at home until appointment with cardiology.

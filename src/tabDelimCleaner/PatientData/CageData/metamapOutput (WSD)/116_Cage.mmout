@@ -1,0 +1,481 @@
+Processing 116_Cage.txt.tx.1: Subjective Gerry Cage is a 46 year-old male with history of HTN who presents to clinic for evaluation of acute onset 7/10 CP upon carrying heavy object to his car on Friday. 
+
+Phrase: Subjective Gerry Cage
+Meta Mapping (851):
+   660   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   660   C1019207:gerry (Gerris) [Eukaryote]
+   827   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year-old male with history of HTN
+Meta Mapping (652):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:History (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for evaluation of acute onset 7/10 CP
+Meta Mapping (746):
+   578   C0521125:For (Preposition For) [Qualitative Concept]
+   744   C0220825:Evaluation [Health Care Activity]
+   604   C1276802:ACUTE ONSET (Sudden onset (attribute)) [Temporal Concept]
+   600   C5191365:10.7 [Quantitative Concept]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: upon carrying heavy object to his car
+Meta Mapping (725):
+   581   C1720176:Upon (Upon - dosing instruction fragment) [Functional Concept]
+   581   C0206243:Carrying [Activity]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   748   C0347997:Object (Physical object) [Physical Object]
+   581   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   581   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: on Friday.
+Meta Mapping (1000):
+  1000   C0585029:Friday [Temporal Concept]
+Processing 116_Cage.txt.tx.2: Per pt, he had to sit down for 5-10 minutes before the pain subsided. 
+
+Phrase: Per pt,
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: to sit down for 5-10 minutes
+Meta Mapping (723):
+   581   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   748   C0728713:sit (Does sit) [Finding]
+   692   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   607   C4517521:10.5 [Quantitative Concept]
+   581   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (723):
+   581   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   748   C0728713:sit (Does sit) [Finding]
+   692   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   581   C3842590:10% [Quantitative Concept]
+   607   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: before the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided.
+Processing 116_Cage.txt.tx.3: Pt reports have intermittent instances of 2/10 "twinges" of CP with exertion that lasted half a second before subsiding over the past four months, but notes these episodes were not nearly as painful as the one on Friday.   
+
+Phrase: Pt reports
+Meta Mapping (888):
+   694   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+   861   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: have
+
+Phrase: intermittent instances of 2/10 "twinges" of CP
+Meta Mapping (675):
+   578   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   711   C1550608:Instance [Idea or Concept]
+   578   C3842590:10% [Quantitative Concept]
+   600   C0719066:CP-2 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that lasted half
+Meta Mapping (872):
+   661   C1517741:Last [Qualitative Concept]
+   861   C2825407:Half [Quantitative Concept]
+
+Phrase: a second before subsiding
+Meta Mapping (770):
+   770   C0565930:/second (per second) [Temporal Concept]
+
+Phrase: over the past four months,
+Meta Mapping (890):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   660   C0205450:Four [Quantitative Concept]
+
+Phrase: but
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1316572:Note (Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider}) [Clinical Attribute]
+
+Phrase: these episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: were
+
+Phrase: not nearly
+Meta Mapping (888):
+   861   C1518422:Not (Negation) [Functional Concept]
+   861   C3828842:Nearly [Qualitative Concept]
+
+Phrase: as
+
+Phrase: painful as the one
+Meta Mapping (708):
+   770 N C0030193:Painful (Pain) [Sign or Symptom]
+   604   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: on Friday.
+Meta Mapping (1000):
+  1000   C0585029:Friday [Temporal Concept]
+Processing 116_Cage.txt.tx.4: Family Hx: Dad - Heart attack in 40s, bypass surgery done; died of heart condition Mom - HTN, DMII, died of PE.   
+
+Phrase: Family Hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Dad - Heart attack in 40s,
+Meta Mapping (763):
+   593   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: bypass surgery
+Meta Mapping (1000):
+  1000   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: done
+
+Phrase: ;
+
+Phrase: died of heart condition Mom - HTN,
+Meta Mapping (753):
+   753   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C3842523:Heart condition [Finding]
+   753   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   753   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DMII,
+
+Phrase: died of PE.
+Meta Mapping (746):
+   790   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+Processing 116_Cage.txt.tx.5: Social hx:  Exercise: minimal; walks dog 0.5 mi twice a day  Diet: eats "whatever is appetizing"; lots of caffeine  Tobacco: Smokes 1 pack daily for past 20 years   Objective   Assessment  Gerry is a 46 year old male with PMHx of HTN and extensive cardiac family history who presents to clinic for evaluation of acute onset 7/10 CP upon carrying heavy object to his car on Friday.  
+
+Phrase: Social hx
+Meta Mapping (1000):
+  1000   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Exercise
+Meta Mapping (1000):
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: :
+
+Phrase: minimal
+Meta Mapping (1000):
+  1000   C1524031:Minimal (Minimum) [Qualitative Concept]
+
+Phrase: ;
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: dog 0.5 mi twice a day  Diet
+Meta Mapping (833):
+   626   C0012984:DOG (Canis familiaris) [Mammal]
+   645   C0444500:0.5 [Quantitative Concept]
+   626   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   668   C0585361:Twice a day [Temporal Concept]
+   793   C0012155:Diet [Food]
+
+Phrase: :
+
+Phrase: eats
+Meta Mapping (1000):
+  1000   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: "
+
+Phrase: whatever
+
+Phrase: is
+
+Phrase: appetizing"
+
+Phrase: ; lots of caffeine  Tobacco
+Meta Mapping (722):
+   737   C1115660:LOT (Lot Number) [Intellectual Product]
+   604   C0236734:caffeine (Caffeine related disorders) [Mental or Behavioral Dysfunction]
+   604   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Smokes 1 pack daily for past 20 years   Objective   Assessment  Gerry
+Meta Mapping (704):
+   571   C0037369:smokes (Smoking) [Individual Behavior]
+   754   C1277691:Pack years [Intellectual Product]
+   571   C0332173:Daily [Temporal Concept]
+   571   C1444637:Past (In the past) [Temporal Concept]
+   571   C3842589:20% [Quantitative Concept]
+   571   C1571702:Objective (Objective observation) [Qualitative Concept]
+   571   C1516048:Assessment (Assessed) [Activity]
+   571   C1019207:gerry (Gerris) [Eukaryote]
+Meta Mapping (704):
+   571   C0037369:smokes (Smoking) [Individual Behavior]
+   738   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   571   C0332173:Daily [Temporal Concept]
+   571   C1444637:Past (In the past) [Temporal Concept]
+   589   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   571   C1571702:Objective (Objective observation) [Qualitative Concept]
+   571   C1516048:Assessment (Assessed) [Activity]
+   571   C1019207:gerry (Gerris) [Eukaryote]
+Meta Mapping (704):
+   571   C0037369:smokes (Smoking) [Individual Behavior]
+   571   C0332173:Daily [Temporal Concept]
+   571   C1444637:Past (In the past) [Temporal Concept]
+   754   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   571   C0439234:YEARS (year) [Temporal Concept]
+   571   C1571702:Objective (Objective observation) [Qualitative Concept]
+   571   C1516048:Assessment (Assessed) [Activity]
+   571   C1019207:gerry (Gerris) [Eukaryote]
+
+Phrase: is
+
+Phrase: a 46 year old male with PMHx of HTN
+Meta Mapping (643):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: extensive cardiac family history
+Meta Mapping (861):
+   645   C0205231:Extensive [Qualitative Concept]
+   645   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for evaluation of acute onset 7/10 CP
+Meta Mapping (746):
+   578   C0521125:For (Preposition For) [Qualitative Concept]
+   744   C0220825:Evaluation [Health Care Activity]
+   604   C1276802:ACUTE ONSET (Sudden onset (attribute)) [Temporal Concept]
+   600   C5191365:10.7 [Quantitative Concept]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: upon carrying heavy object to his car
+Meta Mapping (725):
+   581   C1720176:Upon (Upon - dosing instruction fragment) [Functional Concept]
+   581   C0206243:Carrying [Activity]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   748   C0347997:Object (Physical object) [Physical Object]
+   581   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   581   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: on Friday.
+Meta Mapping (1000):
+  1000   C0585029:Friday [Temporal Concept]
+Processing 116_Cage.txt.tx.6: Differentials: Angina Pectoris   Plan  - EKG  - TTE  - Labs: Troponin, cardiac enzymes, CMP, CBC with diff, lipid levels, LFTs   - Discussed lifestyle modifications (regular exercise, improving diet, smoking cessation - Goal BP: <140/90. 
+
+Phrase: Differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Angina Pectoris   Plan  - EKG  - TTE  - Labs
+Meta Mapping (827):
+   660   C0002962:ANGINA PECTORIS (Angina Pectoris) [Sign or Symptom]
+   632   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   632   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   632   C0430462:TTE (Transthoracic echocardiography) [Diagnostic Procedure]
+   799   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: Troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: cardiac enzymes,
+Meta Mapping (1000):
+  1000   C0443763:Cardiac enzymes [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: CBC with diff,
+Meta Mapping (1000):
+  1000   C0545131:CBC with Diff (Blood Cell Count with Differential) [Laboratory Procedure]
+
+Phrase: lipid levels,
+Meta Mapping (966):
+   966   C0428460:Lipid level (Finding of lipid level) [Laboratory or Test Result]
+
+Phrase: LFTs   - Discussed lifestyle modifications
+Meta Mapping (827):
+   612   C0023901:LFT (Liver Function Tests) [Laboratory Procedure]
+   612   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+   827   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+
+Phrase: (regular exercise,
+Meta Mapping (1000):
+  1000   C0582191:Regular exercise (Regular exercise (observable entity)) [Daily or Recreational Activity]
+
+Phrase: improving
+Meta Mapping (1000):
+  1000   C1272745:Improving (Improving (qualifier value)) [Qualitative Concept]
+
+Phrase: diet,
+Meta Mapping (1000):
+  1000   C0012155:Diet [Food]
+
+Phrase: smoking cessation - Goal BP
+Meta Mapping (861):
+   694   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   645   C1571704:Goal (Act Mood - Goal) [Idea or Concept]
+   812   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: <140/90.
+Meta Mapping (861):
+   861   C0439087:<90 [Quantitative Concept]
+Processing 116_Cage.txt.tx.7: Pt will continue to monitor blood pressures at home with BP log, and will follow-up to discuss numbers. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: will
+
+Phrase: continue
+Meta Mapping (1000):
+  1000   C0549178:Continue (Continuous) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: monitor
+Meta Mapping (1000):
+  1000   C0150369:monitor (Preventive monitoring) [Health Care Activity]
+
+Phrase: blood pressures
+Meta Mapping (1000):
+  1000   C1272641:blood pressures (Systemic arterial pressure) [Finding]
+
+Phrase: at home with BP log,
+Meta Mapping (752):
+   806   C4534363:At home [Finding]
+   593   C1415692:Bp (HP gene) [Gene or Genome]
+   593   C1708728:Log (Event Log) [Intellectual Product]
+
+Phrase: and
+
+Phrase: will
+
+Phrase: follow-up to
+Meta Mapping (882):
+   882   C1522577:Followup (follow-up) [Health Care Activity]
+Meta Mapping (882):
+   882   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: numbers.
+Meta Mapping (1000):
+  1000   C0237753:Numbers [Quantitative Concept]
+Processing 116_Cage.txt.tx.8: Can consider adjusting HTN medications if uncontrolled. 
+
+Phrase: Can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: adjusting
+
+Phrase: HTN medications
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: if
+
+Phrase: uncontrolled.
+Meta Mapping (1000):
+  1000   C0205318:Uncontrolled [Qualitative Concept]
+Processing 116_Cage.txt.tx.9: Continue chlorthalidone 25mg once a day and lisinopril 10mg once a day for now.   
+
+Phrase: Continue
+Meta Mapping (1000):
+  1000   C0549178:Continue (Continuous) [Idea or Concept]
+
+Phrase: chlorthalidone 25mg once
+Meta Mapping (660):
+   660   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: a day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: lisinopril 10mg once
+Meta Mapping (660):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: a day for now.
+Meta Mapping (708):
+   770   C0439228:Day (day) [Temporal Concept]
+   604   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+Processing 116_Cage.txt.tx.10: f/u by telephone to discuss BPs in 2 week; f/u in 2 months.
+
+Phrase: f/u by telephone
+Meta Mapping (733):
+   604   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   770   C0439148:{U} (Unit) [Quantitative Concept]
+   604   C1515258:Telephone (Telephone Number) [Intellectual Product]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: BPs in 2 week
+Meta Mapping (783):
+   770   C1849718:BPS (POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE) [Disease or Syndrome]
+   652   C4484139:week 2 [Temporal Concept]
+
+Phrase: ; f/u in 2 months.
+Meta Mapping (696):
+   593   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   760   C0439148:{U} (Unit) [Quantitative Concept]
+   593   C0439231:MONTHS (month) [Temporal Concept]

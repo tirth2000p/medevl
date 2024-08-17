@@ -1,0 +1,591 @@
+Processing 84_Cage.txt.tx.1: S: Mr. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 84_Cage.txt.tx.2: Cage is a presents for one episode of chest pain while carrying heavy groceries. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a
+
+Phrase: presents for one episode of chest pain
+Meta Mapping (763):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0205447:ONE (One) [Quantitative Concept]
+   778   C0332189:Episode of [Temporal Concept]
+   778   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 84_Cage.txt.tx.3: He states that the pain came on suddenly, was located in the center of his chest, and felt like a heavy, deep ache. 
+
+Phrase: He
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: came on suddenly,
+
+Phrase: was
+
+Phrase: located in the center of his chest,
+Meta Mapping (656):
+   748   C0205099:Centre (Central) [Spatial Concept]
+   748   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   748   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: and
+
+Phrase: felt like
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a heavy, deep ache.
+Meta Mapping (851):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   660   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   827   C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 84_Cage.txt.tx.4: His pain went away after several minutes once he sat down in his car. he has had several other episodes of similar pain over the last several months but states that the previous episodes resolved much more quickly. 
+
+Phrase: His pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: went
+
+Phrase: away after several minutes
+Meta Mapping (770):
+   770   C0702093:/minute (Per Minute) [Temporal Concept]
+
+Phrase: once
+
+Phrase: he
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: in his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: several
+Meta Mapping (1000):
+  1000   C0439064:Several (Numerous) [Quantitative Concept]
+
+Phrase: other episodes of similar pain
+Meta Mapping (851):
+   790   C0332189:Episode of [Temporal Concept]
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   631   C0237283:Pain - other [Finding]
+
+Phrase: over the last several months
+Meta Mapping (896):
+   896   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: but
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: the previous episodes
+Meta Mapping (888):
+   694   C0205156:Previous [Temporal Concept]
+   861   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: much more quickly.
+Meta Mapping (827):
+   827   C4281574:Much [Finding]
+Processing 84_Cage.txt.tx.5: He did not take any medications after his recent episode of chest pain and said that the only other symptom he had was a feeling of lightheadedness. 
+
+Phrase: He
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: any medications after his recent episode of chest pain
+Meta Mapping (748):
+   575   C1552551:ANY (Any) [Qualitative Concept]
+   742   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   575   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   598   C0332185:Recent episode (Recent) [Temporal Concept]
+   590 N C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: said
+
+Phrase: that
+
+Phrase: the only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: other symptom
+Meta Mapping (1000):
+  1000   C1457887:Symptom (Symptoms) [Sign or Symptom]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: was
+
+Phrase: a feeling of lightheadedness.
+Meta Mapping (708):
+   770   C1527305:Feeling (Feelings) [Mental Process]
+   604   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 84_Cage.txt.tx.6: He has had no symptoms in the several days since this episode.  
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: no symptoms in the several days
+Meta Mapping (722):
+   790   C0231221:NO SYMPTOMS (Asymptomatic) [Finding]
+   586   C0439228:DAYS (day) [Temporal Concept]
+Meta Mapping (722):
+   617   C4740619:No days [Finding]
+   753 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: since
+
+Phrase: this episode.
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 84_Cage.txt.tx.7: Medications: Lisinopril and chlorthalidone  PMH: HTN Family Hx: dad had CAD and got a bypass in his 40s Mom had TIIDM and died of a PE t 60 Social Hx: 20 pack year hx, currently smokes, approximately 6 drinks per week, works in IT at capital one  Objective: VS: T 98 P 85 RR 14 BP 150/92 Cardiac: RRR, No murmurs, rubs, or gallops Lung: CTAB GI: Normal bowel sounds, no tenderness to palpation  MSK: no pain on chest wall palpation Neuro: alert and appropriately responsive to questions, no focal deficits  Assessment: Mr.  
+
+Phrase: Medications
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Lisinopril
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone  PMH
+Meta Mapping (888):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   861   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN Family Hx
+Meta Mapping (851):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C0015576:Family [Family Group]
+   827   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: had
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: and
+
+Phrase: got
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: a bypass in his 40s Mom
+Meta Mapping (666):
+   753   C0741847:Bypass [Therapeutic or Preventive Procedure]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   586   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: had
+
+Phrase: TIIDM
+
+Phrase: and
+
+Phrase: died of a PE t 60 Social Hx
+Meta Mapping (703):
+   744   C1306577:Died (Death (finding)) [Finding]
+   767   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   770   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 20 pack year hx,
+Meta Mapping (861):
+   694   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   645   C0439508:/Year (per year) [Temporal Concept]
+   812   C0262926:Hx (Medical History) [Finding]
+Meta Mapping (861):
+   645   C3842589:20% [Quantitative Concept]
+   694   C1277691:Pack Year (Pack years) [Intellectual Product]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: currently smokes,
+Meta Mapping (888):
+   694   C0521116:Currently (Current (present time)) [Temporal Concept]
+   861   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: approximately 6 drinks per week,
+Meta Mapping (687):
+   593   C0332232:Approximately (Approximate) [Qualitative Concept]
+   760   C0452428:Drinks (Drink (dietary substance)) [Food]
+   593   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: works in IT
+Meta Mapping (790):
+   790   C0043227:works (Work) [Occupational Activity]
+
+Phrase: at capital one  Objective
+Meta Mapping (851):
+   660   C0006909:Capital [Quantitative Concept]
+   660   C0205447:ONE (One) [Quantitative Concept]
+   827   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T 98 P 85 RR 14 BP 150/92 Cardiac
+Meta Mapping (730):
+   637   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   623   C4517892:85 [Quantitative Concept]
+   657   C0140925:RR 150 [Organic Chemical]
+   623   C1708288:BP (HP wt Allele) [Gene or Genome]
+   790   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: No murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops Lung
+Meta Mapping (861):
+   861   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB GI
+Meta Mapping (888):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   861   C1708130:Gi (GNAI1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Normal bowel sounds,
+Meta Mapping (1000):
+  1000 N C0278005:Normal bowel sounds [Finding]
+
+Phrase: no tenderness to palpation  MSK
+Meta Mapping (724):
+   593   C1298908:No (no) [Finding]
+   760 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   593   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   593   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no pain on chest wall palpation
+Meta Mapping (776):
+   586   C1298908:No (no) [Finding]
+   820 N C0008035:pain chest wall (Chest wall pain) [Sign or Symptom]
+   586   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Meta Mapping (776):
+   586   C1298908:No (no) [Finding]
+   820 N C1963056:Chest wall pain (Chest Wall Pain, CTCAE 3.0) [Finding]
+   586   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: Neuro
+Meta Mapping (1000):
+  1000   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: alert
+Meta Mapping (1000):
+  1000   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: and
+
+Phrase: appropriately responsive to questions,
+Meta Mapping (691):
+   770   C0205342:Responsive [Functional Concept]
+   570   C1522634:Question (Question (inquiry)) [Intellectual Product]
+
+Phrase: no focal deficits  Assessment
+Meta Mapping (851):
+   660   C0205234:FOCAL (Focal) [Spatial Concept]
+   660   C2987487:deficits (Deficit) [Qualitative Concept]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 84_Cage.txt.tx.8: Cage presents with acute onset of chest pain with exertion which resolved spontatneously with rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: presents with acute onset of chest pain
+Meta Mapping (774):
+   748   C0150312:PRESENT (Present) [Finding]
+   778   C1276802:ACUTE ONSET (Sudden onset (attribute)) [Temporal Concept]
+   777   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: which
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: spontatneously with rest.
+Meta Mapping (623):
+   623   C0035253:Rest [Daily or Recreational Activity]
+Processing 84_Cage.txt.tx.9: He has had previous episodes of similar pain with exertion. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: previous episodes of similar pain
+Meta Mapping (833):
+   593   C0205156:Previous [Temporal Concept]
+   790   C0332189:Episode of [Temporal Concept]
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   593   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 84_Cage.txt.tx.10: He smokes cigarettes and has a family hx of heart disease. 
+
+Phrase: He
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: cigarettes
+Meta Mapping (1000):
+  1000   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: a family hx of heart disease.
+Meta Mapping (719):
+   617   C0344339:family disease (Family illness) [Finding]
+   753   C0262926:Hx (Medical History) [Finding]
+   586   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+Meta Mapping (719):
+   586   C0015576:Family [Family Group]
+   753   C0262926:Hx (Medical History) [Finding]
+   623   C0018799:HEART DISEASE, NOS (Heart Diseases) [Disease or Syndrome]
+Processing 84_Cage.txt.tx.11: Physical exam normal today. 
+
+Phrase: Physical exam normal today.
+Meta Mapping (861):
+   694   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 84_Cage.txt.tx.12: Most likely diagnosis is stable angina. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 84_Cage.txt.tx.13: DDx also includes costochondritis, MI, unstable angina, and PE. 
+
+Phrase: DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: also
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: costochondritis,
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: PE.
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 84_Cage.txt.tx.14: Additionally he had HTN today despite being on lisinopril and chlorthalidone.  
+
+Phrase: Additionally
+
+Phrase: he
+
+Phrase: had
+
+Phrase: HTN today despite
+Meta Mapping (771):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   790   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: being on lisinopril
+Meta Mapping (746):
+   790   C2987476:Being (Exist) [Qualitative Concept]
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone.
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+Processing 84_Cage.txt.tx.15: Plan:  EKG Stress test if EKG is normal CXR Encourage healthy diet and smoking cessation Home BP checks, increase dosage of HTN meds vs start a third medication for HTN
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG Stress test
+Meta Mapping (901):
+   660   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   901   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: normal CXR
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: Encourage
+
+Phrase: healthy diet
+Meta Mapping (1000):
+  1000   C0452415:Diet, Healthy [Finding]
+
+Phrase: and
+
+Phrase: smoking cessation Home BP checks,
+Meta Mapping (831):
+   673   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   637   C0442519:HOME (Home environment) [Spatial Concept]
+   637   C1708288:BP (HP wt Allele) [Gene or Genome]
+   771   C1283174:Check (Checking (action)) [Activity]
+
+Phrase: increase dosage of HTN meds
+Meta Mapping (724):
+   593   C0442805:Increase [Functional Concept]
+   760   C0178602:Dosage [Quantitative Concept]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   593   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: a third medication for HTN
+Meta Mapping (696):
+   593   C0205437:Third [Quantitative Concept]
+   760   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]

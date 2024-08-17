@@ -1,0 +1,598 @@
+Processing 164_Cage.txt.tx.1: S: Mr Cage is a 46 yo male with a pmhx of hypertension who presents to the clinic due to a recent onset of chest pain in the setting of exertion. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Mr Cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo male with a pmhx of hypertension
+Meta Mapping (636):
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1963138:Hypertension (Hypertension, CTCAE) [Finding]
+
+Phrase: who
+
+Phrase: presents to the clinic
+Meta Mapping (708):
+   770   C0150312:PRESENT (Present) [Finding]
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: due to a recent onset of chest pain
+Meta Mapping (750):
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0332185:Recent [Temporal Concept]
+   744   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   598   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: in the setting of exertion.
+Meta Mapping (687):
+   593   C0150312:In (Present) [Finding]
+   760   C1318139:{Setting} [Quantitative Concept]
+   593   C0015264:Exertion [Organism Function]
+Processing 164_Cage.txt.tx.2: The patient reports a deep, heavy  aching sensation in the left lower sternal area that occurred while carrying groceries. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: a deep, heavy  aching sensation in the left
+Meta Mapping (695):
+   578   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   767   C0439539:Heavy Sensation (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   578   C0234238:Aching (Ache) [Sign or Symptom]
+   578   C0205091:LEFT (Left) [Spatial Concept]
+Meta Mapping (695):
+   578   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   578   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   770   C0234238:Aching Sensation (Ache) [Sign or Symptom]
+   578   C0205091:LEFT (Left) [Spatial Concept]
+
+Phrase: lower
+Meta Mapping (1000):
+  1000   C1548802:Lower (Body Site Modifier - Lower) [Body Location or Region]
+
+Phrase: sternal area
+Meta Mapping (888):
+   694   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   861   C0205146:AREA (Area) [Spatial Concept]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 164_Cage.txt.tx.3: The patient states that on Saturday, he was lifting heavy groceries and jugs of water when he felt the sensation. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that on Saturday,
+Meta Mapping (790):
+   790   C0585030:Saturday [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy groceries
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: jugs of water
+Meta Mapping (730):
+   756   C1881295:JUG (Jug Dosing Unit) [Quantitative Concept]
+   623   C0043047:WATER (water) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the sensation.
+Meta Mapping (1000):
+  1000   C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+Processing 164_Cage.txt.tx.4: He felt as if "the wind was knocked out of me." 
+
+Phrase: He
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: as if
+
+Phrase: "
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out of me."
+Meta Mapping (783):
+   833   C0560617:knocked out [Injury or Poisoning]
+   770   C0025082:ME (Examiner, Medical) [Professional or Occupational Group]
+Processing 164_Cage.txt.tx.5: He then took a few moments to sit down and gather himself, before the pain subsided. 
+
+Phrase: He
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: a few moments
+Meta Mapping (694):
+   694   C0205388:Few [Quantitative Concept]
+
+Phrase: to sit down
+Meta Mapping (833):
+   660   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0277814:Sit (Sitting position) [Finding]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: gather
+
+Phrase: himself,
+
+Phrase: before
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided.
+Processing 164_Cage.txt.tx.6: Of note, the patient reports having mild twinges of chest tightness and discomfort over the last 4 months which have been fleeting, lasting only seconds prior to returning to his baseline.  
+
+Phrase: Of note,
+Meta Mapping (1000):
+  1000   C1317574:Note (Note (document)) [Intellectual Product]
+
+Phrase: the patient reports
+Meta Mapping (983):
+   983   C0747307:patient report (Patient-Reported) [Intellectual Product]
+
+Phrase: having
+
+Phrase: mild twinges of chest tightness
+Meta Mapping (650):
+   593   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   677   C0232292:tightness of chest (Chest tightness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: discomfort over the last 4 months
+Meta Mapping (672):
+   753   C2364135:DISCOMFORT (Discomfort) [Sign or Symptom]
+   586   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: which
+
+Phrase: have
+
+Phrase: been
+
+Phrase: fleeting,
+Meta Mapping (1000):
+  1000   C0591516:fleeting (Fleet) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: only seconds prior to
+Meta Mapping (861):
+   604   C0205171:Only (Singular) [Quantitative Concept]
+   770   C0457385:Seconds (seconds) [Temporal Concept]
+   666   C0332152:Prior to (Before) [Temporal Concept]
+
+Phrase: returning to his baseline.
+Meta Mapping (722):
+   737   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C1442488:Baseline [Quantitative Concept]
+Processing 164_Cage.txt.tx.7: He reports feeling concerned about the possibility of having an MI .He denies any fevers, chills, nausea, vomiting, or rashes.   
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: concerned about the possibility of
+Meta Mapping (634):
+   726   C2699424:Concern [Idea or Concept]
+   688   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+
+Phrase: having
+
+Phrase: an MI .
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any fevers,
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: rashes.
+Meta Mapping (1000):
+  1000 N C0015230:Rashes (Exanthema) [Sign or Symptom]
+Processing 164_Cage.txt.tx.8: Meds: Chlorthalidone 25mg., PO, once a day Lisinopril 10mg, PO, once a day  FHs: Father - CABG in 40s Mother - DM, htn  SHx: Marketing at Capital One Etoh - 3-6 glasses of wine per week Tobacco - 1pk/day for 20 years  O: VS - 98 F, 85 bpm, 15 rr, 150/92 bp   PE:  CV: Normal rate, regular rhythm No murmurs or gallops No additional heart sounds No TTP of the anterior chest wall   Pulm: CTAB Vesicular breath sounds No wheezing, rales, ronchi, or stridor  A:  Mr Cage is a 46 yo male with a pmhx of hypertension who presents to the clinic due to a recent onset of deep, heavy chest pain in the setting of exertion. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg.,
+Meta Mapping (694):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: PO,
+Meta Mapping (1000):
+  1000   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: once
+
+Phrase: a day Lisinopril 10mg,
+Meta Mapping (623):
+   660   C0439228:Day (day) [Temporal Concept]
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: PO,
+Meta Mapping (1000):
+  1000   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: once
+
+Phrase: a day  FHs
+Meta Mapping (888):
+   694   C0439228:Day (day) [Temporal Concept]
+   861   C0241889:fhs (Family history) [Finding]
+
+Phrase: :
+
+Phrase: Father - CABG in 40s Mother - DM,
+Meta Mapping (691):
+   586   C0015671:FATHER (Father (person)) [Family Group]
+   753   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   586   C0026591:MOTHER (Mother (person)) [Family Group]
+   586   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: htn  SHx
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Marketing at Capital One Etoh - 3-6 glasses of wine
+Meta Mapping (650):
+   739   C0024826:Marketing [Occupational Activity]
+   573   C0006909:Capital [Quantitative Concept]
+   573   C0205447:ONE (One) [Quantitative Concept]
+   573   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   573   C0015421:Glasses (Eyeglasses) [Medical Device]
+   573   C0043188:WINE (Wine) [Food]
+
+Phrase: per week Tobacco - 1pk/day for 20 years  O
+Meta Mapping (716):
+   575   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   784   C0677547:day per week (days/week) [Temporal Concept]
+   598   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: :
+
+Phrase: VS -
+
+Phrase: 98 F,
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: 85 bpm,
+Meta Mapping (694):
+   694   C4517892:85 [Quantitative Concept]
+
+Phrase: 15 rr,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: 150/92 bp   PE
+Meta Mapping (750):
+   645   C1708288:BP (HP wt Allele) [Gene or Genome]
+   812   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: CV
+Meta Mapping (1000):
+  1000   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: Normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: regular rhythm
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: No murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: gallops
+
+Phrase: No additional heart sounds
+Meta Mapping (901):
+   660   C1524062:Additional [Functional Concept]
+   901   C0018820:HEART SOUNDS (Heart Sounds) [Organ or Tissue Function]
+
+Phrase: No TTP of the anterior chest wall
+Meta Mapping (746):
+   581   C1298908:No (no) [Finding]
+   748   C1506603:TTP (ZFP36 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   647   C0230132:Anterior chest wall (Anterior chest wall structure) [Body Location or Region]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB Vesicular breath sounds
+Meta Mapping (916):
+   645   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   923 N C0231857:Breath sounds, vesicular (Vesicular breathing) [Sign or Symptom]
+
+Phrase: No wheezing, rales,
+Meta Mapping (888):
+   694 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+   861 N C0034642:RALES (Rales) [Finding]
+
+Phrase: ronchi,
+
+Phrase: or
+
+Phrase: stridor  A
+Meta Mapping (694):
+   694 N C0038450:STRIDOR (Stridor) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr Cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo male with a pmhx of hypertension
+Meta Mapping (636):
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1963138:Hypertension (Hypertension, CTCAE) [Finding]
+
+Phrase: who
+
+Phrase: presents to the clinic
+Meta Mapping (708):
+   770   C0150312:PRESENT (Present) [Finding]
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: due to a recent onset of deep, heavy chest pain
+Meta Mapping (745):
+   593   C0678226:Due To (Due to) [Functional Concept]
+   573   C0332185:Recent [Temporal Concept]
+   739   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   573   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   573   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   581   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: in the setting of exertion.
+Meta Mapping (687):
+   593   C0150312:In (Present) [Finding]
+   760   C1318139:{Setting} [Quantitative Concept]
+   593   C0015264:Exertion [Organism Function]
+Processing 164_Cage.txt.tx.9: FHx and SHx increase concerns for possible acute coronary syndrome vs MI vs stable angina vs costochondritis.   
+
+Phrase: FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: and
+
+Phrase: SHx increase concerns for possible acute coronary syndrome
+Meta Mapping (733):
+   578   C0442805:Increase [Functional Concept]
+   744   C2699424:Concerns (Concern) [Idea or Concept]
+   578   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   633   C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: vs
+
+Phrase: stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: costochondritis.
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+Processing 164_Cage.txt.tx.10: Plan: 1) Obtain EKG to assess for any structural ischemia or changes in electrical activity 2) Order post cardiac event biomarkers - troponin, myoglobulin, ck 3) Start patient on aspirin and clopidrogrel  4) Assess for further intervention as needed
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 1
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for any structural ischemia
+Meta Mapping (696):
+   760   C1516048:Assess (Assessed) [Activity]
+   760   C0678594:Structural (Structure) [Spatial Concept]
+   760   C0022116:Ischaemia, NOS (Ischemia) [Pathologic Function]
+
+Phrase: or
+
+Phrase: changes in electrical activity 2
+Meta Mapping (745):
+   760   C0392747:changes (Changing) [Functional Concept]
+   806   C0234388:Electrical activity (Electrical activity of brain) [Organ or Tissue Function]
+
+Phrase: )
+
+Phrase: Order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: post cardiac event biomarkers - troponin,
+Meta Mapping (840):
+   686   C1546087:post {event} [Temporal Concept]
+   637   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   637   C0005516:Biomarkers (Biological Markers) [Clinical Attribute]
+   804   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Meta Mapping (840):
+   637   C0687676:Post [Temporal Concept]
+   875   C1096316:cardiac troponin (Cardiac troponin measurement) [Laboratory Procedure]
+   637   C0441471:Event [Event]
+   637   C0005516:Biomarkers (Biological Markers) [Clinical Attribute]
+Meta Mapping (840):
+   637   C0687676:Post [Temporal Concept]
+   686   C2735101:Cardiac biomarkers (Cardiac biomarkers:Complex:-:^Patient:Set) [Clinical Attribute]
+   637   C0441471:Event [Event]
+   804   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Meta Mapping (840):
+   637   C0687676:Post [Temporal Concept]
+   673   C0741923:cardiac event [Disease or Syndrome]
+   637   C0005516:Biomarkers (Biological Markers) [Clinical Attribute]
+   804   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: myoglobulin,
+
+Phrase: ck 3
+Meta Mapping (861):
+   861   C0010287:CK (Creatine Kinase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: )
+
+Phrase: Start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: patient on aspirin
+Meta Mapping (746):
+   790   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   623   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: clopidrogrel  4
+
+Phrase: )
+
+Phrase: Assess for further intervention
+Meta Mapping (733):
+   770   C1516048:Assess (Assessed) [Activity]
+   770   C1517331:Further [Spatial Concept]
+   770   C1273869:Intervention (Intervention regimes) [Health Care Activity]
+
+Phrase: as needed
+Meta Mapping (1000):
+  1000   C1720688:As needed (As needed for (qualifier value)) [Qualitative Concept]

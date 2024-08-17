@@ -1,0 +1,498 @@
+Processing 77_Cage.txt.tx.1: Subjective: CC: "Chest pain" HPI: Mr. cage is yo male with PMH significant for HTN who presents today with an episode of chest pain happened 3 days ago. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: "Chest pain" HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr. cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: yo male with PMH
+Meta Mapping (733):
+   604   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   770   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   604   C0262926:PMH (Medical History) [Finding]
+
+Phrase: significant for HTN
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today with an episode of chest pain
+Meta Mapping (738):
+   748   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   581   C0332189:EPISODE (Episode of) [Temporal Concept]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 77_Cage.txt.tx.2: He described the episode as feeling deep ache and heaviness on his chest. 
+
+Phrase: He
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: the episode as feeling deep ache
+Meta Mapping (697):
+   753   C0332189:EPISODE (Episode of) [Temporal Concept]
+   586   C1527305:Feeling (Feelings) [Mental Process]
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   586   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heaviness on his chest.
+Meta Mapping (783):
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   819   C0742339:chest heaviness [Sign or Symptom]
+Processing 77_Cage.txt.tx.3: It was localized to the middle area of his chest and did not radiate. 
+
+Phrase: It
+
+Phrase: was
+
+Phrase: localized to the middle area of his chest
+Meta Mapping (682):
+   744   C0392752:LOCALIZED (Localized) [Spatial Concept]
+   744   C0205146:AREA (Area) [Spatial Concept]
+   744   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   767   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+
+Phrase: and
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 77_Cage.txt.tx.4: He rates it as a 7/10. 
+
+Phrase: He rates
+Meta Mapping (966):
+   966   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: it
+
+Phrase: as
+
+Phrase: a 7/10.
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+Processing 77_Cage.txt.tx.5: Experienced associated symptoms of lightheadedness and feeling short winded during the episode. 
+
+Phrase: Experienced
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: associated symptoms of lightheadedness
+Meta Mapping (783):
+   833   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+   604   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling short winded during the episode.
+Meta Mapping (697):
+   586   C1527305:Feeling (Feelings) [Mental Process]
+   586   C1806781:SHORT (Short) [Quantitative Concept]
+   753   C3241964:Winded [Finding]
+   586   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 77_Cage.txt.tx.6: It started when he was carrying groceries and exerting himself and but then he rested and it went away. 
+
+Phrase: It
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: and
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself
+
+Phrase: and
+
+Phrase: but
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: he
+
+Phrase: rested
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: went
+
+Phrase: away.
+Processing 77_Cage.txt.tx.7: The pain lasted for about 5-10mins.  
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted for about 5-10mins.
+Meta Mapping (726):
+   726   C1517741:Last [Qualitative Concept]
+Processing 77_Cage.txt.tx.8: PMH: HTN FHx: Heart attack (Father, deceased), Mother (DMII and PE, deceased) Meds: Chlorthalidone and Lisinopril for HTN SHx: Smokes a pack a day for 21 years, drinks 2/3 glasses of wine on the weekends   Objective: VS: BP 150/92   HR 85    RR  14     T 98F PE: General: general appearing, NAD CV: RRR, no murmurs or gallops, normal S1/2 Pulm: CTAB, no wheezing or crackles Abd: Soft, nontender, normoactive BS   A/P Mr. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN FHx
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: (Father,
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: deceased
+Meta Mapping (1000):
+  1000   C0011065:Deceased (Cessation of life) [Organism Function]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: (DMII
+
+Phrase: and
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: deceased
+Meta Mapping (1000):
+  1000   C0011065:Deceased (Cessation of life) [Organism Function]
+
+Phrase: )
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril for HTN SHx
+Meta Mapping (708):
+   770   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: a pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day for 21 years,
+Meta Mapping (781):
+   781   C0556972:day year (days/year) [Temporal Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: 2/3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on the weekends   Objective
+Meta Mapping (888):
+   694   C0680190:weekends (Weekend) [Temporal Concept]
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP 150/92   HR 85    RR  14     T 98F PE
+Meta Mapping (728):
+   623   C1415692:Bp (HP gene) [Gene or Genome]
+   623   C4517892:85 [Quantitative Concept]
+   623   C4554402:RR (RR genotype) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: general appearing,
+Meta Mapping (872):
+   694   C0205246:General (Generalized) [Spatial Concept]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: NAD CV
+Meta Mapping (888):
+   694   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+   861   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: gallops,
+
+Phrase: normal S1/2 Pulm
+Meta Mapping (775):
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   645 N C3715215:S1 [Finding]
+   812   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no wheezing
+Meta Mapping (1000):
+  1000 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: Abd
+Meta Mapping (1000):
+  1000   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Soft, nontender, normoactive BS   A/P Mr.
+Meta Mapping (735):
+   629   C0205358:Soft [Qualitative Concept]
+   629   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   629   C4050217:BS (Bug Search Subtest (WPPSI-IV)) [Intellectual Product]
+   795   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 77_Cage.txt.tx.9: Cage is y.o. male with PMH of poorly controlled HTN who presents with acute onset typical chest pain triggered by exertion and relieved by rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: y.o. male with PMH of poorly controlled HTN
+Meta Mapping (652):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:PMH (Medical History) [Finding]
+   575   C0205169:Poorly (Bad) [Qualitative Concept]
+   575   C2587213:Controlled (Control function) [Functional Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with acute onset typical chest pain
+Meta Mapping (775):
+   748   C0150312:PRESENT (Present) [Finding]
+   804   C0184567:Acute onset pain [Sign or Symptom]
+   748   C3538928:Typical (Usual) [Qualitative Concept]
+   748   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (775):
+   748   C0150312:PRESENT (Present) [Finding]
+   804   C0522051:Acute chest pain [Sign or Symptom]
+   748   C0206132:Onset (Age of Onset) [Quantitative Concept]
+   748   C3538928:Typical (Usual) [Qualitative Concept]
+
+Phrase: triggered by exertion
+Meta Mapping (1000):
+  1000   C4476742:Triggered by exertion [Finding]
+
+Phrase: and
+
+Phrase: relieved by rest.
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 77_Cage.txt.tx.10: FHx significant for HTN and heart attacks. 
+
+Phrase: FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: significant for HTN
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: heart attacks.
+Meta Mapping (1000):
+  1000   C0027051:Heart Attacks (Myocardial Infarction) [Disease or Syndrome]
+Processing 77_Cage.txt.tx.11: Most likly MI (STEMI vs NSTEMI) given his risk factors of smoking and HTN.  
+
+Phrase: Most likly MI
+Meta Mapping (802):
+   660   C0205393:Most [Quantitative Concept]
+   827   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: (STEMI
+Meta Mapping (1000):
+  1000   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: NSTEMI
+Meta Mapping (1000):
+  1000   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: his risk factors of smoking
+Meta Mapping (761):
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   806   C0035648:Risk Factors (risk factors) [Finding]
+   593   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: and
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 77_Cage.txt.tx.12: 1- ECG for MI assesment (STEMI vs NSTEMI) 2- Stress test (MI assessment) 3- If positive stress test proceed with heart cath
+
+Phrase: 1- ECG for MI assesment
+Meta Mapping (696):
+   593   C2827734:1+ (1+ Score) [Quantitative Concept]
+   760   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: (STEMI
+Meta Mapping (1000):
+  1000   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: NSTEMI
+Meta Mapping (1000):
+  1000   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: 2- Stress test
+Meta Mapping (901):
+   660   C0740116:+2 [Quantitative Concept]
+   901   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: (MI assessment
+Meta Mapping (888):
+   694   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   861   C1261322:Assessment (Evaluation procedure) [Health Care Activity]
+
+Phrase: )
+
+Phrase: 3-
+Meta Mapping (1000):
+  1000   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+
+Phrase: If
+
+Phrase: positive stress test
+Meta Mapping (901):
+   660   C1514241:POSITIVE (Positive Finding) [Finding]
+   901   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: proceed with heart cath
+Meta Mapping (770):
+   770   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]

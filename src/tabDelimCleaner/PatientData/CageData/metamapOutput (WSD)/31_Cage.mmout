@@ -1,0 +1,662 @@
+Processing 31_Cage.txt.tx.1: Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: HPI
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: 2 days after an acute event of chest pain.
+Meta Mapping (725):
+   764   C1442455:2 Days [Temporal Concept]
+   575   C0205178:ACUTE (acute) [Temporal Concept]
+   575   C0441471:Event [Event]
+   590   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 31_Cage.txt.tx.2: Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: leaving
+
+Phrase: the grocery store
+Meta Mapping (1000):
+  1000   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy water containers in each hand
+Meta Mapping (725):
+   623   C0011745:Heavy Water (Deuterium Oxide) [Inorganic Chemical]
+   753   C0180098:Containers [Manufactured Object]
+   586   C0018563:HAND (Hand) [Body Part, Organ, or Organ Component]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: developed
+
+Phrase: a deep ache in his chest.
+Meta Mapping (719):
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   783   C0235715:ache chest (Chest aching of) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+Processing 31_Cage.txt.tx.3: He described the pain as heavy and felt like his chest was under pressure. 
+
+Phrase: He
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: the pain as heavy
+Meta Mapping (819):
+   819   C0458256:Heavy pain [Finding]
+
+Phrase: and
+
+Phrase: felt like
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: his chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: was
+
+Phrase: under pressure.
+Meta Mapping (888):
+   861   C0542339:Under (Inferior) [Spatial Concept]
+   861   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+Processing 31_Cage.txt.tx.4: He localizes the pain to his sternum. 
+
+Phrase: He
+
+Phrase: localizes
+Meta Mapping (1000):
+  1000   C0392752:localize (Localized) [Spatial Concept]
+
+Phrase: the pain to his sternum.
+Meta Mapping (745):
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   797   C0575503:sternum pain (Pain of sternum) [Finding]
+Processing 31_Cage.txt.tx.5: In addition, he felt light headed during this event. 
+
+Phrase: In addition,
+Meta Mapping (861):
+   861   C0332287:Addition (In addition to) [Functional Concept]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: light headed during this event.
+Meta Mapping (733):
+   806   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+   593   C0441471:Event [Event]
+Processing 31_Cage.txt.tx.6: Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. 
+
+Phrase: Over the last 4 months,
+Meta Mapping (896):
+   896   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: this pressure to a lesser extent
+Meta Mapping (691):
+   586   C1080058:This (This (eukaryote)) [Eukaryote]
+   753   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   586   C0547044:Lesser (Smaller) [Qualitative Concept]
+   586   C0439792:Extent [Spatial Concept]
+
+Phrase: in his chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: a few times during levels of high activity,
+Meta Mapping (735):
+   800   C3843272:A Few Times [Finding]
+   578   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   604   C4699623:High activity [Finding]
+Meta Mapping (735):
+   800   C3843272:A Few Times [Finding]
+   578   C1299351:High (Abnormally high) [Qualitative Concept]
+   600   C0683317:activity levels (activity level) [Finding]
+
+Phrase: such as running.
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+Processing 31_Cage.txt.tx.7: He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+
+Phrase: He
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: want
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: make
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: sure
+Meta Mapping (1000):
+  1000   C0205423:Sure (Certain (qualifier value)) [Qualitative Concept]
+
+Phrase: he
+
+Phrase: is
+
+Phrase: healthy
+Meta Mapping (1000):
+  1000   C3898900:Healthy [Qualitative Concept]
+
+Phrase: and
+
+Phrase: that
+
+Phrase: it
+
+Phrase: will
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: happen
+Meta Mapping (1000):
+  1000   C1709305:Happen (Occur (action)) [Activity]
+
+Phrase: again.
+Processing 31_Cage.txt.tx.8: ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Negative except for above  PMHx
+Meta Mapping (760):
+   760   C0205160:Negative [Finding]
+
+Phrase: :
+
+Phrase: High blood pressure  Meds
+Meta Mapping (916):
+   756   C0020538:High Blood Pressure (Hypertensive disease) [Disease or Syndrome]
+   812   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg per day
+Meta Mapping (541):
+   604   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   604   C0439228:Day (day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: lisinopril 10mg per day.
+Meta Mapping (541):
+   604   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   604   C0439228:Day (day) [Temporal Concept]
+Processing 31_Cage.txt.tx.9: FMHx: Dad passed away from a heart attack in his 40s. 
+
+Phrase: FMHx
+
+Phrase: :
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: passed away from a heart attack
+Meta Mapping (722):
+   753   C2828386:Passed (Pass (indicator)) [Finding]
+   790   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: in his 40s.
+Processing 31_Cage.txt.tx.10: Mom passed away from a pulmonary embolism. 
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: passed away from a pulmonary embolism.
+Meta Mapping (722):
+   753   C2828386:Passed (Pass (indicator)) [Finding]
+   790   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+Processing 31_Cage.txt.tx.11: He has 2 brothers who are healthy. 
+
+Phrase: He has 2 brothers
+Meta Mapping (802):
+   660   C3539897:Has (Have) [Qualitative Concept]
+   827   C0337527:Brothers [Family Group]
+
+Phrase: who
+
+Phrase: are
+
+Phrase: healthy.
+Meta Mapping (1000):
+  1000   C3898900:Healthy [Qualitative Concept]
+Processing 31_Cage.txt.tx.12: No children.  
+
+Phrase: No children.
+Meta Mapping (1000):
+  1000   C0680063:Children (Offspring) [Family Group]
+Processing 31_Cage.txt.tx.13: SHx: 1 pack of cigarettes per day. 
+
+Phrase: SHx
+
+Phrase: :
+
+Phrase: 1 pack of cigarettes
+Meta Mapping (733):
+   604   C2827734:1+ (1+ Score) [Quantitative Concept]
+   770   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   604   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: per day.
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+Processing 31_Cage.txt.tx.14: 2-3 drinks every Friday and Saturday. 
+
+Phrase: 2-3
+Meta Mapping (1000):
+  1000   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: every Friday
+Meta Mapping (1000):
+  1000   C0585029:Friday [Temporal Concept]
+
+Phrase: and
+
+Phrase: Saturday.
+Meta Mapping (1000):
+  1000   C0585030:Saturday [Temporal Concept]
+Processing 31_Cage.txt.tx.15: No elicit drug use.  
+
+Phrase: No
+
+Phrase: elicit
+Meta Mapping (1000):
+  1000   C0449265:elicit (Elicited by) [Qualitative Concept]
+
+Phrase: drug use.
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+Processing 31_Cage.txt.tx.16: Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: T 98F,
+Meta Mapping (694):
+   694   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: BP 150/92  Physical Exam
+Meta Mapping (812):
+   637   C1415692:Bp (HP gene) [Gene or Genome]
+   840   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm normal S1
+Meta Mapping (851):
+   660   C0871269:Rhythm [Finding]
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   827   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: appreciated.
+Processing 31_Cage.txt.tx.17: Internal jugular appreciated 2.3cm above the sternal notch. 
+
+Phrase: Internal jugular
+Meta Mapping (1000):
+  1000   C1550269:Jugular, Internal [Body Part, Organ, or Organ Component]
+
+Phrase: appreciated
+
+Phrase: 2.3cm above the sternal notch.
+Meta Mapping (555):
+   586   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   617   C1566695:Notch 2 (NOTCH2 protein, human) [Amino Acid, Peptide, or Protein,Receptor]
+Processing 31_Cage.txt.tx.18: Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. 
+
+Phrase: Resp
+Meta Mapping (1000):
+  1000   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Normal breath sounds  Assessment
+Meta Mapping (916):
+   756   C0231855:Breath sounds, normal (Normal breath sounds) [Finding]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 46 year old with acute onset chest pain
+Meta Mapping (733):
+   578   C0439508:/Year (per year) [Temporal Concept]
+   744   C0580836:Old [Temporal Concept]
+   626   C0184567:Acute onset pain [Sign or Symptom]
+   578   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (733):
+   578   C0439508:/Year (per year) [Temporal Concept]
+   744   C0580836:Old [Temporal Concept]
+   626   C0522051:Acute chest pain [Sign or Symptom]
+   578   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries. past medical history
+Meta Mapping (850):
+   637   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   884   C0455458:Past medical history (PMH - past medical history) [Finding]
+
+Phrase: significant for high blood pressure,
+Meta Mapping (816):
+   760   C1546944:Significant (Event Seriousness - Significant) [Qualitative Concept]
+   695   C0020538:High Blood Pressure (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: passed
+Meta Mapping (1000):
+  1000   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: away in 40s
+
+Phrase: from heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 31_Cage.txt.tx.19: Most likely diagnosis is stable angina. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 31_Cage.txt.tx.20: Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  
+
+Phrase: Alternative diagnoses
+Meta Mapping (888):
+   694   C1523987:Alternative [Qualitative Concept]
+   861   C0011900:Diagnoses (Diagnosis) [Diagnostic Procedure]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: STEMI/NSTEMI,
+Meta Mapping (888):
+   694   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+   861   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: costochondritis,
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: unstable angina.
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+Processing 31_Cage.txt.tx.21: Plan: EKG followed by stress EKG if normal. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: followed by stress EKG
+Meta Mapping (861):
+   833   C0332283:Followed by [Temporal Concept]
+   770   C1718621:Stress (W stress) [Clinical Attribute]
+   770   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: normal.
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+Processing 31_Cage.txt.tx.22: - Blood work CBC/CMP and troponins. 
+
+Phrase: - Blood work CBC/CMP
+Meta Mapping (833):
+   645   C0005768:BLOOD (In Blood) [Body Substance]
+   645   C0043227:Work [Occupational Activity]
+   645   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   812   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: troponins.
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 31_Cage.txt.tx.23: - Consult cardiology. 
+
+Phrase: -
+
+Phrase: Consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: cardiology.
+Meta Mapping (1000):
+  1000   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+Processing 31_Cage.txt.tx.24: Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) 
+
+Phrase: Given family history of early heart attack,
+Meta Mapping (745):
+   581   C1442162:GIVEN [Functional Concept]
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   581   C1279919:Early [Temporal Concept]
+   612   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: determine
+
+Phrase: if
+
+Phrase: there
+
+Phrase: is
+
+Phrase: a genetic reason for condition
+Meta Mapping (745):
+   631   C0019247:Genetic Condition (Hereditary Diseases) [Disease or Syndrome]
+   760   C0392360:Reason (Indication of (contextual qualifier)) [Idea or Concept]
+
+Phrase: (HOCM. etc.
+Meta Mapping (888):
+   694   C0007194:hocm (Hypertrophic Cardiomyopathy) [Disease or Syndrome]
+   861   C1548556:Etc. [Idea or Concept]
+
+Phrase: )
+Processing 31_Cage.txt.tx.25: - Pending EKG and troponins, possible echo, cath. 
+
+Phrase: - Pending EKG
+Meta Mapping (861):
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: troponins,
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: possible echo,
+Meta Mapping (888):
+   694   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   861   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: cath.
+Processing 31_Cage.txt.tx.26: - Improve BP control. 
+
+Phrase: -
+
+Phrase: Improve
+
+Phrase: BP control.
+Meta Mapping (888):
+   694   C1415692:Bp (HP gene) [Gene or Genome]
+   861   C1882979:Control (Scientific Control) [Conceptual Entity]
+Processing 31_Cage.txt.tx.27: - If all negative, diagnosis is costochondritis and can send home with reasons to return
+
+Phrase: -
+
+Phrase: If
+
+Phrase: all negative,
+Meta Mapping (1000):
+  1000   C0205160:Negative [Finding]
+
+Phrase: diagnosis
+Meta Mapping (1000):
+  1000   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: costochondritis
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: can
+
+Phrase: send
+Meta Mapping (1000):
+  1000   C1519246:Send (Send (transmission)) [Functional Concept]
+
+Phrase: home with reasons
+Meta Mapping (746):
+   790   C0442519:HOME (Home environment) [Spatial Concept]
+   623   C0392360:reasons (Indication of (contextual qualifier)) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: return
+Meta Mapping (1000):
+  1000   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]

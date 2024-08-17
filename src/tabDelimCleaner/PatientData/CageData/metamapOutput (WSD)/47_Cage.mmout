@@ -1,0 +1,499 @@
+Processing 47_Cage.txt.tx.1: CC: Chest pain  HPI: Mr. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: Chest pain  HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 47_Cage.txt.tx.2: Cage is a 46 year old male with HTN, 20 pack year history of smoking, and a family history of a father iwth an MI at 40 yo coming in today with chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with HTN,
+Meta Mapping (673):
+   581   C0439508:/Year (per year) [Temporal Concept]
+   581   C0580836:Old [Temporal Concept]
+   748   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: 20 pack year history of smoking,
+Meta Mapping (864):
+   623   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   586   C0439508:/Year (per year) [Temporal Concept]
+   833   C4721824:History of smoking (Smoking History) [Finding]
+Meta Mapping (864):
+   586   C3842589:20% [Quantitative Concept]
+   623   C1277691:Pack Year (Pack years) [Intellectual Product]
+   833   C4721824:History of smoking (Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: a family history of a father iwth
+Meta Mapping (706):
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: an MI at 40 yo coming
+Meta Mapping (691):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C0439509:/40 [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+
+Phrase: in today with chest pain.
+Meta Mapping (807):
+   760   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   668   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+Processing 47_Cage.txt.tx.3: Patient described the chest pain as heavy, achy, substernal chest pain that occurred while lifting heavy groceries. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: the chest pain as heavy, achy, substernal chest pain
+Meta Mapping (665):
+   692   C0230133:Thoracic Breast (Thoracic mammary region) [Body Location or Region]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   504   C0234238:Aches (Ache) [Sign or Symptom]
+   595   C0151826:SUBSTERNAL PAIN (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 47_Cage.txt.tx.4: Patient had chest pain that resolved after sitting for 10 minutes. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: had
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: resolved after sitting
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: for 10 minutes.
+Meta Mapping (1000):
+  1000   C0456692:/10 minutes (/10 min) [Temporal Concept]
+Processing 47_Cage.txt.tx.5: Patient also notes that for the pasts for months he has had chest pain with exertion. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that for the pasts
+Meta Mapping (737):
+   737   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: for months
+Meta Mapping (1000):
+  1000   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: chest pain with exertion.
+Meta Mapping (846):
+   846   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+Processing 47_Cage.txt.tx.6: Patient denies recent infection.  
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: recent infection.
+Meta Mapping (1000):
+  1000 N C2169571:Recent infection [Finding]
+Processing 47_Cage.txt.tx.7: Patient denies orthopena. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: orthopena.
+Processing 47_Cage.txt.tx.8: Patinet denies anxiety. 
+
+Phrase: Patinet
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: anxiety.
+Meta Mapping (1000):
+  1000 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+Processing 47_Cage.txt.tx.9: Patient denies pain with palpation. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: pain with palpation.
+Meta Mapping (746):
+   790 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   623   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 47_Cage.txt.tx.10: Denies tachypnea. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: tachypnea.
+Meta Mapping (1000):
+  1000 N C0231835:Tachypnoea (Tachypnea) [Finding]
+Processing 47_Cage.txt.tx.11: Denies pleuritic chest pain   PMXH: HTN   Surgical HX: Denies  Social HX: 20 pack year tobacco history   Meds: Chlorthalidone Lisinopril  Family HX: Father MI at 40 Mom High blood pressure  PE Exam: RRR, CTAB, chest nontender to palpation Anxious affect   Labs:  Unknown   Assessment:  Mr. cage is a 46 year old male with with HTN, 20 pack year history of smoking, and a family history of a father iwth an MI at 40 yo concerning for an MI  1) MI Pertinent positives: tobacco, family history, HTN. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: pleuritic chest pain   PMXH
+Meta Mapping (756):
+   756 N C0008033:CHEST PAIN, PLEURITIC (Pleuritic pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: HTN   Surgical HX
+Meta Mapping (851):
+   660 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C0543467:Surgical (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   827 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Social HX
+Meta Mapping (1000):
+  1000   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 20 pack year tobacco history   Meds
+Meta Mapping (827):
+   660   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   632   C0439508:/Year (per year) [Temporal Concept]
+   632   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   632 N C0262926:History (Medical History) [Finding]
+   799 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+Meta Mapping (827):
+   632   C3842589:20% [Quantitative Concept]
+   660   C1277691:Pack Year (Pack years) [Intellectual Product]
+   632   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   632 N C0262926:History (Medical History) [Finding]
+   799 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone Lisinopril  Family HX
+Meta Mapping (833):
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   645   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   645   C0015576:Family [Family Group]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Father MI at 40 Mom High blood pressure  PE Exam
+Meta Mapping (750):
+   573   C0015671:FATHER (Father (person)) [Family Group]
+   739   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   573   C0439509:/40 [Quantitative Concept]
+   573   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   615   C0020538:High Blood Pressure (Hypertensive disease) [Disease or Syndrome]
+   573   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   573   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: nontender to palpation
+Meta Mapping (746):
+   790   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   623   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: Anxious
+Meta Mapping (1000):
+  1000   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: affect
+Meta Mapping (1000):
+  1000   C0001721:Affect (Affect (mental function)) [Mental Process]
+
+Phrase: Labs
+Meta Mapping (1000):
+  1000   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: Unknown   Assessment
+Meta Mapping (888):
+   694   C0439673:UNKNOWN (Unknown) [Qualitative Concept]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr. cage
+Meta Mapping (888):
+   694   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with
+Meta Mapping (685):
+   586   C0439508:/Year (per year) [Temporal Concept]
+   586   C0580836:Old [Temporal Concept]
+   753   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: with HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: 20 pack year history of smoking,
+Meta Mapping (864):
+   623   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   586   C0439508:/Year (per year) [Temporal Concept]
+   833   C4721824:History of smoking (Smoking History) [Finding]
+Meta Mapping (864):
+   586   C3842589:20% [Quantitative Concept]
+   623   C1277691:Pack Year (Pack years) [Intellectual Product]
+   833   C4721824:History of smoking (Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: a family history of a father iwth
+Meta Mapping (706):
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: an MI at 40 yo concerning
+Meta Mapping (716):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C0439509:/40 [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   553   C2699424:Concern [Idea or Concept]
+
+Phrase: for an MI  1
+Meta Mapping (861):
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: )
+
+Phrase: MI Pertinent positives
+Meta Mapping (896):
+   896   C4687410:MI Positive (MITF Positive) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: tobacco,
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: family history,
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 47_Cage.txt.tx.12: Chest pain history.  
+
+Phrase: Chest pain history.
+Meta Mapping (901):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   827   C0262926:History (Medical History) [Finding]
+Processing 47_Cage.txt.tx.13: Pertinent negatives: younger male. unclear if he has a history of angina   2) Pulmonary embolism Pertinent negatives: non-pleuritic chest pain.   
+
+Phrase: Pertinent negatives
+Meta Mapping (861):
+   861   C0205160:negatives (Negative) [Finding]
+
+Phrase: :
+
+Phrase: younger male. unclear
+Meta Mapping (840):
+   627   C0332239:Young [Temporal Concept]
+   660   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   827   C4725585:Unclear (Unclear State of Matter) [Qualitative Concept]
+
+Phrase: if
+
+Phrase: he
+
+Phrase: has
+
+Phrase: a history of angina   2
+Meta Mapping (752):
+   631   C1825406:A-2 (GPR162 gene) [Gene or Genome]
+   760   C0262926:History (Medical History) [Finding]
+   593   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: )
+
+Phrase: Pulmonary embolism Pertinent negatives
+Meta Mapping (824):
+   694   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+   812   C0205160:negatives (Negative) [Finding]
+
+Phrase: :
+
+Phrase: non-pleuritic chest pain.
+Meta Mapping (916):
+   645   C1518422:Non (Negation) [Functional Concept]
+   923 N C0008033:CHEST PAIN, PLEURITIC (Pleuritic pain) [Sign or Symptom]
+Processing 47_Cage.txt.tx.14: 3) Anxiety Pertinent positives: patient has an anxious affect pertinent negatives: No history of anxiety   Plan:  Go to ED immediately for troponins, ECG, and possible heart cath.  prescribe beta blockers calculate ACVSD and consider statin
+
+Phrase: 3
+Meta Mapping (1000):
+  1000   C2827736:3+ (3+ Score) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Anxiety Pertinent positives
+Meta Mapping (785):
+   660   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+   793   C1514241:POSITIVE (Positive Finding) [Finding]
+
+Phrase: :
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: an anxious
+Meta Mapping (1000):
+  1000   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: affect
+Meta Mapping (1000):
+  1000   C0001721:Affect (Affect (mental function)) [Mental Process]
+
+Phrase: pertinent negatives
+Meta Mapping (861):
+   861   C0205160:negatives (Negative) [Finding]
+
+Phrase: :
+
+Phrase: No history of anxiety   Plan
+Meta Mapping (875):
+   862   C0332122:No history of [Qualitative Concept]
+   593 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+   593   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Go to ED immediately
+Meta Mapping (733):
+   770   C1822658:GO (GORAB gene) [Gene or Genome]
+   770   C3538926:ED (Endocrine System Findings Domain) [Intellectual Product]
+   770   C0205548:Immediately (Stat (do immediately)) [Temporal Concept]
+
+Phrase: for troponins,
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: ECG,
+Meta Mapping (1000):
+  1000   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: possible heart cath.
+Meta Mapping (623):
+   660   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   660   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: prescribe
+
+Phrase: beta blockers
+Meta Mapping (1000):
+  1000   C0001645:Beta blockers (Adrenergic beta-Antagonists) [Pharmacologic Substance]
+
+Phrase: calculate
+Meta Mapping (1000):
+  1000   C1441506:Calculate (Calculation) [Activity]
+
+Phrase: ACVSD
+
+Phrase: and
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: statin
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]

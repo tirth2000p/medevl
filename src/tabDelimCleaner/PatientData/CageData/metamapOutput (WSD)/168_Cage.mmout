@@ -1,0 +1,545 @@
+Processing 168_Cage.txt.tx.1: Patient is a 55 year old with a HTN who presents for chest pain that occurred three days ago. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: a 55 year old with a HTN
+Meta Mapping (673):
+   581   C0450382:55 [Intellectual Product]
+   581   C0439508:/Year (per year) [Temporal Concept]
+   748   C0580836:Old [Temporal Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for chest pain
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: three days ago.
+Meta Mapping (790):
+   660   C0205449:Three [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+Processing 168_Cage.txt.tx.2: Pain is described as 7/10, deep achy  feeling, with heavy pressure and like it took the breath away. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: described as 7/10,
+Meta Mapping (783):
+   770   C1552738:described [Idea or Concept]
+   819   C5191365:10.7 [Quantitative Concept]
+
+Phrase: deep achy  feeling,
+Meta Mapping (828):
+   660   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   589   C0234238:Aches (Ache) [Sign or Symptom]
+   827   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: with heavy pressure
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: and like it
+Meta Mapping (790):
+   790   C1515981:And [Idea or Concept]
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: the breath away.
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 168_Cage.txt.tx.3: Of note patient felt faint at that time as well. 
+
+Phrase: Of note patient
+Meta Mapping (888):
+   694   C1317574:Note (Note (document)) [Intellectual Product]
+   861   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: faint at
+Meta Mapping (833):
+   833   C0039070:FAINT (Syncope) [Sign or Symptom]
+
+Phrase: that time as well.
+Meta Mapping (708):
+   770   C0040223:TIME (Time) [Temporal Concept]
+   604   C0205170:Well (Good) [Qualitative Concept]
+Processing 168_Cage.txt.tx.4: This occurred in the setting of excursion when at the grocery store and carrying heavy groceries to her car. 
+
+Phrase: This
+
+Phrase: occurred in the setting of excursion
+Meta Mapping (672):
+   753   C1709305:Occurred (Occur (action)) [Activity]
+   753   C1318139:{Setting} [Quantitative Concept]
+
+Phrase: when at the grocery store
+Meta Mapping (745):
+   760   C1948054:When (When (temporal qualifier)) [Temporal Concept]
+   806   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: and
+
+Phrase: carrying heavy groceries to her car.
+Meta Mapping (524):
+   586   C0206243:Carrying [Activity]
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   586   C0574443:HER (Herero language) [Language]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 168_Cage.txt.tx.5: The pain resolved after five minutes of rest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved after five minutes of rest.
+Meta Mapping (685):
+   753   C2699488:Resolved (Resolution) [Conceptual Entity]
+   753   C0205451:Five [Quantitative Concept]
+   753   C0439232:minutes (Minute of time) [Temporal Concept]
+   753   C0035253:Rest [Daily or Recreational Activity]
+Processing 168_Cage.txt.tx.6: Patient has had twinges of pain in the past but never this severe of pain. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: had
+
+Phrase: twinges of pain
+Meta Mapping (623):
+   623   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in the past
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: but
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: this severe of pain.
+Meta Mapping (783):
+   604   C1080058:This (This (eukaryote)) [Eukaryote]
+   819   C0278140:Severe pain [Finding]
+Processing 168_Cage.txt.tx.7: Those episodes occurred with activity like running for the bus or stairs. 
+
+Phrase: Those episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: occurred with activity
+Meta Mapping (791):
+   791   C1709305:Occur (action) [Activity]
+
+Phrase: like running for the bus
+Meta Mapping (696):
+   593   C0870814:Like [Mental Process]
+   760   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+   593   C0336815:Bus (Motor bus) [Manufactured Object]
+
+Phrase: or
+
+Phrase: stairs.
+Meta Mapping (1000):
+  1000   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+Processing 168_Cage.txt.tx.8: This was not in the setting of eating recently or felt like GI related. 
+
+Phrase: This
+
+Phrase: was
+
+Phrase: not in the setting of eating recently
+Meta Mapping (664):
+   748   C1518422:Not (Negation) [Functional Concept]
+   748   C1318139:{Setting} [Quantitative Concept]
+   748   C0013470:Eating [Organism Function]
+   748   C0332185:Recently (Recent) [Temporal Concept]
+
+Phrase: or
+
+Phrase: felt like GI related.
+Meta Mapping (764):
+   612 N C1527305:feel (Feelings) [Mental Process]
+   812   C1708130:Gi (GNAI1 wt Allele) [Gene or Genome]
+   812   C0439849:Related (Relationships) [Qualitative Concept]
+Processing 168_Cage.txt.tx.9: Patient endorses those symptoms occasionally with heavy meals, but this was different. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: endorses
+
+Phrase: those symptoms occasionally with heavy meals,
+Meta Mapping (691):
+   753   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   586   C1998882:Occasionally (Sometimes) [Temporal Concept]
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   586   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: this
+
+Phrase: was
+
+Phrase: different.
+Meta Mapping (1000):
+  1000   C1705242:Different [Qualitative Concept]
+Processing 168_Cage.txt.tx.10: Worried that this is cardiac related.  
+
+Phrase: Worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: that
+
+Phrase: this
+
+Phrase: is
+
+Phrase: cardiac related.
+Meta Mapping (888):
+   694   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0439849:Related (Relationships) [Qualitative Concept]
+Processing 168_Cage.txt.tx.11: Medication: chlorthiodine and lisinoprin for HTN NKDA PMHx: HTN SHx: denies SocialHx: smokes tobacco 1 PPD/ 30 years, 2-3 glasses of wine two times a day  FHx:  Father died at the age of 40 from MI. 
+
+Phrase: Medication
+Meta Mapping (1000):
+  1000   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: chlorthiodine
+
+Phrase: and
+
+Phrase: lisinoprin for HTN NKDA PMHx
+Meta Mapping (593):
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: HTN SHx
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: SocialHx
+
+Phrase: :
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: tobacco 1 PPD/ 30 years,
+Meta Mapping (766):
+   637   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   637   C1710647:PPD (WISP3 wt Allele) [Gene or Genome]
+   637   C3842588:30% [Quantitative Concept]
+   804   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668 N C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: two times
+Meta Mapping (1000):
+  1000   C1948050:Two Times (Twice (Numerical Qualifier)) [Quantitative Concept]
+
+Phrase: a day  FHx
+Meta Mapping (888):
+   694   C0439228:Day (day) [Temporal Concept]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died at the age of 40
+Meta Mapping (666):
+   753   C1306577:Died (Death (finding)) [Finding]
+   753   C0001779:AGE (Age) [Organism Attribute]
+   753   C0439509:/40 [Quantitative Concept]
+
+Phrase: from MI.
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 168_Cage.txt.tx.12: had CAD and CBAG Mother died at 60 of PE  Vitals T 98 P 85 R 14 Bp 150/92 Physical General: NAD Cardiac: RRR. 
+
+Phrase: had
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: CBAG Mother
+Meta Mapping (861):
+   861   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: died at 60 of PE  Vitals T 98 P 85 R 14 Bp 150/92 Physical General
+Meta Mapping (642):
+   732   C1306577:Died (Death (finding)) [Finding]
+   742   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   660   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   732   C4319627:98 [Quantitative Concept]
+   732   C4517892:85 [Quantitative Concept]
+   742   C0232024:R T (Total airway resistance) [Clinical Attribute]
+   732   C1708288:BP (HP wt Allele) [Gene or Genome]
+   742   C0436117:General Physical (General examination of patient) [Health Care Activity]
+
+Phrase: :
+
+Phrase: NAD
+Meta Mapping (1000):
+  1000   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: Cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR.
+Processing 168_Cage.txt.tx.13: No murmur Respiratory: clear to auscultation bilaterally Muscoskeletal: no pain to palpation to costocondral joints   Assessment Patient is a 55 year old with chest pain in the setting of hx of HTN, FHx of CAD, and extensive smoking hx. 
+
+Phrase: No murmur
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: Respiratory
+Meta Mapping (1000):
+  1000   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: clear to auscultation bilaterally Muscoskeletal
+Meta Mapping (686):
+   760 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   593   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: :
+
+Phrase: no pain to palpation
+Meta Mapping (783):
+   833   C0234225:No pain (Absence of pain) [Finding]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: to costocondral joints   Assessment Patient
+Meta Mapping (824):
+   645   C0022417:Joints [Body Space or Junction]
+   861   C0679830:assessment patient (patient assessment) [Health Care Activity]
+
+Phrase: is
+
+Phrase: a 55 year old with chest pain
+Meta Mapping (710):
+   581   C0450382:55 [Intellectual Product]
+   581   C0439508:/Year (per year) [Temporal Concept]
+   748   C0580836:Old [Temporal Concept]
+   612   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: in the setting of hx of HTN,
+Meta Mapping (659):
+   581   C0150312:In (Present) [Finding]
+   748   C1318139:{Setting} [Quantitative Concept]
+   581   C0262926:Hx (Medical History) [Finding]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: FHx of CAD,
+Meta Mapping (746):
+   790   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: extensive smoking hx.
+Meta Mapping (851):
+   660   C0205231:Extensive [Qualitative Concept]
+   660   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+   827   C0262926:Hx (Medical History) [Finding]
+Processing 168_Cage.txt.tx.14: Pain occurred in the setting of activity. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: occurred in the setting of activity.
+Meta Mapping (671):
+   717   C1709305:Occur (action) [Activity]
+   753   C1318139:{Setting} [Quantitative Concept]
+Processing 168_Cage.txt.tx.15: Based on presentation likely sable angina vs NSTMI vs PE vs musculoskeletal vs GERD. 
+
+Phrase: Based on presentation likely sable angina
+Meta Mapping (735):
+   753   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   753   C0449450:Presentation [Idea or Concept]
+   753   C0750492:Likely (Probably) [Idea or Concept]
+   753   C0325046:Sable (Sables) [Mammal]
+   753   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: vs
+
+Phrase: NSTMI
+
+Phrase: vs
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: vs
+
+Phrase: musculoskeletal
+Meta Mapping (1000):
+  1000   C0497254:MUSCULOSKELETAL (Musculoskeletal) [Functional Concept]
+
+Phrase: vs
+
+Phrase: GERD.
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 168_Cage.txt.tx.16: Low level of suspicion for cardiac cause given family hx, smoking hx and presentation/ Less liklely muscoskeletal given no tenderness but patient was carrying heavy object and could have injured without realizing. 
+
+Phrase: Low level of suspicion
+Meta Mapping (783):
+   833   C4321351:Low Level [Finding]
+   604   C0242114:SUSPICION (Suspicion) [Mental Process]
+
+Phrase: for cardiac cause given family hx,
+Meta Mapping (785):
+   673   C0741922:CARDIAC cause (CARDIAC causes) [Disease or Syndrome]
+   637   C0015576:Family [Family Group]
+   804   C0262926:Hx (Medical History) [Finding]
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: hx
+Meta Mapping (1000):
+  1000   C0262926:Hx (Medical History) [Finding]
+
+Phrase: and
+
+Phrase: presentation/ Less liklely muscoskeletal
+Meta Mapping (566):
+   645   C0449450:Presentation [Idea or Concept]
+   612   C0227192:LES (Inferior esophageal sphincter structure) [Body Part, Organ, or Organ Component]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: no tenderness
+Meta Mapping (1000):
+  1000 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy object
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0347997:Object (Physical object) [Physical Object]
+
+Phrase: and
+
+Phrase: could
+
+Phrase: have
+
+Phrase: injured without realizing.
+Meta Mapping (790):
+   790   C0332664:Injured (injured) [Functional Concept]
+Processing 168_Cage.txt.tx.17: Less likely GERD based on having those symptoms prior.  
+
+Phrase: Less likely GERD
+Meta Mapping (851):
+   660   C0439092:Less (Less Than) [Quantitative Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: based on
+Meta Mapping (833):
+   833   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+
+Phrase: having
+
+Phrase: those symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: prior.
+Meta Mapping (1000):
+  1000   C2826257:PRIOR (Prior Medication Usage) [Event]
+Processing 168_Cage.txt.tx.18: Recommend EKG Better bp control  CBC BMP Troponin  CXR Start low dose asprin
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: EKG Better bp control  CBC BMP Troponin  CXR
+Meta Mapping (805):
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   626   C0332272:Better [Qualitative Concept]
+   626   C1708288:BP (HP wt Allele) [Gene or Genome]
+   626   C1882979:Control (Scientific Control) [Conceptual Entity]
+   626   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   626   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   626   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   793   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: Start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: low dose asprin
+Meta Mapping (734):
+   734   C0445550:Low dose [Quantitative Concept]

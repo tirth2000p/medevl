@@ -1,0 +1,693 @@
+Processing 56_Cage.txt.tx.1: Subjective: Mr. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 56_Cage.txt.tx.2: Cage is a (did not get age) male who presents with complaint of chest pain in the epigastric region. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a
+
+Phrase: (
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: get
+
+Phrase: age
+Meta Mapping (1000):
+  1000   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: )
+
+Phrase: male
+Meta Mapping (1000):
+  1000   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents with complaint of chest pain
+Meta Mapping (772):
+   753 N C0150312:PRESENT (Present) [Finding]
+   753 N C0277786:Complaint (Chief complaint (finding)) [Finding]
+   793 N C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: in the epigastric region.
+Meta Mapping (1000):
+  1000   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+Processing 56_Cage.txt.tx.3: He noticed pain 3 days ago while carrying groceries to his car. he had to set down his groceries and stand still then pain went away 5-10 minutes later. at the same time he felt a little lightheaded and "like the wind knocked out of me." 
+
+Phrase: He
+
+Phrase: noticed
+
+Phrase: pain 3 days ago
+Meta Mapping (763):
+   645   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   812   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying groceries to his car.
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: set down his groceries
+Meta Mapping (708):
+   770   C1442518:Set (Set scale) [Functional Concept]
+   770   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: stand still then pain
+Meta Mapping (775):
+   645   C0596013:stand (Does stand) [Finding]
+   645   C1883708:Then [Temporal Concept]
+   812   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: went
+
+Phrase: away 5-10 minutes later.
+Meta Mapping (785):
+   840   C0456692:/10 minutes (/10 min) [Temporal Concept]
+   637   C0205087:Later (Late) [Temporal Concept]
+
+Phrase: at the same time
+Meta Mapping (888):
+   694   C0445247:SAME (Same) [Qualitative Concept]
+   861   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a little lightheaded
+Meta Mapping (888):
+   694   C0700321:Little (Small) [Quantitative Concept]
+   861   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: "
+
+Phrase: like the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: knocked out of me."
+Meta Mapping (783):
+   833   C0560617:knocked out [Injury or Poisoning]
+   770   C0025082:ME (Examiner, Medical) [Professional or Occupational Group]
+Processing 56_Cage.txt.tx.4: He has noticed similar instances of chest pain over the past 4 months while he has been climbing stairs or running. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: noticed similar instances of chest pain
+Meta Mapping (790):
+   586   C2348205:Similar (Similarity) [Qualitative Concept]
+   719   C1550608:Instance [Idea or Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: over the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: has
+
+Phrase: been
+
+Phrase: climbing stairs
+Meta Mapping (1000):
+  1000   C1290942:Climbing stairs [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: running.
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+Processing 56_Cage.txt.tx.5: It usually goes away when he stops exerting himself. 
+
+Phrase: It
+
+Phrase: usually
+Meta Mapping (1000):
+  1000   C3538928:Usually (Usual) [Qualitative Concept]
+
+Phrase: goes
+Meta Mapping (1000):
+  1000   C1947959:Goes (Goes <invertebrate>) [Eukaryote]
+
+Phrase: away
+
+Phrase: when
+
+Phrase: he
+
+Phrase: stops
+Meta Mapping (1000):
+  1000   C2746065:Stop (Stop (qualifier value)) [Temporal Concept]
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself.
+Processing 56_Cage.txt.tx.6: He also complained of pressure in the epigastric region after following lunch which he's noticed for the past year. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: complained of pressure
+Meta Mapping (790):
+   790   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: in the epigastric region
+Meta Mapping (1000):
+  1000   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+
+Phrase: after
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0231290:Following (Status post) [Temporal Concept]
+
+Phrase: lunch
+Meta Mapping (1000):
+  1000   C2697949:Lunch [Daily or Recreational Activity]
+
+Phrase: which he's noticed
+
+Phrase: for
+
+Phrase: the past year.
+Meta Mapping (882):
+   882   C4086728:Past Year [Temporal Concept]
+Processing 56_Cage.txt.tx.7: It goes away soon after eating.  
+
+Phrase: It
+
+Phrase: goes
+Meta Mapping (1000):
+  1000   C1947959:Goes (Goes <invertebrate>) [Eukaryote]
+
+Phrase: away soon after eating.
+Meta Mapping (770):
+   770   C0013470:Eating [Organism Function]
+Processing 56_Cage.txt.tx.8: Meds- chlorthalidone 25 mg daily, lisinopril 10 mg daily  PMHx- HTN FHx- dad heart attack at age 40 with bypass, mom HTN, DM, pulmonary embolus (deceased) Social- 1ppd smoking for past 20 years, 2-3 glasses of wine on weekend nights, no other substances. works at capital one. 
+
+Phrase: Meds- chlorthalidone 25 mg daily,
+Meta Mapping (875):
+   637   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   884   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   637   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10 mg daily  PMHx- HTN FHx- dad heart attack at age 40
+Meta Mapping (705):
+   599   C0987217:Lisinopril 10 MG [Clinical Drug]
+   569   C0332173:Daily [Temporal Concept]
+   569   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   569   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   569   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   750   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   569   C0001779:AGE (Age) [Organism Attribute]
+   569   C0439509:/40 [Quantitative Concept]
+Meta Mapping (705):
+   595   C0987221:Lisinopril 40 MG [Clinical Drug]
+   569   C3842590:10% [Quantitative Concept]
+   569   C0332173:Daily [Temporal Concept]
+   569   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   569   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   569   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   750   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   569   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: with bypass,
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: mom HTN,
+Meta Mapping (888):
+   694   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pulmonary embolus
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLUS (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: (deceased
+Meta Mapping (1000):
+  1000   C0011065:Deceased (Cessation of life) [Organism Function]
+
+Phrase: )
+
+Phrase: Social- 1ppd smoking for past 20 years,
+Meta Mapping (706):
+   581   C0728831:Social [Functional Concept]
+   748   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+   581   C1444637:Past (In the past) [Temporal Concept]
+   612   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekend nights,
+Meta Mapping (888):
+   694   C0680190:Weekend [Temporal Concept]
+   861   C0240526:nights (Night time) [Temporal Concept]
+
+Phrase: no
+
+Phrase: other substances. works at capital one.
+Meta Mapping (723):
+   586   C0205394:OTHER (Other) [Qualitative Concept]
+   586   C0439861:Substances (Substance) [Substance]
+   753   C0043227:works (Work) [Occupational Activity]
+   586   C0006909:Capital [Quantitative Concept]
+   586   C0205447:ONE (One) [Quantitative Concept]
+Processing 56_Cage.txt.tx.9: Diet includes a lot of caffeine and whatever he finds appetizing. 
+
+Phrase: Diet
+Meta Mapping (1000):
+  1000   C0012155:Diet [Food]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: a lot of caffeine
+Meta Mapping (783):
+   833   C3900172:A lot (A Lot of the Time) [Finding]
+   604   C0006644:CAFFEINE (caffeine) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: whatever he
+
+Phrase: finds
+Meta Mapping (1000):
+  1000   C0243095:Find (Finding) [Finding]
+
+Phrase: appetizing.
+Processing 56_Cage.txt.tx.10: Does not exercise but walks dog slowly.  
+
+Phrase: Does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: dog slowly.
+Meta Mapping (888):
+   861   C0012984:DOG (Canis familiaris) [Mammal]
+   694   C0439834:Slowly (Slow) [Qualitative Concept]
+Processing 56_Cage.txt.tx.11: Objective: BP 150/92, temp 98, pulse 85, RR 14 CV- RRR, no murmurs rubs or gallops in sitting, laying, and lateral decubitus position, brisk carotid upstroke, no carotid bruits bilaterally. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: temp 98,
+Meta Mapping (888):
+   861   C0039476:TEMP (Temperature) [Quantitative Concept]
+   861   C4319627:98 [Quantitative Concept]
+
+Phrase: pulse 85,
+Meta Mapping (888):
+   861   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14 CV- RRR,
+Meta Mapping (597):
+   645   C4554402:RR (RR genotype) [Finding]
+   645   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops in sitting,
+Meta Mapping (623):
+   623 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: laying
+Meta Mapping (1000):
+  1000   C1622979:LAYING (Egg Laying) [Organism Function]
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: lateral decubitus position,
+Meta Mapping (1000):
+  1000   C0444379:Lateral Decubitus Position (Lateral decubitus position) [Spatial Concept]
+
+Phrase: brisk carotid upstroke,
+Meta Mapping (623):
+   660   C0443162:Brisk [Qualitative Concept]
+   660   C0741968:Carotid (carotid) [Body Part, Organ, or Organ Component]
+
+Phrase: no carotid bruits bilaterally.
+Meta Mapping (901):
+   901 N C0007280:carotid bruits (Carotid bruit) [Finding]
+Processing 56_Cage.txt.tx.12: Did not access JVD. 
+
+Phrase: Did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: access
+Meta Mapping (1000):
+  1000   C1554204:access (Role Class - access) [Functional Concept]
+
+Phrase: JVD.
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+Processing 56_Cage.txt.tx.13: Abdominal aorta ~2 cm. 
+
+Phrase: Abdominal aorta ~2 cm.
+Meta Mapping (694):
+   694   C0003484:ABDOMINAL AORTA (Abdominal aorta structure) [Body Part, Organ, or Organ Component]
+Processing 56_Cage.txt.tx.14: Did not assess pulses.  
+
+Phrase: Did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: assess
+Meta Mapping (1000):
+  1000   C1516048:Assess (Assessed) [Activity]
+
+Phrase: pulses.
+Meta Mapping (1000):
+  1000 N C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+Processing 56_Cage.txt.tx.15: Assessment: Mr. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 56_Cage.txt.tx.16: Cage is ? year old male with complaints of epigastric chest pain with exertion and epigastric pressure after meals. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is ? year old male with complaints of epigastric chest pain
+Meta Mapping (727):
+   573   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0277786:complaints (Chief complaint (finding)) [Finding]
+   573   C0521440:Epigastric [Body Location or Region]
+   581   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: epigastric pressure after meals.
+Meta Mapping (733):
+   604   C0521440:Epigastric [Body Location or Region]
+   770   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   604   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 56_Cage.txt.tx.17: Most likely diagnosis is angina due to history of pain with exertion and settles afterwards and PMHx of hypertension, FHx of heart attack at a young age. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: angina due to history of pain
+Meta Mapping (771):
+   623   C0678226:Due To (Due to) [Functional Concept]
+   586   C0262926:History (Medical History) [Finding]
+   783   C0002962:pain angina (Angina Pectoris) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: settles
+Meta Mapping (1000):
+  1000   C1266099:settles (Thyroid Gland Spindle Cell Tumor with Thymus-Like Differentiation) [Neoplastic Process]
+
+Phrase: afterwards
+
+Phrase: and
+
+Phrase: PMHx of hypertension,
+Meta Mapping (623):
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: FHx of heart attack
+Meta Mapping (783):
+   770   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   666   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: at a young age.
+Meta Mapping (888):
+   694   C0332239:Young [Temporal Concept]
+   861   C0001779:AGE (Age) [Organism Attribute]
+Processing 56_Cage.txt.tx.18: Additionally, GERD with worsening epigastric pressure after large meals.  
+
+Phrase: Additionally,
+
+Phrase: GERD with worsening epigastric pressure
+Meta Mapping (733):
+   760   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   593   C1457868:Worsening (Worse) [Finding]
+   593   C0521440:Epigastric [Body Location or Region]
+   593   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: after large meals.
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 56_Cage.txt.tx.19: Plan: Lipid profile today to check cholesterol levels if patient fasting, if not come in tomorrow morning. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Lipid profile today
+Meta Mapping (851):
+   660   C0523744:LIPID (Lipids measurement) [Laboratory Procedure]
+   660   C1979963:Profile (Profile (lab procedure)) [Laboratory Procedure]
+   827   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: check
+Meta Mapping (1000):
+  1000   C1283174:Check (Checking (action)) [Activity]
+
+Phrase: cholesterol levels
+Meta Mapping (1000):
+  1000   C0428466:cholesterol levels (Cholesterol level test result) [Laboratory or Test Result]
+
+Phrase: if
+
+Phrase: patient fasting,
+Meta Mapping (888):
+   694   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   861   C0015663:FASTING (Fasting) [Finding]
+
+Phrase: if
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: come in tomorrow morning.
+Meta Mapping (770):
+   770   C0332170:Morning [Temporal Concept]
+Processing 56_Cage.txt.tx.20: May need to start statin. 
+
+Phrase: May
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: statin.
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+Processing 56_Cage.txt.tx.21: Also likely increase dosing on blood pressure medication due to elevated level, goal is <130/80. 
+
+Phrase: Also
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: increase
+Meta Mapping (1000):
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: dosing on blood pressure medication
+Meta Mapping (596):
+   640   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+   593   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (596):
+   631   C0849164:blood medication (blood medications) [Therapeutic or Preventive Procedure]
+   593   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: due to elevated level,
+Meta Mapping (888):
+   694   C0205250:Elevated (High) [Qualitative Concept]
+   861   C1547707:Level (Floor - story of building) [Geographic Area]
+
+Phrase: goal
+Meta Mapping (1000):
+  1000   C0018017:Goal (objective (goal)) [Intellectual Product]
+
+Phrase: is
+
+Phrase: <130/80.
+Meta Mapping (861):
+   861   C3842583:80% [Quantitative Concept]
+Processing 56_Cage.txt.tx.22: Can have patient monitor BPs at home before change. 
+
+Phrase: Can
+
+Phrase: have
+
+Phrase: patient monitor BPs
+Meta Mapping (901):
+   734   C0030695:patient monitor (Patient Monitoring) [Health Care Activity]
+   827   C2740858:BPS [Organic Chemical,Pharmacologic Substance]
+
+Phrase: at home before change.
+Meta Mapping (783):
+   833   C4534363:At home [Finding]
+   604   C0392747:Change (Changing) [Functional Concept]
+Processing 56_Cage.txt.tx.23: Will calculate ASCVD risk. 
+
+Phrase: Will
+
+Phrase: calculate
+Meta Mapping (1000):
+  1000   C1441506:Calculate (Calculation) [Activity]
+
+Phrase: ASCVD risk.
+Meta Mapping (888):
+   694   C3665365:ASCVD (Arteriosclerotic cardiovascular disease, NOS) [Disease or Syndrome]
+   861   C0035647:Risk [Idea or Concept]
+Processing 56_Cage.txt.tx.24: Recommend exercise stress test. 
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: exercise stress test.
+Meta Mapping (1000):
+  1000   C0015260:Exercise stress test [Diagnostic Procedure]
+Processing 56_Cage.txt.tx.25: Additionally, can start PPI for GERD like symptoms.
+
+Phrase: Additionally,
+
+Phrase: can
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: PPI for GERD
+Meta Mapping (746):
+   790   C0871125:PPI (prepulse inhibition activity) [Physiologic Function]
+   623   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: like symptoms.
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]

@@ -1,0 +1,108 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,3,True,S- Ms. 
+C0554249,Smith,Smith (occupation),-1000,-1000,Smith,7,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0205087,Late,Late,-573,-669,a late middle age woman with a history of HTN,16,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0205847,Middle Age,Middle Aged,-593,-669,a late middle age woman with a history of HTN,16,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0043210,WOMAN,Woman,-739,-669,a late middle age woman with a history of HTN,16,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0262512,"History, NOS",History of present illness,-573,-669,a late middle age woman with a history of HTN,16,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0020538,HTN,Hypertensive disease,-573,-669,a late middle age woman with a history of HTN,16,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0453996,Smoking,Tobacco smoking behavior,-1000,-1000,smoking,66,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0002424,Clinic,Ambulatory Care Facilities,-770,-722,comes to clinic today,79,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0750526,Today,Today (temporal qualifier),-770,-722,comes to clinic today,79,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,for chest pain,101,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C1272689,Started,Started,-1000,-1000,started,121,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,135,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-660,-623,a heavy load yesterday.,144,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C1708715,Load,Loading Technique,-660,-623,a heavy load yesterday.,144,True,Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+C0565960,Multiple episode,Multiple episode,-886,-813,"Multiple, less severe episodes",168,True,"Multiple, less severe episodes have been present with exertion over the past few months. "
+C0205082,Severe,Severe (severity modifier),-645,-813,"Multiple, less severe episodes",168,True,"Multiple, less severe episodes have been present with exertion over the past few months. "
+C0150312,PRESENT,Present,-790,-746,present with exertion,209,True,"Multiple, less severe episodes have been present with exertion over the past few months. "
+C0015264,Exertion,Exertion,-623,-746,present with exertion,209,True,"Multiple, less severe episodes have been present with exertion over the past few months. "
+C4331910,Past Month,Past 30 days,-896,-896,over the past few months.,231,True,"Multiple, less severe episodes have been present with exertion over the past few months. "
+C1527305,feel,Feelings,-966,-966,felt,261,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C3842590,10%,10%,-660,-790,an 8/10 pain,266,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-827,-790,an 8/10 pain,266,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0205125,DEEP,Deep (qualifier value),-604,-555,substernal with deep pressure,279,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0460139,Pressure,Pressure (finding),-604,-555,substernal with deep pressure,279,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C1527305,Feeling,Feelings,-694,-888,feeling unable,320,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0566415,unable,Unable to feed self,-861,-888,feeling unable,320,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,335,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0231617,Catch,Catch - Finding of sensory dimension of pain,-1000,-1000,catch,338,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C0225386,Breath,Breath,-1000,-1000,her breath.,344,True,She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,These symptoms,356,True,These symptoms resolved with rest. 
+C2699488,Resolved,Resolution,-790,-746,resolved with rest.,371,True,These symptoms resolved with rest. 
+C1622890,ResT,site-specific telomere resolvase activity,-790,-746,resolved with rest.,371,True,These symptoms resolved with rest. 
+C0026193,Minor,Minor (person),-586,-679,the more minor episodes as twinges,405,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0332189,Episodes,Episode of,-753,-679,the more minor episodes as twinges,405,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C1299581,Able,Able (finding),-1000,-1000,able,453,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,458,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0043227,Work,Work,-833,-833,work through,461,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C1622890,ResT,site-specific telomere resolvase activity,-660,-901,without rest. family history,474,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0241889,FAMILY HISTORY,Family history,-901,-901,without rest. family history,474,False,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0237881,significant,Statistical Significance,-770,-733,significant for fatal MI,503,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C1705232,FATAL,Death Related to Adverse Event,-604,-733,significant for fatal MI,503,False,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0683474,MI,Motivational Interviewing,-604,-733,significant for fatal MI,503,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0560033,in s,inches per second,-607,-701,in father at 40 s/p CABG.,528,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0015671,FATHER,Father (person),-748,-701,in father at 40 s/p CABG.,528,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C3842587,40%,40%,-581,-701,in father at 40 s/p CABG.,528,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0010055,CABG,Coronary Artery Bypass Surgery,-581,-701,in father at 40 s/p CABG.,528,True,She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+C0026591,MOTHER,Mother (person),-694,-694,"Mother- T2DM,",554,True,"Mother- T2DM, HTN.  "
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN.,568,True,"Mother- T2DM, HTN.  "
+C3241966,Current Smoker,Current Smoker,-734,-734,"Current smoker 1ppd,",574,True,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C4687960,2 OF 3,Severity Two Out of Three,-668,-875,2-3 glasses of wine,595,True,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C0015421,Glasses,Eyeglasses,-760,-875,2-3 glasses of wine,595,True,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C0043188,WINE,Wine,-593,-875,2-3 glasses of wine,595,True,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C0680190,weekends,Weekend,-1000,-1000,"on the weekends,",615,True,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C0242510,Drug use,Drug usage,-1000,-1000,no drug use.,632,False,"Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. "
+C0543467,surgeries,Operative Surgical Procedures,-1000,-1000,No surgeries.,645,True,No surgeries.  
+C0020517,Allergies,Hypersensitivity,-1000,-1000,No allergies.,660,False,No allergies.  
+C0746467,Current Medication,Current Medication,-1000,-1000,Current medication,675,True,Current medication includes Chlorthalidone and Lisinopril for HTN.   
+C0332257,include,Including (qualifier),-1000,-1000,includes,694,True,Current medication includes Chlorthalidone and Lisinopril for HTN.   
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,Chlorthalidone,703,True,Current medication includes Chlorthalidone and Lisinopril for HTN.   
+C0065374,Lysinopril,lisinopril,-790,-746,Lisinopril for HTN.,722,True,Current medication includes Chlorthalidone and Lisinopril for HTN.   
+C0020538,HTN,Hypertensive disease,-623,-746,Lisinopril for HTN.,722,True,Current medication includes Chlorthalidone and Lisinopril for HTN.   
+C0483204,O NOS,O NOS Ab,-660,-623,"O- Temp- 98f,",744,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C0039476,TEMP,Temperature,-660,-623,"O- Temp- 98f,",744,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C0391850,Pulse,Physiologic pulse,-861,-888,"Pulse 85,",758,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C4517892,85,85,-861,-888,"Pulse 85,",758,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C0231832,RESP,Respiratory rate,-861,-861,"resp 14,",768,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C1708288,BP,HP wt Allele,-827,-827,BP 150/92.,777,True,"O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  "
+C2349943,Ms.,Ms. - Title,-1000,-1000,A- Ms.,789,True,A- Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,796,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C3825962,Middle-aged women,Middle-aged women,-958,-958,a middle aged woman,804,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0150312,PRESENT,Present,-790,-746,presents to clinic,828,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0002424,Clinic,Ambulatory Care Facilities,-790,-746,presents to clinic,828,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0151826,"Chest pain, substernal",Retrosternal pain,-1000,-1000,with substernal chest pain,847,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0460139,Pressure,Pressure (finding),-790,-746,pressure with exertion,878,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0015264,Exertion,Exertion,-623,-746,pressure with exertion,878,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C1709305,Occurred,Occur (action),-1000,-1000,occurred,906,True,Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+C0332281,Associated with,Associated with,-833,-843,Associated with deep heaviness,926,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0205125,DEEP,Deep (qualifier value),-770,-843,Associated with deep heaviness,926,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-699,-843,Associated with deep heaviness,926,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C2707305,Shortness of breath,Shortness of breath:-:Point in time:^Patient:-,-1000,-1000,"shortness of breath,",961,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0439064,MULTIPLE,Numerous,-1000,-1000,"multiple,",982,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0439092,Less,Less Than,-578,-678,less severe episodes in the past 4 months,992,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0205082,Severe,Severe (severity modifier),-578,-678,less severe episodes in the past 4 months,992,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0332189,Episodes,Episode of,-744,-678,less severe episodes in the past 4 months,992,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C4331910,Past Month,Past 30 days,-584,-678,less severe episodes in the past 4 months,992,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C1514989,Strenuous Activity,Strenuous Exercise,-1000,-1000,"with strenuous activity,",1034,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0205393,Most,Most,-1000,-1000,most,1059,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C2699424,Concern,Concern,-726,-799,concerning for Acute Coronary Syndrome.,1064,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0948089,Acute Coronary Syndrome,Acute Coronary Syndrome,-862,-799,concerning for Acute Coronary Syndrome.,1064,True,"Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. "
+C0443199,Differential,Differential quality,-770,-770,Also on the differential,1104,True,"Also on the differential are pulmonary embolism, and MI.   "
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-1000,-1000,"pulmonary embolism,",1133,True,"Also on the differential are pulmonary embolism, and MI.   "
+C0683474,MI,Motivational Interviewing,-1000,-1000,MI.,1157,True,"Also on the differential are pulmonary embolism, and MI.   "
+C0369773,P NOS,P Blood group antibodies,-1000,-1000,P-,1163,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C0013113,Draw,Drawings (art),-1000,-1000,Draw,1167,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C0005768,BLOOD,In Blood,-790,-746,"blood for CBC,",1172,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C0009555,CBC,Complete Blood Count,-623,-746,"blood for CBC,",1172,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C0041199,Troponin,Troponin,-1000,-1000,"troponin,",1187,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C0519825,CMP,Comprehensive Metabolic Panel,-1000,-1000,CMP.,1197,True,"P-  Draw blood for CBC, troponin, CMP.  "
+C1623258,EKG,Electrocardiography,-1000,-1000,"EKG,",1203,True,"EKG, schedule stress test asap  Left heart cath pending stress test results.  "
+C0086960,Schedule,Schedule (document type),-622,-741,schedule stress test asap  Left heart cath pending stress test results.,1208,True,"EKG, schedule stress test asap  Left heart cath pending stress test results.  "
+C1718621,Stress,W stress,-622,-741,schedule stress test asap  Left heart cath pending stress test results.,1208,True,"EKG, schedule stress test asap  Left heart cath pending stress test results.  "
+C0456984,test results,Test Result,-870,-741,schedule stress test asap  Left heart cath pending stress test results.,1208,True,"EKG, schedule stress test asap  Left heart cath pending stress test results.  "
+C0225809,left heart,Left side of heart,-634,-741,schedule stress test asap  Left heart cath pending stress test results.,1208,True,"EKG, schedule stress test asap  Left heart cath pending stress test results.  "
+C0439659,Start,Beginning,-645,-608,Start aspirin 325mg Daily.,1281,True,Start aspirin 325mg Daily.
+C0004057,ASPIRIN,aspirin,-645,-608,Start aspirin 325mg Daily.,1281,True,Start aspirin 325mg Daily.
+C0332173,Daily,Daily,-645,-608,Start aspirin 325mg Daily.,1281,True,Start aspirin 325mg Daily.

@@ -1,0 +1,140 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,17,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,17,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C0369637,M NOS,M NOS ANTIBODY,-812,-812,a 46 y/o M,31,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C0150312,PRESENT,Present,-760,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C3808668,Episodic pain,Episodic pain,-797,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C1527391,Chest,Anterior thoracic region,-760,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C0150312,PRESENT,Present,-760,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C1455761,Episodic,Episodic,-760,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C0008031,CHEST PAIN,Chest Pain,-806,-761,presents with episodic chest pain.,46,True,Subjective: HPI: Gerry Cage is a 46 y/o M who presents with episodic chest pain. 
+C1183734,Midline chest,Intrathoracic part of chest,-673,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C3842590,10%,10%,-637,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-804,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C1660780,midline,midline cell component,-637,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C0008031,CHEST PAIN,Chest Pain,-875,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C3842590,10%,10%,-637,-785,midline chest 7/10 pain,101,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C0205388,Few,Few,-660,-790,a few days ago,125,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C0439228,DAYS,day,-827,-790,a few days ago,125,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C0015264,exerting,Exertion,-1000,-1000,exerting,146,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C0206243,Carrying,Carrying,-694,-694,himself carrying groceries.,155,True,He describes having midline chest 7/10 pain a few days ago while exerting himself carrying groceries. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,183,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C0015127,cause,Etiology aspects,-966,-966,caused,192,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C0041260,TO,Tryptophanase,-1000,-1000,to,203,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C1321095,Drop,Drop Dosing Unit,-1000,-1000,drop,206,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C1527305,feel,Feelings,-966,-966,felt,229,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C0220870,Lightheaded,Lightheadedness,-1000,-1000,lightheaded,234,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C1515981,And,And,-833,-833,"and like """,246,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C0016204,Wind NOS,Flatulence,-1000,-1000,the wind,256,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C0560617,knocked out,knocked out,-833,-833,"knocked out of him"".",269,True,"The pain caused him to drop everything and he felt lightheaded and like ""the wind was knocked out of him"". "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,290,True,The pain subsided after 5-10 minutes. 
+C0456692,/10 minutes,/10 min,-806,-806,subsided after 5-10 minutes.,299,True,The pain subsided after 5-10 minutes. 
+C0205082,Severe,Severe (severity modifier),-586,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0332189,Episode of,Episode of,-773,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0237283,Pain - other,Pain - other,-617,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0205394,OTHER,Other,-586,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0278140,Severe pain,Severe pain,-617,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0332189,Episode of,Episode of,-773,-764,other less severe episodes of pain,345,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C2981700,2+,"2+ Score, WHO",-861,-888,(2/10,380,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C3842590,10%,10%,-861,-888,(2/10,380,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C1517741,Last,Last,-1000,-1000,last,392,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C4036225,Few seconds,Few seconds,-673,-812,a few seconds 2-3 times,397,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0040223,times,Time,-804,-812,a few seconds 2-3 times,397,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0439231,Month,month,-1000,-1000,a month.,421,True,He also endorses other less severe episodes of pain (2/10) that last a few seconds 2-3 times a month. 
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,"No palpitations,",430,False,"No palpitations, or shortness of breath.  "
+C0013404,SHORTNESS OF BREATH,Dyspnea,-1000,-1000,shortness of breath.,450,False,"No palpitations, or shortness of breath.  "
+C0262926,PMH,Medical History,-694,-694,PMH/PSH,472,True,"PMH/PSH: HTN, no surgeries. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",481,True,"PMH/PSH: HTN, no surgeries. "
+C0543467,surgeries,Operative Surgical Procedures,-1000,-1000,no surgeries.,486,True,"PMH/PSH: HTN, no surgeries. "
+C0013227,Medication,Pharmaceutical Preparations,-1000,-1000,Medication,500,True,Medication: Chlorthalidone 25mg 1/day. 
+C0008294,Chlortalidone,chlorthalidone,-645,-791,Chlorthalidone 25mg 1/day.,512,True,Medication: Chlorthalidone 25mg 1/day. 
+C0439228,Day,day,-812,-791,Chlorthalidone 25mg 1/day.,512,True,Medication: Chlorthalidone 25mg 1/day. 
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-694,-804,Lisinopril 10 mg 1/day Allergies,539,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0439228,Day,day,-632,-804,Lisinopril 10 mg 1/day Allergies,539,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0020517,Allergies,Hypersensitivity,-799,-804,Lisinopril 10 mg 1/day Allergies,539,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C1428412,FHX,FOXJ2 gene,-1000,-1000,None FHx,573,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0015671,FATHER,Father (person),-1000,-1000,Father,583,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C1306577,Died,Death (finding),-790,-746,died of MI,590,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0683474,MI,Motivational Interviewing,-790,-746,died of MI,590,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C1707433,CAD,Collision-Induced Dissociation,-1000,-1000,CAD,617,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0741847,Bypass,Bypass,-1000,-1000,bypass.,635,True,"Lisinopril 10 mg 1/day Allergies: None FHx: Father died of MI in his 40s, had CAD and underwent bypass. "
+C0026591,MOTHER,Mother (person),-694,-888,"Mother HTN,",643,True,"Mother HTN, T2DM, died of pulmonary embolism. "
+C0020538,HTN,Hypertensive disease,-861,-888,"Mother HTN,",643,True,"Mother HTN, T2DM, died of pulmonary embolism. "
+C1306577,Died,Death (finding),-770,-783,died of pulmonary embolism.,661,True,"Mother HTN, T2DM, died of pulmonary embolism. "
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-833,-783,died of pulmonary embolism.,661,True,"Mother HTN, T2DM, died of pulmonary embolism. "
+C0043227,works,Work,-1000,-1000,Works,694,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0006909,Capital,Capital,-770,-722,"IT at capital one,",700,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0205447,ONE,One,-770,-722,"IT at capital one,",700,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0037369,smokes,Smoking,-1000,-1000,smokes,719,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C4687960,2 OF 3,Severity Two Out of Three,-668,-875,2-3 glasses of wine,732,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0015421,Glasses,Eyeglasses,-760,-875,2-3 glasses of wine,732,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0043188,WINE,Wine,-593,-875,2-3 glasses of wine,732,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0680190,weekends,Weekend,-1000,-1000,"on weekends,",752,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C0439861,Substances,Substance,-1000,-1000,other substances.,768,True,"SHx: Works IT at capital one, smokes 1ppd, 2-3 glasses of wine on weekends, no other substances.   "
+C1571702,Objective,Objective observation,-1000,-1000,Objective,788,True,"Objective: Vitals 98.0F, 85, 14, 150/92. "
+C0442732,Vital,Vital (qualifier value),-589,-587,"Vitals 98.0F,",799,True,"Objective: Vitals 98.0F, 85, 14, 150/92. "
+C4319627,98,98,-660,-587,"Vitals 98.0F,",799,True,"Objective: Vitals 98.0F, 85, 14, 150/92. "
+C4517892,85,85,-1000,-1000,"85,",813,True,"Objective: Vitals 98.0F, 85, 14, 150/92. "
+C0205246,General,Generalized,-1000,-1000,General,829,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0205170,Well,Good,-861,-872,"well appearing,",838,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0700364,APPEAR,Appearance,-827,-872,"well appearing,",838,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0205178,ACUTE,acute,-660,-851,no acute distress CV,854,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0231303,Distress,Distress,-660,-851,no acute distress CV,854,False,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C4318503,CV,ciliary vesicle,-827,-851,no acute distress CV,854,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"no murmurs,",881,False,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,893,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1527305,feels,Feelings,-928,-928,palpated,897,False,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C4068815,5th intercostal space,5th intercostal space,-717,-875,5th intercostal space midclavicular Labs,906,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0442127,Midclavicular,Midclavicular,-637,-875,5th intercostal space midclavicular Labs,906,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0587081,Labs,Laboratory test finding,-804,-875,5th intercostal space midclavicular Labs,906,False,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1516048,Assessment,Assessed,-1000,-1000,None  Assessment,948,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C3846401,M & Y,M & Y,-600,-673,46 y/o M w/PMH of HTN,966,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0262926,PMH,Medical History,-744,-673,46 y/o M w/PMH of HTN,966,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0020538,HTN,Hypertensive disease,-578,-673,46 y/o M w/PMH of HTN,966,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1428412,FHX,FOXJ2 gene,-790,-746,"FHx of MI,",992,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0683474,MI,Motivational Interviewing,-623,-746,"FHx of MI,",992,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1707433,CAD,Collision-Induced Dissociation,-1000,-1000,CAD,1003,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0150312,PRESENT,Present,-790,-746,presents to clinic,1007,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0002424,Clinic,Ambulatory Care Facilities,-790,-746,presents to clinic,1007,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C1455761,Episodic,Episodic,-645,-916,with episodic exertional chest pain,1026,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0232288,"Chest pain, exertional",Chest pain on exertion,-923,-916,with episodic exertional chest pain,1026,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0332281,Associated with,Associated with,-882,-901,associated with lightheadedness.,1062,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0012833,Lightheadedness,Dizziness,-790,-901,associated with lightheadedness.,1062,True,"General: well appearing, no acute distress CV: RRR, no murmurs, PMI palpated 5th intercostal space midclavicular Labs: None  Assessment: 46 y/o M w/PMH of HTN and FHx of MI, CAD presents to clinic with episodic exertional chest pain associated with lightheadedness. "
+C0750501,most likely,most likely,-734,-901,Most likely differential,1095,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0443199,Differential,Differential quality,-827,-901,Most likely differential,1095,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0002962,ANGINA PECTORIS,Angina Pectoris,-770,-840,"angina pectoris due to episodic exertional chest pain,",1123,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0678226,Due To,Due to,-604,-840,"angina pectoris due to episodic exertional chest pain,",1123,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C1455761,Episodic,Episodic,-578,-840,"angina pectoris due to episodic exertional chest pain,",1123,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0232288,"Chest pain, exertional",Chest pain on exertion,-633,-840,"angina pectoris due to episodic exertional chest pain,",1123,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",1178,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C1428412,FHX,FOXJ2 gene,-770,-772,FHx of cardiac conditions.,1187,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0018799,Cardiac condition,Heart Diseases,-650,-772,FHx of cardiac conditions.,1187,True,"Most likely differential is angina pectoris due to episodic exertional chest pain, HTN, and FHx of cardiac conditions. "
+C0443199,Differential,Differential quality,-694,-888,Other differential considerations,1214,True,Other differential considerations could include arrhythmia or cardiomyopathy.  
+C0518609,considerations,Consideration,-861,-888,Other differential considerations,1214,True,Other differential considerations could include arrhythmia or cardiomyopathy.  
+C2700399,Include,Include (action),-1000,-1000,include,1254,True,Other differential considerations could include arrhythmia or cardiomyopathy.  
+C0003811,Arrythmia,Cardiac Arrhythmia,-1000,-1000,arrhythmia,1262,True,Other differential considerations could include arrhythmia or cardiomyopathy.  
+C0878544,CARDIOMYOPATHY,Cardiomyopathies,-1000,-1000,cardiomyopathy.,1276,True,Other differential considerations could include arrhythmia or cardiomyopathy.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1293,True,Plan: 1. 
+C2827734,1+,1+ Score,-1000,-1000,1.,1299,True,Plan: 1. 
+C1301820,Obtain,Obtain,-1000,-1000,Obtain,1302,True,"Obtain EKG, CBC, CMP, troponins 2. "
+C1623258,EKG,Electrocardiography,-1000,-1000,"EKG,",1309,True,"Obtain EKG, CBC, CMP, troponins 2. "
+C0009555,CBC,Complete Blood Count,-1000,-1000,"CBC,",1314,True,"Obtain EKG, CBC, CMP, troponins 2. "
+C0519825,CMP,Comprehensive Metabolic Panel,-1000,-1000,"CMP,",1319,True,"Obtain EKG, CBC, CMP, troponins 2. "
+C0041199,Troponins,Troponin,-861,-861,troponins 2.,1324,True,"Obtain EKG, CBC, CMP, troponins 2. "
+C2362652,Possibly,Possible diagnosis,-1000,-1000,Possibly,1337,True,Possibly order cardiac stress test. 
+C1705178,Order,Order (action),-1000,-1000,order,1346,True,Possibly order cardiac stress test. 
+C0015260,cardiac stress test,Exercise stress test,-1000,-1000,cardiac stress test.,1352,True,Possibly order cardiac stress test. 
+C0439086,<3,<3 (qualifier value),-1000,-1000,3.,1373,True,3. 
+C1623258,EKG,Electrocardiography,-790,-790,Reassess after EKG,1376,True,Reassess after EKG and lab results obtained.  
+C0022877,Lab,Laboratory,-694,-872,lab results,1399,True,Reassess after EKG and lab results obtained.  
+C1546471,Result,What subject filter - Result,-827,-872,lab results,1399,True,Reassess after EKG and lab results obtained.  
+C1301820,Obtained,Obtain,-1000,-1000,obtained.,1411,True,Reassess after EKG and lab results obtained.  
+C3838679,4+,4+ Answer to question,-1000,-1000,4.,1422,True,4. 
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-760,-745,medications such as beta blockers.,1439,True,May prescribe medications such as beta blockers. 
+C0001645,Beta blockers,Adrenergic beta-Antagonists,-640,-745,medications such as beta blockers.,1439,True,May prescribe medications such as beta blockers. 
+C0439084,>5,>5,-1000,-1000,5.,1474,True,5. 
+C0178602,Dosage,Dosage,-770,-783,dosage of anti-hypertensives,1488,True,May adjust dosage of anti-hypertensives given BP of 150/92
+C0003364,Anti-Hypertensives,Antihypertensive Agents,-666,-783,dosage of anti-hypertensives,1488,True,May adjust dosage of anti-hypertensives given BP of 150/92
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1517,True,May adjust dosage of anti-hypertensives given BP of 150/92
+C1415692,Bp,HP gene,-770,-770,BP of 150/92,1523,True,May adjust dosage of anti-hypertensives given BP of 150/92

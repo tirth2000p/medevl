@@ -1,0 +1,601 @@
+Processing 46_Cage.txt.tx.1: HPI: Middle-aged M w/ hx of HTN present for acute episode of chest pain 3 days ago. 
+
+Phrase: HPI
+
+Phrase: :
+
+Phrase: Middle-aged M w/ hx of HTN present
+Meta Mapping (698):
+   604   C0205847:Middle Aged [Age Group]
+   578   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   744   C0262926:Hx (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   578   C0150312:PRESENT (Present) [Finding]
+
+Phrase: for acute episode of chest pain 3 days ago.
+Meta Mapping (793):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   617   C0522051:Acute chest pain [Sign or Symptom]
+   764   C0332189:Episode of [Temporal Concept]
+   578   C3842675:Day 3 [Finding]
+Processing 46_Cage.txt.tx.2: Pt reports that while doing some heavy lifting carrying water jugs he began to have chest pain in the center of his chest that felt like "he got the wind knocked out of him", requiring him to have to drop what he was carrying and sit down to catch his breath. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: while
+
+Phrase: doing
+
+Phrase: some heavy lifting carrying water jugs
+Meta Mapping (833):
+   708   C0011745:Heavy Water (Deuterium Oxide) [Inorganic Chemical]
+   637   C0206244:Lifting [Activity]
+   637   C0206243:Carrying [Activity]
+   771   C1881295:JUG (Jug Dosing Unit) [Quantitative Concept]
+
+Phrase: he
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: have
+
+Phrase: chest pain in the center of his chest
+Meta Mapping (767):
+   802   C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   578   C0205099:Centre (Central) [Spatial Concept]
+   578   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+
+Phrase: that felt like "
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: he
+
+Phrase: got
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: knocked out of him",
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: requiring
+
+Phrase: him
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: have
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: what he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: and
+
+Phrase: sit down
+Meta Mapping (861):
+   861   C0728713:sit (Does sit) [Finding]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: catch
+Meta Mapping (1000):
+  1000   C0231617:Catch (Catch - Finding of sensory dimension of pain) [Sign or Symptom]
+
+Phrase: his breath.
+Meta Mapping (1000):
+  1000   C0225386:Breath [Body Substance]
+Processing 46_Cage.txt.tx.3: He says this episode of chest pain lasted for a few seconds and was associated with lightheadedness. 
+
+Phrase: He
+
+Phrase: says
+
+Phrase: this episode of chest pain
+Meta Mapping (858):
+   593   C1080058:This (This (eukaryote)) [Eukaryote]
+   760   C0332189:EPISODE (Episode of) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: lasted for a few seconds
+Meta Mapping (669):
+   726   C1517741:Last [Qualitative Concept]
+   760   C0457385:Seconds (seconds) [Temporal Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 46_Cage.txt.tx.4: He denies any SOB, palpitations, dizziness, or vision changes during the episode. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vision
+Meta Mapping (1000):
+  1000   C2707266:Vision (Vision:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: changes during the episode.
+Meta Mapping (708):
+   770   C0392747:changes (Changing) [Functional Concept]
+   770   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 46_Cage.txt.tx.5: Pt also denies any recent illnesses or fevers. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: also
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any recent illnesses
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861 N C0221423:illnesses (Illness (finding)) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: fevers.
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+Processing 46_Cage.txt.tx.6: Pt reports that he has had a few minor episodes of chest pain on exertion for the past 4 months however they are typically less painful and do not last as long as this most recent episode 3 days ago. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: a few minor episodes of chest pain
+Meta Mapping (756):
+   581   C0205165:Minor (Minor (value)) [Qualitative Concept]
+   748   C0332189:Episodes (Episode of) [Temporal Concept]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion for the past 4 months however
+Meta Mapping (668):
+   578   C1720294:On (On (qualifier value)) [Intellectual Product]
+   744   C0015264:Exertion [Organism Function]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: they
+
+Phrase: are
+
+Phrase: typically less painful
+Meta Mapping (827):
+   827   C0030193:Painful (Pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: last as long
+Meta Mapping (746):
+   790   C1517741:Last [Qualitative Concept]
+   790   C0205166:LONG (Long) [Qualitative Concept]
+
+Phrase: as this most recent episode 3 days ago.
+Meta Mapping (817):
+   694   C1513491:Most Recent episode (Most Recent) [Temporal Concept]
+   799   C0439228:DAYS (day) [Temporal Concept]
+Processing 46_Cage.txt.tx.7: Of note, pt also complains of epigastric/lower central chest pain after eating large meals. 
+
+Phrase: Of note,
+Meta Mapping (1000):
+  1000   C1317574:Note (Note (document)) [Intellectual Product]
+
+Phrase: pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: also
+
+Phrase: complains of epigastric/lower central chest pain
+Meta Mapping (784):
+   748   C0521440:Epigastric [Body Location or Region]
+   748   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+   748   C1879652:Central - (Central Minus) [Laboratory Procedure]
+   772   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: after eating large meals.
+Meta Mapping (851):
+   660   C0013470:Eating [Organism Function]
+   660   C0549177:LARGE (Large) [Quantitative Concept]
+   827   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 46_Cage.txt.tx.8: He denies any sore throat or reflux symptoms. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any sore throat
+Meta Mapping (1000):
+  1000 N C0031350:Sore Throat (Pharyngitis) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000 N C0242429:SORETHROAT (Sore Throat) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: reflux symptoms.
+Meta Mapping (1000):
+  1000 N C0744318:reflux SYMPTOMS (Acid reflux SYMPTOMS) [Sign or Symptom]
+Processing 46_Cage.txt.tx.9: Meds: chlorthalidone, lisinopril Allergies: none MHx: HTN (2017) Surg Hx: none FHx: dad- MI at 40 requiring bypass, mom- HTN, T2DM, PE; MGM- breast cancer SHx: computer job at Capital one. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril Allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none MHx
+
+Phrase: :
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: (2017
+
+Phrase: )
+
+Phrase: Surg Hx
+Meta Mapping (888):
+   694   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: none FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: dad- MI at 40 requiring bypass,
+Meta Mapping (685):
+   586   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C3842587:40% [Quantitative Concept]
+   586   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: mom- HTN,
+Meta Mapping (888):
+   694   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: ; MGM- breast cancer SHx
+Meta Mapping (694):
+   694   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+
+Phrase: :
+
+Phrase: computer job at Capital one.
+Meta Mapping (752):
+   806   C2826594:Computer Job [Machine Activity]
+   593   C0006909:Capital [Quantitative Concept]
+   593   C0205447:ONE (One) [Quantitative Concept]
+Processing 46_Cage.txt.tx.10: Drinks 2-3 glasses of wine on weekends. 
+
+Phrase: Drinks 2-3 glasses of wine
+Meta Mapping (716):
+   617   C0425332:Drinks wine [Finding]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+
+Phrase: on weekends.
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+Processing 46_Cage.txt.tx.11: Smokes cigarettes 1ppd for past 20 years. 
+
+Phrase: Smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: cigarettes 1ppd for past 20 years.
+Meta Mapping (558):
+   586   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+   586   C1444637:Past (In the past) [Temporal Concept]
+   623   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+Processing 46_Cage.txt.tx.12: Denies drug use. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: drug use.
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+Processing 46_Cage.txt.tx.13: Vitals: T 98F, P 85, BP 150/92, R 14 Physical Exam: Cardiac and lung exam WNL, good perfusion to extremities. 
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T 98F,
+Meta Mapping (694):
+   694   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: R 14 Physical Exam
+Meta Mapping (824):
+   645   C0205090:R- (Right) [Spatial Concept]
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: lung exam WNL, good perfusion to extremities.
+Meta Mapping (683):
+   581   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   581   C0582103:Exam (Medical Examination) [Health Care Activity]
+   581   C0205170:Good [Qualitative Concept]
+   748   C0031001:Perfusion (Perfusion (procedure)) [Therapeutic or Preventive Procedure]
+   581   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+Meta Mapping (683):
+   581   C0582103:Exam (Medical Examination) [Health Care Activity]
+   581   C0205170:Good [Qualitative Concept]
+   748   C0031001:Perfusion (Perfusion (procedure)) [Therapeutic or Preventive Procedure]
+   561   C0225703:apex lung (Structure of apex of lung) [Body Location or Region]
+Processing 46_Cage.txt.tx.14: No TTP of chest wall. 
+
+Phrase: No TTP of chest wall.
+Meta Mapping (752):
+   593   C1518422:No (Negation) [Functional Concept]
+   760   C1506603:TTP (ZFP36 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   640   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+Processing 46_Cage.txt.tx.15: Abdomen soft, nontender. 
+
+Phrase: Abdomen soft, nontender.
+Meta Mapping (851):
+   660   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+   660   C0205358:Soft [Qualitative Concept]
+   827   C0520960:Nontender (Non-tender) [Qualitative Concept]
+Processing 46_Cage.txt.tx.16: Abd nontender in all 4 quadrants. 
+
+Phrase: Abd
+Meta Mapping (1000):
+  1000   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: nontender in all 4 quadrants.
+Meta Mapping (669):
+   760   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   560   C1631280:Quadrant [Spatial Concept]
+Processing 46_Cage.txt.tx.17: No cervical lymphadenopathy, no thyromegaly. 
+
+Phrase: No cervical lymphadenopathy,
+Meta Mapping (1000):
+  1000 N C0235592:Cervical Lymphadenopathy (Cervical lymphadenopathy) [Disease or Syndrome]
+
+Phrase: no thyromegaly.
+Meta Mapping (1000):
+  1000 N C0018021:THYROMEGALY (Goiter) [Disease or Syndrome]
+Processing 46_Cage.txt.tx.18: Assessment: Middle-aged M w/ hx HTN presenting for acute onset of chest pain with exertion. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Middle-aged M w/ hx HTN presenting for acute onset of chest pain
+Meta Mapping (701):
+   584   C0206132:Age of Onset [Quantitative Concept]
+   569   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   569   C0262926:Hx (Medical History) [Finding]
+   569   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   735   C0449450:Presenting (Presentation) [Idea or Concept]
+   569   C0205178:ACUTE (acute) [Temporal Concept]
+   582   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+   569   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 46_Cage.txt.tx.19: Patient denies SOB, palpitations, dizziness, vision changes, or syncope during these episodes. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: vision changes,
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: or
+
+Phrase: syncope during these episodes.
+Meta Mapping (783):
+   783 N C0751534:Syncopal Episodes (Syncopal Episode) [Sign or Symptom]
+Processing 46_Cage.txt.tx.20: Vitals significant for HTN. 
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: significant for HTN.
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 46_Cage.txt.tx.21: Physical exam unremarkable. 
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: unremarkable.
+Meta Mapping (1000):
+  1000   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+Processing 46_Cage.txt.tx.22: Sigifnicant family hx of MI at 40yo in dad along with patient's hx of HTN raises suspicion for cardiac cause of symptoms. 
+
+Phrase: Sigifnicant family hx of MI
+Meta Mapping (696):
+   593   C0015576:Family [Family Group]
+   760   C0262926:Hx (Medical History) [Finding]
+   593   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at 40yo in dad
+Meta Mapping (541):
+   604   C0392970:AT (Doxorubicin/Docetaxel Regimen) [Therapeutic or Preventive Procedure]
+   604   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: along with patient's hx of HTN
+Meta Mapping (672):
+   753   C0262926:Hx (Medical History) [Finding]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: raises
+
+Phrase: suspicion for cardiac cause of symptoms.
+Meta Mapping (712):
+   753   C0242114:SUSPICION (Suspicion) [Mental Process]
+   623   C0741922:CARDIAC cause (CARDIAC causes) [Disease or Syndrome]
+   586   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Meta Mapping (712):
+   753   C0242114:SUSPICION (Suspicion) [Mental Process]
+   617   C0741933:cardiac symptoms (cardiac symptom) [Sign or Symptom]
+   586   C0015127:cause (Etiology aspects) [Functional Concept]
+Processing 46_Cage.txt.tx.23: Leading ddx includes CAD or cardiac ischemia with exertion.
+
+Phrase: Leading ddx
+Meta Mapping (888):
+   694   C1522538:Leading [Functional Concept]
+   861   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: or
+
+Phrase: cardiac ischemia with exertion.
+Meta Mapping (783):
+   833   C0151744:Cardiac ischemia (Myocardial Ischemia) [Disease or Syndrome]
+   604   C0015264:Exertion [Organism Function]

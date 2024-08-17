@@ -1,0 +1,573 @@
+Processing 133_Cage.txt.tx.1: S - 56 year old F with chronic HTN, presenting with hx of CP 3 days ago. 
+
+Phrase: S -
+
+Phrase: 56 year old F with chronic HTN,
+Meta Mapping (692):
+   581   C0439508:/Year (per year) [Temporal Concept]
+   581   C0580836:Old [Temporal Concept]
+   748   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   581   C0205191:CHRONIC (chronic) [Temporal Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: presenting with hx of CP 3 days ago.
+Meta Mapping (678):
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   744   C0262926:Hx (Medical History) [Finding]
+   744   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   750   C3842675:Day 3 [Finding]
+Processing 133_Cage.txt.tx.2: Started when she was carrying heavy groceries to car. 
+
+Phrase: Started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to car.
+Meta Mapping (541):
+   604   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 133_Cage.txt.tx.3: Described as deep pressure and ache in midsternal area lasting 5-10 minutes. 
+
+Phrase: Described as deep pressure
+Meta Mapping (733):
+   770   C1552738:described [Idea or Concept]
+   770   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   770   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: and
+
+Phrase: ache in midsternal area
+Meta Mapping (708):
+   770   C0234238:ACHE (Ache) [Sign or Symptom]
+   604   C0017446:Area (Geographic Locations) [Geographic Area]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes.
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+Processing 133_Cage.txt.tx.4: Associated with SOB and faintness. 
+
+Phrase: Associated with SOB
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: faintness.
+Meta Mapping (1000):
+  1000   C0039070:FAINTNESS (Syncope) [Sign or Symptom]
+Processing 133_Cage.txt.tx.5: No Radiation, or N/V at the time. 
+
+Phrase: No Radiation,
+Meta Mapping (1000):
+  1000   C0851346:Radiation [Natural Phenomenon or Process]
+
+Phrase: or
+
+Phrase: N/V at the time.
+Meta Mapping (520):
+   593   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   593   C0040223:TIME (Time) [Temporal Concept]
+Processing 133_Cage.txt.tx.6: She has had minor chest pain happen over the last 4 months but not this severe. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: minor chest pain
+Meta Mapping (901):
+   660   C0026193:Minor (Minor (person)) [Population Group]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: happen over the last 4 months
+Meta Mapping (672):
+   753   C1709305:Happen (Occur (action)) [Activity]
+   753   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: but
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: this severe.
+Meta Mapping (1000):
+  1000 N C0205082:Severe (Severe (severity modifier)) [Finding]
+Processing 133_Cage.txt.tx.7: She is worried that this is a heart attack given FMHX of father with bypass at 40 with heart attack as cause of death, and mother with PE and DM. 
+
+Phrase: She
+
+Phrase: is
+
+Phrase: worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: that
+
+Phrase: this
+
+Phrase: is
+
+Phrase: a heart attack given FMHX of father
+Meta Mapping (539):
+   612   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with bypass at 40
+Meta Mapping (733):
+   604   C0332287:With (In addition to) [Functional Concept]
+   770   C0741847:Bypass [Therapeutic or Preventive Procedure]
+   604   C0439509:/40 [Quantitative Concept]
+
+Phrase: with heart attack as cause of death,
+Meta Mapping (770):
+   581   C0332287:With (In addition to) [Functional Concept]
+   778   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   647   C0007465:Cause of Death [Finding]
+
+Phrase: and
+
+Phrase: mother with PE
+Meta Mapping (746):
+   790   C0026591:MOTHER (Mother (person)) [Family Group]
+   623   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: and
+
+Phrase: DM.
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+Processing 133_Cage.txt.tx.8: Uses alcohol 4-6 glasses wine/week, Tobacco - 30py (1ppdx30yrs) Meds - lisinopril and chlorthalidone Allergies - NKDA  O - 98F, 85bpm, 14resp, 150/92 Gen - NAD, appears stated age Pulm - CTAB, no wheezes, on RA, no barrel chest CV - RRR, no murmurs appreciated, peripheral pulses 2+ b/l, chest is nontender to light and deep palpation Extremities - no LEE appreciated b/l neuro - No focal deficit, moves extremities spontaneously   A - 56 year old female with history of HTN presenting with reported chest pain 3 days ago. 
+
+Phrase: Uses
+Meta Mapping (1000):
+  1000   C0457083:uses (Usage) [Functional Concept]
+
+Phrase: alcohol 4-6 glasses wine/week,
+Meta Mapping (753):
+   632   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+   632   C0015421:Glasses (Eyeglasses) [Medical Device]
+   632   C0043188:WINE (Wine) [Food]
+   799   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: Tobacco - 30py
+Meta Mapping (694):
+   694   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: (1ppdx30yrs
+
+Phrase: )
+
+Phrase: Meds - lisinopril
+Meta Mapping (888):
+   694   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone Allergies - NKDA  O - 98F,
+Meta Mapping (656):
+   656   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+
+Phrase: 85bpm,
+
+Phrase: 14resp,
+
+Phrase: 150/92 Gen - NAD,
+Meta Mapping (750):
+   645   C2239486:Gen (GEN1 gene) [Gene or Genome]
+   812   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: stated age Pulm - CTAB,
+Meta Mapping (833):
+   645   C1301808:stated (Geographic state) [Geographic Area]
+   645   C0001779:AGE (Age) [Organism Attribute]
+   645   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   812   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no wheezes,
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: on RA,
+Meta Mapping (1000):
+  1000   C3538806:Ra (Axial R) [Spatial Concept]
+
+Phrase: no barrel chest CV - RRR,
+Meta Mapping (658):
+   694 N C0264172:Barrel chest [Finding]
+   645   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: appreciated
+
+Phrase: ,
+
+Phrase: peripheral pulses 2+ b/l,
+Meta Mapping (673):
+   673   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+
+Phrase: chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: is
+
+Phrase: nontender to light
+Meta Mapping (746):
+   790   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   623   C0023693:Light [Natural Phenomenon or Process]
+
+Phrase: and
+
+Phrase: deep palpation Extremities -
+Meta Mapping (901):
+   734   C0278328:Deep palpation [Diagnostic Procedure]
+   827   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: no LEE appreciated b/l
+
+Phrase: neuro -
+Meta Mapping (1000):
+  1000   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: No focal deficit,
+Meta Mapping (888):
+   694   C0205234:FOCAL (Focal) [Spatial Concept]
+   861 N C0162429:Deficit, NOS (Malnutrition) [Disease or Syndrome]
+
+Phrase: moves
+Meta Mapping (1000):
+  1000   C1299988:move (Moved to) [Functional Concept]
+
+Phrase: extremities spontaneously
+Meta Mapping (861):
+   861   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: A - 56 year old female with history of HTN presenting
+Meta Mapping (652):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C0043210:female (Woman) [Population Group]
+   573   C0262926:History (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with reported chest pain 3 days ago.
+Meta Mapping (762):
+   632   C0700287:Reported (Reporting) [Health Care Activity]
+   660   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   799   C0439228:DAYS (day) [Temporal Concept]
+Processing 133_Cage.txt.tx.9: On presentation, pt is hypertensive at 150/92 despite taking her BP meds. 
+
+Phrase: On presentation,
+Meta Mapping (1000):
+  1000   C0449450:Presentation [Idea or Concept]
+
+Phrase: pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: hypertensive at 150/92
+Meta Mapping (770):
+   770   C0857121:hypertensive (Hypertensive (finding)) [Finding]
+
+Phrase: despite taking
+
+Phrase: her BP meds.
+Meta Mapping (888):
+   694   C1708288:BP (HP wt Allele) [Gene or Genome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+Processing 133_Cage.txt.tx.10: She has many risk factors for CV events including tobacco use and alcohol use as well as sedentary job and family history. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: many risk factors for CV events
+Meta Mapping (741):
+   586   C0439064:MANY (Numerous) [Quantitative Concept]
+   790   C0035648:Risk Factors (risk factors) [Finding]
+   586   C4318503:CV (ciliary vesicle) [Cell Component]
+   586   C0441471:Events (Event) [Event]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: tobacco use
+Meta Mapping (1000):
+  1000   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+
+Phrase: and
+
+Phrase: alcohol use
+Meta Mapping (1000):
+  1000   C0001948:ALCOHOL USE (Alcohol consumption) [Individual Behavior]
+
+Phrase: as well as
+
+Phrase: sedentary job
+Meta Mapping (1000):
+  1000   C0425114:Sedentary job [Finding]
+
+Phrase: and
+
+Phrase: family history.
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+Processing 133_Cage.txt.tx.11: Most likely dx is STEMI/NSTEMI, but other dx include angina pectoris due to exertional nature of pain relieved with rest. 
+
+Phrase: Most likely dx
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C4761408:DX (Dongxiang Chinese) [Population Group]
+
+Phrase: is
+
+Phrase: STEMI/NSTEMI,
+Meta Mapping (888):
+   694   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+   861   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: other dx
+Meta Mapping (1000):
+  1000   C4761408:DX (Dongxiang Chinese) [Population Group]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: angina pectoris due to exertional nature of pain
+Meta Mapping (769):
+   770   C0002962:ANGINA PECTORIS (Angina Pectoris) [Sign or Symptom]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   600   C1518852:Pain Nature [Clinical Attribute]
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 133_Cage.txt.tx.12: Also need to include costochondritis on differential, but less likely given not TTP  Plan-  CP: Needs stat EKG, CEs. 
+
+Phrase: Also
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: costochondritis on differential,
+Meta Mapping (746):
+   790   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+   623   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: less
+Meta Mapping (1000):
+  1000   C0439092:Less (Less Than) [Quantitative Concept]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: not TTP  Plan-  CP
+Meta Mapping (833):
+   645   C1518422:Not (Negation) [Functional Concept]
+   645   C1506603:TTP (ZFP36 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   645   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   812   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Needs
+Meta Mapping (1000):
+  1000   C0027552:Needs [Qualitative Concept]
+
+Phrase: stat EKG,
+Meta Mapping (888):
+   694   C0205548:STAT (Stat (do immediately)) [Temporal Concept]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CEs.
+Meta Mapping (1000):
+  1000 N C0265493:CES (Cat eye syndrome) [Disease or Syndrome]
+Processing 133_Cage.txt.tx.13: Other labs - BMP, LFT, TGs. 
+
+Phrase: Other labs - BMP,
+Meta Mapping (888):
+   694   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+   861   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: LFT,
+Meta Mapping (1000):
+  1000   C0023901:LFT (Liver Function Tests) [Laboratory Procedure]
+
+Phrase: TGs.
+Meta Mapping (1000):
+  1000   C1156212:TGS (chromatin silencing) [Genetic Function]
+Processing 133_Cage.txt.tx.14: Suggest cards referral for stress testing. 
+
+Phrase: Suggest
+Meta Mapping (1000):
+  1000   C1705535:Suggest (suggestion) [Idea or Concept]
+
+Phrase: cards referral for stress testing.
+Meta Mapping (743):
+   560   C0007189:Card (Cardiology discipline) [Biomedical Occupation or Discipline]
+   760   C0034927:Referral (Patient referral) [Health Care Activity]
+   640   C0015260:stress testing (Exercise stress test) [Diagnostic Procedure]
+Processing 133_Cage.txt.tx.15: Rx sent for high intensity statin. 
+
+Phrase: Rx
+Meta Mapping (1000):
+  1000   C2709207:Rx (Rx therapy) [Therapeutic or Preventive Procedure]
+
+Phrase: sent for high intensity statin.
+Meta Mapping (761):
+   760   C1519246:Sent (Send (transmission)) [Functional Concept]
+   806   C4081854:High intensity [Qualitative Concept]
+   760   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+Processing 133_Cage.txt.tx.16: PCP advised on presentation. 
+
+Phrase: PCP
+Meta Mapping (1000):
+  1000   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: advised on presentation.
+Meta Mapping (790):
+   790   C0449450:Presentation [Idea or Concept]
+Processing 133_Cage.txt.tx.17: Pt should go to ER if symptoms worsen or recur. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: should
+
+Phrase: go to ER
+Meta Mapping (746):
+   790   C1822658:GO (GORAB gene) [Gene or Genome]
+   790   C3811131:ER (Estrogen Receptor Measurement) [Laboratory Procedure]
+
+Phrase: if
+
+Phrase: symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: worsen
+Meta Mapping (1000):
+  1000   C1457868:worsen (Worse) [Finding]
+
+Phrase: or
+
+Phrase: recur.
+Meta Mapping (1000):
+  1000   C0034897:recur (Recurrence) [Phenomenon or Process]
+Processing 133_Cage.txt.tx.18: Pt should be advised on heart health diet (DASH) tobacco use: advised on importance of quitting, will set up f/u appointment to discuss options after immediate evaluation of presenting complaint. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: should
+
+Phrase: be
+
+Phrase: advised on heart health diet
+Meta Mapping (739):
+   760   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   770   C0452415:Diet, Healthy [Finding]
+
+Phrase: (DASH
+Meta Mapping (1000):
+  1000   C2827624:DASH (Disabilities of the Arm Shoulder and Hand Outcome Measure) [Intellectual Product]
+
+Phrase: )
+
+Phrase: tobacco use
+Meta Mapping (1000):
+  1000   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+
+Phrase: :
+
+Phrase: advised on importance of quitting,
+Meta Mapping (650):
+   688   C4084912:Important (Importance Rating Score 0) [Intellectual Product]
+   760   C0748223:quitting (QUIT) [Idea or Concept]
+
+Phrase: will
+
+Phrase: set up f/u appointment
+Meta Mapping (840):
+   673   C1521827:Set Up (Preparation) [Activity]
+   637   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   637   C0439148:{U} (Unit) [Quantitative Concept]
+   804   C0003629:Appointment (Appointments) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: options after immediate evaluation of presenting complaint.
+Meta Mapping (701):
+   748   C1518601:Options [Functional Concept]
+   581   C0205548:Immediate (Stat (do immediately)) [Temporal Concept]
+   581   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   612   C0277786:Presenting Complaint (Chief complaint (finding)) [Finding]
+Processing 133_Cage.txt.tx.19: Pt is amenable
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: amenable
+Meta Mapping (1000):
+  1000   C3900053:Amenable [Qualitative Concept]

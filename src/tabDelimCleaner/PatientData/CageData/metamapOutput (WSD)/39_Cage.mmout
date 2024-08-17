@@ -1,0 +1,500 @@
+Processing 39_Cage.txt.tx.1: S: Ms. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C0565930:/s (per second) [Temporal Concept]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 39_Cage.txt.tx.2: Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with PMHx of hypertension
+Meta Mapping (656):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   578   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: controlled with chothadilone
+Meta Mapping (790):
+   790   C2587213:Controlled (Control function) [Functional Concept]
+
+Phrase: and
+
+Phrase: lissinopril
+
+Phrase: who
+
+Phrase: presents with chest pain.
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 39_Cage.txt.tx.3: The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: sudden onset
+Meta Mapping (1000):
+  1000   C1272517:Sudden onset (Sudden onset (contextual qualifier) (qualifier value)) [Intellectual Product]
+
+Phrase: after
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: some heavy groceries 3 days ago.
+Meta Mapping (764):
+   637   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   804   C0439228:DAYS (day) [Temporal Concept]
+Processing 39_Cage.txt.tx.4: It lasted 5-10 minutes and did not recur since then. 
+
+Phrase: It
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: recur
+Meta Mapping (1000):
+  1000   C0034897:recur (Recurrence) [Phenomenon or Process]
+
+Phrase: since then.
+Meta Mapping (888):
+   861   C1711239:Since [Temporal Concept]
+   861   C1883708:Then [Temporal Concept]
+Processing 39_Cage.txt.tx.5: Pain did not radiated. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiated.
+Meta Mapping (1000):
+  1000   C0332301:radiated (Radiating to) [Functional Concept]
+Processing 39_Cage.txt.tx.6: Localized in midsternal chest area. 
+
+Phrase: Localized in midsternal chest area.
+Meta Mapping (727):
+   760   C0392752:LOCALIZED (Localized) [Spatial Concept]
+   778   C1456858:Thoracic area (Subdivision of thorax) [Body Location or Region]
+Processing 39_Cage.txt.tx.7: When it happend, she felt like it took her breath away and felt like fainting. 
+
+Phrase: When
+
+Phrase: it happend,
+
+Phrase: she felt like
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: it
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: felt like fainting.
+Meta Mapping (896):
+   896   C0581879:Felt faint [Sign or Symptom]
+Processing 39_Cage.txt.tx.8: Resting made pain subside. 
+
+Phrase: Resting
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: made pain
+Meta Mapping (872):
+   661   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+   861   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subside.
+Processing 39_Cage.txt.tx.9: Rated pain 7/10 when it happende. 
+
+Phrase: Rated pain 7/10
+Meta Mapping (775):
+   812   C0871208:Rated (Rating (action)) [Activity]
+   812   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   812   C3842590:10% [Quantitative Concept]
+
+Phrase: when
+
+Phrase: it happende.
+Processing 39_Cage.txt.tx.10: Denies F/C/N/V. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: F/C/N/V.
+Meta Mapping (645):
+   645   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+Processing 39_Cage.txt.tx.11: Denies illicit drug use. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: illicit drug use.
+Meta Mapping (1000):
+  1000 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+Processing 39_Cage.txt.tx.12: Smoke 1 pack of cig/ day. 
+
+Phrase: Smoke 1 pack of cig/ day.
+Meta Mapping (741):
+   586   C0037366:Smoke [Hazardous or Poisonous Substance]
+   753   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   586   C1570610:CIG (FN1 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   617   C1442449:Day 1 (1 Day) [Temporal Concept]
+Processing 39_Cage.txt.tx.13: Not drinks alcohol. 
+
+Phrase: Not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000 N C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: alcohol.
+Meta Mapping (1000):
+  1000   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+Processing 39_Cage.txt.tx.14: No recent trauma or falls. 
+
+Phrase: No recent trauma
+Meta Mapping (1000):
+  1000 N C0332665:Recent trauma (Recent injury) [Injury or Poisoning]
+
+Phrase: or
+
+Phrase: falls.
+Meta Mapping (1000):
+  1000 N C0085639:FALLS (Falls) [Finding]
+Processing 39_Cage.txt.tx.15: No previous MI, CAD. 
+
+Phrase: No previous MI,
+Meta Mapping (888):
+   694   C0205156:Previous [Temporal Concept]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CAD.
+Meta Mapping (1000):
+  1000   C0574547:CAD (Caddo language) [Language]
+Processing 39_Cage.txt.tx.16: Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. 
+
+Phrase: Normal cholesterol,
+Meta Mapping (1000):
+  1000   C0858309:Normal cholesterol (Normal total cholesterol) [Finding]
+
+Phrase: lipid panel  O
+Meta Mapping (734):
+   734   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: :
+
+Phrase: T = 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: HR
+
+Phrase: = 85,
+Meta Mapping (1000):
+  1000   C4517892:85 [Quantitative Concept]
+
+Phrase: RR
+
+Phrase: = 14,
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: = 150/92 Appearance
+Meta Mapping (827):
+   827   C0700364:Appearance [Qualitative Concept]
+
+Phrase: :
+
+Phrase: normal,
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: AND
+
+Phrase: ,
+
+Phrase: alert,
+Meta Mapping (1000):
+  1000   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: oriented MSK
+Meta Mapping (888):
+   694   C1961028:Oriented (Oriented to place) [Finding]
+   861   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no edema bilaterally.
+Meta Mapping (861):
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+Processing 39_Cage.txt.tx.17: Chest pain not reproducible upon palpation midline.  
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: not reproducible upon palpation midline.
+Meta Mapping (706):
+   593   C1518422:Not (Negation) [Functional Concept]
+   688   C1514863:Reproducibility [Qualitative Concept]
+   593   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   593   C1660780:midline (midline cell component) [Cell Component]
+Processing 39_Cage.txt.tx.18: Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. 
+
+Phrase: Heart
+Meta Mapping (1000):
+  1000   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: regular rhythm,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: no murmur  Lung
+Meta Mapping (888):
+   694 N C0018808:MURMUR (Heart murmur) [Finding]
+   861   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: clear, vesicular Skin
+Meta Mapping (851):
+   660 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   660   C0205378:Vesicular [Qualitative Concept]
+   827   C1123023:SKIN (Skin) [Body System]
+
+Phrase: :
+
+Phrase: warm, moist  AP
+Meta Mapping (851):
+   660 N C0582051:Warm (Feels warm) [Finding]
+   660   C0205381:Moist [Qualitative Concept]
+   827   C0002680:AP (ampicillin) [Antibiotic,Organic Chemical]
+
+Phrase: :
+
+Phrase: 55yo female,
+Meta Mapping (861):
+   861   C0086287:FEMALE (Females) [Organism Attribute]
+
+Phrase: PMHx of hypertension
+Meta Mapping (623):
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: controlled with  PMHx of hypertension
+Meta Mapping (797):
+   797   C0745117:hypertension controlled [Finding]
+
+Phrase: controlled with chothadilone
+Meta Mapping (790):
+   790   C2587213:Controlled (Control function) [Functional Concept]
+
+Phrase: and
+
+Phrase: lissinopril
+
+Phrase: who
+
+Phrase: presents with chest pain
+Meta Mapping (783):
+   770   C0150312:PRESENT (Present) [Finding]
+   833   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that started sudden onset
+Meta Mapping (901):
+   660   C1272689:Started [Qualitative Concept]
+   901   C1272517:Sudden onset (Sudden onset (contextual qualifier) (qualifier value)) [Intellectual Product]
+
+Phrase: and
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 10 minutes 3 days ago.
+Meta Mapping (798):
+   686   C1883310:10^3 (One Thousand) [Quantitative Concept]
+   637   C0702093:/minute (Per Minute) [Temporal Concept]
+   804   C0439228:DAYS (day) [Temporal Concept]
+Processing 39_Cage.txt.tx.19: PE significant for benign chest and lung exam. 
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: significant for benign chest
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C0205183:BENIGN (Benign) [Qualitative Concept]
+   604   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: and
+
+Phrase: lung exam.
+Meta Mapping (888):
+   694   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+Processing 39_Cage.txt.tx.20: No edema.  
+
+Phrase: No edema.
+Meta Mapping (1000):
+  1000 N C0013604:OEDEMA (Edema) [Pathologic Function]
+Processing 39_Cage.txt.tx.21: Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  
+
+Phrase: Ddx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1/ prinzmetal angina
+Meta Mapping (901):
+   660   C2827734:1+ (1+ Score) [Quantitative Concept]
+   901   C0002963:Angina, Prinzmetal (Angina Pectoris, Variant) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: sudden onset,
+Meta Mapping (1000):
+  1000   C1272517:Sudden onset (Sudden onset (contextual qualifier) (qualifier value)) [Intellectual Product]
+
+Phrase: subsided
+
+Phrase: quickly,
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: recurred. tx with calcium channel blocker  2/ costocondritis
+Meta Mapping (572):
+   578   C0034897:recurred (Recurrence) [Phenomenon or Process]
+   633   C0006684:Calcium Channel Blocker (Calcium Channel Blockers) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: MSK in nature. supportive
+Meta Mapping (733):
+   770   C1420279:msk (SIK1 gene) [Gene or Genome]
+   604   C1262865:Nature (Natures) [Functional Concept]
+   604   C1521721:Supportive (Supportive assistance) [Conceptual Entity]
+
+Phrase: when
+
+Phrase: it
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: again.
+Processing 39_Cage.txt.tx.22: 3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+
+Phrase: 3/ MI
+Meta Mapping (888):
+   694   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: atypical features in women. check troponin level.
+Meta Mapping (725):
+   581   C0205182:Atypical [Qualitative Concept]
+   748   C1521970:Features (Characteristics) [Qualitative Concept]
+   581   C0043210:Women (Woman) [Population Group]
+   581   C1283174:Check (Checking (action)) [Activity]
+   581   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   581   C1547707:Level (Floor - story of building) [Geographic Area]
+
+Phrase: if
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: -
+
+Phrase: -
+
+Phrase: > cardiac cath F/U
+Meta Mapping (775):
+   645   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   645   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   812   C0439148:{U} (Unit) [Quantitative Concept]
+
+Phrase: if
+
+Phrase: symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: recur
+Meta Mapping (1000):
+  1000   C0034897:recur (Recurrence) [Phenomenon or Process]
+
+Phrase: or
+
+Phrase: worsen
+Meta Mapping (1000):
+  1000   C1457868:worsen (Worse) [Finding]

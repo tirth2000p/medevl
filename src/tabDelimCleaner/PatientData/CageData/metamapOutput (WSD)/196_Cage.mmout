@@ -1,0 +1,467 @@
+Processing 196_Cage.txt.tx.1: Subjective:  - chest pain 3 days ago after lifting heavy groceries  - dull aching pressure in center of chest  - 7/10 on the pain scale  - associated symptoms of lightheadedness, no diaphoresis, syncope extremity edema.  
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :  -
+
+Phrase: chest pain 3 days ago
+Meta Mapping (790):
+   673   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: after
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy groceries  - dull
+Meta Mapping (802):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   827   C0278144:Dull (Dull pain) [Sign or Symptom]
+
+Phrase: aching
+Meta Mapping (1000):
+  1000   C0234238:Aching (Ache) [Sign or Symptom]
+
+Phrase: pressure in center of chest  - 7/10
+Meta Mapping (770):
+   804   C0438716:Pressure in chest (Chest pressure) [Sign or Symptom]
+   581   C0205099:Centre (Central) [Spatial Concept]
+   607   C5191365:10.7 [Quantitative Concept]
+
+Phrase: on the pain scale  - associated symptoms of lightheadedness,
+Meta Mapping (717):
+   578   C1720294:On (On (qualifier value)) [Intellectual Product]
+   604   C1504479:Pain scale [Intellectual Product]
+   770   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+   578   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: no diaphoresis,
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+
+Phrase: syncope extremity edema.
+Meta Mapping (901):
+   660 N C0039070:SYNCOPE (Syncope) [Sign or Symptom]
+   901 N C0085649:EXTREMITY EDEMA (Peripheral edema) [Pathologic Function]
+Processing 196_Cage.txt.tx.2: - Relieved with rest - Similar pain of less intensity over past 4 months  - Also experiencing epigastric pressure after heavy meals with no reflux, throat soreness, nausea or vomiting  - Sleeps on one pillow,   ROS: no SOB, lower extremity edema, headaches, visual changes, fevers, chills, rashes, dysuria,   PMH: hx of well controlled htn  ssh: none  hospitalizations: none  SH: cigarettes (pack  a day), 23 cups wine during week, no illegal drug use  FH: Dad: Mi in 40's, died from heart related issues at 72. 
+
+Phrase: -
+
+Phrase: Relieved with rest - Similar pain of less intensity
+Meta Mapping (756):
+   800   C0240889:RELIEVED WITH REST [Finding]
+   744   C2348205:Similar (Similarity) [Qualitative Concept]
+   767   C1320357:Pain intensity (Pain intensity (observable entity)) [Clinical Attribute]
+
+Phrase: over past 4 months  -
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: Also
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: epigastric pressure after heavy meals
+Meta Mapping (724):
+   593   C0521440:Epigastric [Body Location or Region]
+   760   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   593   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: with no reflux,
+Meta Mapping (1000):
+  1000 N C0232483:Reflux [Pathologic Function]
+
+Phrase: throat soreness,
+Meta Mapping (1000):
+  1000 N C0242429:Throat soreness (Sore Throat) [Sign or Symptom]
+
+Phrase: nausea
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vomiting  -
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: Sleeps on one pillow,
+Meta Mapping (733):
+   770   C0037313:sleeps (Sleep) [Organism Function]
+   770   C0205447:ONE (One) [Quantitative Concept]
+   770   C0182291:Pillow [Manufactured Object]
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: lower extremity edema,
+Meta Mapping (1000):
+  1000 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: visual changes,
+Meta Mapping (1000):
+  1000 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: fevers,
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: rashes,
+Meta Mapping (1000):
+  1000 N C0015230:Rashes (Exanthema) [Sign or Symptom]
+
+Phrase: dysuria,
+Meta Mapping (1000):
+  1000   C0013428:DYSURIA (Dysuria) [Sign or Symptom]
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: hx of well controlled htn  ssh
+Meta Mapping (725):
+   753   C0262926:Hx (Medical History) [Finding]
+   623   C3853142:Well controlled [Functional Concept]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none  hospitalizations
+Meta Mapping (1000):
+  1000   C0019993:Hospitalizations (Hospitalization) [Health Care Activity]
+
+Phrase: :
+
+Phrase: none  SH
+Meta Mapping (1000):
+  1000   C0038108:SH (Saint Helena Islands) [Geographic Area]
+
+Phrase: :
+
+Phrase: cigarettes
+Meta Mapping (1000):
+  1000   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: (
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: 23 cups wine during week,
+Meta Mapping (733):
+   593   C0450348:23 [Quantitative Concept]
+   593   C0180231:Cups (Cup Device) [Medical Device]
+   760   C0043188:WINE (Wine) [Food]
+   593   C0439230:Week (week) [Temporal Concept]
+
+Phrase: no illegal drug use  FH
+Meta Mapping (756):
+   756 N C0281875:illegal drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Mi in 40's,
+Meta Mapping (790):
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: died from heart
+Meta Mapping (746):
+   790 N C1546956:Died (Patient Outcome - Died) [Finding]
+   623   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: related issues at 72.
+Meta Mapping (785):
+   793 N C0033213:Issue (Problem) [Finding]
+   827   C4319632:72 [Quantitative Concept]
+Processing 196_Cage.txt.tx.3: Mom: HTN and PE in 60's.   
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: PE in 60's.
+Meta Mapping (790):
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 196_Cage.txt.tx.4: MEds: Chlorthalidone 25 mg qd  Lisinopril 10 mg qd   Allergies: none   Physical exam:   VS: T: 98 F, R: 14, BP: 10/92, P: 85 Cardio: normal RR, pulses 2+, no pulsating jvd on upright position, no clubbing or lwoer extremitiy edema, carotid pulses 2+, no murmurs rubs or gallops Lungs: clear to auscultation on back, no wheezes or crackles,  Mood: Normal judgment, alert and oriented x 3,  Abdominal exam:   ASsessment: Mr   Differential dx:  Stable angina  GERD Costochondritis MI PE  Plan:  ECG stress test  troponin x 3, ckmb lipid panel  possible ppi trial if all heart workup is normal  counsel on tobacco use alter HTN meds
+
+Phrase: MEds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25 mg qd  Lisinopril 10 mg qd   Allergies
+Meta Mapping (780):
+   660   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   624   C0332173:QD (Daily) [Temporal Concept]
+   825   C0571941:Lisinopril allergy [Disease or Syndrome]
+   624   C3842590:10% [Quantitative Concept]
+
+Phrase: :
+
+Phrase: none   Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T
+Meta Mapping (1000):
+  1000   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98 F,
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: R
+Meta Mapping (1000):
+  1000   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: :
+
+Phrase: 14,
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 10/92,
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 85 Cardio
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: normal RR,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+
+Phrase: 2+,
+Meta Mapping (1000):
+  1000   C0740116:+2 [Quantitative Concept]
+
+Phrase: no pulsating jvd on upright position,
+Meta Mapping (723):
+   586   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   586   C0439606:Pulsating (Pulsatile) [Temporal Concept]
+   753 N C0425687:JVD (Jugular venous engorgement) [Finding]
+   586   C0522015:Upright [Spatial Concept]
+   586   C0733755:Position (Positioning Attribute) [Spatial Concept]
+
+Phrase: no clubbing
+Meta Mapping (1000):
+  1000 N C0009080:Clubbing (Clubbed Fingers) [Anatomical Abnormality]
+
+Phrase: or
+
+Phrase: lwoer extremitiy edema,
+Meta Mapping (827):
+   827 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: carotid pulses 2+,
+Meta Mapping (901):
+   901 N C2367681:carotid PULSES [Finding]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops Lungs
+Meta Mapping (861):
+   861   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: clear to auscultation
+Meta Mapping (746):
+   790 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   623   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: on back,
+Meta Mapping (1000):
+  1000   C0004600:BACK (Back) [Body Location or Region]
+
+Phrase: no wheezes
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: ,
+
+Phrase: Mood
+Meta Mapping (1000):
+  1000 N C0026516:Mood (Mood (psychological function)) [Mental Process]
+
+Phrase: :
+
+Phrase: Normal judgment,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861 N C0022423:Judgment [Mental Process]
+
+Phrase: alert
+Meta Mapping (1000):
+  1000 N C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: and
+
+Phrase: oriented
+Meta Mapping (1000):
+  1000 N C1961028:Oriented (Oriented to place) [Finding]
+
+Phrase: x 3,
+
+Phrase: Abdominal exam
+Meta Mapping (888):
+   694   C0000726:Abdominal (Abdomen) [Body Location or Region]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: ASsessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr   Differential dx
+Meta Mapping (901):
+   660   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+   901   C0011906:Differential dx (Differential Diagnosis) [Diagnostic Procedure]
+
+Phrase: :
+
+Phrase: Stable angina  GERD Costochondritis MI PE  Plan
+Meta Mapping (818):
+   651   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   629   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   629   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+   629   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   629   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   795   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: ECG stress test  troponin x 3,
+Meta Mapping (762):
+   827   C1304755:ecg stress (Exercise stress ECG test) [Diagnostic Procedure]
+   799   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+   799   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Meta Mapping (762):
+   799   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   827   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   799   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: ckmb lipid panel  possible ppi trial
+Meta Mapping (827):
+   632   C0523584:CKMB (Creatine kinase MB measurement) [Laboratory Procedure]
+   660   C0200382:Lipid panel [Laboratory Procedure]
+   632   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   632   C0358591:PPI (Proton Pump Inhibitors) [Pharmacologic Substance]
+   799   C0008976:Trial (Clinical Trials) [Research Activity]
+
+Phrase: if
+
+Phrase: all heart workup
+Meta Mapping (901):
+   694   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   861   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: normal  counsel on tobacco use
+Meta Mapping (752):
+   593   C0205307:NORMAL (Normal) [Qualitative Concept]
+   760   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   640   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+
+Phrase: alter
+Meta Mapping (916):
+   916   C0392747:Altered (Changing) [Functional Concept]
+
+Phrase: HTN meds
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]

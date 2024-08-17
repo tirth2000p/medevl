@@ -1,0 +1,148 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: HPI - Mr. 
+C2347167,Mr.,Mr. - Title,-861,-861,HPI - Mr.,12,True,Subjective: HPI - Mr. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,22,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,22,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0439508,/Year,per year,-573,-694,a 46-year-old male with a history of hypertension,36,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0580836,Old,Old,-573,-694,a 46-year-old male with a history of hypertension,36,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C1706180,Male,"Male Gender, Self Report",-739,-694,a 46-year-old male with a history of hypertension,36,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0455527,History of - hypertension,H/O: hypertension,-615,-694,a 46-year-old male with a history of hypertension,36,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0150312,PRESENT,Present,-739,-711,presents after an episode of chest pain 3 days ago.,90,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-760,-711,presents after an episode of chest pain 3 days ago.,90,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-760,-711,presents after an episode of chest pain 3 days ago.,90,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C3842675,Day 3,Day 3,-741,-711,presents after an episode of chest pain 3 days ago.,90,True,Gerry Cage is a 46-year-old male with a history of hypertension who presents after an episode of chest pain 3 days ago. 
+C0030705,*^patient,Patients,-1000,-1000,The patient,142,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0700287,reports,Reporting,-1000,-1000,reports,154,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,169,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-593,-529,heavy groceries to his car,178,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C1412323,HIS,AKR1B10 gene,-593,-529,heavy groceries to his car,178,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0004381,Car,Automobiles,-593,-529,heavy groceries to his car,178,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C1527305,feel,Feelings,-966,-966,felt,209,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0205125,DEEP,Deep (qualifier value),-575,-667,a deep ache in the center of his chest.,214,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0235715,ache chest,Chest aching of,-762,-667,a deep ache in the center of his chest.,214,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C0205099,Centre,Central,-575,-667,a deep ache in the center of his chest.,214,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C1412323,HIS,AKR1B10 gene,-575,-667,a deep ache in the center of his chest.,214,True,The patient reports he was carrying heavy groceries to his car and felt a deep ache in the center of his chest. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,254,True,The pain subsided after 5-10 minutes of rest. 
+C0456692,/10 minutes,/10 min,-778,-706,subsided after 5-10 minutes of rest.,263,True,The pain subsided after 5-10 minutes of rest. 
+C0035253,Rest,Rest,-748,-706,subsided after 5-10 minutes of rest.,263,True,The pain subsided after 5-10 minutes of rest. 
+C0332189,EPISODE,Episode of,-1000,-1000,During the episode,300,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C1527305,feel,Feelings,-966,-966,felt,322,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C0220870,Lightheaded,Lightheadedness,-1000,-1000,lightheaded,327,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C3241964,Winded,Winded,-1000,-1000,"""winded""",343,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,356,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C1518422,Not,Negation,-1000,-1000,not,369,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C0332301,radiate,Radiating to,-1000,-1000,radiate,373,True,"During the episode he felt lightheaded and ""winded"" but the pain did not radiate anywhere. "
+C1527305,feel,Feelings,-966,-966,felt,411,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C0332285,Of,Within,-573,-685,"of pain 2-3 times over the past 4 months,",426,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-573,-685,"of pain 2-3 times over the past 4 months,",426,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C0040223,times,Time,-739,-685,"of pain 2-3 times over the past 4 months,",426,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C4086725,Past 3 Months,Past 3 Months,-608,-685,"of pain 2-3 times over the past 4 months,",426,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C0015264,exerting,Exertion,-1000,-1000,exerting,479,True,"He says he has also felt ""twinges"" of pain 2-3 times over the past 4 months, also while exerting himself.  "
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-645,-608,"Meds - chlorthalidone 25mg daily,",498,True,"Meds - chlorthalidone 25mg daily, lisinopril 10mg daily. "
+C0008294,Chlortalidone,chlorthalidone,-645,-608,"Meds - chlorthalidone 25mg daily,",498,True,"Meds - chlorthalidone 25mg daily, lisinopril 10mg daily. "
+C0332173,Daily,Daily,-645,-608,"Meds - chlorthalidone 25mg daily,",498,True,"Meds - chlorthalidone 25mg daily, lisinopril 10mg daily. "
+C0065374,Lysinopril,lisinopril,-660,-635,lisinopril 10mg daily.,532,True,"Meds - chlorthalidone 25mg daily, lisinopril 10mg daily. "
+C0332173,Daily,Daily,-660,-635,lisinopril 10mg daily.,532,True,"Meds - chlorthalidone 25mg daily, lisinopril 10mg daily. "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies -,555,True,Allergies - none. 
+C0020538,HYPERTENSION,Hypertensive disease,-861,-861,PMHx - hypertension,573,True,PMHx - hypertension diagnosed 5 years ago. 
+C0011900,Diagnosed,Diagnosis,-1000,-1000,diagnosed,593,True,PMHx - hypertension diagnosed 5 years ago. 
+C4086543,< 5 years,Life Expectancy Less than Five Years,-901,-901,5 years ago.,603,True,PMHx - hypertension diagnosed 5 years ago. 
+C1428412,FHX,FOXJ2 gene,-694,-888,FHx - father,616,True,"FHx - father had MI in 40s, had bypass surgery. "
+C0015671,FATHER,Father (person),-861,-888,FHx - father,616,True,"FHx - father had MI in 40s, had bypass surgery. "
+C0683474,MI,Motivational Interviewing,-790,-790,"MI in 40s,",633,True,"FHx - father had MI in 40s, had bypass surgery. "
+C0741847,Bypass,Bypass,-1000,-1000,bypass,648,True,"FHx - father had MI in 40s, had bypass surgery. "
+C0038895,surgery,Surgical aspects,-1000,-1000,surgery.,655,True,"FHx - father had MI in 40s, had bypass surgery. "
+C0026591,MOTHER,Mother (person),-1000,-1000,Mother,664,True,"Mother had type 2 DM, HTN, died of PE. "
+C0441730,Type 2,Type 2,-734,-901,"type 2 DM,",675,True,"Mother had type 2 DM, HTN, died of PE. "
+C0011816,DM,dextromethorphan,-827,-901,"type 2 DM,",675,True,"Mother had type 2 DM, HTN, died of PE. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",686,True,"Mother had type 2 DM, HTN, died of PE. "
+C1306577,Died,Death (finding),-790,-746,died of PE.,691,True,"Mother had type 2 DM, HTN, died of PE. "
+C1880476,PE,Etoposide-Platinol Regimen,-790,-746,died of PE.,691,True,"Mother had type 2 DM, HTN, died of PE. "
+C1273525,Maternal Grandmother,Maternal grandmother,-1000,-1000,Maternal grandmother,703,True,Maternal grandmother died of breast cancer. 
+C1306577,Died,Death (finding),-770,-916,died of breast cancer.,724,True,Maternal grandmother died of breast cancer. 
+C0006142,Cancer of Breast,Malignant neoplasm of breast,-881,-916,died of breast cancer.,724,True,Maternal grandmother died of breast cancer. 
+C0043227,works,Work,-770,-770,SHx - works in IT,747,True,SHx - works in IT for Capital One. 
+C0006909,Capital,Capital,-694,-888,for Capital One.,765,True,SHx - works in IT for Capital One. 
+C0205447,ONE,One,-861,-888,for Capital One.,765,True,SHx - works in IT for Capital One. 
+C0600108,Walks,Does walk,-1000,-1000,Walks,782,True,Walks dog 0.5 miles daily. 
+C0012984,DOG,Canis familiaris,-637,-840,dog 0.5 miles daily.,788,True,Walks dog 0.5 miles daily. 
+C0444500,0.5,0.5,-673,-840,dog 0.5 miles daily.,788,True,Walks dog 0.5 miles daily. 
+C0331865,Miles,Miles,-804,-840,dog 0.5 miles daily.,788,True,Walks dog 0.5 miles daily. 
+C0332173,Daily,Daily,-637,-840,dog 0.5 miles daily.,788,True,Walks dog 0.5 miles daily. 
+C0425332,Drinks wine,Drinks wine,-617,-716,Drinks 2-3 glasses of wine,809,True,Drinks 2-3 glasses of wine on Fridays and Saturdays. 
+C0015421,Glasses,Eyeglasses,-753,-716,Drinks 2-3 glasses of wine,809,True,Drinks 2-3 glasses of wine on Fridays and Saturdays. 
+C0585029,fridays,Friday,-1000,-1000,on Fridays,836,True,Drinks 2-3 glasses of wine on Fridays and Saturdays. 
+C0585030,saturdays,Saturday,-1000,-1000,Saturdays.,851,True,Drinks 2-3 glasses of wine on Fridays and Saturdays. 
+C0037369,smokes,Smoking,-593,-761,Smokes 1 pack per day.,862,True,Smokes 1 pack per day. 
+C2825051,PACK,Pack unit,-760,-761,Smokes 1 pack per day.,862,True,Smokes 1 pack per day. 
+C1442449,Day 1,1 Day,-631,-761,Smokes 1 pack per day.,862,True,Smokes 1 pack per day. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,885,True,Denies illicit drug use.   
+C0281875,Illicit drug use,Illicit medication use,-1000,-1000,illicit drug use.,892,False,Denies illicit drug use.   
+C1571702,Objective,Objective observation,-1000,-1000,Objective,912,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0518766,VITAL,Vital signs,-623,-623,"Vitals - T98F,",923,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C4517892,85,85,-861,-861,"HR 85,",938,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",945,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C1708288,BP,HP wt Allele,-632,-780,BP 150/52 Physical Exam - Pulmonary -,952,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0031809,"Exam, Physical",Physical Examination,-660,-780,BP 150/52 Physical Exam - Pulmonary -,952,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C2707265,Pulmonary,Pulmonary:-:Point in time:^Patient:-,-799,-780,BP 150/52 Physical Exam - Pulmonary -,952,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C1518422,Non,Negation,-660,-901,"> non-labored breathing,",989,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0553668,Labored breathing,Labored breathing,-901,-901,"> non-labored breathing,",989,False,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0238983,Chest deformities,Chest deformity,-797,-745,chest with no visible deformities,1014,False,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0205379,Visible,Visible,-593,-745,chest with no visible deformities,1014,True,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C2004491,Scarring,Cicatrix,-1000,-1000,scarring.,1051,False,"Objective: Vitals - T98F, HR 85, RR 14, BP 150/52 Physical Exam - Pulmonary -> non-labored breathing, chest with no visible deformities or scarring. "
+C0043144,Wheezes,Wheezing,-1000,-1000,"No wheezes,",1061,False,"No wheezes, rhonchi, or rales auscultated anteriorly or posteriorly in any lung fields. "
+C0035508,RHONCHI,Rhonchi,-1000,-1000,"rhonchi,",1073,False,"No wheezes, rhonchi, or rales auscultated anteriorly or posteriorly in any lung fields. "
+C0034642,RALES,Rales,-1000,-1000,rales,1085,False,"No wheezes, rhonchi, or rales auscultated anteriorly or posteriorly in any lung fields. "
+C0225759,fields lung,Lung field,-797,-806,posteriorly in any lung fields.,1117,True,"No wheezes, rhonchi, or rales auscultated anteriorly or posteriorly in any lung fields. "
+C0443225,Full,Full,-660,-901,Full chest expansion,1149,True,Full chest expansion and no accessory muscle use.  
+C0231902,Chest expansion,Chest expansion,-901,-901,Full chest expansion,1149,True,Full chest expansion and no accessory muscle use.  
+C0158784,Accessory muscle,Accessory skeletal muscle,-734,-901,no accessory muscle use.,1174,False,Full chest expansion and no accessory muscle use.  
+C0042153,use,utilization qualifier,-827,-901,no accessory muscle use.,1174,True,Full chest expansion and no accessory muscle use.  
+C0018787,Cardiac,Heart,-1000,-1000,Cardiac -,1200,True,"Cardiac -> No murmurs, rubs, or gallops. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"No murmurs,",1211,False,"Cardiac -> No murmurs, rubs, or gallops. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1223,False,"Cardiac -> No murmurs, rubs, or gallops. "
+C0205272,Regular,Regular,-694,-888,Regular rate,1241,True,Regular rate and rhythm. 
+C1521828,Rate,Rate,-861,-888,Regular rate,1241,True,Regular rate and rhythm. 
+C0871269,Rhythm,Rhythm,-1000,-1000,rhythm.,1258,True,Regular rate and rhythm. 
+C0205170,Good,Good,-604,-733,Good perfusion of extremities.,1266,True,Good perfusion of extremities.  
+C0031001,Perfusion,Perfusion (procedure),-770,-733,Good perfusion of extremities.,1266,True,Good perfusion of extremities.  
+C0015385,Extremities,Limb structure,-604,-733,Good perfusion of extremities.,1266,True,Good perfusion of extremities.  
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1298,True,Assessment: SS - Mr. 
+C2699257,SS,"SS, Rat Strain",-694,-888,SS - Mr.,1310,True,Assessment: SS - Mr. 
+C2347167,Mr.,Mr. - Title,-861,-888,SS - Mr.,1310,True,Assessment: SS - Mr. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,1319,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,1319,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0439508,/Year,per year,-573,-640,a 46-year-old male with a history of HTN,1333,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0580836,Old,Old,-573,-640,a 46-year-old male with a history of HTN,1333,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C1706180,Male,"Male Gender, Self Report",-739,-640,a 46-year-old male with a history of HTN,1333,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0262926,History,Medical History,-573,-640,a 46-year-old male with a history of HTN,1333,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0020538,HTN,Hypertensive disease,-573,-640,a 46-year-old male with a history of HTN,1333,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0150312,PRESENT,Present,-748,-738,presents after an episode of chest pain,1378,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0332189,EPISODE,Episode of,-748,-738,presents after an episode of chest pain,1378,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0024902,Pain of breast,Mastodynia,-777,-738,presents after an episode of chest pain,1378,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0015264,Exertion,Exertion,-1000,-1000,on exertion.,1418,True,Gerry Cage is a 46-year-old male with a history of HTN who presents after an episode of chest pain on exertion. 
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-694,-888,DDx - Angina,1431,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0002962,ANGINA,Angina Pectoris,-861,-888,DDx - Angina,1431,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0750501,most likely,most likely,-623,-712,most likely given pain with exertion,1447,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-753,-712,most likely given pain with exertion,1447,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0015264,Exertion,Exertion,-586,-712,most likely given pain with exertion,1447,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0850707,family history of disease,history (of) disease family,-900,-928,family history of cardiac disease.,1488,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0018787,Cardiac,Heart,-593,-928,family history of cardiac disease.,1488,True,DDx - Angina is most likely given pain with exertion and family history of cardiac disease. 
+C0750591,consider,consider,-1000,-1000,consider,1533,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0017168,GERD,Gastroesophageal reflux disease,-1000,-1000,GERD,1542,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0030705,*^patient,Patients,-1000,-1000,(patient,1547,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0700287,reports,Reporting,-1000,-1000,reports,1556,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0242030,pain eating,pain with eating,-783,-753,pain after eating large meal sometimes,1564,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0549177,LARGE,Large,-586,-753,pain after eating large meal sometimes,1564,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C1998602,Meal,Meal (occasion for eating),-586,-753,pain after eating large meal sometimes,1564,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C1998882,Sometimes,Sometimes,-586,-753,pain after eating large meal sometimes,1564,True,Must also consider GERD (patient reports pain after eating large meal sometimes).  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1606,True,Plan: 1. 
+C2827734,1+,1+ Score,-1000,-1000,1.,1612,True,Plan: 1. 
+C1623258,EKG,Electrocardiography,-694,-888,EKG today.,1615,True,EKG today. 
+C0750526,Today,Today (temporal qualifier),-861,-888,EKG today.,1615,True,EKG today. 
+C2827735,2+,2+ Score,-1000,-1000,2.,1626,True,2. 
+C0013113,Draw,Drawings (art),-1000,-1000,draw,1634,True,Also draw CMP and CBC. 
+C0519825,CMP,Comprehensive Metabolic Panel,-1000,-1000,CMP,1639,True,Also draw CMP and CBC. 
+C0009555,CBC,Complete Blood Count,-1000,-1000,CBC.,1647,True,Also draw CMP and CBC. 
+C2827736,3+,3+ Score,-1000,-1000,3.,1652,True,3. 
+C0039985,Chest X-ray,Plain chest X-ray,-1000,-1000,Chest x-ray.,1655,True,Chest x-ray.

@@ -1,0 +1,515 @@
+Processing 197_Cage.txt.tx.1: CC: concerned about chest pain 3 days ago HPI: Gerry Cage is a 46yoM who presents with sudden onset of chest pain 3 days ago.  
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: concerned about chest pain 3 days ago HPI
+Meta Mapping (697):
+   711   C2699424:Concern [Idea or Concept]
+   770   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   750   C3842675:Day 3 [Finding]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yoM
+
+Phrase: who
+
+Phrase: presents with sudden onset of chest pain 3 days ago.
+Meta Mapping (736):
+   739   C0150312:PRESENT (Present) [Finding]
+   760   C1272517:Sudden onset (Sudden onset (contextual qualifier) (qualifier value)) [Intellectual Product]
+   750   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   741   C3842675:Day 3 [Finding]
+Processing 197_Cage.txt.tx.2: -was carrying heavy gallons of water and suddenly felt a deep ache in his chest and had to drop everything -light-headed at the time -denies headache, blurry vision, SOB, numbness/tingling at the time -pain did not radiate to jaw or anywhere else -has experienced 2-3 short episodes like this in the past 4 months -endorses feeling a pressure in epigastric region after lunch 2-3x/week sometimes  Medical History: HTN Surgical History: None Family History: F, died at 72, had heart attack in his 40s and had CABG; M: died at 60 due to pulmonary embolism, had HTN, DM  Medications: Chlorthalidone 25mg PO daily, lisinopril 10mg PO daily Allergies: None  Social History: Tobacco: smokes 1ppd x 20 years = 20py history Alcohol: 2-3 glasses 2x/week Denies marijuana and other illicit drug use Occupation: works in IT at Capital One  Physical Exam: Vitals: T 98F  HR 85    R 14    BP 150/92 Gen: alert & cooperative, no acute distress CV: slight tachycardia, regular rhythm, no murmurs/rubs/gallops, 2+ radial and dorsalis pedis pulses Resp: clear to auscultation bilaterally, no crackles/rhonchi Abd: normoactive BS, non TTP in all 4 quadrants  A/P 46yoM who presents with recurring episodes of chest pain. 
+
+Phrase: -
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy gallons of water
+Meta Mapping (772):
+   652   C0011745:Heavy Water (Deuterium Oxide) [Inorganic Chemical]
+   737   C0560013:Gallon [Quantitative Concept]
+
+Phrase: and
+
+Phrase: suddenly
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a deep ache in his chest
+Meta Mapping (719):
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   783   C0235715:ache chest (Chest aching of) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: everything -light-headed at the time -
+Meta Mapping (709):
+   790   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+   586   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: headache,
+Meta Mapping (1000):
+  1000 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: blurry vision,
+Meta Mapping (1000):
+  1000 N C0344232:blurry vision (Blurred vision) [Finding]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: numbness/tingling at the time -pain
+Meta Mapping (719):
+   586 N C0028643:NUMBNESS (Numbness) [Sign or Symptom]
+   783 N C5192202:Tingling pain [Sign or Symptom]
+   586   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate to jaw
+Meta Mapping (746):
+   790   C0332301:radiate (Radiating to) [Functional Concept]
+   790   C0022359:Jaw [Body Part, Organ, or Organ Component]
+
+Phrase: or
+
+Phrase: anywhere else -
+Meta Mapping (861):
+   861   C3842296:Else [Finding]
+
+Phrase: has
+
+Phrase: experienced
+Meta Mapping (966):
+   966 N C0596545:Experience [Mental Process]
+
+Phrase: 2-3 short episodes like this in the past 4 months -
+Meta Mapping (681):
+   571   C2827735:2+ (2+ Score) [Quantitative Concept]
+   571   C1282927:short (Shortened) [Qualitative Concept]
+   738   C0332189:Episodes (Episode of) [Temporal Concept]
+   603   C4086725:Past 3 Months [Temporal Concept]
+
+Phrase: endorses
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: a pressure in epigastric region
+Meta Mapping (745):
+   760   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   640   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+
+Phrase: after lunch 2-3x/week sometimes  Medical History
+Meta Mapping (767):
+   629   C2697949:Lunch [Daily or Recreational Activity]
+   629   C0332174:/week (Weekly) [Temporal Concept]
+   629   C1998882:Sometimes [Temporal Concept]
+   818   C1704706:Medical History (Medical History Domain) [Intellectual Product]
+
+Phrase: :
+
+Phrase: HTN Surgical History
+Meta Mapping (901):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   901   C0744961:surgical history [Finding]
+
+Phrase: :
+
+Phrase: None Family History
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: F,
+Meta Mapping (1000):
+  1000   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: died at 72,
+Meta Mapping (746):
+   790   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C4319632:72 [Quantitative Concept]
+
+Phrase: had
+
+Phrase: heart attack in his 40s
+Meta Mapping (745):
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: CABG
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: ; M
+Meta Mapping (1000):
+  1000   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: :
+
+Phrase: died at 60
+Meta Mapping (746):
+   790   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C3842585:60% [Quantitative Concept]
+
+Phrase: due to pulmonary embolism,
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: had
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM  Medications
+Meta Mapping (888):
+   694   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+   861   C0013227:Medications (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25mg PO daily,
+Meta Mapping (775):
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   812   C0442027:PO (Oral) [Spatial Concept]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10mg PO daily Allergies
+Meta Mapping (786):
+   881   C0571941:Lisinopril allergy [Disease or Syndrome]
+   637   C0442027:PO (Oral) [Spatial Concept]
+   637   C0332173:Daily [Temporal Concept]
+
+Phrase: :
+
+Phrase: None  Social History
+Meta Mapping (1000):
+  1000   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: :
+
+Phrase: Tobacco
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: 1ppd x 20 years
+Meta Mapping (861):
+   861   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: = 20py history Alcohol
+Meta Mapping (790):
+   660   C2004062:History (History of previous events) [Finding]
+   827   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3 glasses 2x/week
+Meta Mapping (794):
+   673   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   637   C0015421:Glasses (Eyeglasses) [Medical Device]
+   804   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: marijuana
+Meta Mapping (1000):
+  1000   C0936079:Marijuana (Cannabis) [Plant]
+
+Phrase: and
+
+Phrase: other illicit drug use Occupation
+Meta Mapping (916):
+   756 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+   812   C0028811:OCCUPATION (Occupations) [Occupation or Discipline]
+
+Phrase: :
+
+Phrase: works in IT
+Meta Mapping (790):
+   790   C0043227:works (Work) [Occupational Activity]
+
+Phrase: at Capital One  Physical Exam
+Meta Mapping (861):
+   645   C0006909:Capital [Quantitative Concept]
+   645   C0205447:ONE (One) [Quantitative Concept]
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T 98F  HR 85    R 14    BP 150/92 Gen
+Meta Mapping (736):
+   891   C1529462:T-Gen [Organic Chemical,Pharmacologic Substance]
+   623   C4517892:85 [Quantitative Concept]
+   623   C0205090:R- (Right) [Spatial Concept]
+   623   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: alert & cooperative,
+Meta Mapping (888):
+   694   C0239110:ALERT (Consciousness clear) [Finding]
+   861   C0679729:cooperative [Organization]
+
+Phrase: no acute distress CV
+Meta Mapping (851):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+   827   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: slight tachycardia,
+Meta Mapping (888):
+   694   C2945599:Slight (Mild (qualifier value)) [Qualitative Concept]
+   861 N C0039231:TACHYCARDIA (Tachycardia) [Finding]
+
+Phrase: regular rhythm,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861 N C0871269:Rhythm [Finding]
+
+Phrase: no murmurs/
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: /gallops,
+
+Phrase: 2+ radial
+Meta Mapping (888):
+   694   C2827735:2+ (2+ Score) [Quantitative Concept]
+   861   C0920847:Radial (Circumpennate) [Conceptual Entity]
+
+Phrase: and
+
+Phrase: dorsalis pedis pulses Resp
+Meta Mapping (916):
+   756   C1997492:Dorsalis pedis PULSES (Dorsalis pedis pulse rate) [Clinical Attribute]
+   812   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: clear to auscultation bilaterally,
+Meta Mapping (708):
+   770   C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: no
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: /rhonchi Abd
+Meta Mapping (888):
+   694 N C0035508:RHONCHI (Rhonchi) [Finding]
+   861   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: normoactive BS,
+Meta Mapping (861):
+   861   C4050217:BS (Bug Search Subtest (WPPSI-IV)) [Intellectual Product]
+
+Phrase: non TTP in all 4 quadrants  A/P 46yoM
+Meta Mapping (625):
+   575   C1518422:Non (Negation) [Functional Concept]
+   742   C1506603:TTP (ZFP36 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   542   C1631280:Quadrant [Spatial Concept]
+
+Phrase: who
+
+Phrase: presents with recurring episodes of chest pain.
+Meta Mapping (761):
+   748 N C0150312:PRESENT (Present) [Finding]
+   748   C0034897:recurring (Recurrence) [Phenomenon or Process]
+   748   C0332189:Episodes (Episode of) [Temporal Concept]
+   777 N C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 197_Cage.txt.tx.3: Physical exam notable for hypertension and slight tachycardia. 
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: notable for hypertension
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: slight tachycardia.
+Meta Mapping (888):
+   694   C2945599:Slight (Mild (qualifier value)) [Qualitative Concept]
+   861   C0039231:TACHYCARDIA (Tachycardia) [Finding]
+Processing 197_Cage.txt.tx.4: Episode likely consistent with stable angina given history of hypertension, significant family history, symptom onset with exertion and resolution with rest. 
+
+Phrase: Episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: likely consistent with stable angina given history of hypertension,
+Meta Mapping (757):
+   575   C0750492:Likely (Probably) [Idea or Concept]
+   764   C0332290:Consistent with [Idea or Concept]
+   598   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: significant family history,
+Meta Mapping (901):
+   660   C0750502:Significant [Idea or Concept]
+   901   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: symptom onset with exertion
+Meta Mapping (783):
+   833   C4086878:SYMPTOM ONSET (Symptom Onset) [Temporal Concept]
+   604   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: resolution with rest.
+Meta Mapping (746):
+   790   C2699488:Resolution [Conceptual Entity]
+   623   C0035253:Rest [Daily or Recreational Activity]
+Processing 197_Cage.txt.tx.5: Less likely GERD given episodic nature unrelated to meals. 
+
+Phrase: Less likely GERD given episodic nature
+Meta Mapping (751):
+   632   C0439092:Less (Less Than) [Quantitative Concept]
+   632   C0750492:Likely (Probably) [Idea or Concept]
+   632   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   632   C1455761:Episodic [Temporal Concept]
+   799   C0349590:Nature [Idea or Concept]
+
+Phrase: unrelated to meals.
+Meta Mapping (746):
+   790   C0445356:Unrelated (Unrelated (finding)) [Finding]
+   623   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 197_Cage.txt.tx.6: Less likely  -refer to ED for further cardiac workup (EKG, CXR, troponins) -cardiac stress test based on HEART score -may need cardiac catherization for evaluation of coronary arteries -f/u in clinic after further hospital workup
+
+Phrase: Less likely  -
+Meta Mapping (888):
+   861   C0439092:Less (Less Than) [Quantitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: refer to ED
+Meta Mapping (746):
+   790   C0205543:Refer (Referring) [Functional Concept]
+   790   C3538926:ED (Endocrine System Findings Domain) [Intellectual Product]
+
+Phrase: for further cardiac workup
+Meta Mapping (861):
+   660   C1517331:Further [Spatial Concept]
+   660   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   827   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: (EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CXR,
+Meta Mapping (1000):
+  1000   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: troponins
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: ) -
+
+Phrase: cardiac stress test
+Meta Mapping (1000):
+  1000   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: based on HEART score -
+Meta Mapping (772):
+   802   C0225810:Heart base (Structure of base of heart) [Body Location or Region]
+   770   C0449820:SCORE (Score) [Quantitative Concept]
+
+Phrase: may
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: cardiac catherization for evaluation of coronary arteries -f/u
+Meta Mapping (530):
+   595   C0205042:Cardiac Arteries (Coronary artery) [Body Part, Organ, or Organ Component]
+   595   C2024217:coronary evaluation (cardiac assessments) [Diagnostic Procedure]
+   575   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   575   C0439148:{U} (Unit) [Quantitative Concept]
+
+Phrase: in clinic after further hospital workup
+Meta Mapping (740):
+   783   C0019994:In Hospital (Hospitals) [Health Care Related Organization,Manufactured Object]
+   753   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   586   C1517331:Further [Spatial Concept]
+   586   C0750430:Work-up [Diagnostic Procedure]
+Meta Mapping (740):
+   753   C0150312:In (Present) [Finding]
+   783   C0587906:clinic hospital (Hospital clinic) [Health Care Related Organization,Manufactured Object]
+   586   C1517331:Further [Spatial Concept]
+   586   C0750430:Work-up [Diagnostic Procedure]

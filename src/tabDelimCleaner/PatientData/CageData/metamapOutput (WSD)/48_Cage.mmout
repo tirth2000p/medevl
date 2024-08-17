@@ -1,0 +1,497 @@
+Processing 48_Cage.txt.tx.1: HPI 46yo M with no prior hx presents after 1 episode of substernal "heaviness" 3 days ago while carrying heavy groceries, had to drop groceries. 
+
+Phrase: HPI 46yo M with no prior hx
+Meta Mapping (656):
+   748   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   581   C2826257:PRIOR (Prior Medication Usage) [Event]
+   581 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: presents after 1 episode of substernal "heaviness" 3 days ago
+Meta Mapping (659):
+   739 N C0150312:PRESENT (Present) [Finding]
+   760   C0332189:Episode of [Temporal Concept]
+   668   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   741 N C3842675:Day 3 [Finding]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries,
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: groceries.
+Processing 48_Cage.txt.tx.2: Episode resolved spontaneously with rest within 10-15 minutes. 
+
+Phrase: Episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: spontaneously with rest
+Meta Mapping (790):
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: within 10-15 minutes.
+Meta Mapping (913):
+   913   C1442446:10 Minutes [Temporal Concept]
+Processing 48_Cage.txt.tx.3: Has had "twinges" on and off for 4 months but nothing like this before. 
+
+Phrase: Has
+
+Phrase: had
+
+Phrase: "twinges" on and off for 4 months
+Meta Mapping (748):
+   748   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: but
+
+Phrase: nothing like this before.
+Meta Mapping (770):
+   770   C0442735:Nothing [Finding]
+Processing 48_Cage.txt.tx.4: Pain was not "pressure" and did not radiate, not associated with nausea, vomiting, palpitations, shortness of breath. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: not "
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: "
+
+Phrase: and
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: ,
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: associated with nausea,
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 48_Cage.txt.tx.5: No recent sickness. 
+
+Phrase: No recent sickness.
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861 N C0221423:Sickness (Illness (finding)) [Sign or Symptom]
+Processing 48_Cage.txt.tx.6: Follows up regularly with PCP, last 5-6mo ago. 
+
+Phrase: Follows up regularly
+Meta Mapping (882):
+   882   C0589120:Follow-up (Follow-up status) [Finding]
+
+Phrase: with PCP,
+Meta Mapping (1000):
+  1000   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: last 5-6mo ago.
+Meta Mapping (763):
+   645   C1517741:Last [Qualitative Concept]
+   812   C4071833:6Mo [Temporal Concept]
+Processing 48_Cage.txt.tx.7: Presented to our clinic due to PCP not having available appointment.  
+
+Phrase: Presented to our clinic
+Meta Mapping (708):
+   770   C0449450:Presented (Presentation) [Idea or Concept]
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: due to PCP
+Meta Mapping (1000):
+  1000   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: having
+
+Phrase: available appointment.
+Meta Mapping (888):
+   694   C0470187:Available (Availability of) [Functional Concept]
+   861   C0003629:Appointment (Appointments) [Temporal Concept]
+Processing 48_Cage.txt.tx.8: Past history HTN  Family history father died of MI in his 40s after CABG mother had pulmonary embolism, HTN, Diabetes  Social history 20py smoking history, 1 ppd drinks regularly 2-3 per night on weekends no drugs does not exercise  Meds chlorthalidone 25 lisiniopril 10  No allergies  Vitals T 98 P 85 R 14 BP 150/92  Exam Gen worried looking middle aged man sitting up on exam table in no acute distress, wearing gown, appropriately groomed, pleasant demeanor HENT no abnormalities noted, no JVD Card Normal S1/S2, no murmurs gallops rubs. 
+
+Phrase: Past history HTN  Family history father
+Meta Mapping (839):
+   660   C0332119:past history (Past history of) [Finding]
+   632   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C0241889:FAMILY HISTORY (Family history) [Finding]
+   799   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died of MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in his 40s after CABG mother
+Meta Mapping (524):
+   586   C0150312:In (Present) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   586   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   586   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: pulmonary embolism,
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Diabetes  Social history 20py smoking history,
+Meta Mapping (595):
+   632   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   660   C0424945:Social history (Social and personal history) [Finding]
+   632   C0037369:SMOKING (Smoking) [Individual Behavior]
+Meta Mapping (595):
+   632   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   632   C0728831:Social [Functional Concept]
+   672   C1519384:history smoking (Tobacco Smoking History) [Finding]
+
+Phrase: 1 ppd
+Meta Mapping (888):
+   694   C2981698:1+ (1+ Score, WHO) [Intellectual Product]
+   861   C1710647:PPD (WISP3 wt Allele) [Gene or Genome]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: regularly 2-3 per night
+Meta Mapping (760):
+   760   C0240526:Night (Night time) [Temporal Concept]
+
+Phrase: on
+
+Phrase: weekends
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: no drugs
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: Meds chlorthalidone 25 lisiniopril 10
+Meta Mapping (762):
+   804 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   804   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   804   C3842590:10% [Quantitative Concept]
+
+Phrase: No allergies  Vitals T 98 P 85 R 14 BP 150/92  Exam Gen
+Meta Mapping (694):
+   620 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+   548   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   620   C4319627:98 [Quantitative Concept]
+   620   C4517892:85 [Quantitative Concept]
+   620   C0205090:R- (Right) [Spatial Concept]
+   620   C1415692:Bp (HP gene) [Gene or Genome]
+   620   C0582103:Exam (Medical Examination) [Health Care Activity]
+   786   C2239486:Gen (GEN1 gene) [Gene or Genome]
+
+Phrase: worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: looking
+Meta Mapping (966):
+   966   C0233426:look (Personal appearance) [Organism Attribute]
+
+Phrase: middle aged man sitting up
+Meta Mapping (815):
+   653   C3825963:Middle-aged men [Age Group]
+   760   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: on exam table in no acute distress,
+Meta Mapping (692):
+   581   C1720176:On (Upon - dosing instruction fragment) [Functional Concept]
+   581   C0582103:Exam (Medical Examination) [Health Care Activity]
+   748   C0039224:Table (Table - furniture) [Manufactured Object]
+   581   C0205178:ACUTE (acute) [Temporal Concept]
+   581 N C0231303:Distress [Finding]
+
+Phrase: wearing
+
+Phrase: gown,
+Meta Mapping (1000):
+  1000   C0181064:GOWN (Gown) [Medical Device]
+
+Phrase: appropriately
+
+Phrase: groomed
+Meta Mapping (966):
+   966   C0018249:groom (Grooming) [Individual Behavior]
+
+Phrase: ,
+
+Phrase: pleasant demeanor HENT
+Meta Mapping (734):
+   734 N C4315643:Pleasant demeanor [Finding]
+
+Phrase: no abnormalities
+Meta Mapping (1000):
+  1000   C0000769:abnormalities (teratologic) [Functional Concept]
+
+Phrase: noted
+Meta Mapping (1000):
+  1000   C4288581:Noted (Notable) [Qualitative Concept]
+
+Phrase: ,
+
+Phrase: no JVD Card Normal S1/S2,
+Meta Mapping (840):
+   637 N C0425687:JVD (Jugular venous engorgement) [Finding]
+   637   C0007189:Card (Cardiology discipline) [Biomedical Occupation or Discipline]
+   853 N C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   637 N C3715215:S1 [Finding]
+
+Phrase: no murmurs gallops
+Meta Mapping (694):
+   694 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs.
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+Processing 48_Cage.txt.tx.9: Carotid, radial, DP pulses 2+ equal bialterally.  
+
+Phrase: Carotid, radial, DP
+Meta Mapping (851):
+   660   C0741968:Carotid (carotid) [Body Part, Organ, or Organ Component]
+   660   C0442038:Radial [Conceptual Entity]
+   827   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+
+Phrase: 2+ equal bialterally.
+Meta Mapping (623):
+   660   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   660   C0205163:Equal [Qualitative Concept]
+Processing 48_Cage.txt.tx.10: Pulm CTAB Extremities No lower extremity edema  Assessment/Plan 46yo man with primary episode of substernal pressure with significant family history of CAD and normal physical exam. 
+
+Phrase: Pulm CTAB Extremities
+Meta Mapping (851):
+   660   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   660   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   827   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: No lower extremity edema  Assessment/Plan 46yo man with primary episode of substernal pressure
+Meta Mapping (703):
+   580   C1882095:No Pressure [Finding]
+   606 N C0239340:Oedema of lower extremity (Edema of lower extremity) [Finding]
+   568   C1516048:Assessment (Assessed) [Activity]
+   568   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   734   C0025266:Man (Male population group) [Population Group]
+   568   C0439631:Primary (Primary operation) [Therapeutic or Preventive Procedure]
+   568   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: with significant family history of CAD
+Meta Mapping (753):
+   586   C1705690:With (With - dosing instruction fragment) [Intellectual Product]
+   586   C0750502:Significant [Idea or Concept]
+   790   C0241889:FAMILY HISTORY (Family history) [Finding]
+   586   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: normal physical exam.
+Meta Mapping (901):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   901   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+Processing 48_Cage.txt.tx.11: Most likely diagnosis is angina: substernal pressure came on with exertion, relieved with rest. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: is
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: substernal pressure
+Meta Mapping (861):
+   861   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: came on
+
+Phrase: with exertion,
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 48_Cage.txt.tx.12: Less likely PE as pain was not pleuritic and relieved spontaneously. 
+
+Phrase: Less likely PE as pain
+Meta Mapping (733):
+   593   C0547044:Less (Smaller) [Qualitative Concept]
+   593   C0750492:Likely (Probably) [Idea or Concept]
+   760   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   593   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: not pleuritic
+Meta Mapping (853):
+   694   C1518422:Not (Negation) [Functional Concept]
+   789 N C0032231:Pleuritides (Pleurisy) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: relieved
+Meta Mapping (1000):
+  1000   C1301771:Relieved (Relieved (qualifier value)) [Qualitative Concept]
+
+Phrase: spontaneously.
+Processing 48_Cage.txt.tx.13: Costochondritis unlikely as well given lack of reproducible pain, no systemic signs of inflammation - labs: CBC, BMP, lipid panel, troponins - EKG in clinic - refer to exercise stress testing - Start ASA 81mg daily - Consider increase in dose of lisinopril; cannot rule out white coat hypertension/stress for high BP today
+
+Phrase: Costochondritis
+Meta Mapping (1000):
+  1000 N C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: unlikely as well given lack of reproducible pain,
+Meta Mapping (646):
+   744   C0750558:Unlikely [Finding]
+   578   C0205170:Well (Good) [Qualitative Concept]
+   578   C0332268:lack (Lacking) [Qualitative Concept]
+   506   C1514863:Reproducibility [Qualitative Concept]
+   578   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: no systemic signs of inflammation - labs
+Meta Mapping (723):
+   586   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   586   C0205373:Systemic [Functional Concept]
+   753 N C0311392:SIGNS (Physical findings) [Finding]
+   586 N C0021368:INFLAMMATION (Inflammation) [Pathologic Function]
+   586 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: troponins - EKG
+Meta Mapping (888):
+   694   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: in clinic -
+Meta Mapping (888):
+   861   C0150312:In (Present) [Finding]
+   861   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: refer
+Meta Mapping (1000):
+  1000   C0205543:Refer (Referring) [Functional Concept]
+
+Phrase: to exercise stress testing - Start ASA 81mg daily -
+Meta Mapping (623):
+   626   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   668   C0015260:exercise stress testing (Exercise stress test) [Diagnostic Procedure]
+   626   C0439659:Start (Beginning) [Temporal Concept]
+   626   C0004057:ASA (aspirin) [Organic Chemical,Pharmacologic Substance]
+   626   C0332173:Daily [Temporal Concept]
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: increase in dose of lisinopril
+Meta Mapping (736):
+   797   C4297006:Increase dose [Finding]
+   593   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: ;
+
+Phrase: cannot
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out white coat hypertension/stress for high BP today
+Meta Mapping (750):
+   623 N C0262534:White Coat Hypertension [Disease or Syndrome]
+   762 N C0564404:stress out (Feeling stressed) [Mental Process]
+   575   C1299351:High (Abnormally high) [Qualitative Concept]
+   575   C1415692:Bp (HP gene) [Gene or Genome]
+   575   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]

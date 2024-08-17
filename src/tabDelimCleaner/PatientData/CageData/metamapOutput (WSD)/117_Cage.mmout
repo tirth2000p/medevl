@@ -1,0 +1,564 @@
+Processing 117_Cage.txt.tx.1: Subjective  Ms. 
+
+Phrase: Subjective  Ms.
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 117_Cage.txt.tx.2: Gerry Cage is a 55yo female with PMHx of hypertension presenting to the clinic with concerns of recent chest pains. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55yo female with PMHx of hypertension presenting
+Meta Mapping (683):
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   587   C5205099:Hypertension Present [Finding]
+
+Phrase: to the clinic with concerns of recent chest pains.
+Meta Mapping (708):
+   575   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   742   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   575   C2699424:Concerns (Concern) [Idea or Concept]
+   575   C0332185:Recent [Temporal Concept]
+   576   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 117_Cage.txt.tx.3: Three days ago, when she was leaving grocery story, she was walking to the care when she felt onset of substernal chest pains. 
+
+Phrase: Three days ago,
+Meta Mapping (790):
+   660   C0205449:Three [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: was
+
+Phrase: leaving grocery story,
+Meta Mapping (802):
+   660   C1706081:Leaving (Departure - action) [Activity]
+   827   C1547707:Story (Floor - story of building) [Geographic Area]
+
+Phrase: she
+
+Phrase: was
+
+Phrase: walking to the care
+Meta Mapping (708):
+   770   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   604   C1947933:Care (care activity) [Activity]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: onset of substernal chest pains.
+Meta Mapping (805):
+   760   C0206132:Onset (Age of Onset) [Quantitative Concept]
+   678   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+Processing 117_Cage.txt.tx.4: She sat in her car for 5-10 minutes and they subsided. 
+
+Phrase: She
+
+Phrase: sat in her car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: they
+
+Phrase: subsided.
+Processing 117_Cage.txt.tx.5: She has had "twinges" of chest pain for the past 4 months, mainly when she is doing some activity like running down the street to get her cat or going up a flight of stairs. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: "twinges"
+
+Phrase: of chest pain for the past 4 months,
+Meta Mapping (715):
+   772   C0024902:of breast pain (Mastodynia) [Sign or Symptom]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: mainly
+
+Phrase: when
+
+Phrase: she
+
+Phrase: is
+
+Phrase: doing
+
+Phrase: some activity like running
+Meta Mapping (783):
+   604   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   819   C0035953:Activity, running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: down the street
+Meta Mapping (1000):
+  1000   C1301826:STREET (Street address) [Intellectual Product]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: get
+
+Phrase: her cat
+Meta Mapping (1000):
+  1000   C0007450:CAT (Felis catus) [Mammal]
+
+Phrase: or
+
+Phrase: going up a flight of stairs.
+Meta Mapping (672):
+   753   C2610507:flight (flight (process)) [Phenomenon or Process]
+   753   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+Processing 117_Cage.txt.tx.6: She is currently on lisinopril and chlorthalidone, and does not check her blood pressure at home. 
+
+Phrase: She
+
+Phrase: is
+
+Phrase: currently on lisinopril
+Meta Mapping (746):
+   790   C0521116:Currently (Current (present time)) [Temporal Concept]
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: check
+Meta Mapping (1000):
+  1000   C1283174:Check (Checking (action)) [Activity]
+
+Phrase: her blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: at home.
+Meta Mapping (1000):
+  1000 N C4534363:At home [Finding]
+Processing 117_Cage.txt.tx.7: She gets her BP checked once a month at work and is unaware if it is ever abnormal. 
+
+Phrase: She gets
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: her BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: checked
+Meta Mapping (1000):
+  1000   C1283174:Checked (Checking (action)) [Activity]
+
+Phrase: once
+Meta Mapping (1000):
+  1000   C1948045:ONCE (Once (schedule frequency)) [Temporal Concept]
+
+Phrase: a month at work
+Meta Mapping (708):
+   770   C0332177:/month (Monthly (qualifier value)) [Temporal Concept]
+   604   C0043227:Work [Occupational Activity]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: unaware
+Meta Mapping (1000):
+  1000   C0150114:UNAWARE (unaware) [Research Activity]
+
+Phrase: if
+
+Phrase: it
+
+Phrase: is
+
+Phrase: ever abnormal.
+Meta Mapping (888):
+   694   C3887636:Ever [Temporal Concept]
+   861   C0205161:ABNORMAL (Abnormal) [Finding]
+Processing 117_Cage.txt.tx.8: Reports a healthy diet with 3 balanced meals, including meats and veggies. 
+
+Phrase: Reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: a healthy diet with 3 balanced meals,
+Meta Mapping (696):
+   778   C0452415:Diet, Healthy [Finding]
+   581   C0205415:Balanced (Balanced - adjective) [Functional Concept]
+   581   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Meta Mapping (696):
+   581   C3898900:Healthy [Qualitative Concept]
+   774   C0452410:Balanced diet [Therapeutic or Preventive Procedure]
+   581   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: meats
+Meta Mapping (1000):
+  1000   C0025017:Meats (Meat) [Food]
+
+Phrase: and
+
+Phrase: veggies.
+Processing 117_Cage.txt.tx.9: Social history significant for smoking cigarettes 1ppd x 30 years.   
+
+Phrase: Social history
+Meta Mapping (1000):
+  1000   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: significant for smoking cigarettes 1ppd x 30 years.
+Meta Mapping (675):
+   744   C0750502:Significant [Idea or Concept]
+   584   C0700219:CIGARETTE SMOKING (Cigarette smoking behavior) [Individual Behavior]
+   578   C3842588:30% [Quantitative Concept]
+   578   C0439234:YEARS (year) [Temporal Concept]
+Processing 117_Cage.txt.tx.10: Family hx:  Mom: HTN, T2DM, Pulmonary aneurysm at 60 yo Dad: Heart Attack at 40 yo Two brothers: Healthy   Objective VS:  BP: 150/92 P: 85 RR: 14 T: 98F  PE:  General: NAD, well-appearing  Lungs: CTAB, normal lungs sounds, no w/c/r Heart: RRR, no m/g/r Abd: Soft, non-tender, non-distended MSK: No LE edema, cyanosis, no tenderness to palpation on ribcage   Assessment:  Ms. 
+
+Phrase: Family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: Pulmonary aneurysm at 60 yo Dad
+Meta Mapping (723):
+   586   C2707265:Pulmonary (Pulmonary:-:Point in time:^Patient:-) [Clinical Attribute]
+   753   C0002940:ANEURYSM (Aneurysm) [Pathologic Function]
+   586   C3842585:60% [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   586   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Heart Attack at 40 yo Two brothers
+Meta Mapping (737):
+   778   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   581   C3842587:40% [Quantitative Concept]
+   581   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   581   C0205448:Two [Quantitative Concept]
+   581   C0337527:Brothers [Family Group]
+
+Phrase: :
+
+Phrase: Healthy   Objective
+Meta Mapping (964):
+   964   C3839803:Health objective [Intellectual Product]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 P
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 T
+
+Phrase: :
+
+Phrase: 98F  PE
+Meta Mapping (861):
+   861   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: NAD,
+Meta Mapping (1000):
+  1000   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: well-appearing  Lungs
+Meta Mapping (840):
+   660   C0205170:Well (Good) [Qualitative Concept]
+   627   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   827   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: normal lungs
+Meta Mapping (983):
+   983   C5231182:Normal lung [Finding]
+
+Phrase: sounds
+Meta Mapping (1000):
+  1000   C0037709:Sounds (Sound - physical agent) [Natural Phenomenon or Process]
+
+Phrase: ,
+
+Phrase: no w/c/r Heart
+Meta Mapping (750):
+   645   C2603358:R' (R prime) [Clinical Attribute]
+   812   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no m/g/r Abd
+Meta Mapping (861):
+   708   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   645   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+   812   C0000726:abd (Abdomen) [Body Location or Region]
+Meta Mapping (861):
+   694   C0456715:m g (g.m) [Quantitative Concept]
+   645   C2603358:R' (R prime) [Clinical Attribute]
+   812   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Soft, non-tender, non-distended MSK
+Meta Mapping (769):
+   632   C0205358:Soft [Qualitative Concept]
+   660   C0520960:Non-tender [Qualitative Concept]
+   632 N C0700124:Distended (Dilated) [Finding]
+   799   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: No LE edema,
+Meta Mapping (888):
+   694   C2697858:LE (LE, Rat Strain) [Mammal]
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: cyanosis,
+Meta Mapping (1000):
+  1000 N C0010520:CYANOSIS (Cyanosis) [Sign or Symptom]
+
+Phrase: no tenderness to palpation
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: on ribcage   Assessment
+Meta Mapping (888):
+   694   C0222762:Ribcage (Rib Cage) [Body Part, Organ, or Organ Component]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 117_Cage.txt.tx.11: Gerry Cage is a 55yo female with PMHx of hypertension and 30 year pack history. presenting to the clinic with concerns of recent chest pains after exertional activity.  
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55yo female with PMHx of hypertension
+Meta Mapping (663):
+   748   C0086287:FEMALE (Females) [Organism Attribute]
+   581   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: 30 year pack history. presenting to the clinic
+Meta Mapping (719):
+   578   C3842588:30% [Quantitative Concept]
+   600   C1277691:Pack Year (Pack years) [Intellectual Product]
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   564   C5204342:Clinical History [Intellectual Product]
+Meta Mapping (719):
+   578   C3842588:30% [Quantitative Concept]
+   600   C1277691:Pack Year (Pack years) [Intellectual Product]
+   578   C0262926:History (Medical History) [Finding]
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   578   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with concerns of recent chest pains
+Meta Mapping (832):
+   586   C0332287:With (In addition to) [Functional Concept]
+   753   C2699424:Concerns (Concern) [Idea or Concept]
+   586   C0332185:Recent [Temporal Concept]
+   609   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: after exertional activity.
+Meta Mapping (888):
+   694   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   861   C1561536:*Activity (*Activity (kind of quantity)) [Idea or Concept]
+Processing 117_Cage.txt.tx.12: Likely due to stable angina.   
+
+Phrase: Likely due to stable angina.
+Meta Mapping (857):
+   760   C0750492:Likely (Probably) [Idea or Concept]
+   806   C0678226:Due To (Due to) [Functional Concept]
+   806   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 117_Cage.txt.tx.13: Other ddx:  Unstable angina  MI GERD Myocarditis  Plan - Lipid panel, HbgA1c, and BMP to assess for hyperlipidemia and diabetes due to patient risk factors, including family history - Order EKG  - Initiate beta blocker therapy to better control HTN + stable angina - Initiate Aspirin 81mg daily  - Counsel cessation of smoking  - F/u in 4-6 months, sooner if symptoms return
+
+Phrase: Other ddx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Unstable angina  MI GERD Myocarditis  Plan - Lipid panel,
+Meta Mapping (819):
+   645   C0002965:Angina, Unstable [Disease or Syndrome]
+   626   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   626   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   626   C0027059:MYOCARDITIS (Myocarditis) [Disease or Syndrome]
+   626   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   812   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: HbgA1c,
+
+Phrase: and
+
+Phrase: BMP
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for hyperlipidemia
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0020473:Hyperlipidaemia, NOS (Hyperlipidemia) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: diabetes due to patient risk factors,
+Meta Mapping (839):
+   753   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   623   C0678226:Due To (Due to) [Functional Concept]
+   586   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   623   C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: family history - Order EKG  -
+Meta Mapping (861):
+   694   C0241889:FAMILY HISTORY (Family history) [Finding]
+   645   C1705178:Order (Order (action)) [Activity]
+   812   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Initiate
+Meta Mapping (1000):
+  1000   C1548602:Initiate (Initiate (source type)) [Idea or Concept]
+
+Phrase: beta blocker therapy to
+Meta Mapping (923):
+   923   C4723804:beta blocker therapy (beta-adrenergic antagonist therapy) [Therapeutic or Preventive Procedure]
+
+Phrase: better
+Meta Mapping (1000):
+  1000   C0332272:Better [Qualitative Concept]
+
+Phrase: control
+Meta Mapping (1000):
+  1000   C2587213:Control (Control function) [Functional Concept]
+
+Phrase: HTN + stable angina -
+Meta Mapping (901):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   901   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: Initiate
+Meta Mapping (1000):
+  1000   C1548602:Initiate (Initiate (source type)) [Idea or Concept]
+
+Phrase: Aspirin 81mg daily  - Counsel cessation of smoking  - F/u
+Meta Mapping (765):
+   575   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+   575   C0332173:Daily [Temporal Concept]
+   575   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   790   C0337671:Cessation of smoking (Former smoker) [Finding]
+   575   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   575   C0439148:{U} (Unit) [Quantitative Concept]
+
+Phrase: in 4-6 months,
+Meta Mapping (901):
+   734   C3843788:4 - 6 [Quantitative Concept]
+   827   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: sooner
+
+Phrase: if
+
+Phrase: symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: return
+Meta Mapping (1000):
+  1000   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]

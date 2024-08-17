@@ -1,0 +1,112 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C4281799,Gc,"GC, vitamin D binding protein, human",-1000,-1000,GC,0,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C1511511,CHTN,Cooperative Human Tissue Network,-604,-604,a 55F with cHTN,6,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0011900,Diagnosed,Diagnosis,-1000,-1000,diagnosed,22,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C4086544,< 10 years,Life Expectancy Less than Ten Years,-901,-901,10 years ago,32,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0150312,PRESENT,Present,-1000,-1000,presents,49,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0231290,Following,Status post,-1000,-1000,following,58,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0619883,AN 3,AN 3,-600,-789,an episode of chest pain 3 days ago.,68,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-770,-789,an episode of chest pain 3 days ago.,68,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-604,-789,an episode of chest pain 3 days ago.,68,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0439228,DAYS,day,-578,-789,an episode of chest pain 3 days ago.,68,True,GC is a 55F with cHTN diagnosed 10 years ago who presents following an episode of chest pain 3 days ago. 
+C0460139,Pressure,Pressure (finding),-1000,-1000,pressure,130,True,"She describes substernal pressure that ""took her breath away"" and reports feeling faint. "
+C1515187,Take,Take,-966,-966,took,145,True,"She describes substernal pressure that ""took her breath away"" and reports feeling faint. "
+C3154057,Breath-Away,Breath-Away,-1000,-1000,"her breath away""",150,True,"She describes substernal pressure that ""took her breath away"" and reports feeling faint. "
+C0700287,reports,Reporting,-1000,-1000,reports,171,True,"She describes substernal pressure that ""took her breath away"" and reports feeling faint. "
+C0581879,Feeling faint,Felt faint,-1000,-1000,feeling faint.,179,True,"She describes substernal pressure that ""took her breath away"" and reports feeling faint. "
+C0332189,EPISODE,Episode of,-1000,-1000,This episode,194,True,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C1517741,Last,Last,-966,-966,lasted,207,True,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C3845579,5-10 minutes,5-10 minutes,-1000,-1000,5-10 minutes,214,True,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C1514893,Resolved,physiologic resolution,-790,-746,resolved after sitting,231,True,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C0277814,SITTING,Sitting position,-790,-746,resolved after sitting,231,False,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C0004381,Car,Automobiles,-1000,-1000,in her car.,254,True,This episode lasted 5-10 minutes and resolved after sitting in her car. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,270,True,She denies recurrence. 
+C0034897,Recurrence,Recurrence,-1000,-1000,recurrence.,277,True,She denies recurrence. 
+C0205435,First,First (number),-861,-888,the first time,295,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0040223,TIME,Time,-861,-888,the first time,295,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,pain,322,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0205082,Severe,Severe (severity modifier),-1000,-1000,"this severe,",327,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0700287,reports,Reporting,-1000,-1000,reports,344,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0205156,Previous,Previous,-694,-694,"previous ""twinges""",352,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0301616,over-exertion,Overexertion,-607,-687,over the past 4 mo with exertion.,371,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C1444637,Past,In the past,-581,-687,over the past 4 mo with exertion.,371,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C0332177,/mo,Monthly (qualifier value),-748,-687,over the past 4 mo with exertion.,371,True,"It is the first time she has had pain this severe, she reports previous ""twinges"" over the past 4 mo with exertion. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,409,True,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0035253,Resting,Rest,-1000,-1000,resting,416,True,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0013404,SOB,Dyspnea,-1000,-1000,"SOB,",424,False,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0521116,CURRENT,Current (present time),-660,-901,"current chest pain,",429,True,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0008031,CHEST PAIN,Chest Pain,-901,-901,"current chest pain,",429,False,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0158369,extremity swelling,Swelling of limb,-841,-841,"swelling of extremities,",449,False,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0018681,HEADACHE,Headache,-1000,-1000,"headache,",474,False,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C0750280,Visual Changes,Visual changes,-964,-964,vision changes.,484,False,"She denies resting SOB, current chest pain, swelling of extremities, headache, vision changes. "
+C1518422,Not,Negation,-1000,-1000,not,508,True,She has not been seen by cardiologist and denies previous testing. 
+C0583557,Seen by cardiologist,Seen by cardiologist,-1000,-1000,seen by cardiologist,517,False,She has not been seen by cardiologist and denies previous testing. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,542,True,She has not been seen by cardiologist and denies previous testing. 
+C0205156,Previous,Previous,-694,-888,previous testing.,549,True,She has not been seen by cardiologist and denies previous testing. 
+C0039593,Testing,Testing,-861,-888,previous testing.,549,True,She has not been seen by cardiologist and denies previous testing. 
+C1518422,Not,Negation,-1000,-1000,not,576,True,She does not have a blood pressure cuff at home. 
+C0180208,Blood pressure cuff,Blood pressure cuff,-1000,-1000,a blood pressure cuff,585,True,She does not have a blood pressure cuff at home. 
+C4534363,At home,At home,-1000,-1000,at home.,607,False,She does not have a blood pressure cuff at home. 
+C0700287,reports,Reporting,-1000,-1000,reports,620,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0849164,blood medications,blood medications,-708,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0460139,Pressure,Pressure (finding),-645,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0750526,Today,Today (temporal qualifier),-812,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C1271104,Blood Pressure,Blood pressure finding,-694,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0013227,Medications,Pharmaceutical Preparations,-645,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0750526,Today,Today (temporal qualifier),-812,-861,her blood pressure medications today,635,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0445247,SAME,Same,-760,-695,been on the same doses,680,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0178602,Doses,Dosage,-760,-695,been on the same doses,680,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C1444637,Past,In the past,-660,-901,for the past 10 years.,703,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C4086544,< 10 years,Life Expectancy Less than Ten Years,-901,-901,for the past 10 years.,703,True,She reports taking her blood pressure medications today and has been on the same doses for the past 10 years. 
+C0262926,PMH,Medical History,-1000,-1000,PMH,726,True,"PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",731,True,"PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) "
+C2700401,Deny,Deny (action),-1000,-1000,denies,736,True,"PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) "
+C0020443,HYPERCHOLESTEROLEMIA,Hypercholesterolemia,-694,-888,hypercholesterolemia Meds,743,False,"PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) "
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-861,-888,hypercholesterolemia Meds,743,False,"PMH: HTN, denies hypercholesterolemia Meds: chlorothiozone (?) "
+C1705223,Tab,Tablet Dosing Unit,-645,-775,"25mg tab PO daily,",789,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0442027,PO,Oral,-812,-775,"25mg tab PO daily,",789,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0332173,Daily,Daily,-645,-775,"25mg tab PO daily,",789,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-756,-916,lisinopril 10 mg PO,808,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0442027,PO,Oral,-812,-916,lisinopril 10 mg PO,808,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0332173,Daily,Daily,-1000,-1000,daily,828,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0750526,Today,Today (temporal qualifier),-629,-713,"150/92 today in clinic, afebrile PE",838,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0002424,Clinic,Ambulatory Care Facilities,-629,-713,"150/92 today in clinic, afebrile PE",838,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0277797,Afebrile,Apyrexial,-629,-713,"150/92 today in clinic, afebrile PE",838,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C1880476,PE,Etoposide-Platinol Regimen,-795,-713,"150/92 today in clinic, afebrile PE",838,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C3715215,S1,S1,-1000,-1000,"S1,",875,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C1419718,S2,RPS2 gene,-1000,-1000,"S2,",878,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0205272,Regular,Regular,-694,-888,regular rate,882,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0871208,Rate,Rating (action),-861,-888,regular rate,882,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0871269,Rhythm,Rhythm,-1000,-1000,rhythm.,899,True,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0425687,JVD,Jugular venous engorgement,-1000,-1000,"no JVD,",907,False,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C0007280,carotid bruits,Carotid bruit,-1000,-1000,no carotid bruits.,915,False,"25mg tab PO daily, lisinopril 10 mg PO daily VS: 150/92 today in clinic, afebrile PE: S1,S2, regular rate and rhythm. no JVD, no carotid bruits.  "
+C2827735,2+,2+ Score,-645,-861,2+ bilateral radial pulses.,935,True,2+ bilateral radial pulses. 
+C0238767,BILATERAL,Bilateral,-645,-861,2+ bilateral radial pulses.,935,True,2+ bilateral radial pulses. 
+C0518831,radial PULSES,radial PULSES,-861,-861,2+ bilateral radial pulses.,935,True,2+ bilateral radial pulses. 
+C2697858,LE,"LE, Rat Strain",-660,-790,No LE edema bilaterally.,963,True,No LE edema bilaterally. 
+C0013604,OEDEMA,Edema,-827,-790,No LE edema bilaterally.,963,False,No LE edema bilaterally. 
+C0024109,LUNGS,Lung,-1000,-1000,Lungs,988,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C1709157,Clear,Negative Surgical Margin,-770,-733,clear to posterior auscultation,994,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C0205095,POSTERIOR,Dorsal,-770,-733,clear to posterior auscultation,994,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C0004339,AUSCULTATION,Auscultation,-770,-733,clear to posterior auscultation,994,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C1446409,rule,Positive,-1000,-1000,rule,1044,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C0849355,Out,Removed,-581,-706,out myocardial infarction in setting of angina.,1049,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C2926063,Myocardial infarction,Myocardial infarction:Finding:Point in time:^Patient:Ordinal,-778,-706,out myocardial infarction in setting of angina.,1049,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C1318139,{Setting},{Setting},-581,-706,out myocardial infarction in setting of angina.,1049,True,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C0002962,ANGINA,Angina Pectoris,-581,-706,out myocardial infarction in setting of angina.,1049,False,Lungs clear to posterior auscultation bilaterally A/P : rule out myocardial infarction in setting of angina. 
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,Unstable angina.,1097,True,Unstable angina. 
+C1623258,ECG NOS,Electrocardiography,-694,-888,- ECG today,1114,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0750526,Today,Today (temporal qualifier),-861,-888,- ECG today,1114,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0150312,In,Present,-861,-888,in clinic,1126,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0002424,Clinic,Ambulatory Care Facilities,-861,-888,in clinic,1126,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1883351,To,To,-1000,-1000,to,1136,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0232326,ST segment changes,EKG ST segment changes,-647,-775,"ST-segment changes - BP cuff for home,",1148,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1415692,Bp,HP gene,-581,-775,"ST-segment changes - BP cuff for home,",1148,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0441107,Cuff,Cuffs device,-748,-775,"ST-segment changes - BP cuff for home,",1148,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1553498,Home,home health encounter,-581,-775,"ST-segment changes - BP cuff for home,",1148,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1442085,Instructions,Instructions,-770,-770,instructions for how to,1187,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0242485,Measure,Measurement,-1000,-1000,measure,1220,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1272641,blood pressures,Systemic arterial pressure,-604,-707,"blood pressures at home, return with log - cardiology",1228,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0579192,Return Home,Returned home,-767,-707,"blood pressures at home, return with log - cardiology",1228,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C1708728,Log,Event Log,-578,-707,"blood pressures at home, return with log - cardiology",1228,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"
+C0007189,Cardiology,Cardiology discipline,-578,-707,"blood pressures at home, return with log - cardiology",1228,True,"- ECG today in clinic to identify ST-segment changes - BP cuff for home, instructions for how to properly measure blood pressures at home, return with log - cardiology"

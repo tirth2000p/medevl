@@ -1,0 +1,461 @@
+Processing 137_Cage.txt.tx.1: Patient: Gerry Cage 55 yo F Source: Self, reliable Subjective  Gerry cage is a 55 yo female with history of hypertension diagnosed 5 years ago. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: :
+
+Phrase: Gerry Cage 55 yo F Source
+Meta Mapping (814):
+   632   C1019207:gerry (Gerris) [Eukaryote]
+   632   C0337189:Cage (Cage device) [Manufactured Object]
+   632   C0450382:55 [Intellectual Product]
+   632   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   632   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   799   C0449416:Source [Finding]
+
+Phrase: :
+
+Phrase: Self,
+Meta Mapping (1000):
+  1000   C0036588:Self [Idea or Concept]
+
+Phrase: reliable Subjective  Gerry cage
+Meta Mapping (833):
+   645   C3858758:Reliable [Functional Concept]
+   645   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   645   C1019207:gerry (Gerris) [Eukaryote]
+   812   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with history of hypertension
+Meta Mapping (730):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   633   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: diagnosed
+Meta Mapping (1000):
+  1000   C0011900:Diagnosed (Diagnosis) [Diagnostic Procedure]
+
+Phrase: 5 years ago.
+Meta Mapping (901):
+   901   C4086543:< 5 years (Life Expectancy Less than Five Years) [Intellectual Product]
+Processing 137_Cage.txt.tx.2: Over the past few weeks she has several episodes of chest pain which she describes as "heaviness" that localizes substernally. 
+
+Phrase: Over the past few weeks
+Meta Mapping (896):
+   896   C2987125:Past Week [Temporal Concept]
+
+Phrase: she
+
+Phrase: has
+
+Phrase: several episodes of chest pain
+Meta Mapping (858):
+   593   C0439064:Several (Numerous) [Quantitative Concept]
+   760   C0332189:Episodes (Episode of) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: which she
+
+Phrase: describes as "heaviness"
+Meta Mapping (718):
+   718   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: localizes
+Meta Mapping (1000):
+  1000   C0392752:localize (Localized) [Spatial Concept]
+
+Phrase: substernally.
+Processing 137_Cage.txt.tx.3: Her last episode was 3-4 days ago. 
+
+Phrase: Her last episode
+Meta Mapping (888):
+   694   C1517741:Last [Qualitative Concept]
+   861   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: 3-4 days ago.
+Meta Mapping (923):
+   923   C4288131:3 - 4 days (Three or Four Days) [Finding]
+Processing 137_Cage.txt.tx.4: All episodes resolve with rest. 
+
+Phrase: All episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: resolve with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 137_Cage.txt.tx.5: She does not have episodes while at rest. 
+
+Phrase: She
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: have
+
+Phrase: episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: while at rest.
+Meta Mapping (746):
+   790   C0750519:while [Idea or Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 137_Cage.txt.tx.6: She denies nausea, vomiting, diaphoresis. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C1963281:Vomiting (Vomiting, CTCAE) [Finding]
+
+Phrase: ,
+
+Phrase: diaphoresis.
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+Processing 137_Cage.txt.tx.7: She does endorse lightheadedness during the episodes.  
+
+Phrase: She
+
+Phrase: does
+
+Phrase: endorse
+
+Phrase: lightheadedness during the episodes.
+Meta Mapping (708):
+   770   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   604   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 137_Cage.txt.tx.8: Meds: Chlorthalidone, Lisinopril -HTN Allergies - none PMH: HTN - 5 years, does not know home BP Social hx: Smoker, 30 years 1 ppd, social alcohol drinking Fam Hx: father, MI at 40 after CABG, deceased  Mother - DM, Pulmonary embolism at 60, deceased Brothers - healthy  Objective: Vitals: T98, P85, R14, BP 150/92 Exam:  General: Well groomed, no apparent distress, dressed in  gown CV: normal rate, regular rhythm, S1/S2, no murmurs, rubs, thrills; pulses 2+ in all extremities Pulm: No increased work of breathing, CTAB bilaterally, no clubbing Skin: Warm, Dry intact  Assessment: Gerry Cage is a 55 year old woman with history of hypertension who is seen today following several episodes of acute onset substernal chest pain during physical activity that resolves with rest. leading diagnosis: stable angina. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: Lisinopril -HTN Allergies -
+Meta Mapping (890):
+   896   C0571941:Lisinopril allergy [Disease or Syndrome]
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: none PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN - 5 years,
+Meta Mapping (802):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   827   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: know
+
+Phrase: home BP Social hx
+Meta Mapping (861):
+   645   C0442519:HOME (Home environment) [Spatial Concept]
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   861   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Smoker,
+Meta Mapping (1000):
+  1000 N C0337664:Smoker [Finding]
+
+Phrase: 30 years 1 ppd,
+Meta Mapping (775):
+   645   C3842588:30% [Quantitative Concept]
+   645   C0439234:YEARS (year) [Temporal Concept]
+   812   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: social alcohol drinking Fam Hx
+Meta Mapping (857):
+   897   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+   673   C0001948:Alcohol Drinking (Alcohol consumption) [Individual Behavior]
+   637   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: father,
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: MI at 40
+Meta Mapping (746):
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   623   C3842587:40% [Quantitative Concept]
+
+Phrase: after CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: deceased  Mother - DM,
+Meta Mapping (901):
+   734   C0425049:deceased mother (Death of mother) [Finding]
+   827   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: Pulmonary embolism at 60,
+Meta Mapping (783):
+   833   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+   604   C3842585:60% [Quantitative Concept]
+
+Phrase: deceased Brothers - healthy  Objective
+Meta Mapping (843):
+   645   C0011065:Deceased (Cessation of life) [Organism Function]
+   645   C0337527:Brothers [Family Group]
+   825   C3839803:Health objective [Intellectual Product]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T98,
+
+Phrase: P85,
+Meta Mapping (1000):
+  1000   C3541313:p85 (PIK3R2 wt Allele) [Gene or Genome]
+
+Phrase: R14,
+
+Phrase: BP 150/92 Exam
+Meta Mapping (791):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   812   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Well groomed,
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0018249:groom (Grooming) [Individual Behavior]
+
+Phrase: no apparent distress,
+Meta Mapping (888):
+   694   C0750489:apparent [Idea or Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: dressed in  gown CV
+Meta Mapping (722):
+   737   C0453926:Dress (dress garment) [Manufactured Object]
+   770   C0181064:GOWN (Gown) [Medical Device]
+   770   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: regular rhythm,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861 N C0871269:Rhythm [Finding]
+
+Phrase: S1/S2,
+Meta Mapping (888):
+   694   C3715215:S1 [Finding]
+   861   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: thrills
+Meta Mapping (1000):
+  1000 N C0232269:thrills (Cardiac thrill (finding)) [Finding]
+
+Phrase: ;
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+
+Phrase: 2+
+Meta Mapping (1000):
+  1000   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+
+Phrase: in all extremities
+Meta Mapping (1000):
+  1000   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: No increased work of breathing,
+Meta Mapping (928):
+   593   C1298908:No (no) [Finding]
+   926 N C0859927:Increased work of breathing [Sign or Symptom]
+
+Phrase: CTAB bilaterally,
+Meta Mapping (861):
+   861   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no clubbing Skin
+Meta Mapping (888):
+   694 N C0009080:Clubbing (Clubbed Fingers) [Anatomical Abnormality]
+   861   C1123023:SKIN (Skin) [Body System]
+
+Phrase: :
+
+Phrase: Warm, Dry intact  Assessment
+Meta Mapping (833):
+   645   C0687712:warm (warming process) [Natural Phenomenon or Process]
+   645   C0205222:Dry [Qualitative Concept]
+   645 N C1554187:Intact (Gender Status - Intact) [Finding]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 year old woman with history of hypertension
+Meta Mapping (722):
+   575   C0450382:55 [Intellectual Product]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C0043210:WOMAN (Woman) [Population Group]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: is
+
+Phrase: seen
+Meta Mapping (1000):
+  1000   C0205397:Seen (seen) [Qualitative Concept]
+
+Phrase: today
+Meta Mapping (1000):
+  1000   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0231290:Following (Status post) [Temporal Concept]
+
+Phrase: several episodes of acute onset substernal chest pain
+Meta Mapping (835):
+   578   C0439064:Several (Numerous) [Quantitative Concept]
+   754   C0332189:Episode of [Temporal Concept]
+   604   C0205178:Acute onset (acute) [Temporal Concept]
+   633   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: during physical activity
+Meta Mapping (1000):
+  1000   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: resolves with rest. leading diagnosis
+Meta Mapping (733):
+   760   C2699488:Resolve (Resolution) [Conceptual Entity]
+   760   C0035253:Rest [Daily or Recreational Activity]
+   760   C1522538:Leading [Functional Concept]
+   760   C0011900:DIAGNOSIS (Diagnosis) [Diagnostic Procedure]
+
+Phrase: :
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 137_Cage.txt.tx.9: Also possible: MI, Aortic aneursym, PE, GERD  Plan: EKG Troponin I Walking Stress Test Start aspirin and clopidogrel A1c for DM screen
+
+Phrase: Also possible
+Meta Mapping (861):
+   861   C0332149:Possible [Finding]
+
+Phrase: :
+
+Phrase: MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: Aortic aneursym,
+Meta Mapping (694):
+   694   C0003483:Aortic (Aorta) [Body Part, Organ, or Organ Component]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: GERD  Plan
+Meta Mapping (888):
+   694   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: EKG Troponin I Walking Stress Test Start aspirin
+Meta Mapping (833):
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   645   C0077401:Troponin I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   668   C0430506:Walking Stress test (Walking exercise test) [Diagnostic Procedure]
+   626   C0439659:Start (Beginning) [Temporal Concept]
+   793   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: clopidogrel A1c for DM screen
+Meta Mapping (724):
+   593   C0070166:CLOPIDOGREL (clopidogrel) [Organic Chemical,Pharmacologic Substance]
+   760   C4521595:A1C (US Military enlisted E3) [Classification]
+   593   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+   593   C0220908:screen (Screening procedure) [Diagnostic Procedure]

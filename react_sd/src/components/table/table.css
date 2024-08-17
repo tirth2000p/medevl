@@ -1,0 +1,27 @@
+.de{
+    background: #282828;
+  } 
+.img{
+  height: 1.5rem;
+  width: 1.5rem;
+}
+td {
+  text-align: center;
+}
+
+
+
+tr:hover {background-color: rgb(202, 202, 202);}
+.arrow{
+  height: 1.2rem;
+  width: 1.2rem;
+}
+
+.aeroButton{
+  width: 2rem;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgb(101, 101, 101);
+  color: rgb(0, 0, 0);
+}

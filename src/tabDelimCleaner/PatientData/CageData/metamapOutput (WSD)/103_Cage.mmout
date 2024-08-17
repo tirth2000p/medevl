@@ -1,0 +1,638 @@
+Processing 103_Cage.txt.tx.1: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 103_Cage.txt.tx.2: Cage is a 55 year old female who presents today due to chest pain that occurred 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 year old female
+Meta Mapping (833):
+   645   C0450382:55 [Intellectual Product]
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today due to chest pain
+Meta Mapping (857):
+   760   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   640   C0678226:Due To (Due to) [Functional Concept]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 103_Cage.txt.tx.3: She reports she was walking out to her car carrying groceries when she experienced a deep aching substernal chest pain and chest heaviness. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: she
+
+Phrase: was
+
+Phrase: walking
+Meta Mapping (1000):
+  1000   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: out to her car carrying groceries
+Meta Mapping (697):
+   753   C0439787:Out (Out (direction)) [Spatial Concept]
+   753   C0574443:HER (Herero language) [Language]
+   753   C0004381:Car (Automobiles) [Manufactured Object]
+   753   C0206243:Carrying [Activity]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: a deep aching substernal chest pain
+Meta Mapping (875):
+   637   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   637   C0234238:Aching (Ache) [Sign or Symptom]
+   884   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: chest heaviness.
+Meta Mapping (1000):
+  1000   C0742339:chest heaviness [Sign or Symptom]
+Processing 103_Cage.txt.tx.4: The pain lasts 5-10 minutes and resolved with rest. 
+
+Phrase: The pain lasts 5-10 minutes
+Meta Mapping (812):
+   637   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   840   C0456692:/10 minutes (/10 min) [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 103_Cage.txt.tx.5: She also reports feeling short of breath and faint at that time. 
+
+Phrase: She
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: feeling short of breath
+Meta Mapping (916):
+   770   C1527305:Feeling (Feelings) [Mental Process]
+   743   C0013404:Short of breath (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: faint at
+Meta Mapping (833):
+   833   C0039070:FAINT (Syncope) [Sign or Symptom]
+
+Phrase: that time.
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+Processing 103_Cage.txt.tx.6: She describes 2-3 other episodes of chest pain related to exertion over the past 4 months but describes these episodes as a short "twinge" of pain that resolved immediately. 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: 2-3
+Meta Mapping (1000):
+  1000   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+
+Phrase: other episodes of chest pain
+Meta Mapping (885):
+   677   C0029537:Other chest pain [Sign or Symptom]
+   790   C0332189:Episode of [Temporal Concept]
+
+Phrase: related to exertion
+Meta Mapping (746):
+   790   C0439849:Related (Relationships) [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: over the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: but
+
+Phrase: describes
+
+Phrase: these episodes as a short "twinge" of pain
+Meta Mapping (675):
+   578   C0039828:these (Theses) [Intellectual Product]
+   750   C0332189:Episode of [Temporal Concept]
+   578   C2350002:Short (Short Value) [Quantitative Concept]
+   578   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: that
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: immediately.
+Meta Mapping (1000):
+  1000   C0205548:Immediately (Stat (do immediately)) [Temporal Concept]
+Processing 103_Cage.txt.tx.7: Additionally reports episodes of upper abdominal pain and feeling of fullness after meals.   
+
+Phrase: Additionally
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: episodes of upper abdominal pain
+Meta Mapping (885):
+   790   C0332189:Episode of [Temporal Concept]
+   695   C0232492:ABDOMINAL PAIN, UPPER (Upper abdominal pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling of fullness
+Meta Mapping (746):
+   790   C1527305:Feeling (Feelings) [Mental Process]
+   623   C0439650:Fullness [Spatial Concept]
+
+Phrase: after meals.
+Meta Mapping (1000):
+  1000   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 103_Cage.txt.tx.8: Medications: Chlorthalidone 25 mg, Lisinopril 10 mg Allergies: None PHMx: Hypertension Surgeries: None Hospitalizations: None Fam Hx:  Father- CAD, Died at age 40 from an MI Mother- Deceased at age 60 from a pulmonary embolism, hypertension Social Hx: Tobacco: 1 ppd for 30 years Alcohol: 2-3 glasses of wine a night on weekends Denies recreational drug use  Objective: BP 150/92 P 85 RR 14 T98 Exam: Constitutional: pleasant, in no acute distress Lungs: Clear to auscultation bilaterally Chest: No ecchymosis, erythema, or lesions on exterior chest wall. 
+
+Phrase: Medications
+Meta Mapping (1000):
+  1000   C0013227:Medications (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25 mg,
+Meta Mapping (1000):
+  1000   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+
+Phrase: Lisinopril 10 mg Allergies
+Meta Mapping (916):
+   756   C0987217:Lisinopril 10 MG [Clinical Drug]
+   812   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: None PHMx
+Meta Mapping (1000):
+  1000   C1705700:PHMX (TSPAN32 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Hypertension Surgeries
+Meta Mapping (888):
+   694   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   861   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: None Hospitalizations
+Meta Mapping (1000):
+  1000   C0019993:Hospitalizations (Hospitalization) [Health Care Activity]
+
+Phrase: :
+
+Phrase: None Fam Hx
+Meta Mapping (888):
+   694   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Father- CAD,
+Meta Mapping (888):
+   694   C0015671:FATHER (Father (person)) [Family Group]
+   861   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: Died at age 40
+Meta Mapping (733):
+   770   C1546956:Died (Patient Outcome - Died) [Finding]
+   770   C0001779:AGE (Age) [Organism Attribute]
+   770   C0439509:/40 [Quantitative Concept]
+
+Phrase: from an MI Mother- Deceased at age 60
+Meta Mapping (698):
+   578   C1517320:From [Qualitative Concept]
+   578   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   767   C0425049:deceased mother (Death of mother) [Finding]
+   578   C0001779:AGE (Age) [Organism Attribute]
+   578   C3842585:60% [Quantitative Concept]
+
+Phrase: from a pulmonary embolism,
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: hypertension Social Hx
+Meta Mapping (901):
+   660   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   901   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Tobacco
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1 ppd for 30 years Alcohol
+Meta Mapping (723):
+   586   C2827734:1+ (1+ Score) [Quantitative Concept]
+   753   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+   586   C3842588:30% [Quantitative Concept]
+   586   C0439234:YEARS (year) [Temporal Concept]
+   586   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: a night on weekends
+Meta Mapping (708):
+   770   C0240526:Night (Night time) [Temporal Concept]
+   604   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: recreational drug use  Objective
+Meta Mapping (916):
+   756 N C0013146:Recreational Drug Use (Drug abuse) [Mental or Behavioral Dysfunction]
+   812   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: BP 150/92 P 85 RR 14 T98 Exam
+Meta Mapping (730):
+   624   C1415692:Bp (HP gene) [Gene or Genome]
+   624   C4517892:85 [Quantitative Concept]
+   624 N C4554402:RR (RR genotype) [Finding]
+   791   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Constitutional
+Meta Mapping (1000):
+  1000   C1511487:Constitutional [Idea or Concept]
+
+Phrase: :
+
+Phrase: pleasant,
+Meta Mapping (1000):
+  1000   C2987187:Pleasant [Mental Process]
+
+Phrase: in no acute distress Lungs
+Meta Mapping (867):
+   863 N C0740766:Acute Pneumonia [Disease or Syndrome]
+   660 N C0231303:Distress [Finding]
+
+Phrase: :
+
+Phrase: Clear to auscultation bilaterally Chest
+Meta Mapping (687):
+   760 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   593   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   593   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: :
+
+Phrase: No ecchymosis,
+Meta Mapping (1000):
+  1000 N C0013491:ECCHYMOSIS (Ecchymosis) [Pathologic Function]
+
+Phrase: erythema,
+Meta Mapping (1000):
+  1000 N C0041834:ERYTHEMA (Erythema) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: lesions on exterior chest wall.
+Meta Mapping (761):
+   760 N C0221198:lesions (Lesion) [Finding]
+   760 N C4698034:Exterior [Finding]
+   806   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+Processing 103_Cage.txt.tx.9: No tenderness to palpation of chest wall. 
+
+Phrase: No tenderness to palpation of chest wall.
+Meta Mapping (762):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   804 N C0239008:Tenderness of chest (Chest wall tenderness) [Finding]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   581   C0677535:Wall (Walls of a building) [Manufactured Object]
+Processing 103_Cage.txt.tx.10: Regular rate and rhythm. 
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+Processing 103_Cage.txt.tx.11: S1 and S2 without murmurs, rubs, or gallops. 
+
+Phrase: S1
+Meta Mapping (1000):
+  1000   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2 without murmurs,
+Meta Mapping (746):
+   790   C1419718:S2 (RPS2 gene) [Gene or Genome]
+   623 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops.
+Processing 103_Cage.txt.tx.12: PMI brisk in the left 5th intercostal space. 
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: brisk in the left 5th intercostal space.
+Meta Mapping (755):
+   748   C0443162:Brisk [Qualitative Concept]
+   581   C0205091:LEFT (Left) [Spatial Concept]
+   647   C4068815:5th intercostal space [Body Space or Junction]
+Processing 103_Cage.txt.tx.13: Abdomen: Soft, nondistended, no tenderness to palpation in all 4 quadrants Extremities: No pedal edema bilaterally  Assessment: Mrs. 
+
+Phrase: Abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Soft, nondistended,
+Meta Mapping (694):
+   694   C0205358:Soft [Qualitative Concept]
+
+Phrase: no tenderness to palpation
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: in all 4 quadrants Extremities
+Meta Mapping (840):
+   660 N C3838679:4+ (4+ Answer to question) [Finding]
+   627   C1631280:Quadrant [Spatial Concept]
+   827   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: No pedal edema bilaterally  Assessment
+Meta Mapping (824):
+   694 N C0239340:Pedal edema (Edema of lower extremity) [Finding]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mrs.
+Meta Mapping (1000):
+  1000   C2349188:Mrs. (Mrs - title) [Intellectual Product]
+Processing 103_Cage.txt.tx.14: Cage is a 55 year old female with hypertension and tobacco use who presents today due to recurrent episodes of chest pain and shortness of breath on exertion that resolve with rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 year old female with hypertension
+Meta Mapping (702):
+   581   C0450382:55 [Intellectual Product]
+   581   C0439508:/Year (per year) [Temporal Concept]
+   581   C0580836:Old [Temporal Concept]
+   748   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+   581   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: tobacco use
+Meta Mapping (1000):
+  1000   C0040335:Tobacco use NOS (Encounter due to tobacco use) [Finding]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today due to recurrent episodes of chest pain
+Meta Mapping (834):
+   744   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   626   C2169796:recurrent Chest Pain (recurrent Chest Pains) [Sign or Symptom]
+   587   C0332189:Episode of [Temporal Concept]
+
+Phrase: and
+
+Phrase: shortness of breath on exertion
+Meta Mapping (1000):
+  1000   C0231807:shortness of breath on exertion (Dyspnea on exertion) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: resolve with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 103_Cage.txt.tx.15: She has a strong family history of cardiac problems with her father passing away from an MI at age 40. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: a strong family history of cardiac problems
+Meta Mapping (728):
+   581   C0442821:Strong [Qualitative Concept]
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   612   C0262402:cardiac problems (cardiac problem) [Finding]
+
+Phrase: with her father passing away from an MI
+Meta Mapping (489):
+   578   C0332287:With (In addition to) [Functional Concept]
+   578   C0574443:HER (Herero language) [Language]
+   578   C0015671:FATHER (Father (person)) [Family Group]
+   578   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 40.
+Meta Mapping (888):
+   861   C0001779:AGE (Age) [Organism Attribute]
+   861   C0439509:/40 [Quantitative Concept]
+Processing 103_Cage.txt.tx.16: Exam is notable for hypertension and unremarkable cardiac exam. 
+
+Phrase: Exam
+Meta Mapping (1000):
+  1000   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: notable for hypertension
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: unremarkable cardiac exam.
+Meta Mapping (901):
+   660   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+   901   C0562319:Cardiac exam (Examination of heart) [Health Care Activity]
+Processing 103_Cage.txt.tx.17: Differential diagnosis includes coronary artery disease, angina, unstable angina, acute MI, and GERD.  
+
+Phrase: Differential diagnosis
+Meta Mapping (1000):
+  1000   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: coronary artery disease,
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+
+Phrase: angina,
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: acute MI,
+Meta Mapping (1000):
+  1000   C0155626:Acute MI (Acute myocardial infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: GERD.
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 103_Cage.txt.tx.18: Plan: - EKG - Lipid panel, CBC, CMP, Cr  - Exercise stress test - Increase dose of Lisinopril from 10 mg to 20 mg - Follow-up after stress test complete - Go the ER/ call 911 for episodes of chest pain that do not resolve after 15 minutes
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: EKG - Lipid panel,
+Meta Mapping (901):
+   660   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   901   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: Cr  - Exercise stress test - Increase dose of Lisinopril
+Meta Mapping (778):
+   578   C0201975:Cr (Creatinine measurement) [Laboratory Procedure]
+   633   C0015260:Exercise stress test [Diagnostic Procedure]
+   770   C4297006:Increase dose [Finding]
+   578   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: from 10 mg to 20 mg - Follow-up
+Meta Mapping (739):
+   578   C1517320:From [Qualitative Concept]
+   578   C3842590:10% [Quantitative Concept]
+   767   C1319635:mg/mg [Quantitative Concept]
+   578   C3842589:20% [Quantitative Concept]
+   604   C1522577:Followup (follow-up) [Health Care Activity]
+Meta Mapping (739):
+   578   C1517320:From [Qualitative Concept]
+   578   C3842590:10% [Quantitative Concept]
+   767   C1319635:mg/mg [Quantitative Concept]
+   578   C3842589:20% [Quantitative Concept]
+   604   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+
+Phrase: after
+
+Phrase: stress test
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: complete -
+Meta Mapping (1000):
+  1000   C0205197:COMPLETE (Complete) [Qualitative Concept]
+
+Phrase: Go
+Meta Mapping (1000):
+  1000   C1822658:GO (GORAB gene) [Gene or Genome]
+
+Phrase: the ER/ call 911 for episodes of chest pain
+Meta Mapping (698):
+   742   C3811131:ER (Estrogen Receptor Measurement) [Laboratory Procedure]
+   742   C0679006:Call (Decision) [Mental Process]
+   742   C0332189:Episodes (Episode of) [Temporal Concept]
+   756   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Meta Mapping (698):
+   742   C3811131:ER (Estrogen Receptor Measurement) [Laboratory Procedure]
+   742   C1292769:c all (Precursor B-cell lymphoblastic leukemia) [Neoplastic Process]
+   742   C0332189:Episodes (Episode of) [Temporal Concept]
+   756   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: resolve after 15 minutes
+Meta Mapping (783):
+   770   C2699488:Resolve (Resolution) [Conceptual Entity]
+   833   C1442447:15 Minutes [Temporal Concept]

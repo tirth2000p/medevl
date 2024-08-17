@@ -1,0 +1,649 @@
+Processing 91_Cage.txt.tx.1: Subjective: Patient is 46yo M/ w/ PMH who presents to clinic with recent chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: 46yo M/ w/ PMH
+Meta Mapping (763):
+   645   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   812   C0262926:PMH (Medical History) [Finding]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with recent chest pain.
+Meta Mapping (901):
+   660   C0332185:Recent [Temporal Concept]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 91_Cage.txt.tx.2: The patient states he was carrying groceries to his car when he felt a sudden, deep ache that was heavy and he had to put his groceries down and sit in his car and rest for 5-10 min which rsolved the symptoms. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries to his car
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a sudden, deep
+Meta Mapping (888):
+   694   C5201090:Sudden (Sudden (qualifier value)) [Qualitative Concept]
+   861   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+
+Phrase: ache
+Meta Mapping (1000):
+  1000   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: heavy
+Meta Mapping (1000):
+  1000   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: he
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: put
+Meta Mapping (1000):
+  1000   C1882509:Put (put - instruction imperative) [Activity]
+
+Phrase: his groceries down
+Meta Mapping (623):
+   623   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: sit in his car
+Meta Mapping (733):
+   770   C0277814:Sit (Sitting position) [Finding]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: rest for 5-10 min
+Meta Mapping (761):
+   760   C0035253:Rest [Daily or Recreational Activity]
+   631   C4517521:10.5 [Quantitative Concept]
+   593   C0702093:/min (Per Minute) [Temporal Concept]
+
+Phrase: which rsolved
+
+Phrase: the symptoms.
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 91_Cage.txt.tx.3: He felt lightheaded and like "the wind was knocked out of him" but no SOB. 
+
+Phrase: He
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: lightheaded
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and like "
+Meta Mapping (833):
+   833   C1515981:And [Idea or Concept]
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out of him"
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: but
+
+Phrase: no SOB.
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 91_Cage.txt.tx.4: He reports having similar symptoms w/ exertion over the last 4 months that only lasted a few seconds. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: similar symptoms w/ exertion over the last 4 months
+Meta Mapping (637):
+   575   C2348205:Similar (Similarity) [Qualitative Concept]
+   575   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   742   C0015264:Exertion [Organism Function]
+   575   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: that
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds.
+Meta Mapping (1000):
+  1000   C4036225:Few seconds [Temporal Concept]
+Processing 91_Cage.txt.tx.5: He states that his father had an early MI at 40 that required bypass surgery.   
+
+Phrase: He
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: his father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: an early MI at 40
+Meta Mapping (733):
+   593   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   593   C1279919:Early [Temporal Concept]
+   760   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   593   C3842587:40% [Quantitative Concept]
+
+Phrase: that required bypass surgery.
+Meta Mapping (901):
+   660   C1514873:Required (Requirement) [Functional Concept]
+   901   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+Processing 91_Cage.txt.tx.6: Objective: Vitals: Temp - 98 P - 85 R - 14 BP - 150/92  Meds: Clorthalidone, Lisinopril  PMH: HTN  Fam History: Father - MI in mid 40s s/p bypass surgery  PE: Heart: RRR, clear s1/s2 w/ no m/r/g Lungs: CTAB  Assessment: Patient is a 46yo M w/ PMH of HTN who presents to clinic with recent chest pain. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Temp - 98 P - 85 R - 14 BP - 150/92  Meds
+Meta Mapping (714):
+   623   C0039476:TEMP (Temperature) [Quantitative Concept]
+   623   C4319627:98 [Quantitative Concept]
+   623   C4517892:85 [Quantitative Concept]
+   623   C0205090:R- (Right) [Spatial Concept]
+   623   C1708288:BP (HP wt Allele) [Gene or Genome]
+   790   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Clorthalidone,
+
+Phrase: Lisinopril  PMH
+Meta Mapping (888):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   861   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN  Fam History
+Meta Mapping (851):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+   827   C0262926:History (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Father - MI in mid 40s s/p bypass surgery  PE
+Meta Mapping (660):
+   573   C0015671:FATHER (Father (person)) [Family Group]
+   739   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   593   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   573   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Heart
+Meta Mapping (1000):
+  1000   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: clear s1/s2
+Meta Mapping (851):
+   660   C1709157:Clear (Negative Surgical Margin) [Finding]
+   660   C3715215:S1 [Finding]
+   827   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: w/
+
+Phrase: no m/r/g Lungs
+Meta Mapping (861):
+   708   C0456715:m g (g.m) [Quantitative Concept]
+   645   C0205090:R- (Right) [Spatial Concept]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+Meta Mapping (861):
+   694   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   645   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+   812   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB  Assessment
+Meta Mapping (888):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: a 46yo M w/ PMH of HTN
+Meta Mapping (687):
+   607   C4331833:a.m. [Qualitative Concept]
+   748   C0262926:PMH (Medical History) [Finding]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with recent chest pain.
+Meta Mapping (901):
+   660   C0332185:Recent [Temporal Concept]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 91_Cage.txt.tx.7: The pain occurs during exertion and the most recent was described as a sudden, deep ache that feels heavy with associated lightheadedness and resolved after 5-10 minutes of rest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: occurs during exertion
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: the most recent
+Meta Mapping (1000):
+  1000   C1513491:Most Recent [Temporal Concept]
+
+Phrase: was
+
+Phrase: described as a sudden, deep
+Meta Mapping (696):
+   760   C1552738:described [Idea or Concept]
+   760   C5201090:Sudden (Sudden (qualifier value)) [Qualitative Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+
+Phrase: ache
+Meta Mapping (1000):
+  1000   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: feels
+Meta Mapping (1000):
+  1000   C1527305:feels (Feelings) [Mental Process]
+
+Phrase: heavy with associated lightheadedness
+Meta Mapping (861):
+   770   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   652   C0332281:Associated with [Qualitative Concept]
+   604   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: resolved after 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Processing 91_Cage.txt.tx.8: The pain was non-positional without associated SOB. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: non-positional without associated SOB.
+Meta Mapping (724):
+   760   C1518422:Non (Negation) [Functional Concept]
+   760 N C0240795:POSITIONAL (positional) [Finding]
+   593   C0332281:Associated (Associated with) [Qualitative Concept]
+   593 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 91_Cage.txt.tx.9: He began having symptoms about 4 months ago while exerting himself but they only lasted a few seconds. 
+
+Phrase: He
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: having
+
+Phrase: symptoms about 4 months ago
+Meta Mapping (686):
+   760   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   593   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: while
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself
+
+Phrase: but
+
+Phrase: they
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds.
+Meta Mapping (1000):
+  1000   C4036225:Few seconds [Temporal Concept]
+Processing 91_Cage.txt.tx.10: His father had an MI in his mid-40s and required bypass surgery. 
+
+Phrase: His father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: an MI in his mid-40s
+Meta Mapping (672):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: required bypass surgery.
+Meta Mapping (901):
+   660   C1514873:Required (Requirement) [Functional Concept]
+   901   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+Processing 91_Cage.txt.tx.11: This patient's pain is likely stable angina 2/2 a hereditary condition due to his chest pain only during exertion that resolves with rest and his father having an MI at a young age. 
+
+Phrase: This patient's pain
+Meta Mapping (861):
+   861   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: likely stable angina 2/2
+Meta Mapping (785):
+   804   C0750492:Likely (Probably) [Idea or Concept]
+   840   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: a hereditary condition due to his chest pain only
+Meta Mapping (784):
+   764   C0019247:Hereditary condition (Hereditary Diseases) [Disease or Syndrome]
+   598   C0678226:Due To (Due to) [Functional Concept]
+   575   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   598   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   575   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: during exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: resolves with rest
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: his father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: having
+
+Phrase: an MI at a young age.
+Meta Mapping (691):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C0332239:Young [Temporal Concept]
+   586   C0001779:AGE (Age) [Organism Attribute]
+Processing 91_Cage.txt.tx.12: The patient also endorsed a feeling of fullness/pressure in the midsternal region following a large meal on occasion so patient's symptoms could possibly be related to GERD, but unlikely as patient's previous meal prior to the last episode was about 4 hours prior.   
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: endorsed
+
+Phrase: a feeling of fullness/pressure
+Meta Mapping (696):
+   760 N C1527305:Feeling (Feelings) [Mental Process]
+   593   C0439650:Fullness [Spatial Concept]
+   593 N C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: in the midsternal region
+Meta Mapping (861):
+   861   C0205147:Region (regional) [Spatial Concept]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0231290:Following (Status post) [Temporal Concept]
+
+Phrase: a large meal on occasion
+Meta Mapping (672):
+   593   C0549177:LARGE (Large) [Quantitative Concept]
+   760   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+   521   C0521114:Occasional (Infrequent) [Temporal Concept]
+
+Phrase: so
+
+Phrase: patient's symptoms
+Meta Mapping (861):
+   861 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: could
+
+Phrase: possibly
+Meta Mapping (1000):
+  1000   C2362652:Possibly (Possible diagnosis) [Qualitative Concept]
+
+Phrase: be
+
+Phrase: related to GERD,
+Meta Mapping (746):
+   790 N C0445223:Related (Related personal status) [Finding]
+   790 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: unlikely
+Meta Mapping (1000):
+  1000   C1710571:Unlikely (Unlikely Related to Intervention) [Qualitative Concept]
+
+Phrase: as
+
+Phrase: patient's previous meal prior to the last episode
+Meta Mapping (695):
+   578   C0205156:Previous [Temporal Concept]
+   744   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+   604   C0332152:Prior to (Before) [Temporal Concept]
+   578   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: about 4 hours
+Meta Mapping (802):
+   660   C0332232:About (Approximate) [Qualitative Concept]
+   827   C0439227:HOURS (Hour) [Temporal Concept]
+
+Phrase: prior.
+Meta Mapping (1000):
+  1000   C2826257:PRIOR (Prior Medication Usage) [Event]
+Processing 91_Cage.txt.tx.13: Plan: - EKG - Stress test - CBC / CMP - Lipid panel - Discuss with patient possibility of including his father in discussion to see if genetic component is at play - If all of this is negative consider upper endoscopy to assess for GERD or other etiologies of chest pain
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: : -
+
+Phrase: EKG - Stress test - CBC / CMP - Lipid panel -
+Meta Mapping (827):
+   629   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   651   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   629   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   629   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+   818   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: Discuss with patient possibility of
+Meta Mapping (672):
+   760   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+   760   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   688   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: his father in discussion
+Meta Mapping (733):
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C0015671:FATHER (Father (person)) [Family Group]
+   604   C0557061:Discussion (Discussion (procedure)) [Therapeutic or Preventive Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: see
+Meta Mapping (1000):
+  1000   C0042789:see (Vision) [Organism Function]
+
+Phrase: if
+
+Phrase: genetic component
+Meta Mapping (1000):
+  1000   C0599770:genetic Component (genetic element) [Gene or Genome]
+
+Phrase: is at
+Meta Mapping (833):
+   833   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+
+Phrase: play
+Meta Mapping (1000):
+  1000 N C0600138:play (Does play) [Finding]
+
+Phrase: -
+
+Phrase: If
+
+Phrase: all of this
+Meta Mapping (790):
+   790   C0444868:ALL (All) [Quantitative Concept]
+
+Phrase: is
+
+Phrase: negative
+Meta Mapping (1000):
+  1000   C0205160:Negative [Finding]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: upper endoscopy
+Meta Mapping (1000):
+  1000   C0017195:upper endoscopy (Endoscopy of stomach) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for GERD
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: other etiologies of chest pain
+Meta Mapping (858):
+   593   C0205394:OTHER (Other) [Qualitative Concept]
+   760   C0015127:etiologies (Etiology aspects) [Functional Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]

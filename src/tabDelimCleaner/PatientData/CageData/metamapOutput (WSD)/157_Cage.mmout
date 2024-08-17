@@ -1,0 +1,472 @@
+Processing 157_Cage.txt.tx.1: HPI Mrs. 
+
+Phrase: HPI Mrs.
+Meta Mapping (861):
+   861   C2349188:Mrs. (Mrs - title) [Intellectual Product]
+Processing 157_Cage.txt.tx.2: Cage is a __ yo old woman presenting with exertional chest pain that began 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a __ yo old woman presenting with exertional chest pain
+Meta Mapping (722):
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   575   C0580836:Old [Temporal Concept]
+   575   C0043210:WOMAN (Woman) [Population Group]
+   742   C0449450:Presenting (Presentation) [Idea or Concept]
+   623   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 157_Cage.txt.tx.3: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 157_Cage.txt.tx.4: Cage stated she was carrying heavy grocery items when she experienced a sharp retrosternal pain that lasted 5-10 minutes. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: stated
+Meta Mapping (1000):
+  1000   C1301808:stated (Geographic state) [Geographic Area]
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy grocery items
+Meta Mapping (785):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   793   C1551338:Item (Entity) [Entity]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: a sharp retrosternal pain
+Meta Mapping (901):
+   913   C0455270:Sharp Pain (Sharp pain) [Sign or Symptom]
+   660   C0442179:Retrosternal [Spatial Concept]
+Meta Mapping (901):
+   660   C1444775:Sharp (Sharp sensation quality) [Finding]
+   901   C0151826:RETROSTERNAL PAIN (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes.
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+Processing 157_Cage.txt.tx.5: She said she has experienced similar symptoms in the past while exercising, but nothing this bad. 
+
+Phrase: She
+
+Phrase: said
+
+Phrase: she
+
+Phrase: has
+
+Phrase: experienced similar symptoms in the past
+Meta Mapping (672):
+   586   C2348205:Similar (Similarity) [Qualitative Concept]
+   753   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   586   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: while
+
+Phrase: exercising,
+Meta Mapping (966):
+   966   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: nothing this bad.
+Meta Mapping (1000):
+  1000   C0205169:Bad [Qualitative Concept]
+Processing 157_Cage.txt.tx.6: Her symptoms subsided after she sat in her car and rested. 
+
+Phrase: Her symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: subsided
+
+Phrase: after
+
+Phrase: she
+
+Phrase: sat in her car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: rested.
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+Processing 157_Cage.txt.tx.7: Additionally, she complained of feeling faint while she was having this pain. 
+
+Phrase: Additionally,
+
+Phrase: she
+
+Phrase: complained of feeling faint
+Meta Mapping (833):
+   833   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: having
+
+Phrase: this pain.
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 157_Cage.txt.tx.8: When asked if she has ever experienced acid reflux, she said over the past year she has been experiencing some epigastric pressure if she overeats, which she thinks may be acid reflux, but has never been officially diagnosed. 
+
+Phrase: When
+
+Phrase: asked
+
+Phrase: if
+
+Phrase: she
+
+Phrase: has
+
+Phrase: ever experienced acid reflux,
+Meta Mapping (824):
+   645   C3887636:Ever [Temporal Concept]
+   861   C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+
+Phrase: she
+
+Phrase: said over the past year
+Meta Mapping (806):
+   806   C4086728:Past Year [Temporal Concept]
+
+Phrase: she
+
+Phrase: has
+
+Phrase: been
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: some epigastric pressure
+Meta Mapping (888):
+   694   C0521440:Epigastric [Body Location or Region]
+   861   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: if
+
+Phrase: she
+
+Phrase: overeats
+Meta Mapping (1000):
+  1000   C0020505:overeat (Hyperphagia) [Finding]
+
+Phrase: ,
+
+Phrase: which
+
+Phrase: she
+
+Phrase: thinks
+Meta Mapping (1000):
+  1000   C0039869:thinks (Thinking, function) [Mental Process]
+
+Phrase: may
+
+Phrase: be
+
+Phrase: acid reflux,
+Meta Mapping (1000):
+  1000   C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: has
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: been
+
+Phrase: officially
+
+Phrase: diagnosed.
+Meta Mapping (1000):
+  1000   C0011900:Diagnosed (Diagnosis) [Diagnostic Procedure]
+Processing 157_Cage.txt.tx.9: She says she takes her medications as prescribed.  
+
+Phrase: She
+
+Phrase: says
+
+Phrase: she
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: her medications
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: as
+
+Phrase: prescribed.
+Meta Mapping (1000):
+  1000   C0278329:Prescribed [Health Care Activity]
+Processing 157_Cage.txt.tx.10: PMH Hypertension  Meds Lisinopril (__ mg) Chlorthalidone (__ mg)  Family Hx Father - heart attack in his 40s  Social Hx Tobacco - 1 pack a day since she was 25 years old Alcohol - drinks socially Recreational drugs - none  Vitals HR 85  T 98.0  RR 14  BP 150/92  PE General - patient sitting up in bed in no acute distress, well-groomed Lung - Clear to auscultation bilaterally. 
+
+Phrase: PMH Hypertension  Meds Lisinopril
+Meta Mapping (833):
+   645   C0262926:PMH (Medical History) [Finding]
+   645   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   645   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   812   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: (__ mg
+Meta Mapping (1000):
+  1000   C0024671:MG (Mammography) [Diagnostic Procedure]
+
+Phrase: )
+
+Phrase: Chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (__ mg
+Meta Mapping (1000):
+  1000   C0024671:MG (Mammography) [Diagnostic Procedure]
+
+Phrase: )
+
+Phrase: Family Hx Father - heart attack in his 40s  Social Hx Tobacco - 1
+Meta Mapping (684):
+   570   C0015576:Family [Family Group]
+   570   C0262926:Hx (Medical History) [Finding]
+   570   C0015671:FATHER (Father (person)) [Family Group]
+   753   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   584   C1421453:HIS-1 (VIS1 gene) [Gene or Genome]
+   570   C0728831:Social [Functional Concept]
+   570   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: since
+
+Phrase: she
+
+Phrase: was
+
+Phrase: 25 years old Alcohol - drinks socially Recreational drugs -
+Meta Mapping (742):
+   626   C0439234:YEARS (year) [Temporal Concept]
+   626   C0580836:Old [Temporal Concept]
+   629   C0556297:alcohol drink (Current drinker) [Individual Behavior]
+   812   C0242508:Recreational Drugs [Hazardous or Poisonous Substance]
+
+Phrase: none  Vitals HR 85  T 98.0  RR 14  BP 150/92  PE General - patient sitting up
+Meta Mapping (668):
+   565   C0549184:NONE (None) [Finding]
+   494   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   565   C4517892:85 [Quantitative Concept]
+   565   C4319627:98 [Quantitative Concept]
+   575   C4517485:0.92 [Quantitative Concept]
+   575   C0140925:RR 150 [Organic Chemical]
+   565   C1708288:BP (HP wt Allele) [Gene or Genome]
+   565   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   565   C0205246:General (Generalized) [Spatial Concept]
+   565   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   732   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in bed in no acute distress,
+Meta Mapping (691):
+   586 N C0150312:In (Present) [Finding]
+   753   C0004916:Bed (Beds) [Manufactured Object]
+   586   C0205178:ACUTE (acute) [Temporal Concept]
+   586 N C0231303:Distress [Finding]
+
+Phrase: well-groomed Lung - Clear to auscultation bilaterally.
+Meta Mapping (695):
+   581   C0205170:Well (Good) [Qualitative Concept]
+   548   C0018249:groom (Grooming) [Individual Behavior]
+   581   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   748 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   581   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+Processing 157_Cage.txt.tx.11: No increased work of breathing. 
+
+Phrase: No increased work of breathing.
+Meta Mapping (928):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   926 N C0859927:Increased work of breathing [Sign or Symptom]
+Processing 157_Cage.txt.tx.12: Cardiac - Radial and dorsalis pedis pulses 2+. 
+
+Phrase: Cardiac - Radial
+Meta Mapping (888):
+   694   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0442038:Radial [Conceptual Entity]
+
+Phrase: and
+
+Phrase: dorsalis pedis pulses 2+.
+Meta Mapping (923):
+   923   C1997492:Dorsalis pedis PULSES (Dorsalis pedis pulse rate) [Clinical Attribute]
+Processing 157_Cage.txt.tx.13: Regular rate and rhythm. 
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+Processing 157_Cage.txt.tx.14: Cap refill <2sec. 
+
+Phrase: Cap
+Meta Mapping (1000):
+  1000   C1657858:CAP (Syringe Caps) [Medical Device]
+
+Phrase: refill
+Meta Mapping (1000):
+  1000   C0807726:Refill (refill) [Idea or Concept]
+
+Phrase: <2sec.
+Processing 157_Cage.txt.tx.15: No edema noted in the Lower extremity  Assessment Ms. 
+
+Phrase: No edema
+Meta Mapping (1000):
+  1000 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: noted in the Lower extremity  Assessment Ms.
+Meta Mapping (729):
+   778   C0023216:Lower Extremity [Body Part, Organ, or Organ Component]
+   757   C2360545:Assessment note [Intellectual Product]
+   748   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Meta Mapping (729):
+   778   C0023216:Lower Extremity [Body Part, Organ, or Organ Component]
+   748   C1516048:Assessment (Assessed) [Activity]
+   757   C3870392:MS Note (Note:Find:Pt:{Setting}:Doc:Medical student) [Clinical Attribute]
+Processing 157_Cage.txt.tx.16: Cage is a ___ yo woman presenting with exertional chest pain 3 days ago that relieves with rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a ___ yo woman presenting with exertional chest pain 3 days ago
+Meta Mapping (703):
+   571   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   571   C0043210:WOMAN (Woman) [Population Group]
+   738   C0449450:Presenting (Presentation) [Idea or Concept]
+   609   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+   571   C3842675:Day 3 [Finding]
+
+Phrase: that
+
+Phrase: relieves with rest.
+Meta Mapping (972):
+   972   C0240889:RELIEVED WITH REST [Finding]
+Processing 157_Cage.txt.tx.17: Differential includes angina, GERD, myocardial infarction  Plan - get troponin, BNP, BMP, Lipid panel - order an EKG - Perform an ASCVD score
+
+Phrase: Differential
+Meta Mapping (1000):
+  1000   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: angina,
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: myocardial infarction  Plan -
+Meta Mapping (901):
+   734   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+   827   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: get
+
+Phrase: troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: BNP,
+Meta Mapping (1000):
+  1000   C0054015:BNP (nesiritide) [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: Lipid panel -
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: an EKG -
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Perform
+Meta Mapping (1000):
+  1000   C0884358:Perform (Performed) [Functional Concept]
+
+Phrase: an ASCVD score
+Meta Mapping (888):
+   694   C3665365:ASCVD (Arteriosclerotic cardiovascular disease, NOS) [Disease or Syndrome]
+   861   C0449820:SCORE (Score) [Quantitative Concept]

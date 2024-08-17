@@ -1,0 +1,479 @@
+Processing 23_Cage.txt.tx.1: Mr. 
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 23_Cage.txt.tx.2: Cage is a 46 year old male with a PMH significant for hypertension who presents to clinic with concern for chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with a PMH
+Meta Mapping (656):
+   578   C0439508:/Year (per year) [Temporal Concept]
+   578   C0580836:Old [Temporal Concept]
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C0262926:PMH (Medical History) [Finding]
+
+Phrase: significant for hypertension
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with concern for chest pain.
+Meta Mapping (752):
+   593   C1705690:With (With - dosing instruction fragment) [Intellectual Product]
+   760   C2699424:Concern [Idea or Concept]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 23_Cage.txt.tx.3: He reports having chest pain 3 days ago while carrying heavy groceries. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: chest pain 3 days ago
+Meta Mapping (790):
+   673   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 23_Cage.txt.tx.4: The pain was in the center of chest without any radiation. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was in the center of chest
+Meta Mapping (666):
+   753   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+   753   C0205099:Centre (Central) [Spatial Concept]
+   753   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: without any radiation.
+Meta Mapping (1000):
+  1000   C0851346:Radiation [Natural Phenomenon or Process]
+Processing 23_Cage.txt.tx.5: He reports the pain "knocked the wind" out of him. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: the pain "
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: knocked
+
+Phrase: the wind"
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: out of him.
+Processing 23_Cage.txt.tx.6: He rested after the pain began and the pain went way after 10 mins. 
+
+Phrase: He
+
+Phrase: rested after the pain
+Meta Mapping (802):
+   802   C0234253:pain rest (Rest pain) [Sign or Symptom]
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: and
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: went
+
+Phrase: way after 10 mins.
+Meta Mapping (650):
+   650   C0456692:/10 min [Temporal Concept]
+Processing 23_Cage.txt.tx.7: He reports having a couple of espisodes of similar chest pain during physical activity lasting a few seconds over the past few months. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: a couple of espisodes of similar chest pain
+Meta Mapping (707):
+   744   C0010222:couple (Couples (persons)) [Family Group]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   595   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: during physical activity
+Meta Mapping (1000):
+  1000   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a few seconds over the past few months.
+Meta Mapping (680):
+   744   C0457385:Seconds (seconds) [Temporal Concept]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 23_Cage.txt.tx.8: He is concerned he may have had a heart attack.  
+
+Phrase: He
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: he
+
+Phrase: may
+
+Phrase: have
+
+Phrase: had
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 23_Cage.txt.tx.9: PMH: HTN  FH: Mother had HTN Meds: Chlorothiadone 25 once a day and Lisinopril 10mg once a day  Social: Lives alone, walks his dog slowly twice a day  Vitals: T: 98.0 P 85 R 14 BP: 150/92 Physical Exam:  Cardio: Normal rate, regular rhythm, no pain or tenderness on palpation of chest wall  Pulm: Vesicular breath sounds heard bilaterally on anterior and posterior chest wall  Abdomen: Soft and nontender    Assessment and Plan:  Mr. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN  FH
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: HTN Meds
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorothiadone 25 once
+
+Phrase: a day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: Lisinopril 10mg once
+Meta Mapping (660):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: a day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: Lives
+Meta Mapping (1000):
+  1000   C1548795:Live (Live - Specimen Condition) [Qualitative Concept]
+
+Phrase: alone,
+Meta Mapping (1000):
+  1000   C0679994:alone (alone - group size) [Group Attribute]
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: his dog slowly twice a day  Vitals
+Meta Mapping (839):
+   632   C0012984:DOG (Canis familiaris) [Mammal]
+   632   C0439834:Slowly (Slow) [Qualitative Concept]
+   694   C0585361:Twice a day [Temporal Concept]
+   727   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T
+Meta Mapping (1000):
+  1000   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98.0 P 85 R 14 BP
+Meta Mapping (761):
+   629   C4319627:98 [Quantitative Concept]
+   695   C4517430:0.14 [Quantitative Concept]
+   629   C4517892:85 [Quantitative Concept]
+   629   C0205090:R- (Right) [Spatial Concept]
+   795   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 Physical Exam
+Meta Mapping (861):
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: regular rhythm,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: no pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: or
+
+Phrase: tenderness on palpation of chest wall
+Meta Mapping (789):
+   820 N C0239008:Tenderness of chest (Chest wall tenderness) [Finding]
+   586   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   586   C0677535:Wall (Walls of a building) [Manufactured Object]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Vesicular breath sounds heard bilaterally on anterior
+Meta Mapping (744):
+   647 N C0231857:Breath sounds, vesicular (Vesicular breathing) [Sign or Symptom]
+   714   C0018767:hear (Hearing) [Physiologic Function]
+   581   C0205094:ANTERIOR (Anterior) [Spatial Concept]
+
+Phrase: and
+
+Phrase: posterior chest wall  Abdomen
+Meta Mapping (916):
+   756   C0230131:Posterior chest wall [Body Location or Region]
+   812   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: Soft
+Meta Mapping (1000):
+  1000   C0205358:Soft [Qualitative Concept]
+
+Phrase: and
+
+Phrase: nontender    Assessment
+Meta Mapping (888):
+   694   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: and
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 23_Cage.txt.tx.10: Cage is a 46 year old male with a PMH significant for hypertension who presents to clinic with concern for chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with a PMH
+Meta Mapping (656):
+   578   C0439508:/Year (per year) [Temporal Concept]
+   578   C0580836:Old [Temporal Concept]
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C0262926:PMH (Medical History) [Finding]
+
+Phrase: significant for hypertension
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with concern for chest pain.
+Meta Mapping (752):
+   593   C1705690:With (With - dosing instruction fragment) [Intellectual Product]
+   760   C2699424:Concern [Idea or Concept]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 23_Cage.txt.tx.11: Presentation concerning for stable angina given that pain occurred during physical activity and resolved with rest.  
+
+Phrase: Presentation concerning for stable angina
+Meta Mapping (741):
+   593   C0449450:Presentation [Idea or Concept]
+   726   C2699424:Concern [Idea or Concept]
+   640   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1947971:Given (Give - dosing instruction imperative) [Functional Concept]
+
+Phrase: that pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: occurred during physical activity
+Meta Mapping (783):
+   770   C1709305:Occurred (Occur (action)) [Activity]
+   833   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 23_Cage.txt.tx.12: Unstable angina, GERD, and costochondritis lower on the differential. 
+
+Phrase: Unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: costochondritis
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: lower on the differential.
+Meta Mapping (708):
+   770   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+   604   C0443199:Differential (Differential quality) [Qualitative Concept]
+Processing 23_Cage.txt.tx.13: Will start him on a atorvastatin 40 and provide nitroglycerin for pain relief during episodes. 
+
+Phrase: Will
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: him on a atorvastatin 40
+Meta Mapping (695):
+   760   C0286651:ATORVASTATIN (atorvastatin) [Organic Chemical,Pharmacologic Substance]
+   760   C3842587:40% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: provide
+Meta Mapping (1000):
+  1000   C1999230:Provide (Providing (action)) [Activity]
+
+Phrase: nitroglycerin for pain relief
+Meta Mapping (783):
+   770   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   666   C0451615:Pain Relief (Pain relief) [Therapeutic or Preventive Procedure]
+
+Phrase: during episodes.
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 23_Cage.txt.tx.14: Given elevated blood pressure will increase dose of lisinopril. 
+
+Phrase: Given elevated blood pressure
+Meta Mapping (916):
+   645   C1947971:Given (Give - dosing instruction imperative) [Functional Concept]
+   923   C0497247:Elevated Blood Pressure (Increase in blood pressure) [Finding]
+
+Phrase: will
+
+Phrase: increase
+Meta Mapping (1000):
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: dose of lisinopril.
+Meta Mapping (746):
+   790   C0178602:DOSE (Dosage) [Quantitative Concept]
+   623   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Processing 23_Cage.txt.tx.15: Will also get EKG today to asses for any signs of previous MI or structural changes.
+
+Phrase: Will
+
+Phrase: also
+
+Phrase: get
+
+Phrase: EKG today to asses
+Meta Mapping (733):
+   604   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   604   C0324145:Asses (Equus asinus) [Mammal]
+
+Phrase: for any signs of previous MI
+Meta Mapping (685):
+   586   C0521125:For (Preposition For) [Qualitative Concept]
+   753   C0311392:SIGNS (Physical findings) [Finding]
+   586   C0205156:Previous [Temporal Concept]
+   586   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: or
+
+Phrase: structural changes.
+Meta Mapping (1000):
+  1000   C0581602:Structural changes (Structural modification) [Therapeutic or Preventive Procedure]

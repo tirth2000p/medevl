@@ -1,0 +1,587 @@
+Processing 159_Cage.txt.tx.1: Subjective: Gerry Cage is an X y/o M w/ PmHx of HTN to presents to the clinic today with chest pain. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: an X y/o M w/ PmHx of HTN
+Meta Mapping (496):
+   575   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   595   C3846401:M & Y [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: to
+
+Phrase: presents to the clinic today
+Meta Mapping (696):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   760   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: with chest pain.
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 159_Cage.txt.tx.2: The chest pain started sundya afternoon when the patient was arryign heavy groceris; patient felt a deep heavy pain in his chest; rates it at a 7/10. 
+
+Phrase: The chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: sundya afternoon
+Meta Mapping (861):
+   861   C0439550:Afternoon [Temporal Concept]
+
+Phrase: when
+
+Phrase: the patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: arryign heavy groceris
+Meta Mapping (660):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: ; patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a deep heavy pain in his chest
+Meta Mapping (798):
+   581   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   804   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: ; rates
+Meta Mapping (966):
+   966   C1521828:Rate [Quantitative Concept]
+
+Phrase: it at a 7/10.
+Meta Mapping (806):
+   797   C5191365:10.7 [Quantitative Concept]
+Processing 159_Cage.txt.tx.3: It did not radiate anywhere. 
+
+Phrase: It
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: anywhere.
+Processing 159_Cage.txt.tx.4: It lasted for about 10 min and eventually subsided when the patient took a break and sat down. 
+
+Phrase: It
+
+Phrase: lasted for about 10 min
+Meta Mapping (734):
+   726   C1517741:Last [Qualitative Concept]
+   806   C0456692:/10 min [Temporal Concept]
+
+Phrase: and
+
+Phrase: eventually
+
+Phrase: subsided
+
+Phrase: when
+
+Phrase: the patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: a break
+Meta Mapping (1000):
+  1000   C1881704:Break (Medical Device Break) [Finding]
+
+Phrase: and
+
+Phrase: sat down.
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+Processing 159_Cage.txt.tx.5: Patient felt the wind knocked out of him when the chest pain started but denies any SOB. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: knocked out of him
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: when
+
+Phrase: the chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: but
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any SOB.
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 159_Cage.txt.tx.6: Dneies cough, or headache. 
+
+Phrase: Dneies
+
+Phrase: cough
+Meta Mapping (1000):
+  1000   C0010200:COUGH (Coughing) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: headache.
+Meta Mapping (1000):
+  1000   C0018681:HEADACHE (Headache) [Sign or Symptom]
+Processing 159_Cage.txt.tx.7: Reports some lightheadedness during the episode. 
+
+Phrase: Reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: some lightheadedness during the episode.
+Meta Mapping (696):
+   593   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   760   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   593   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 159_Cage.txt.tx.8: Has had similar pain in the past couple months with physical activity but it has only lasted a couple of minutes ans subsided with rest. 
+
+Phrase: Has
+
+Phrase: had
+
+Phrase: similar pain in the past couple months
+Meta Mapping (704):
+   581   C2348205:Similar (Similarity) [Qualitative Concept]
+   748   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   591   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   581   C0010222:couple (Couples (persons)) [Family Group]
+
+Phrase: with physical activity
+Meta Mapping (1000):
+  1000   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: it
+
+Phrase: has
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C1720467:Only (Only - dosing instruction fragment) [Intellectual Product]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: a couple of minutes ans
+Meta Mapping (696):
+   760   C0010222:couple (Couples (persons)) [Family Group]
+   593   C0439232:minutes (Minute of time) [Temporal Concept]
+   593   C0004388:ANS (Autonomic nervous system) [Body System]
+
+Phrase: subsided with rest.
+Meta Mapping (790):
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 159_Cage.txt.tx.9: Patient is concerned that he has had an heart attack.  
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: an heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 159_Cage.txt.tx.10: Pt takes his meidcations and home BP is 130s/80s.    
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: his meidcations
+
+Phrase: and
+
+Phrase: home BP is 130s/80s.
+Meta Mapping (562):
+   637   C0442519:HOME (Home environment) [Spatial Concept]
+   637   C1708288:BP (HP wt Allele) [Gene or Genome]
+Processing 159_Cage.txt.tx.11: Meds:  -Lisonopril 10mg BID -Chlrorthadone 25mg 1/day Allergies: n/a Pmhx:  HTN [dx 5 yrs ago]  Famhx: Dad: heart attack at 40; bypass surgery  Mom: T2DM, HTN. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :  -
+
+Phrase: Lisonopril 10mg BID -Chlrorthadone 25mg 1/day Allergies
+Meta Mapping (721):
+   626   C1530795:BID (BID protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   626   C0439228:Day (day) [Temporal Concept]
+   793   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: n/a Pmhx
+Meta Mapping (734):
+   734   C1272460:N/A (Not Applicable) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: [dx 5 yrs ago
+Meta Mapping (645):
+   645   C4761408:DX (Dongxiang Chinese) [Population Group]
+
+Phrase: ]  Famhx
+
+Phrase: :
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: heart attack at 40
+Meta Mapping (783):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   604   C3842587:40% [Quantitative Concept]
+
+Phrase: ; bypass surgery  Mom
+Meta Mapping (901):
+   734   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   827   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: T2DM,
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 159_Cage.txt.tx.12: PE Socail hx: -smokes 1 pack/day for 20 yrs Alc: 2-3 glasses of wine on the weekends  PE:  Normal heart and lung sounds Normal capillary refill  -no bruits  -JVP angle is less than 30    Assessments  Gerry Cage is an X y/o M w/ PmHx of HTN to presents to the clinic today with chest pain that started with exertion and subsides with rest. 
+
+Phrase: PE Socail hx
+Meta Mapping (802):
+   660   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   827   C0262926:Hx (Medical History) [Finding]
+
+Phrase: : -
+
+Phrase: smokes 1 pack/day for 20 yrs Alc
+Meta Mapping (705):
+   578   C0037369:smokes (Smoking) [Individual Behavior]
+   578   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   767   C1442449:Day 1 (1 Day) [Temporal Concept]
+   578   C3842589:20% [Quantitative Concept]
+   578   C1424945:ALC (ALLC gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on the weekends  PE
+Meta Mapping (888):
+   694   C0680190:weekends (Weekend) [Temporal Concept]
+   861   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Normal heart
+Meta Mapping (1000):
+  1000   C2349205:Normal heart (On examination - heart normal (finding)) [Finding]
+
+Phrase: and
+
+Phrase: lung
+Meta Mapping (1000):
+  1000   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: sounds
+Meta Mapping (1000):
+  1000   C0037709:Sounds (Sound - physical agent) [Natural Phenomenon or Process]
+
+Phrase: Normal capillary refill  -
+Meta Mapping (1000):
+  1000   C0232357:Normal Capillary refill (Normal capillary filling) [Finding]
+
+Phrase: no bruits  -JVP angle
+Meta Mapping (802):
+   660 N C0006318:bruits (Bruit) [Finding]
+   827   C0205143:Angle (Angular) [Spatial Concept]
+
+Phrase: is
+
+Phrase: less than 30    Assessments  Gerry Cage
+Meta Mapping (827):
+   790   C0439092:Less Than [Quantitative Concept]
+   753   C3842588:30% [Quantitative Concept]
+   753   C1261322:assessments (Evaluation procedure) [Health Care Activity]
+   753   C1019207:gerry (Gerris) [Eukaryote]
+   753   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: an X y/o M w/ PmHx of HTN
+Meta Mapping (496):
+   575   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   595   C3846401:M & Y [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: to
+
+Phrase: presents to the clinic today
+Meta Mapping (696):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   760   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: with chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: started with exertion
+Meta Mapping (746):
+   790   C1272689:Started [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: subsides with rest.
+Meta Mapping (790):
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 159_Cage.txt.tx.13: BP in clinic today is 150/92, HR of 85; otherwise normal physical exam. 
+
+Phrase: BP in clinic today
+Meta Mapping (775):
+   645   C1708288:BP (HP wt Allele) [Gene or Genome]
+   645   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: is
+
+Phrase: 150/92,
+
+Phrase: HR of 85
+Meta Mapping (623):
+   623   C4517892:85 [Quantitative Concept]
+
+Phrase: ; otherwise normal physical exam.
+Meta Mapping (824):
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+Processing 159_Cage.txt.tx.14: DDX: stable angina is more likely given onset with physical activity and it subsiding with rest. 
+
+Phrase: DDX
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: is
+
+Phrase: more likely given onset with physical activity
+Meta Mapping (701):
+   581   C0205172:More [Quantitative Concept]
+   581   C0750492:Likely (Probably) [Idea or Concept]
+   748   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   612   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: it subsiding with rest.
+Meta Mapping (604):
+   604   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 159_Cage.txt.tx.15: Less likely is an MI or PE given normal VS and presentation and duration of symptoms.  
+
+Phrase: Less
+Meta Mapping (1000):
+  1000   C0439092:Less (Less Than) [Quantitative Concept]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: is
+
+Phrase: an MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: or
+
+Phrase: PE given normal
+Meta Mapping (802):
+   660   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   827   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: and
+
+Phrase: presentation
+Meta Mapping (1000):
+  1000   C0449450:Presentation [Idea or Concept]
+
+Phrase: and
+
+Phrase: duration of symptoms.
+Meta Mapping (988):
+   988   C0436359:Duration of symptom (Time symptom lasts) [Temporal Concept]
+Processing 159_Cage.txt.tx.16: Plan: 1. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 159_Cage.txt.tx.17: Repeat blood pressure and reassess medications and if dose change is necessary  2. 
+
+Phrase: Repeat blood pressure
+Meta Mapping (901):
+   660   C1547730:Repeat (Repeat Pattern) [Temporal Concept]
+   901   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: and
+
+Phrase: reassess
+
+Phrase: medications
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: if
+
+Phrase: dose change
+Meta Mapping (1000):
+  1000   C1707811:Dose change (Dose Modification) [Research Activity]
+
+Phrase: is
+
+Phrase: necessary  2.
+Processing 159_Cage.txt.tx.18: EKG  3. 
+
+Phrase: EKG  3.
+Meta Mapping (861):
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+Processing 159_Cage.txt.tx.19: Blood work: check for troponin  4. 
+
+Phrase: Blood work
+Meta Mapping (888):
+   694   C0005768:BLOOD (In Blood) [Body Substance]
+   861   C0043227:Work [Occupational Activity]
+
+Phrase: :
+
+Phrase: check for troponin  4.
+Meta Mapping (708):
+   770   C1283174:Check (Checking (action)) [Activity]
+   604   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 159_Cage.txt.tx.20: F/u in 1 week regarding lab work anf talk about smoking
+
+Phrase: F/u in 1 week regarding lab work anf talk
+Meta Mapping (694):
+   573   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   739   C0439148:{U} (Unit) [Quantitative Concept]
+   591   C4484138:week 1 [Temporal Concept]
+   573   C0022877:Lab (Laboratory) [Health Care Related Organization,Manufactured Object]
+   573   C0043227:Work [Occupational Activity]
+   573   C4552608:ANF (NPPA wt Allele) [Gene or Genome]
+   573   C0234856:talk (Speaking (activity)) [Daily or Recreational Activity]
+Meta Mapping (694):
+   573   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   739   C0439148:{U} (Unit) [Quantitative Concept]
+   573   C0332174:/week (Weekly) [Temporal Concept]
+   573   C0022877:Lab (Laboratory) [Health Care Related Organization,Manufactured Object]
+   573   C0043227:Work [Occupational Activity]
+   573   C4552608:ANF (NPPA wt Allele) [Gene or Genome]
+   591   C1422670:TALK-1 (KCNK16 gene) [Gene or Genome]
+
+Phrase: about smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]

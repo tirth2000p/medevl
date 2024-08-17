@@ -1,0 +1,703 @@
+Processing 144_Cage.txt.tx.1: CC: chest pains  HPI: 46yo M presents with recurring chest pains. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pains  HPI
+Meta Mapping (734):
+   734   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: 46yo M
+Meta Mapping (861):
+   861   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: presents with recurring chest pains.
+Meta Mapping (761):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C0034897:recurring (Recurrence) [Phenomenon or Process]
+   806   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+Processing 144_Cage.txt.tx.2: He has had short epidosed of chest pain centrally located in the past while running or stair climbing that resolve on their own. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: short epidosed of chest pain
+Meta Mapping (629):
+   593   C1282927:short (Shortened) [Qualitative Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: centrally
+
+Phrase: located in the past
+Meta Mapping (770):
+   770   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: while
+
+Phrase: running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: stair
+Meta Mapping (1000):
+  1000   C2825408:Stair (Stair (equipment)) [Manufactured Object]
+
+Phrase: climbing
+Meta Mapping (1000):
+  1000   C2584300:Climbing [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: resolve on their own.
+Meta Mapping (770):
+   770   C2699488:Resolve (Resolution) [Conceptual Entity]
+Processing 144_Cage.txt.tx.3: ThisFriday while carrying grocerieis from the stroe to his car, he had a longer episode for 5-10 minutes that resolved when he sat down and rested. 
+
+Phrase: ThisFriday
+
+Phrase: while
+
+Phrase: carrying grocerieis from the stroe
+Meta Mapping (593):
+   593   C0206243:Carrying [Activity]
+
+Phrase: to his car,
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a longer episode for 5-10 minutes
+Meta Mapping (704):
+   607   C0052080:A-10 (antineoplaston A10) [Organic Chemical,Pharmacologic Substance]
+   548   C0205166:LONG (Long) [Qualitative Concept]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   581   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (704):
+   548   C0205166:LONG (Long) [Qualitative Concept]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   607   C4517521:10.5 [Quantitative Concept]
+   581   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (704):
+   548   C0205166:LONG (Long) [Qualitative Concept]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   581   C3842590:10% [Quantitative Concept]
+   607   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: that
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: rested.
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+Processing 144_Cage.txt.tx.4: The pain is centrally located and a 7/10 at its worst. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: centrally
+
+Phrase: located
+
+Phrase: and
+
+Phrase: a 7/10 at its worst.
+Meta Mapping (725):
+   790   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   753   C3842590:10% [Quantitative Concept]
+   753   C1522166:Worst [Qualitative Concept]
+Processing 144_Cage.txt.tx.5: H edescribes the pain as "deep ache and heaviness". 
+
+Phrase: H edescribes
+Meta Mapping (694):
+   694   C0564385:/h (/hour) [Temporal Concept]
+
+Phrase: the pain as "deep ache
+Meta Mapping (745):
+   797   C0234229:Deep pain [Sign or Symptom]
+   593   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heaviness".
+Meta Mapping (928):
+   928   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 144_Cage.txt.tx.6: He also reports episodes after eatuing big meals where he has a pressure centrally located but below the site of his other pains that goes away on its own and happen 2-3 times per week. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: episodes after eatuing big meals where
+Meta Mapping (672):
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   586   C0549177:Big (Large) [Quantitative Concept]
+   586   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: a pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: centrally
+
+Phrase: located
+
+Phrase: but below the site of his
+Meta Mapping (725):
+   753   C0233535:but (Butting) [Mental or Behavioral Dysfunction]
+   790   C2945843:Site of [Qualitative Concept]
+   753   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+
+Phrase: other pains
+Meta Mapping (1000):
+  1000   C0030193:pains (Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: goes
+Meta Mapping (1000):
+  1000   C1947959:Goes (Goes <invertebrate>) [Eukaryote]
+
+Phrase: away on its own
+
+Phrase: and
+
+Phrase: happen
+Meta Mapping (1000):
+  1000   C1709305:Happen (Occur (action)) [Activity]
+
+Phrase: 2-3 times per week.
+Meta Mapping (900):
+   900   C0556985:2 TIMES PER WEEK (Twice weekly) [Temporal Concept]
+Processing 144_Cage.txt.tx.7: BPs mostly 120/80s at home.  
+
+Phrase: BPs mostly 120/80s
+Meta Mapping (583):
+   645   C1849718:BPS (POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE) [Disease or Syndrome]
+   645   C0750554:MOSTLY [Idea or Concept]
+
+Phrase: at home.
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+Processing 144_Cage.txt.tx.8: Social - 1PPd x 20 years, no drug use, social alchol intake Fam hx: Mother - HTN, DM, died at 60 from PE Father - MI with bypass surgery in 40s, died at 77 2 brothers healthy and alive  Meds: chlorthalidone 25mg PO daily, lisinopril 10mg PO daily Allergies: none  Physican Exam:   VS: 150/92,85, 14, 98  CV: RRR, no murmurs,. 
+
+Phrase: Social - 1PPd x 20 years,
+Meta Mapping (812):
+   637   C0728831:Social [Functional Concept]
+   840   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: no drug use,
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+
+Phrase: social alchol intake Fam hx
+Meta Mapping (794):
+   897   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+   637   C1512806:Intake [Functional Concept]
+   637   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Mother - HTN,
+Meta Mapping (888):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+   861 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: died at 60
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C3842585:60% [Quantitative Concept]
+
+Phrase: from PE Father - MI with bypass surgery
+Meta Mapping (737):
+   581   C1517320:From [Qualitative Concept]
+   581   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+   748   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   612   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: in 40s,
+
+Phrase: died at 77 2 brothers
+Meta Mapping (686):
+   760   C1306577:Died (Death (finding)) [Finding]
+   760   C0337527:Brothers [Family Group]
+
+Phrase: healthy
+Meta Mapping (1000):
+  1000   C3898900:Healthy [Qualitative Concept]
+
+Phrase: and
+
+Phrase: alive  Meds
+Meta Mapping (888):
+   694   C2584946:Alive (Alive (finding)) [Finding]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone 25mg PO daily,
+Meta Mapping (775):
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   812   C0442027:PO (Oral) [Spatial Concept]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10mg PO daily Allergies
+Meta Mapping (786):
+   881   C0571941:Lisinopril allergy [Disease or Syndrome]
+   637   C0442027:PO (Oral) [Spatial Concept]
+   637   C0332173:Daily [Temporal Concept]
+
+Phrase: :
+
+Phrase: none  Physican Exam
+Meta Mapping (861):
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: 150/92,
+
+Phrase: 85,
+Meta Mapping (1000):
+  1000   C4517892:85 [Quantitative Concept]
+
+Phrase: 14,
+
+Phrase: 98  CV
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: .
+Processing 144_Cage.txt.tx.9: rubs, gallops Lungs: CTAB Pulses palpable 2+ (radial and posterior tibial) No edema of lower extrmieities  Assessment: Mr. 
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000   C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: gallops Lungs
+Meta Mapping (861):
+   861   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: Pulses
+Meta Mapping (1000):
+  1000   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: palpable 2+
+Meta Mapping (861):
+   861   C0522499:PALPABLE (Palpable) [Qualitative Concept]
+
+Phrase: (radial
+Meta Mapping (1000):
+  1000   C0920847:Radial (Circumpennate) [Conceptual Entity]
+
+Phrase: and
+
+Phrase: posterior tibial
+Meta Mapping (888):
+   694   C0205095:POSTERIOR (Dorsal) [Spatial Concept]
+   861   C0040184:Tibial (Bone structure of tibia) [Body Part, Organ, or Organ Component]
+
+Phrase: )
+
+Phrase: No edema of lower extrmieities  Assessment
+Meta Mapping (712):
+   790   C0577599:No Edema (Swelling absent) [Finding]
+   586   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+   586   C1516048:Assessment (Assessed) [Activity]
+Meta Mapping (712):
+   617   C2826217:No Assessment [Finding]
+   753 N C0013604:OEDEMA (Edema) [Pathologic Function]
+   586   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 144_Cage.txt.tx.10: Cage is a 46yo M with intermittent achy heavy chest pains that resolve on their own centrally located with a strong fmaily history of heart disease. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yo M with intermittent achy heavy chest pains
+Meta Mapping (710):
+   762   C4331833:a.m. [Qualitative Concept]
+   578   C1282310:Intermittent pain [Sign or Symptom]
+   559   C0235715:ache chest (Chest aching of) [Finding]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: resolve on their own
+Meta Mapping (770):
+   770   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: centrally
+
+Phrase: located with a strong fmaily history of heart disease.
+Meta Mapping (713):
+   742   C0442821:Strong [Qualitative Concept]
+   784   C0944983:History of Disease (History of symptoms & diseases:Finding:Point in time:^Patient:Nominal:Observed) [Clinical Attribute]
+   742   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+Processing 144_Cage.txt.tx.11: Most likely stable angina for the chest pains on exertion and GERD for the chest pressure after big meals. 
+
+Phrase: Most likely stable angina for the chest pains
+Meta Mapping (739):
+   604   C0750501:most likely [Idea or Concept]
+   744   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   776   C0742281:chest pain angina [Sign or Symptom]
+
+Phrase: on exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: GERD for the chest pressure
+Meta Mapping (745):
+   760   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   640   C0438716:Chest pressure [Sign or Symptom]
+
+Phrase: after big meals.
+Meta Mapping (888):
+   694   C0549177:Big (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 144_Cage.txt.tx.12: Possibly NSTEMI or STEMI but would need EKG for this. 
+
+Phrase: Possibly NSTEMI
+Meta Mapping (888):
+   694   C2362652:Possibly (Possible diagnosis) [Qualitative Concept]
+   861   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: STEMI
+Meta Mapping (1000):
+  1000   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: would
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: EKG for this.
+Meta Mapping (790):
+   790   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+Processing 144_Cage.txt.tx.13: Less likely respiratory related like PE given they self resolve quickly.  
+
+Phrase: Less likely respiratory
+Meta Mapping (851):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: related like PE
+Meta Mapping (746):
+   790   C0439849:Related (Relationships) [Qualitative Concept]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: they
+
+Phrase: self resolve
+Meta Mapping (888):
+   861   C0036588:Self [Idea or Concept]
+   861   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: quickly.
+Processing 144_Cage.txt.tx.14: Plan: 1. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 144_Cage.txt.tx.15: EKG as soon as possible to assess heart; also troponin given only a few days out from event and could still see elevation 2. 
+
+Phrase: EKG as soon
+Meta Mapping (790):
+   790   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: as possible
+Meta Mapping (1000):
+  1000   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: assess
+Meta Mapping (1000):
+  1000   C1516048:Assess (Assessed) [Activity]
+
+Phrase: heart
+Meta Mapping (1000):
+  1000   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: ; also troponin
+Meta Mapping (861):
+   861   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C1720467:Only (Only - dosing instruction fragment) [Intellectual Product]
+
+Phrase: a few days out from event
+Meta Mapping (672):
+   753   C0439228:DAYS (day) [Temporal Concept]
+   586   C0439787:Out (Out (direction)) [Spatial Concept]
+   586   C0441471:Event [Event]
+
+Phrase: and
+
+Phrase: could
+
+Phrase: still
+
+Phrase: see
+Meta Mapping (1000):
+  1000   C0042789:see (Vision) [Organism Function]
+
+Phrase: elevation 2.
+Meta Mapping (861):
+   861   C0702240:Elevation [Spatial Concept]
+Processing 144_Cage.txt.tx.16: Nitroglycerin sublingual tabs instructed to be used if the pain does not resolve on its own after a few minutes and to take another if persistent after 15 minutes and to call 911 at this time 3. 
+
+Phrase: Nitroglycerin sublingual tabs
+Meta Mapping (851):
+   660   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   660   C0558302:Sublingual (Sublingual location) [Spatial Concept]
+   827   C1705223:Tab (Tablet Dosing Unit) [Quantitative Concept]
+
+Phrase: instructed
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: be
+
+Phrase: used
+Meta Mapping (1000):
+  1000   C1273517:used (Used by) [Finding]
+
+Phrase: if
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: resolve on its own
+Meta Mapping (770):
+   770   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: after a few minutes
+Meta Mapping (1000):
+  1000   C4036224:Few minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: another
+
+Phrase: if
+
+Phrase: persistent after 15 minutes
+Meta Mapping (783):
+   770   C0205322:Persistent [Temporal Concept]
+   666   C1442447:15 Minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: call
+Meta Mapping (1000):
+  1000   C1947967:Call (Call (Instruction)) [Functional Concept]
+
+Phrase: 911 at this time 3.
+Meta Mapping (760):
+   760   C0040223:TIME (Time) [Temporal Concept]
+Processing 144_Cage.txt.tx.17: recheck BP and monitor, may need to add a medication on top of regimen 4. 
+
+Phrase: recheck BP
+Meta Mapping (861):
+   861   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: monitor,
+Meta Mapping (1000):
+  1000   C0150369:monitor (Preventive monitoring) [Health Care Activity]
+
+Phrase: may
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: add
+Meta Mapping (1000):
+  1000   C1883712:Add (Add - instruction imperative) [Functional Concept]
+
+Phrase: a medication on top of regimen 4.
+Meta Mapping (652):
+   748   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   581   C1704458:Top (Top (position)) [Spatial Concept]
+   581   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Processing 144_Cage.txt.tx.18: Trial PPI (pantoprazole 40mg PO daily) for GERD 5. 
+
+Phrase: Trial PPI
+Meta Mapping (888):
+   694   C0008976:Trial (Clinical Trials) [Research Activity]
+   861   C0358591:PPI (Proton Pump Inhibitors) [Pharmacologic Substance]
+
+Phrase: (pantoprazole 40mg PO daily
+Meta Mapping (775):
+   645   C0081876:PANTOPRAZOLE (pantoprazole) [Organic Chemical,Pharmacologic Substance]
+   812   C0442027:PO (Oral) [Spatial Concept]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: )
+
+Phrase: for GERD 5.
+Meta Mapping (861):
+   861   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 144_Cage.txt.tx.19: Counseled to avoid laying down or going to bed after big meals to limit GERD symptoms too
+
+Phrase: Counseled
+Meta Mapping (966):
+   966   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: avoid
+
+Phrase: laying down
+Meta Mapping (833):
+   833   C1622979:LAYING (Egg Laying) [Organism Function]
+
+Phrase: or
+
+Phrase: going to bed
+Meta Mapping (790):
+   790   C0004916:Bed (Beds) [Manufactured Object]
+
+Phrase: after big meals
+Meta Mapping (888):
+   694   C0549177:Big (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: limit
+Meta Mapping (1000):
+  1000   C0439801:Limit (Limited (extensiveness)) [Functional Concept]
+
+Phrase: GERD symptoms too
+Meta Mapping (851):
+   660   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   827   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   660   C5206934:TOO (GDC Tissue or Organ of Origin Terminology) [Intellectual Product]

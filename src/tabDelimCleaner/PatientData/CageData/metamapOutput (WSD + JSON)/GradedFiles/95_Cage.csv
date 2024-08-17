@@ -1,0 +1,136 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,"Subjective: CC: ""chest pain 3 days ago"" HPI: Ms. "
+C0008318,CC,cholecalciferol,-1000,-1000,CC,12,True,"Subjective: CC: ""chest pain 3 days ago"" HPI: Ms. "
+C0008031,CHEST PAIN,Chest Pain,-660,-601,"""chest pain 3 days ago"" HPI",16,True,"Subjective: CC: ""chest pain 3 days ago"" HPI: Ms. "
+C0439228,DAYS,day,-632,-601,"""chest pain 3 days ago"" HPI",16,True,"Subjective: CC: ""chest pain 3 days ago"" HPI: Ms. "
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,45,True,"Subjective: CC: ""chest pain 3 days ago"" HPI: Ms. "
+C0337189,Cage,Cage device,-1000,-1000,Cage,49,True,Cage is a 55? 
+C0450382,55,55,-1000,-1000,a 55?,57,True,Cage is a 55? 
+C0439508,/Year,per year,-660,-851,year old female,63,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0580836,Old,Old,-660,-851,year old female,63,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0086287,FEMALE,Females,-827,-851,year old female,63,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0150312,PRESENT,Present,-739,-711,presents with an episode of chest pain 3 days ago,83,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0332189,Episode of,Episode of,-760,-711,presents with an episode of chest pain 3 days ago,83,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0008031,CHEST PAIN,Chest Pain,-760,-711,presents with an episode of chest pain 3 days ago,83,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C3842675,Day 3,Day 3,-741,-711,presents with an episode of chest pain 3 days ago,83,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C2699488,Resolved,Resolution,-760,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C4517521,10.5,10.5,-797,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0702093,/minute,Per Minute,-760,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C2699488,Resolved,Resolution,-760,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C3842590,10%,10%,-760,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0886384,minute 5,5 minutes Office visit,-797,-761,resolved after 5-10 minutes.,138,True,year old female who presents with an episode of chest pain 3 days ago that resolved after 5-10 minutes. 
+C0206243,Carrying,Carrying,-694,-694,carrying groceries,193,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0205392,Some,Some (qualifier value),-586,-734,some water bottles in her hands,220,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C3714773,WATER BOTTLE,WATER BOTTLE,-773,-734,some water bottles in her hands,220,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0574443,HER,Herero language,-586,-734,some water bottles in her hands,220,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0018563,Hands,Hand,-586,-734,some water bottles in her hands,220,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C1527305,feel,Feelings,-966,-966,felt,261,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0039070,FAINT,Syncope,-1000,-1000,"faint,",266,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0225386,Breath,Breath,-1000,-1000,her breath,273,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C1883727,Taken,Taken,-1000,-1000,taken,288,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C1527305,feel,Feelings,-966,-966,felt,308,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0008031,Pain In Chest,Chest Pain,-804,-755,chest pain in her mid chest area,313,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0574443,HER,Herero language,-581,-755,chest pain in her mid chest area,313,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0205146,AREA,Area,-581,-755,chest pain in her mid chest area,313,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C0006141,BREASTS,Breast,-1000,-1000,between her breasts.,346,True,"She mentions that she was carrying groceries and had some water bottles in her hands when she felt faint, her breath was taken away, and she felt chest pain in her mid chest area between her breasts. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,367,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0278144,Dull Pain,Dull pain,-913,-877,"a dull, achy pain",380,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0234238,Aches,Ache,-589,-877,"a dull, achy pain",380,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0205146,AREA,Area,-770,-770,stayed in the area,403,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C2699488,Resolved,Resolution,-748,-652,resolved after a few minutes of her,426,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0702093,/minute,Per Minute,-748,-652,resolved after a few minutes of her,426,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0574443,HER,Herero language,-748,-652,resolved after a few minutes of her,426,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0035253,Resting,Rest,-770,-708,resting in the car.,462,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0004381,Car,Automobiles,-770,-708,resting in the car.,462,True,"The pain was a dull, achy pain that stayed in the area and resolved after a few minutes of her resting in the car. "
+C0442735,Nothing,Nothing,-790,-790,nothing like this,500,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C1709305,Happened,Occur (action),-833,-833,happened before,522,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C4331910,Last Month,Past 30 days,-858,-858,in the last several months where,581,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C1527305,feel,Feelings,-1000,-1000,feel,624,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C0574443,HER,Herero language,-770,-722,"something in her chest,",629,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C1527391,Chest,Anterior thoracic region,-770,-722,"something in her chest,",629,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C3538928,Usually,Usual,-1000,-1000,usually,653,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C0015259,Physical Activity,Exercise,-1000,-1000,a physical activity.,673,True,"She mentions that nothing like this has happened before but she has had a few moments of ""twinges"" in the last several months where she would feel something in her chest, usually while doing a physical activity. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,698,True,She denies feeling the pain now or any other symptoms associated with this.  
+C1527305,Feeling,Feelings,-1000,-1000,feeling,705,False,She denies feeling the pain now or any other symptoms associated with this.  
+C1962977,Pain NOS,"Pain NOS, CTCAE",-861,-888,the pain now,713,False,She denies feeling the pain now or any other symptoms associated with this.  
+C1948052,Now,Now (temporal qualifier),-694,-888,the pain now,713,True,She denies feeling the pain now or any other symptoms associated with this.  
+C0683368,symptoms,Symptoms aspect,-1000,-1000,any other symptoms,729,True,She denies feeling the pain now or any other symptoms associated with this.  
+C0332281,Associated with,Associated with,-882,-882,associated with this.,748,True,She denies feeling the pain now or any other symptoms associated with this.  
+C4321267,MED,COMP wt Allele,-694,-888,-Med history,771,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0262512,"History, NOS",History of present illness,-861,-888,-Med history,771,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,on chlorthalidone,790,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0065374,Lysinopril,lisinopril,-660,-851,lisinopril -Fam history,812,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C3541878,FAM,USP9X wt Allele,-660,-851,lisinopril -Fam history,812,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0262512,"History, NOS",History of present illness,-827,-851,lisinopril -Fam history,812,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-1000,-1000,"dad,",837,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0814942,HA,Han Chinese,-770,-733,"HA at age 40,",842,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0001779,AGE,Age,-604,-733,"HA at age 40,",842,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C3842587,40%,40%,-604,-733,"HA at age 40,",842,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C1536078,Bypass Surgery,Bypass Surgery,-1000,-1000,"bypass surgery,",856,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C0262512,"History, NOS",History of present illness,-790,-746,history of CAD.,872,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C1707433,CAD,Collision-Induced Dissociation,-623,-746,history of CAD.,872,True,"-Med history: HBP, on chlorthalidone and lisinopril -Fam history: dad, HA at age 40, bypass surgery, history of CAD. "
+C1442163,MoM,Multiple of the median,-1000,-1000,"mom,",888,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-694,-824,a pulmonary embolism -Soc history,901,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C0262512,"History, NOS",History of present illness,-812,-824,a pulmonary embolism -Soc history,901,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C0037369,SMOKING,Smoking,-770,-733,"smoking for 30 years,",936,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C3842588,30%,30%,-770,-733,"smoking for 30 years,",936,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C0439234,YEARS,year,-770,-733,"smoking for 30 years,",936,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C4524862,Pack/Day,Packs per Day,-1000,-1000,pack/day.,958,True,"mom, HBP and a pulmonary embolism -Soc history: smoking for 30 years, pack/day. "
+C0001962,ALCOHOL,ethanol,-753,-672,Alcohol only minimally on the weekends,968,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C0205171,Only,Singular,-753,-672,Alcohol only minimally on the weekends,968,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C0680190,weekends,Weekend,-753,-672,Alcohol only minimally on the weekends,968,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C0028128,NO,nitric oxide,-586,-719,no usage of any illicit drugs.,1011,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C0457083,Usage,Usage,-753,-719,no usage of any illicit drugs.,1011,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C0086190,Illicit Drugs,Illicit Drugs,-623,-719,no usage of any illicit drugs.,1011,True,Alcohol only minimally on the weekends and no usage of any illicit drugs.  
+C1571702,Objective,Objective observation,-1000,-1000,Objective,1043,True,"Objective:  vitals: RR 14, BP: 150/72. "
+C0518766,VITAL,Vital signs,-928,-928,vitals,1055,True,"Objective:  vitals: RR 14, BP: 150/72. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",1063,True,"Objective:  vitals: RR 14, BP: 150/72. "
+C1708288,BP,HP wt Allele,-1000,-1000,BP,1070,True,"Objective:  vitals: RR 14, BP: 150/72. "
+C4319632,72,72,-861,-861,150/72.,1074,True,"Objective:  vitals: RR 14, BP: 150/72. "
+C0205307,NORMAL,Normal,-694,-888,other normal PE,1086,True,all other normal PE: Chest is nontender to palpation. 
+C1880476,PE,Etoposide-Platinol Regimen,-861,-888,other normal PE,1086,True,all other normal PE: Chest is nontender to palpation. 
+C1527391,Chest,Anterior thoracic region,-1000,-1000,Chest,1103,True,all other normal PE: Chest is nontender to palpation. 
+C0520960,Nontender,Non-tender,-790,-746,nontender to palpation.,1112,True,all other normal PE: Chest is nontender to palpation. 
+C0030247,PALPATION,Palpation,-623,-746,nontender to palpation.,1112,True,all other normal PE: Chest is nontender to palpation. 
+C2346686,h l,Liter per Hour,-673,-794,H+L examination insignificant  Assessment,1136,True,H+L examination insignificant  Assessment: Ms. 
+C4321457,Examination,Examination,-637,-794,H+L examination insignificant  Assessment,1136,True,H+L examination insignificant  Assessment: Ms. 
+C1516048,Assessment,Assessed,-804,-794,H+L examination insignificant  Assessment,1136,True,H+L examination insignificant  Assessment: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,1179,True,H+L examination insignificant  Assessment: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1183,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0086287,FEMALE,Females,-760,-686,a female in her 50s,1191,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0574443,HER,Herero language,-593,-686,a female in her 50s,1191,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0332287,With,In addition to,-593,-843,with medical history of HBP,1211,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0262926,History of MEDICAL,Medical History,-844,-843,with medical history of HBP,1211,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0150312,PRESENT,Present,-748,-738,presents with an episode of chest pain,1243,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0332189,EPISODE,Episode of,-748,-738,presents with an episode of chest pain,1243,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0024902,Pain of breast,Mastodynia,-777,-738,presents with an episode of chest pain,1243,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0015264,Exertion,Exertion,-645,-763,during exertion 3 days ago,1282,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0439228,DAYS,day,-812,-763,during exertion 3 days ago,1282,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0036588,Self,Self,-760,-696,self-resolved after several minutes.,1314,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C2699488,Resolved,Resolution,-760,-696,self-resolved after several minutes.,1314,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0702093,/minute,Per Minute,-760,-696,self-resolved after several minutes.,1314,True,Cage is a female in her 50s with medical history of HBP who presents with an episode of chest pain during exertion 3 days ago that self-resolved after several minutes. 
+C0031809,PHYSICAL EXAMINATION,Physical Examination,-1000,-1000,Physical examination,1351,True,Physical examination was insignificant. 
+C0332135,Working diagnosis,Working diagnosis,-1000,-1000,Working diagnosis,1391,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0750492,Likely,Probably,-581,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0340288,STABLE ANGINA,Stable angina,-778,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0678226,Due To,Due to,-612,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0574443,HER,Herero language,-581,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0683368,symptoms,Symptoms aspect,-581,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0750492,Likely,Probably,-581,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C1547311,Stable,Patient Condition Code - Stable,-748,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0858277,angina symptoms,angina symptom,-774,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0678226,Due To,Due to,-612,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0574443,HER,Herero language,-581,-827,likely stable angina due to her symptoms,1412,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C2826257,PRIOR,Prior Medication Usage,-593,-725,prior milder episodes with exertion.,1457,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C2945599,Mild,Mild (qualifier value),-560,-725,prior milder episodes with exertion.,1457,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0332189,Episodes,Episode of,-760,-725,prior milder episodes with exertion.,1457,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0015264,Exertion,Exertion,-593,-725,prior milder episodes with exertion.,1457,True,Working diagnosis is likely stable angina due to her symptoms and prior milder episodes with exertion. 
+C0443199,Differential,Differential quality,-1000,-1000,Differential,1494,True,Differential also includes an acute myocardial infarction.   
+C0332257,include,Including (qualifier),-1000,-1000,includes,1512,True,Differential also includes an acute myocardial infarction.   
+C0155626,Acute Myocardial Infarction,Acute myocardial infarction,-1000,-1000,an acute myocardial infarction.,1521,True,Differential also includes an acute myocardial infarction.   
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1555,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"
+C1623258,EKG,Electrocardiography,-694,-888,EKG -Troponins,1562,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"
+C0041199,Troponins,Troponin,-861,-888,EKG -Troponins,1562,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"
+C0010290,CK-MB,Creatine Kinase MB Isoenzyme,-734,-901,"CK-MB -BMP,",1581,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"
+C0053932,BMP,Bone Morphogenetic Proteins,-827,-901,"CK-MB -BMP,",1581,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"
+C0009555,CBC,Complete Blood Count,-1000,-1000,CBC,1593,True,"Plan: -EKG -Troponins and CK-MB -BMP, CBC"

@@ -1,0 +1,458 @@
+Processing 134_Cage.txt.tx.1: Gerry is a 46 year old male with pmh of HTN who presents after an episode of substernal chest pain that lasted for 5 minutes 3 days ago. 
+
+Phrase: Gerry
+Meta Mapping (1000):
+  1000   C1019207:gerry (Gerris) [Eukaryote]
+
+Phrase: is
+
+Phrase: a 46 year old male with pmh of HTN
+Meta Mapping (652):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:PMH (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents after an episode of substernal chest pain
+Meta Mapping (756):
+   744   C0150312:PRESENT (Present) [Finding]
+   770   C0332189:Episode of [Temporal Concept]
+   800   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: lasted for 5 minutes 3 days ago.
+Meta Mapping (724):
+   714   C1517741:Last [Qualitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   757   C3842675:Day 3 [Finding]
+Processing 134_Cage.txt.tx.2: Patient states he was lifting heavy gorceries and excerting himself when he felt the chest pain, it felt like a "deep ache", lasted 5 minutes and was associated with light-headedness and shortness of breath. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy gorceries
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: excerting
+
+Phrase: himself
+
+Phrase: when
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the chest pain,
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: it felt like
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a "deep ache",
+Meta Mapping (888):
+   694   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   861   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5 minutes
+Meta Mapping (1000):
+  1000   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with light-headedness
+Meta Mapping (901):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 134_Cage.txt.tx.3: He sat down and rested resulting in the pain going away. 
+
+Phrase: He
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: rested
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+
+Phrase: resulting in the pain
+Meta Mapping (783):
+   833   C0332294:Resulting in [Functional Concept]
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: going
+
+Phrase: away.
+Processing 134_Cage.txt.tx.4: Over the past 4 months patietn reports similar "twinges of pain" in a similar location which occurred with excersionsuch as climbing stairs and went away with rest.   meds:  chlorthalidone 25mg po daily lisinopril 50mg daily family hx: father with CAD; had CABG in his 40s mother with DM, passed away around 60 due to PE diet: poor exercise: none   vitals: temp 98 p:85  r:14  bp:150/92 PE: general: no acute distress, well-appearing  respiratory: non-labored, clear to asculation in all fields, no crackles  cv: NRR, no murmurs, no extra heart sounds, lower extremities well-perfused  neuro: No focal findings   A/P: Gerry is a 46 year old male with pmh of HTN who presents after having 5-minute episode of substernal chest pain associated witt lightheadedness and SOB relieved with rest. 
+
+Phrase: Over the past 4 months patietn
+Meta Mapping (691):
+   691   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: similar "twinges of pain"
+Meta Mapping (541):
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in a similar location
+Meta Mapping (888):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+   861   C0450429:Location [Spatial Concept]
+
+Phrase: which
+
+Phrase: occurred with excersionsuch
+Meta Mapping (790):
+   790   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: as climbing stairs
+Meta Mapping (1000):
+  1000   C1290942:Climbing stairs [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: went
+
+Phrase: away with rest.   meds
+Meta Mapping (722):
+   770   C0035253:Rest [Daily or Recreational Activity]
+   770   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone 25mg po daily lisinopril 50mg daily family hx
+Meta Mapping (722):
+   624   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   624   C0442027:PO (Oral) [Spatial Concept]
+   624   C0332173:Daily [Temporal Concept]
+   624   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   624   C0015576:Family [Family Group]
+   791   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: father with CAD
+Meta Mapping (746):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: ;
+
+Phrase: had
+
+Phrase: CABG in his 40s mother
+Meta Mapping (687):
+   760   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   593   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   593   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: with DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: passed
+Meta Mapping (1000):
+  1000   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: away around 60
+Meta Mapping (790):
+   790   C3842585:60% [Quantitative Concept]
+
+Phrase: due to PE diet
+Meta Mapping (888):
+   694   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   861   C0012155:Diet [Food]
+
+Phrase: :
+
+Phrase: poor exercise
+Meta Mapping (888):
+   694   C2700379:Poor (Poor - qualifier) [Qualitative Concept]
+   861   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: :
+
+Phrase: none   vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: temp 98 p:85  r:14  bp
+Meta Mapping (731):
+   629   C0039476:TEMP (Temperature) [Quantitative Concept]
+   629   C4319627:98 [Quantitative Concept]
+   629   C4517892:85 [Quantitative Concept]
+   629   C0205090:R- (Right) [Spatial Concept]
+   795   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 PE
+Meta Mapping (827):
+   827   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: general
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: no acute distress,
+Meta Mapping (888):
+   694   C1551345:ACUTE (acute inpatient encounter) [Health Care Activity]
+   861 N C0231303:Distress [Finding]
+
+Phrase: well-appearing  respiratory
+Meta Mapping (840):
+   660   C0205170:Well (Good) [Qualitative Concept]
+   627   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   827   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: non-labored,
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861 N C4068782:Labored [Finding]
+
+Phrase: clear to asculation
+Meta Mapping (790):
+   790 N C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: in all fields,
+Meta Mapping (966):
+   966   C1521738:Field [Conceptual Entity]
+
+Phrase: no
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: cv
+Meta Mapping (1000):
+  1000   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: NRR,
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: no extra heart sounds,
+Meta Mapping (901):
+   660   C1883702:Extra (Supernumerary) [Quantitative Concept]
+   901   C0018820:HEART SOUNDS (Heart Sounds) [Organ or Tissue Function]
+
+Phrase: lower extremities well-perfused  neuro
+Meta Mapping (831):
+   673   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+   637   C0205170:Well (Good) [Qualitative Concept]
+   604   C1549542:Perfuse [Functional Concept]
+   804   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: No focal findings
+Meta Mapping (888):
+   694   C0205234:FOCAL (Focal) [Spatial Concept]
+   861   C2926606:Findings (Procedure findings:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: A/P
+
+Phrase: :
+
+Phrase: Gerry
+Meta Mapping (1000):
+  1000   C1019207:gerry (Gerris) [Eukaryote]
+
+Phrase: is
+
+Phrase: a 46 year old male with pmh of HTN
+Meta Mapping (652):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:PMH (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: after
+
+Phrase: having
+
+Phrase: 5-minute episode of substernal chest pain
+Meta Mapping (854):
+   612   C0886384:5 minute (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   778   C0332189:Episode of [Temporal Concept]
+   647   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: witt lightheadedness
+Meta Mapping (861):
+   861   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: SOB
+Meta Mapping (1000):
+  1000   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 134_Cage.txt.tx.5: Patient has been with less severe episodes of similar symptoms over the past 4 months. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: been with less severe episodes of similar symptoms
+Meta Mapping (720):
+   767   C0436345:severe symptoms (Symptom severe) [Finding]
+   754   C0332189:Episode of [Temporal Concept]
+   744   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: over the past 4 months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 134_Cage.txt.tx.6: Physica exam remarkable for elevated blood pressure. 
+
+Phrase: Physica exam
+Meta Mapping (861):
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: remarkable for elevated blood pressure.
+Meta Mapping (695):
+   695   C0020538:Elevated blood pressure (Hypertensive disease) [Disease or Syndrome]
+Processing 134_Cage.txt.tx.7: Family hx significant for father with CAD and CABG in his 40s. 
+
+Phrase: Family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: significant for father
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: and
+
+Phrase: CABG in his 40s.
+Meta Mapping (708):
+   770   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   604   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+Processing 134_Cage.txt.tx.8: Based on hx and exam most likely differential for this patient is coronary artery disease or other cardiac ischemic process. 
+
+Phrase: Based on hx
+Meta Mapping (746):
+   790   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   790   C0262926:Hx (Medical History) [Finding]
+
+Phrase: and
+
+Phrase: exam
+Meta Mapping (1000):
+  1000   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: most likely differential for this patient
+Meta Mapping (725):
+   623   C0750501:most likely [Idea or Concept]
+   753   C0443199:Differential (Differential quality) [Qualitative Concept]
+   586   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: coronary artery disease
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: other cardiac ischemic process.
+Meta Mapping (901):
+   913   C2256369:Cardiac process (heart process) [Physiologic Function]
+   660   C0475224:Ischemic [Functional Concept]
+Processing 134_Cage.txt.tx.9: Chest pain -order echo -order EKG -order chest x-ray HTN -consider increasing dosage of lisinopril
+
+Phrase: Chest pain -order echo -order EKG -order chest x-ray HTN -
+Meta Mapping (739):
+   716   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+   622   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   622   C1705178:Order (Order (action)) [Activity]
+   622   C1655045:Echo (Echo (insect)) [Eukaryote]
+   622   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   788   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: increasing dosage of lisinopril
+Meta Mapping (733):
+   604   C0442808:Increasing [Functional Concept]
+   770   C0178602:Dosage [Quantitative Concept]
+   604   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]

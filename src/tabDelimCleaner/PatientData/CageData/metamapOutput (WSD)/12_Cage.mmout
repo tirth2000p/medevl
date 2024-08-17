@@ -1,0 +1,511 @@
+Processing 12_Cage.txt.tx.1: CC: "Worried about chest pain 3 days ago" HPI: Mr. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: "Worried about chest pain 3 days ago" HPI
+Meta Mapping (705):
+   744   C0233481:Worried [Finding]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   584   C3842675:Day 3 [Finding]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 12_Cage.txt.tx.2: Gerry Cage is a 40 year old male who presented 3 days after a 5-10 minute episode of a deep ache/heavy feeling in his mid chest while carrying groceries. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 40 year old male
+Meta Mapping (833):
+   645   C3842587:40% [Quantitative Concept]
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presented
+Meta Mapping (1000):
+  1000   C0449450:Presented (Presentation) [Idea or Concept]
+
+Phrase: 3 days after a 5-10 minute episode of a deep ache/heavy feeling
+Meta Mapping (695):
+   759   C3843196:3-5 days (3 to 5 days) [Finding]
+   568   C3842590:10% [Quantitative Concept]
+   568   C0702093:/minute (Per Minute) [Temporal Concept]
+   581   C0332189:Episode of [Temporal Concept]
+   568   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   568   C0234238:ACHE (Ache) [Sign or Symptom]
+   581   C0581912:Heavy feeling [Finding]
+
+Phrase: in his mid chest
+Meta Mapping (888):
+   861   C0444598:Mid (Middle) [Spatial Concept]
+   861   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: while
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 12_Cage.txt.tx.3: - also had feeling of lightheadedness - few seconds of experiencing the wind "knocked out of me" - relieved with rest - denies shortness of breath, flushing, or radiating pain - has had short episodes of 5-10 seconds of similar chest pain for the past 4 months that occur only during activity - denies any episodes at rest - concerned he may have had a heart attack  PHX: HTN- takes BP at home, ranging in 130s/80s  Meds: chlorthalidone and lisinopril- for HTN Allergies: none  FHx: father died of heart attack in 40s HTN- mother  SHx: smokes 1 ppd x20 years 2-3 glasses of wine x2 days a week  Objective: VS 98 P 85 RR 14 BP 150/92  PE:  general: age appearing male in no acute distress cardiovascular: heart regular rate and rhythm, normal S1 and S2, no murmurs rubs gallops peripheral pulses intact upper and lower extremities no lower extremity edema  Assessment: Gerry Cage is a 40 yo male presenting with episodic chest pain of a deep ache/heavy feeling while active for the past 4 months. 
+
+Phrase: -
+
+Phrase: also
+
+Phrase: had
+
+Phrase: feeling of lightheadedness - few seconds of experiencing
+Meta Mapping (651):
+   748   C1527305:Feeling (Feelings) [Mental Process]
+   581   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   581   C0457385:Seconds (seconds) [Temporal Concept]
+   548   C0596545:Experience [Mental Process]
+
+Phrase: the wind "
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: knocked out of me" -
+Meta Mapping (783):
+   833   C0560617:knocked out [Injury or Poisoning]
+   770   C0025082:ME (Examiner, Medical) [Professional or Occupational Group]
+
+Phrase: relieved with rest -
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: flushing
+Meta Mapping (1000):
+  1000 N C0016382:FLUSHING (Flushing) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: radiating pain -
+Meta Mapping (1000):
+  1000 N C0234254:Radiating Pain (Radiating pain) [Sign or Symptom]
+
+Phrase: has
+
+Phrase: had
+
+Phrase: short episodes of 5-10 seconds of similar chest pain
+Meta Mapping (737):
+   573   C1282927:short (Shortened) [Qualitative Concept]
+   739   C0332189:Episodes (Episode of) [Temporal Concept]
+   591   C4517521:10.5 [Quantitative Concept]
+   573   C0457385:Seconds (seconds) [Temporal Concept]
+   573   C2348205:Similar (Similarity) [Qualitative Concept]
+   581   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: for the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: that
+
+Phrase: occur
+Meta Mapping (1000):
+  1000   C2745955:OCCUR (Occurrence) [Temporal Concept]
+
+Phrase: only during activity -
+Meta Mapping (746):
+   790   C0205171:Only (Singular) [Quantitative Concept]
+   790   C0441655:ACTIVITY (Activities) [Activity]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any episodes at rest - concerned
+Meta Mapping (696):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   760   C0332189:Episodes (Episode of) [Temporal Concept]
+   593   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: he
+
+Phrase: may
+
+Phrase: have
+
+Phrase: had
+
+Phrase: a heart attack  PHX
+Meta Mapping (734):
+   734   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: HTN-
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: at home,
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+
+Phrase: ranging in 130s/80s  Meds
+Meta Mapping (669):
+   726   C1514721:Range [Quantitative Concept]
+   760   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril-
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: for HTN Allergies
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none  FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died of heart attack
+Meta Mapping (783):
+   770   C1306577:Died (Death (finding)) [Finding]
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: in 40s HTN- mother  SHx
+Meta Mapping (583):
+   645   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   645   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: :
+
+Phrase: smokes 1 ppd x20 years 2-3 glasses of wine x2 days
+Meta Mapping (643):
+   570   C0037369:smokes (Smoking) [Individual Behavior]
+   570   C1710647:PPD (WISP3 wt Allele) [Gene or Genome]
+   570   C0439234:YEARS (year) [Temporal Concept]
+   736   C0015421:Glasses (Eyeglasses) [Medical Device]
+   570   C0043188:WINE (Wine) [Food]
+   568   C1442449:Day 1 (1 Day) [Temporal Concept]
+
+Phrase: a week  Objective
+Meta Mapping (888):
+   694   C0332174:/week (Weekly) [Temporal Concept]
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: 98 P 85 RR 14 BP 150/92  PE
+Meta Mapping (729):
+   624   C4319627:98 [Quantitative Concept]
+   624   C4517892:85 [Quantitative Concept]
+   663   C0140925:RR 150 [Organic Chemical]
+   624   C1415692:Bp (HP gene) [Gene or Genome]
+   791   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: general
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: age appearing male in no acute distress
+Meta Mapping (686):
+   581   C0001779:AGE (Age) [Organism Attribute]
+   548   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   748   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C1551345:ACUTE (acute inpatient encounter) [Health Care Activity]
+   581 N C0231303:Distress [Finding]
+
+Phrase: cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: heart regular rate
+Meta Mapping (901):
+   913   C0018810:Heart Rate (heart rate) [Clinical Attribute]
+   660   C0205272:Regular [Qualitative Concept]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000 N C0871269:Rhythm [Finding]
+
+Phrase: normal S1
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861 N C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: gallops
+
+Phrase: peripheral pulses intact upper
+Meta Mapping (861):
+   694   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+   645 N C1554187:Intact (Gender Status - Intact) [Finding]
+   812   C1282910:UPPER (Upper) [Spatial Concept]
+
+Phrase: and
+
+Phrase: lower extremities
+Meta Mapping (1000):
+  1000   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+
+Phrase: no lower extremity edema  Assessment
+Meta Mapping (916):
+   756 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 40 yo male presenting with episodic chest pain of a deep ache/heavy feeling
+Meta Mapping (680):
+   567   C3842587:40% [Quantitative Concept]
+   567   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   567   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   733   C0449450:Presenting (Presentation) [Idea or Concept]
+   567   C1455761:Episodic [Temporal Concept]
+   563   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   567   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   567   C0234238:ACHE (Ache) [Sign or Symptom]
+   579   C0581912:Heavy feeling [Finding]
+
+Phrase: while
+
+Phrase: active for the past 4 months.
+Meta Mapping (704):
+   753   C0205177:Active [Qualitative Concept]
+   600   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 12_Cage.txt.tx.4: Most recently, he had an episode of 5-10 minutes duration that was relieved with rest. 
+
+Phrase: Most recently,
+Meta Mapping (888):
+   861   C0205393:Most [Quantitative Concept]
+   861   C0332185:Recently (Recent) [Temporal Concept]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: an episode of 5-10 minutes duration
+Meta Mapping (836):
+   607   C0526789:AN(5) [Organic Chemical,Pharmacologic Substance]
+   778   C0332189:Episode of [Temporal Concept]
+   612   C0456692:/10 minutes (/10 min) [Temporal Concept]
+   581   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 12_Cage.txt.tx.5: Most likely stable angina but can also consider unstable angina due to evolving nature of episodes.  
+
+Phrase: Most likely stable angina
+Meta Mapping (888):
+   694   C0750501:most likely [Idea or Concept]
+   861   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: can
+
+Phrase: also
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: unstable angina due to evolving nature of episodes.
+Meta Mapping (820):
+   770   C0002965:Angina, Unstable [Disease or Syndrome]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0332253:Evolving [Functional Concept]
+   578   C1262865:Nature (Natures) [Functional Concept]
+   584   C0332189:Episode of [Temporal Concept]
+Processing 12_Cage.txt.tx.6: Plan: - patient to log home BPs and send through patient portal -return to clinic in 3 months, but advised patient to use patient portal to contact if he experiences another episode - will order BMP and check cholesterol - advised lifestyle modification to quit smoking - prescribed aspirin and nitroglycerin tabs
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: : -
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: log
+Meta Mapping (1000):
+  1000   C1708728:Log (Event Log) [Intellectual Product]
+
+Phrase: home BPs
+Meta Mapping (888):
+   694   C1553498:Home (home health encounter) [Health Care Activity]
+   861   C1849718:BPS (POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: send through patient portal -return
+Meta Mapping (761):
+   760   C1519246:Send (Send (transmission)) [Functional Concept]
+   806   C4277550:Portal, Patient (Patient Portals) [Intellectual Product]
+   760   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+
+Phrase: to clinic in 3 months,
+Meta Mapping (696):
+   593   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   760   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   593   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: but
+
+Phrase: advised patient
+Meta Mapping (861):
+   861   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: use
+Meta Mapping (1000):
+  1000   C0042153:use (utilization qualifier) [Functional Concept]
+
+Phrase: patient portal
+Meta Mapping (1000):
+  1000   C4277550:Portal, Patient (Patient Portals) [Intellectual Product]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: contact
+Meta Mapping (1000):
+  1000   C0332158:contact (Contact with) [Functional Concept]
+
+Phrase: if
+
+Phrase: he
+
+Phrase: experiences
+Meta Mapping (1000):
+  1000   C0596545:experiences (Experience) [Mental Process]
+
+Phrase: another episode -
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: will
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: BMP
+Meta Mapping (1000):
+  1000   C0279266:BMP (carmustine/methotrexate/procarbazine protocol) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: check cholesterol - advised lifestyle modification
+Meta Mapping (785):
+   637   C1283174:Check (Checking (action)) [Activity]
+   637   C0008377:CHOLESTEROL (cholesterol) [Biologically Active Substance,Organic Chemical]
+   840   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: quit
+Meta Mapping (1000):
+  1000   C0748223:QUIT [Idea or Concept]
+
+Phrase: smoking - prescribed aspirin
+Meta Mapping (851):
+   660   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+   660   C0278329:Prescribed [Health Care Activity]
+   827   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: nitroglycerin tabs
+Meta Mapping (888):
+   694   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   861   C1705223:Tab (Tablet Dosing Unit) [Quantitative Concept]

@@ -1,0 +1,223 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0086287,FEMALE,Females,-739,-628,56 y/o female with a PMH of HTN presenting,12,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0262926,PMH,Medical History,-573,-628,56 y/o female with a PMH of HTN presenting,12,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0020538,HTN,Hypertensive disease,-573,-628,56 y/o female with a PMH of HTN presenting,12,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0449450,Presenting,Presentation,-573,-628,56 y/o female with a PMH of HTN presenting,12,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0332287,With,In addition to,-578,-726,with an episode of CP 3 days ago.,55,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0332189,Episode of,Episode of,-770,-726,with an episode of CP 3 days ago.,55,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0006938,CP,captopril,-578,-726,with an episode of CP 3 days ago.,55,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C3842675,Day 3,Day 3,-584,-726,with an episode of CP 3 days ago.,55,True,Subjective: 56 y/o female with a PMH of HTN presenting with an episode of CP 3 days ago. 
+C0032743,PT,Positron-Emission Tomography,-1000,-1000,Pt,89,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C1442792,State,State,-1000,-1000,states,92,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0080331,Walking,Walking (activity),-748,-704,walking out of a store carrying groceries,107,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0439787,Out,Out (direction),-581,-704,walking out of a store carrying groceries,107,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0206243,Carrying,Carrying,-581,-704,walking out of a store carrying groceries,107,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0557778,Grocery Store,Supermarket,-591,-704,walking out of a store carrying groceries,107,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C1527305,feel,Feelings,-966,-966,felt,167,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0008031,CHEST PAIN,Chest Pain,-901,-901,midsternal chest pain,172,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C0012833,Lightheadedness,Dizziness,-1000,-1000,lightheadedness.,198,True,Pt states she was walking out of a store carrying groceries when she suddenly felt midsternal chest pain and lightheadedness. 
+C1299581,Able,Able (finding),-1000,-1000,able,223,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,228,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1824356,GET,RESF1 gene,-770,-733,get to her car,231,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0574443,HER,Herero language,-770,-733,get to her car,231,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0004381,Car,Automobiles,-770,-733,get to her car,231,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,symptoms,250,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C2699488,Resolved,Resolution,-1000,-1000,resolved,259,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C4517521,10.5,10.5,-783,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0702093,/minute,Per Minute,-753,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1301808,states,Geographic state,-753,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C3842590,10%,10%,-753,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0886384,minute 5,5 minutes Office visit,-783,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1301808,states,Geographic state,-753,-743,spontaneously after 5-10 minutes. states,268,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1527305,feel,Feelings,-966,-966,felt,313,False,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0016204,Wind NOS,Flatulence,-1000,-1000,her wind,323,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0560617,knocked out,knocked out,-833,-783,knocked out of her,336,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0574443,HER,Herero language,-770,-783,knocked out of her,336,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0028128,NO,nitric oxide,-623,-771,no SOB after,359,True,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0013404,SOB,Dyspnea,-790,-771,no SOB after,359,False,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C1527305,Feeling,Feelings,-861,-861,that initital feeling.,372,False,She was able to get to her car and symptoms resolved spontaneously after 5-10 minutes. states she felt that her wind was knocked out of her but no SOB after that initital feeling. 
+C0006938,CP,captopril,-753,-672,the CP as a deep ache,409,True,She describes the CP as a deep ache and pressure.  
+C0205125,DEEP,Deep (qualifier value),-586,-672,the CP as a deep ache,409,True,She describes the CP as a deep ache and pressure.  
+C0234238,ACHE,Ache,-586,-672,the CP as a deep ache,409,True,She describes the CP as a deep ache and pressure.  
+C0033095,Pressure,Pressure- physical agent,-1000,-1000,pressure.,435,True,She describes the CP as a deep ache and pressure.  
+C1317574,Note,Note (document),-1000,-1000,"Of note,",446,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C2348205,Similar,Similarity,-581,-752,similar episodes of pain 2-3 times,467,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C0332189,Episode of,Episode of,-762,-752,similar episodes of pain 2-3 times,467,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-581,-752,similar episodes of pain 2-3 times,467,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C0808270,Time 2,Time 2,-591,-752,similar episodes of pain 2-3 times,467,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C1444637,In the past,In the past,-647,-741,in the past 4 months during exertion.,502,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C0439231,MONTHS,month,-748,-741,in the past 4 months during exertion.,502,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C0015264,Exertion,Exertion,-581,-741,in the past 4 months during exertion.,502,True,"Of note, she has had similar episodes of pain 2-3 times in the past 4 months during exertion. "
+C1550608,Instance,Instance,-714,-646,"those instances as ""twinges"" of momentary pain",554,True,"She describes those instances as ""twinges"" of momentary pain that resolve quickly. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-581,-646,"those instances as ""twinges"" of momentary pain",554,True,"She describes those instances as ""twinges"" of momentary pain that resolve quickly. "
+C2699488,Resolve,Resolution,-1000,-1000,resolve,606,True,"She describes those instances as ""twinges"" of momentary pain that resolve quickly. "
+C1291078,Epigastric discomfort,Epigastric discomfort,-840,-840,She also c/o epigastric discomfort,623,True,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C0013470,Eat,Eating,-1000,-1000,eats,667,True,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C3900172,A lot,A Lot of the Time,-833,-783,"a lot of food,",672,True,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C0016452,Food,Food,-604,-783,"a lot of food,",672,True,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C0232483,Reflux,Reflux,-694,-888,no reflux sensations.,695,False,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C0036658,Sensations,Esthesia,-861,-888,no reflux sensations.,695,True,"She also c/o epigastric discomfort when she eats a lot of food, however no reflux sensations. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,717,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0450429,LOC,Location,-1000,-1000,"LOC,",724,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0814942,HA,Han Chinese,-1000,-1000,"HA,",729,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0016327,F-,Fluorides,-694,-694,"f/c,",733,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0332185,Recent,Recent,-694,-888,"recent illness,",738,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0221423,Illness,Illness (finding),-861,-888,"recent illness,",738,False,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,"palpitations,",754,False,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0039231,Heart racing,Tachycardia,-734,-901,"heart racing sensations,",768,False,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0036658,Sensations,Esthesia,-827,-901,"heart racing sensations,",768,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0700590,DIAPHORESIS,Increased sweating,-1000,-1000,"diaphoresis,",793,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0392703,SHAKINESS,Shakes,-1000,-1000,"shakiness,",806,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0026821,MUSCLE CRAMPS,Muscle Cramp,-734,-901,"muscle cramps/spasms,",817,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0037763,SPASMS,Spasm,-827,-901,"muscle cramps/spasms,",817,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0026845,Muscle,Muscle Tissue,-660,-901,"muscle cramps/spasms,",817,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0495682,cramps spasms,cramp and spasm,-901,-901,"muscle cramps/spasms,",817,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0392747,Change,Changing,-790,-746,change in stooling,839,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0015733,stooling,Feces,-623,-746,change in stooling,839,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0042034,Urination,Urination,-1000,-1000,"urination,",861,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0013404,SOB,Dyspnea,-790,-746,"SOB at rest,",872,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0035253,Rest,Rest,-623,-746,"SOB at rest,",872,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C0521989,associated symptoms,Associated symptom,-1000,-1000,any other associated symptoms.,888,True,"Denies LOC, HA, f/c, recent illness, palpitations, heart racing sensations, diaphoresis, shakiness, muscle cramps/spasms, change in stooling or urination, SOB at rest, or any other associated symptoms. "
+C1527305,feels,Feelings,-1000,-1000,feels,923,True,She feels well in the clinic today. 
+C0205170,Well,Good,-760,-696,well in the clinic today.,929,True,She feels well in the clinic today. 
+C0002424,Clinic,Ambulatory Care Facilities,-760,-696,well in the clinic today.,929,True,She feels well in the clinic today. 
+C0750526,Today,Today (temporal qualifier),-760,-696,well in the clinic today.,929,True,She feels well in the clinic today. 
+C2003901,NEVER,Never (frequency),-1000,-1000,never,963,True,She has never had an EKG or stress test in the past.  
+C1623258,EKG,Electrocardiography,-1000,-1000,an EKG,973,True,She has never had an EKG or stress test in the past.  
+C0015260,stress test,Exercise stress test,-806,-745,stress test in the past.,983,True,She has never had an EKG or stress test in the past.  
+C1444637,Past,In the past,-593,-745,stress test in the past.,983,True,She has never had an EKG or stress test in the past.  
+C1515187,Take,Take,-966,-966,Takes,1009,True,Takes Chlorthalidone and Lisinopril for HTN. 
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,Chlorthalidone,1015,True,Takes Chlorthalidone and Lisinopril for HTN. 
+C0065374,Lysinopril,lisinopril,-790,-746,Lisinopril for HTN.,1034,True,Takes Chlorthalidone and Lisinopril for HTN. 
+C0020538,HTN,Hypertensive disease,-623,-746,Lisinopril for HTN.,1034,True,Takes Chlorthalidone and Lisinopril for HTN. 
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-1000,-1000,other medications.,1057,True,No other medications. 
+C1515187,Take,Take,-1000,-1000,take,1084,True,She did take her medications this morning.  
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-1000,-1000,her medications,1089,True,She did take her medications this morning.  
+C0332170,Morning,Morning,-1000,-1000,this morning.,1105,True,She did take her medications this morning.  
+C0018017,Objective,objective (goal),-1000,-1000,Objective,1120,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0039476,TEMP,Temperature,-861,-888,"temp 98,",1133,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C4319627,98,98,-861,-888,"temp 98,",1133,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0391850,Pulse,Physiologic pulse,-861,-888,"pulse 85,",1142,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C4517892,85,85,-861,-888,"pulse 85,",1142,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0231832,RESP,Respiratory rate,-861,-861,"resp 14,",1152,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C1708288,BP,HP wt Allele,-645,-791,BP 150/92 General,1161,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0205246,General,Generalized,-812,-791,BP 150/92 General,1161,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C2984079,Somewhat,Somewhat,-578,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0003467,Anxious,Anxiety,-578,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0700364,APPEAR,Appearance,-544,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0043210,WOMAN,Woman,-578,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0277814,SITTING,Sitting position,-744,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0582103,Exam,Medical Examination,-578,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0039224,Table,Table - furniture,-578,-723,somewhat anxious-appearing woman sitting on exam table.,1180,True,"Objective:   temp 98, pulse 85, resp 14, BP 150/92 General: somewhat anxious-appearing woman sitting on exam table. "
+C0205178,ACUTE,acute,-660,-851,No acute distress CV,1236,True,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C0231303,Distress,Distress,-660,-851,No acute distress CV,1236,False,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C4318503,CV,ciliary vesicle,-827,-851,No acute distress CV,1236,True,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C0205272,Regular,Regular,-694,-888,Regular rate,1258,True,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C0871208,Rate,Rating (action),-861,-888,Regular rate,1258,True,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C0871269,Rhythm,Rhythm,-790,-746,"rhythm without murmurs,",1275,False,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C0018808,murmurs,Heart murmur,-623,-746,"rhythm without murmurs,",1275,False,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1299,False,"No acute distress CV: Regular rate and rhythm without murmurs, rubs, or gallops. "
+C2981700,2+,"2+ Score, WHO",-645,-775,2+ dorsalis pedis BL.,1317,True,2+ dorsalis pedis BL. 
+C4727455,Pedi,Northern Sotho Language,-645,-775,2+ dorsalis pedis BL.,1317,True,2+ dorsalis pedis BL. 
+C2827109,BL,Saint Barthelemy,-812,-775,2+ dorsalis pedis BL.,1317,True,2+ dorsalis pedis BL. 
+C2981700,2+,"2+ Score, WHO",-660,-851,2+ Radial BL.,1339,True,2+ Radial BL. 
+C0920847,Radial,Circumpennate,-660,-851,2+ Radial BL.,1339,True,2+ Radial BL. 
+C2827109,BL,Saint Barthelemy,-827,-851,2+ Radial BL.,1339,True,2+ Radial BL. 
+C1423767,LE,HPS4 gene,-694,-888,No LE edema.,1353,True,No LE edema.  
+C0013604,OEDEMA,Edema,-861,-888,No LE edema.,1353,False,No LE edema.  
+C1315068,PULM,Pulmonary ventilator management,-1000,-1000,Pulm,1367,True,Pulm: CTA BL. 
+C3540513,CTA,PCYT1A wt Allele,-694,-888,CTA BL.,1373,True,Pulm: CTA BL. 
+C2827109,BL,Saint Barthelemy,-861,-888,CTA BL.,1373,True,Pulm: CTA BL. 
+C0043144,Wheezes,Wheezing,-1000,-1000,"No wheezes,",1381,False,"No wheezes, rales,  Skin: warm and dry.  "
+C0034642,RALES,Rales,-1000,-1000,"rales,",1393,False,"No wheezes, rales,  Skin: warm and dry.  "
+C1123023,SKIN,Skin,-1000,-1000,Skin,1401,True,"No wheezes, rales,  Skin: warm and dry.  "
+C0582051,Warm,Feels warm,-1000,-1000,warm,1407,False,"No wheezes, rales,  Skin: warm and dry.  "
+C0205222,Dry,Dry,-1000,-1000,dry.,1416,True,"No wheezes, rales,  Skin: warm and dry.  "
+C1261322,Assessment,Evaluation procedure,-1000,-1000,Assessment,1422,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0086287,FEMALE,Females,-739,-628,56 y/o Female with a PMH of HTN presenting,1434,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0262926,PMH,Medical History,-573,-628,56 y/o Female with a PMH of HTN presenting,1434,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0020538,HTN,Hypertensive disease,-573,-628,56 y/o Female with a PMH of HTN presenting,1434,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0449450,Presenting,Presentation,-573,-628,56 y/o Female with a PMH of HTN presenting,1434,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0332287,With,In addition to,-593,-851,with episodes of chest pressure,1477,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0332189,Episode of,Episode of,-790,-851,with episodes of chest pressure,1477,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0438716,Chest pressure,Chest pressure,-640,-851,with episodes of chest pressure,1477,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0012833,Lightheadedness,Dizziness,-790,-746,lightheadedness on exertion.,1513,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C0015264,Exertion,Exertion,-623,-746,lightheadedness on exertion.,1513,True,Assessment: 56 y/o Female with a PMH of HTN presenting with episodes of chest pressure and lightheadedness on exertion. 
+C2700149,HIGH,Value Above Reference Range,-578,-678,"High suspicion for angina given context of symptoms,",1542,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0242114,SUSPICION,Suspicion,-744,-678,"High suspicion for angina given context of symptoms,",1542,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0858277,angina symptoms,angina symptom,-600,-678,"High suspicion for angina given context of symptoms,",1542,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0449255,Context,Context,-578,-678,"High suspicion for angina given context of symptoms,",1542,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0678257,Description,Description,-790,-746,"description of pain,",1595,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-623,-746,"description of pain,",1595,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0205359,Spontaneous,Spontaneous,-604,-733,spontaneous resolution with rest.,1620,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C2699488,Resolution,Resolution,-770,-733,spontaneous resolution with rest.,1620,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0035253,Rest,Rest,-604,-733,spontaneous resolution with rest.,1620,True,"High suspicion for angina given context of symptoms, description of pain, and spontaneous resolution with rest. "
+C0027552,Need,Needs,-760,-687,"Need to r/o MI,",1654,True,"Need to r/o MI, arrythmia, anemia. "
+C2603358,R',R prime,-593,-687,"Need to r/o MI,",1654,True,"Need to r/o MI, arrythmia, anemia. "
+C0683474,MI,Motivational Interviewing,-593,-687,"Need to r/o MI,",1654,True,"Need to r/o MI, arrythmia, anemia. "
+C0003811,Arrythmia,Cardiac Arrhythmia,-1000,-1000,"arrythmia,",1670,True,"Need to r/o MI, arrythmia, anemia. "
+C0002871,ANEMIA,Anemia,-1000,-1000,anemia.,1681,True,"Need to r/o MI, arrythmia, anemia. "
+C0242114,SUSPICION,Suspicion,-790,-746,Suspicion for neurological,1689,True,Suspicion for neurological or pulmonary etiology is low. 
+C0205494,NEUROLOGICAL,Neurologic (qualifier value),-623,-746,Suspicion for neurological,1689,True,Suspicion for neurological or pulmonary etiology is low. 
+C2707265,Pulmonary,Pulmonary:-:Point in time:^Patient:-,-694,-888,pulmonary etiology,1719,True,Suspicion for neurological or pulmonary etiology is low. 
+C0015127,etiology,Etiology aspects,-861,-888,pulmonary etiology,1719,True,Suspicion for neurological or pulmonary etiology is low. 
+C0205251,Low,low,-1000,-1000,low.,1741,True,Suspicion for neurological or pulmonary etiology is low. 
+C0232483,Reflux,Reflux,-694,-888,reflux/indigestion,1746,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C0013395,INDIGESTION,Dyspepsia,-861,-888,reflux/indigestion,1746,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C0332149,Possible,Possible,-827,-827,"possible, however less",1768,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C0750492,Likely,Probably,-1000,-1000,likely,1791,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1798,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C1318139,{Setting},{Setting},-770,-783,setting of symptom onset.,1804,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C4086878,SYMPTOM ONSET,Symptom Onset,-833,-783,setting of symptom onset.,1804,True,"reflux/indigestion is possible, however less likely given setting of symptom onset.  "
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1831,True,Plan: - EKG and stress test in clinic today. 
+C1623258,EKG,Electrocardiography,-1000,-1000,EKG,1839,True,Plan: - EKG and stress test in clinic today. 
+C0015260,stress test,Exercise stress test,-673,-785,stress test in clinic today.,1847,True,Plan: - EKG and stress test in clinic today. 
+C0002424,Clinic,Ambulatory Care Facilities,-637,-785,stress test in clinic today.,1847,True,Plan: - EKG and stress test in clinic today. 
+C0750526,Today,Today (temporal qualifier),-804,-785,stress test in clinic today.,1847,True,Plan: - EKG and stress test in clinic today. 
+C2825142,Result,Experimental Result,-827,-827,"Pending results,",1876,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C1705178,Order,Order (action),-1000,-1000,order,1897,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C0018787,Cardiac,Heart,-1000,-1000,a cardiac,1903,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C1655045,Echo,Echo (insect),-1000,-1000,echo,1913,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C2825142,Result,Experimental Result,-966,-966,results,1921,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C1518422,Not,Negation,-694,-888,not revealing.,1933,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C0443289,revealing,Revealed,-861,-888,not revealing.,1933,True,"Pending results, can order a cardiac echo if results are not revealing. "
+C0587081,Labs,Laboratory test finding,-1000,-1000,- Labs,1948,True,"- Labs: Troponin, CBC with diff, CMP. "
+C0041199,Troponin,Troponin,-1000,-1000,"Troponin,",1956,True,"- Labs: Troponin, CBC with diff, CMP. "
+C0545131,CBC with Diff,Blood Cell Count with Differential,-1000,-1000,"CBC with diff,",1966,True,"- Labs: Troponin, CBC with diff, CMP. "
+C0519825,CMP,Comprehensive Metabolic Panel,-1000,-1000,CMP.,1981,True,"- Labs: Troponin, CBC with diff, CMP. "
+C1708288,BP,HP wt Allele,-742,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C4517521,10.5,10.5,-595,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0702093,/minute,Per Minute,-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0442603,Office,Office,-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0750526,Today,Today (temporal qualifier),-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C1708288,BP,HP wt Allele,-742,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C3842590,10%,10%,-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0886384,minute 5,5 minutes Office visit,-595,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0442603,Office,Office,-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0750526,Today,Today (temporal qualifier),-575,-679,-Recheck BP after 5-10 minutes in office today.,1986,True,-Recheck BP after 5-10 minutes in office today. 
+C0032743,PT,Positron-Emission Tomography,-1000,-1000,Pt,2034,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C1515187,Take,Take,-1000,-1000,take,2041,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C1708288,BP,HP wt Allele,-1000,-1000,her BP,2046,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0332170,Morning,Morning,-1000,-1000,this morning,2053,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0242485,Measure,Measurement,-1000,-1000,measures,2079,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0439231,Month,month,-760,-686,it 1x/month at work,2088,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0043227,Work,Work,-593,-686,it 1x/month at work,2088,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0042295,Values,Values,-1000,-1000,all values,2113,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0205307,NORMAL,Normal,-1000,-1000,"normal"".",2129,True,"Pt did take her BP this morning and says she measures it 1x/month at work and ""all values were normal"". "
+C0032743,PT,Positron-Emission Tomography,-660,-851,pt check BP,2148,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C1283174,Check,Checking (action),-660,-851,pt check BP,2148,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C1708288,BP,HP wt Allele,-827,-851,pt check BP,2148,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C4534363,At home,At home,-790,-752,at home for next 2 weeks,2160,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C1883708,Next,Then,-586,-752,at home for next 2 weeks,2160,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C4484139,week 2,week 2,-600,-752,at home for next 2 weeks,2160,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C1522609,Value,Numerical value,-1000,-1000,value,2188,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0205250,Elevated,High,-1000,-1000,elevated,2203,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0442603,Office,Office,-581,-779,in office today prior to medication changes.,2212,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0750526,Today,Today (temporal qualifier),-748,-779,in office today prior to medication changes.,2212,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0332152,Prior to,Before,-612,-779,in office today prior to medication changes.,2212,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0580105,medication change,Change of medication,-595,-779,in office today prior to medication changes.,2212,True,Will have pt check BP at home for next 2 weeks if value is still elevated in office today prior to medication changes. 
+C0016327,F-,Fluorides,-645,-824,-F/u 1 week,2257,True,-F/u 1 week or sooner pending results.  
+C0560588,U/week,U/week,-875,-824,-F/u 1 week,2257,True,-F/u 1 week or sooner pending results.  
+C2825142,Result,Experimental Result,-793,-793,sooner pending results.,2272,True,-F/u 1 week or sooner pending results.  
+C1300554,m3,Cubic Meter,-1000,-1000,M3,2313,True,"Sophia Barakat, M3"

@@ -1,0 +1,4 @@
+scispacy_env
+**/__pycache__
+src/mock/data.json
+.vscode

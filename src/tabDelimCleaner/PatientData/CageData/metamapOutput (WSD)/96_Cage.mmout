@@ -1,0 +1,586 @@
+Processing 96_Cage.txt.tx.1: Pt is a 55 yo F who presents with a recent episode of Chest pain about 3 days ago as the patient was carrying heavy groceries to her car. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: a 55 yo F
+Meta Mapping (851):
+   660   C0450382:55 [Intellectual Product]
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: who
+
+Phrase: presents with a recent episode of Chest pain
+Meta Mapping (742):
+   744   C0150312:PRESENT (Present) [Finding]
+   770   C0332185:Recent episode (Recent) [Temporal Concept]
+   765   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: about 3 days ago as the patient
+Meta Mapping (692):
+   581   C0332232:About (Approximate) [Qualitative Concept]
+   757   C3842675:Day 3 [Finding]
+   581   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to her car.
+Meta Mapping (529):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 96_Cage.txt.tx.2: Pt describes it as a "chest pressure" that is around the midsternum and lasts for about 15 min and is relieved with rest. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: describes
+
+Phrase: it
+
+Phrase: as
+
+Phrase: a "chest pressure"
+Meta Mapping (1000):
+  1000   C0438716:Chest pressure [Sign or Symptom]
+
+Phrase: that
+
+Phrase: is around the midsternum
+Meta Mapping (770):
+   770   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+
+Phrase: and
+
+Phrase: lasts for about 15 min
+Meta Mapping (669):
+   726   C1517741:Last [Qualitative Concept]
+   593   C0702093:/min (Per Minute) [Temporal Concept]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: relieved with rest.
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+Processing 96_Cage.txt.tx.3: She has had similar episodes in the past as she was exerting herself including running and climbing. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: similar episodes in the past
+Meta Mapping (696):
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   760   C0332189:Episodes (Episode of) [Temporal Concept]
+   593   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: as
+
+Phrase: she
+
+Phrase: was
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: herself
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: climbing.
+Meta Mapping (1000):
+  1000   C2584300:Climbing [Daily or Recreational Activity]
+Processing 96_Cage.txt.tx.4: She denies recent history of illness, fatigue, heart palpitations, a racing heartbeat, nausea, fevers, headaches, coughs, shortness of breath, changes to weight, or orthopnea. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: recent history of illness,
+Meta Mapping (733):
+   604   C0332185:Recent [Temporal Concept]
+   770 N C2004062:History (History of previous events) [Finding]
+   604 N C0221423:Illness (Illness (finding)) [Sign or Symptom]
+
+Phrase: fatigue,
+Meta Mapping (1000):
+  1000 N C0015672:FATIGUE (Fatigue) [Sign or Symptom]
+
+Phrase: heart palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:Heart palpitations (Palpitations) [Finding]
+
+Phrase: a racing heartbeat,
+Meta Mapping (888):
+   694   C1561444:Racing (Racing - Production Class Code) [Intellectual Product]
+   861   C0425583:heartbeat (Heart beat) [Organ or Tissue Function]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: fevers,
+Meta Mapping (1000):
+  1000   C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000   C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: coughs,
+Meta Mapping (1000):
+  1000   C0010200:COUGHS (Coughing) [Sign or Symptom]
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: changes to weight,
+Meta Mapping (858):
+   858   C0005911:change weight (Body Weight Changes) [Finding]
+
+Phrase: or
+
+Phrase: orthopnea.
+Meta Mapping (1000):
+  1000   C0085619:Orthopnoea (Orthopnea) [Finding]
+Processing 96_Cage.txt.tx.5: Pt's main concern is whether she had a heart attack given her strong family history of heart dz.  
+
+Phrase: Pt's main concern
+Meta Mapping (790):
+   660   C1542147:Main [Qualitative Concept]
+   827   C2699424:Concern [Idea or Concept]
+
+Phrase: is
+
+Phrase: whether
+
+Phrase: she
+
+Phrase: had
+
+Phrase: a heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: her strong family history of heart dz.
+Meta Mapping (737):
+   774   C3812393:HER Family (ErbB Receptors) [Amino Acid, Peptide, or Protein,Enzyme,Receptor]
+   581   C0442821:Strong [Qualitative Concept]
+   748   C2004062:History (History of previous events) [Finding]
+   581   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   581   C0002037:DZ (Algeria) [Geographic Area]
+Meta Mapping (737):
+   581   C0574443:HER (Herero language) [Language]
+   581   C0442821:Strong [Qualitative Concept]
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   581   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   581   C0002037:DZ (Algeria) [Geographic Area]
+Processing 96_Cage.txt.tx.6: PMH: HTN Social History: was unable to obtain Surgical History: denies Family History: Father - CAD, bypass surgery, HTN, passed of heart attack at 40                            Mother - HTN, T2DM, passed of pulmonary embolism at 60  Objective: VS: BP - 150/92, HR 85, RR 14, T: 98.0F  PE:  Cardio:  RRR, Normal S1/S2, no murmurs, rubs, gallops. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN Social History
+Meta Mapping (901):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   901   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: :
+
+Phrase: was
+
+Phrase: unable
+Meta Mapping (1000):
+  1000   C1299582:Unable [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: Surgical History
+Meta Mapping (1000):
+  1000   C0744961:surgical history [Finding]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Family History
+Meta Mapping (1000):
+  1000 N C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: :
+
+Phrase: Father - CAD,
+Meta Mapping (888):
+   694   C0015671:FATHER (Father (person)) [Family Group]
+   861   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: bypass surgery,
+Meta Mapping (1000):
+  1000   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: passed of heart attack
+Meta Mapping (783):
+   770 N C2828386:Passed (Pass (indicator)) [Finding]
+   833 N C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: at 40                            Mother - HTN,
+Meta Mapping (851):
+   660   C3842587:40% [Quantitative Concept]
+   660   C0026591:MOTHER (Mother (person)) [Family Group]
+   827   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: passed of pulmonary embolism
+Meta Mapping (783):
+   770   C2828386:Passed (Pass (indicator)) [Finding]
+   833   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: at 60  Objective
+Meta Mapping (888):
+   694   C3842585:60% [Quantitative Concept]
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP - 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: HR 85,
+Meta Mapping (861):
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: T
+Meta Mapping (1000):
+  1000   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98.0F  PE
+Meta Mapping (802):
+   660   C4319627:98 [Quantitative Concept]
+   827   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: Normal S1/S2,
+Meta Mapping (901):
+   913   C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   660   C3715215:S1 [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: gallops.
+Processing 96_Cage.txt.tx.7: No JVD, no lower extremity edema. 
+
+Phrase: No JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no lower extremity edema.
+Meta Mapping (1000):
+  1000 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+Processing 96_Cage.txt.tx.8: No bruits heard on carotids b/l Lungs: Clear breath sounds b/l, no extra effort.  
+
+Phrase: No bruits heard on carotids b/l Lungs
+Meta Mapping (672):
+   578   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   711 N C0018767:hear (Hearing) [Physiologic Function]
+   584 N C0007280:carotid bruits (Carotid bruit) [Finding]
+   578   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: Clear breath sounds b/l,
+Meta Mapping (619):
+   637 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   673   C0035234:Breath sounds (Respiratory Sounds) [Clinical Attribute]
+
+Phrase: no extra effort.
+Meta Mapping (888):
+   694   C1883702:Extra (Supernumerary) [Quantitative Concept]
+   861   C0015264:Effort (Exertion) [Organism Function]
+Processing 96_Cage.txt.tx.9: Chest: No tenderness to palpation, no crepitus  Assessment/Plan  Patient is a 55 yo F who presents with off/on episodes of Chest pain about for the past year with the most recent episode 3 days ago of a sensation of pressure on the chest that is associated with exertion and improved with rest. 
+
+Phrase: Chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: :
+
+Phrase: No tenderness to palpation,
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: no crepitus  Assessment/Plan  Patient
+Meta Mapping (861):
+   645 N C0277964:Crepitus (Subcutaneous crepitus) [Pathologic Function]
+   875   C0679830:assessment patient (patient assessment) [Health Care Activity]
+   645   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: is
+
+Phrase: a 55 yo F
+Meta Mapping (851):
+   660   C0450382:55 [Intellectual Product]
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: who
+
+Phrase: presents with
+Meta Mapping (833):
+   833   C0150312:PRESENT (Present) [Finding]
+
+Phrase: off/
+
+Phrase: on episodes of Chest pain about
+Meta Mapping (797):
+   586   C1720294:On (On (qualifier value)) [Intellectual Product]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: for the past year with the most recent episode 3 days ago of a sensation of pressure
+Meta Mapping (661):
+   565   C0521125:For (Preposition For) [Qualitative Concept]
+   565   C1444637:Past (In the past) [Temporal Concept]
+   576   C0332185:Recent episode (Recent) [Temporal Concept]
+   754   C1610721:day of the year [Temporal Concept]
+   575   C0234222:pressure sensation (Baresthesia) [Organ or Tissue Function]
+
+Phrase: on the chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: associated with exertion
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: improved with rest.
+Meta Mapping (746):
+   790   C0184511:Improved [Finding]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 96_Cage.txt.tx.10: Most likely on differential includes stable angina given onset of symptoms predominantly with exertion and history of HTN and strong family history of heart dz. 
+
+Phrase: Most likely on differential
+Meta Mapping (783):
+   833   C0750501:most likely [Idea or Concept]
+   770   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: stable angina given onset of symptoms predominantly
+Meta Mapping (708):
+   612   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   757   C4086878:SYMPTOM ONSET (Symptom Onset) [Temporal Concept]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: history of HTN
+Meta Mapping (746):
+   790   C2004062:History (History of previous events) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: strong family history of heart dz.
+Meta Mapping (741):
+   586   C0442821:Strong [Qualitative Concept]
+   790   C0241889:FAMILY HISTORY (Family history) [Finding]
+   586   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   586   C0002037:DZ (Algeria) [Geographic Area]
+Processing 96_Cage.txt.tx.11: Other differentials include Myocardial infarction, Arrythmia, and Pulmonary Embolism.  
+
+Phrase: Other differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: Myocardial infarction,
+Meta Mapping (1000):
+  1000   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: Arrythmia,
+Meta Mapping (1000):
+  1000   C0003811:Arrythmia (Cardiac Arrhythmia) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: Pulmonary Embolism.
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+Processing 96_Cage.txt.tx.12: Plan: Obtain an EKG, Chest X-ray, CT Heart Calcium, and Echocardiogram. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: an EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Chest X-ray,
+Meta Mapping (1000):
+  1000   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: CT Heart Calcium,
+Meta Mapping (901):
+   734   C0412618:ct heart (Computed tomography of heart) [Diagnostic Procedure]
+   827   C0006675:CALCIUM (calcium) [Biologically Active Substance,Element, Ion, or Isotope,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Echocardiogram.
+Meta Mapping (1000):
+  1000   C0013516:Echocardiogram (Echocardiography) [Diagnostic Procedure]
+Processing 96_Cage.txt.tx.13: Given strong family history of heart disease, obtain baseline heart EF to rule out heart failure and structural causes of chest pain. 
+
+Phrase: Given strong family history of heart disease,
+Meta Mapping (900):
+   581   C1442162:GIVEN [Functional Concept]
+   581   C0442821:Strong [Qualitative Concept]
+   897   C2186266:Family history of heart disease [Finding]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: baseline heart EF
+Meta Mapping (623):
+   660   C1442488:Baseline [Quantitative Concept]
+   660   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out heart failure
+Meta Mapping (901):
+   660   C0439787:Out (Out (direction)) [Spatial Concept]
+   901 N C0018801:Failure, Heart (Heart failure) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: structural causes of chest pain.
+Meta Mapping (858):
+   593   C0678594:Structural (Structure) [Spatial Concept]
+   760   C0015127:causes (Etiology aspects) [Functional Concept]
+   650 N C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 96_Cage.txt.tx.14: Start a Baby Aspirin, consult f/up with Cardiology
+
+Phrase: Start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: a Baby Aspirin,
+Meta Mapping (1000):
+  1000   C2608320:Baby Aspirin (Low-Dose Aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: f/up
+Meta Mapping (833):
+   833   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: with Cardiology
+Meta Mapping (1000):
+  1000   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]

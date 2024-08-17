@@ -1,0 +1,826 @@
+Processing 127_Cage.txt.tx.1: Subjective: Ms. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 127_Cage.txt.tx.2: Gerry Cage is a pleasant 55 y/o F who comes to the clinic for evaluation of chest pain that occurred 3 days ago. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a pleasant 55 y/o F
+Meta Mapping (762):
+   637   C2987187:Pleasant [Mental Process]
+   637   C0450382:55 [Intellectual Product]
+   804   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: who
+
+Phrase: comes to the clinic
+Meta Mapping (770):
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for evaluation of chest pain
+Meta Mapping (858):
+   593   C0521125:For (Preposition For) [Qualitative Concept]
+   760   C0220825:Evaluation [Health Care Activity]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 127_Cage.txt.tx.3: While carrying groceries to her car, she had sudden onset of substernal chest pain that she describes as a "deep ache, heavy pressure" and lasted 5-10 mins. 
+
+Phrase: While
+
+Phrase: carrying groceries to her car,
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: she
+
+Phrase: had
+
+Phrase: sudden onset of substernal chest pain
+Meta Mapping (794):
+   790   C1276802:Sudden onset (Sudden onset (attribute)) [Temporal Concept]
+   666   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: describes as a "deep ache,
+Meta Mapping (695):
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: heavy pressure"
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: and
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 mins.
+Meta Mapping (890):
+   734   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   793   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (890):
+   660   C0439084:>5 [Quantitative Concept]
+   884   C0456692:/10 min [Temporal Concept]
+Processing 127_Cage.txt.tx.4: This did not radiate. 
+
+Phrase: This
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 127_Cage.txt.tx.5: The episode was associated with feeling faint and shortness of breath. 
+
+Phrase: The episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: associated with feeling faint
+Meta Mapping (888):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 127_Cage.txt.tx.6: Denies associated palpitations, nausea, vomiting, dizziness, arm/shoulder pain, or abd pain. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: arm/shoulder pain,
+Meta Mapping (901):
+   913 N C0239377:ARM PAIN (Arm Pain) [Sign or Symptom]
+   827   C0037004:SHOULDER (Shoulder) [Body Location or Region]
+Meta Mapping (901):
+   660   C0446516:ARM (Upper arm) [Body Location or Region]
+   901 N C0037011:SHOULDER PAIN (Shoulder Pain) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: abd pain.
+Meta Mapping (888):
+   694   C0000726:abd (Abdomen) [Body Location or Region]
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 127_Cage.txt.tx.7: She has had 2 episodes of "twinges" in her chest in the last 4 months, one while she was walking up the stairs and one while chasing her cat. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2 episodes of "twinges"
+Meta Mapping (799):
+   604   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   816   C0332189:Episode of [Temporal Concept]
+
+Phrase: in her chest in the last 4 months,
+Meta Mapping (754):
+   640   C4331910:In the last month (Past 30 days) [Temporal Concept]
+   578   C0574443:HER (Herero language) [Language]
+   744   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: one
+Meta Mapping (1000):
+  1000   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: walking up the stairs
+Meta Mapping (708):
+   770   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   604   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+
+Phrase: and
+
+Phrase: one
+Meta Mapping (1000):
+  1000   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: while
+
+Phrase: chasing
+
+Phrase: her cat.
+Meta Mapping (1000):
+  1000   C0007450:CAT (Felis catus) [Mammal]
+Processing 127_Cage.txt.tx.8: Additionally for the last year she has 1-2 episodes per week of epigastric pressure after eating a large meal. 
+
+Phrase: Additionally for the last year
+Meta Mapping (760):
+   760   C0439508:/Year (per year) [Temporal Concept]
+
+Phrase: she has 1-2 episodes per week of epigastric pressure
+Meta Mapping (663):
+   573   C1822717:SHE (SHE gene) [Gene or Genome]
+   741   C0332189:Episode of [Temporal Concept]
+   573   C0439230:Week (week) [Temporal Concept]
+   573   C0521440:Epigastric [Body Location or Region]
+   573   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: after eating
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: a large meal.
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 127_Cage.txt.tx.9: This pressure lasts a few minutes. 
+
+Phrase: This pressure
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: lasts
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: a few minutes.
+Meta Mapping (1000):
+  1000   C4036224:Few minutes [Temporal Concept]
+Processing 127_Cage.txt.tx.10: She does not think the episodes are associated with a certain type of food. 
+
+Phrase: She
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: think
+Meta Mapping (1000):
+  1000 N C0039869:think (Thinking, function) [Mental Process]
+
+Phrase: the episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: are
+
+Phrase: associated with a certain type of food.
+Meta Mapping (762):
+   778   C0332281:Associated with [Qualitative Concept]
+   676   C0205423:Certainty (Certain (qualifier value)) [Qualitative Concept]
+   814   C0449492:Type of food [Intellectual Product]
+Processing 127_Cage.txt.tx.11: Denies hx of acid reflux or indigestion. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: hx of acid reflux
+Meta Mapping (783):
+   770 N C0262926:Hx (Medical History) [Finding]
+   666 N C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: indigestion.
+Meta Mapping (1000):
+  1000 N C0013395:INDIGESTION (Dyspepsia) [Sign or Symptom]
+Processing 127_Cage.txt.tx.12: Pt has a history of hypertension and gets her blood pressure checked monthly at her office. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: has
+
+Phrase: a history of hypertension
+Meta Mapping (909):
+   909   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: and
+
+Phrase: gets
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: her blood pressure
+Meta Mapping (1000):
+  1000   C1272641:Blood pressure (Systemic arterial pressure) [Finding]
+
+Phrase: checked
+Meta Mapping (1000):
+  1000   C1283174:Checked (Checking (action)) [Activity]
+
+Phrase: monthly at her office.
+Meta Mapping (733):
+   770   C0332177:Monthly (Monthly (qualifier value)) [Temporal Concept]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0442603:Office [Manufactured Object]
+Processing 127_Cage.txt.tx.13: She is told by the nurses that her pressure is normal. 
+
+Phrase: She
+
+Phrase: is
+
+Phrase: told by the nurses
+Meta Mapping (770):
+   770   C0028661:Nurses [Professional or Occupational Group]
+
+Phrase: that
+
+Phrase: her pressure
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: is
+
+Phrase: normal.
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+Processing 127_Cage.txt.tx.14: Otherwise takes her medications regularly and took them this morning. 
+
+Phrase: Otherwise
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: her medications regularly
+Meta Mapping (861):
+   861   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: them this morning.
+Meta Mapping (1000):
+  1000   C0332170:Morning [Temporal Concept]
+Processing 127_Cage.txt.tx.15: She is very nervous today.  
+
+Phrase: She
+
+Phrase: is
+
+Phrase: very nervous today.
+Meta Mapping (851):
+   660   C0442824:Very [Qualitative Concept]
+   660   C0027769:Nervous (Nervousness) [Sign or Symptom]
+   827   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 127_Cage.txt.tx.16: PMHx: HTN PSHx: denies Gyn: menopause age 53, denies use of estrogen, no children Psychiatric hx: denies Allergies: none Meds: corthalidone 25mg once daily PO, lisinopril 10mg once daily PO  SHx: smokes 1PPD for 30 years, drinks 2-3 glasses of wine per day on weekends, denies drug use, diet is mostly healthy consisting of vegetables and protein and no fried or fast foods, walks her dog 1/2 mile per day otherwise no exercise  FMHx: father had coronary artery disease and MI at age 40, mother had HTN, DM and PE at age 60, grandmother had breast cancer, two healthy brothers  Physical exam: General - thin, no acute distress, appears nervous and restles CV - regular rate and rhythm, no murmurs, rubs or gallops, no chest wall tenderness Abdomen - soft, nontender to palpation throughout Respiratory - clear to auscultation bilaterally, normal effort of breathing  Assessment: 55 y/o F with hx of HTN who comes to the clinic for episode of deep aching/heavy pressure chest pain that lasted 5-10 minutes three days ago. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN PSHx
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Gyn
+Meta Mapping (1000):
+  1000   C0205480:GYN (Gynecologic) [Spatial Concept]
+
+Phrase: :
+
+Phrase: menopause age 53,
+Meta Mapping (901):
+   901 N C1629609:Menopause Age (Age at menopause) [Finding]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: use of estrogen,
+Meta Mapping (901):
+   882   C1524063:Use of [Functional Concept]
+   790   C0014939:Oestrogen, NOS (estrogens) [Hormone,Organic Chemical,Pharmacologic Substance]
+
+Phrase: no children Psychiatric hx
+Meta Mapping (851):
+   660   C0680063:Children (Offspring) [Family Group]
+   660   C0205487:Psychiatric [Functional Concept]
+   827 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Allergies
+Meta Mapping (1000):
+  1000 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none Meds
+Meta Mapping (1000):
+  1000 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: corthalidone 25mg once daily PO,
+Meta Mapping (728):
+   637   C0332173:Daily [Temporal Concept]
+   804   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: lisinopril 10mg once daily PO  SHx
+Meta Mapping (570):
+   632   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   632   C0332173:Daily [Temporal Concept]
+   632   C0442027:PO (Oral) [Spatial Concept]
+
+Phrase: :
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: 1PPD for 30 years,
+Meta Mapping (555):
+   604   C3842588:30% [Quantitative Concept]
+   604   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: per day on weekends,
+Meta Mapping (783):
+   833   C0439505:Per Day (per day) [Temporal Concept]
+   604   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: drug use,
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+
+Phrase: diet
+Meta Mapping (1000):
+  1000   C0012155:Diet [Food]
+
+Phrase: is
+
+Phrase: mostly healthy
+Meta Mapping (888):
+   694   C0205393:Mostly (Most) [Quantitative Concept]
+   861   C3898900:Healthy [Qualitative Concept]
+
+Phrase: consisting of vegetables
+Meta Mapping (730):
+   756   C0332529:CONSIST (Consistency) [Qualitative Concept]
+   790   C0042440:Vegetables [Food]
+
+Phrase: and
+
+Phrase: protein
+Meta Mapping (1000):
+  1000   C0033684:PROTEIN (Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: and
+
+Phrase: no fried
+Meta Mapping (966):
+   966   C2919859:FRY (Western Frisian language) [Language]
+
+Phrase: or
+
+Phrase: fast foods,
+Meta Mapping (1000):
+  1000   C0344355:Fast Foods [Food]
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: her dog 1/2 mile per day otherwise
+Meta Mapping (731):
+   600   C1739039:HER-1 (EGFR protein, human) [Amino Acid, Peptide, or Protein,Receptor]
+   578   C0012984:DOG (Canis familiaris) [Mammal]
+   744   C2347127:mile (British Mile) [Quantitative Concept]
+   600 N C3842676:Day 2 [Finding]
+
+Phrase: no exercise  FMHx
+Meta Mapping (694):
+   694   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: coronary artery disease
+Meta Mapping (1000):
+  1000 N C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: MI at age 40,
+Meta Mapping (733):
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0001779:AGE (Age) [Organism Attribute]
+   604   C3842587:40% [Quantitative Concept]
+
+Phrase: mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: PE at age 60,
+Meta Mapping (783):
+   819   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   604   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: grandmother
+Meta Mapping (1000):
+  1000   C0337474:Grandmother [Family Group]
+
+Phrase: had
+
+Phrase: breast cancer,
+Meta Mapping (1000):
+  1000   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+
+Phrase: two healthy brothers  Physical exam
+Meta Mapping (840):
+   637   C0205448:Two [Quantitative Concept]
+   637   C3898900:Healthy [Qualitative Concept]
+   637   C0337527:Brothers [Family Group]
+   840   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General - thin,
+Meta Mapping (888):
+   694   C0205246:General (Generalized) [Spatial Concept]
+   861   C0205168:THIN (Thin (qualifier value)) [Qualitative Concept]
+
+Phrase: no acute distress,
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: nervous
+Meta Mapping (1000):
+  1000 N C0027769:Nervous (Nervousness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: restles CV - regular rate
+Meta Mapping (775):
+   645   C4318503:CV (ciliary vesicle) [Cell Component]
+   645   C0205272:Regular [Qualitative Concept]
+   812   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops,
+
+Phrase: no chest wall tenderness Abdomen - soft, nontender to palpation
+Meta Mapping (772):
+   575   C1518422:No (Negation) [Functional Concept]
+   623 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+   595   C0030248:abdomen palpation (Palpation of abdomen) [Diagnostic Procedure]
+   575   C0205358:Soft [Qualitative Concept]
+   742   C0520960:Nontender (Non-tender) [Qualitative Concept]
+
+Phrase: throughout Respiratory - clear to auscultation bilaterally,
+Meta Mapping (672):
+   586   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+   753   C1709157:Clear (Negative Surgical Margin) [Finding]
+   586   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: normal effort of breathing  Assessment
+Meta Mapping (752):
+   631   C0231795:Breathing, normal (Normal respiratory function) [Organism Function]
+   760   C0015264:Effort (Exertion) [Organism Function]
+   593   C1516048:Assessment (Assessed) [Activity]
+Meta Mapping (752):
+   593   C0205307:NORMAL (Normal) [Qualitative Concept]
+   797   C4084858:Breathing Effort (Breathing Distress Question) [Intellectual Product]
+   593   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 55 y/o F with hx of HTN
+Meta Mapping (645):
+   578   C0450382:55 [Intellectual Product]
+   744   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   578   C0262926:Hx (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: comes to the clinic
+Meta Mapping (770):
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for episode of deep aching/heavy pressure chest pain
+Meta Mapping (818):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   595   C0234229:Deep pain [Sign or Symptom]
+   595   C0235715:aching chest (Chest aching of) [Finding]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   575   C0460139:Pressure (Pressure (finding)) [Finding]
+Meta Mapping (818):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   595   C0234229:Deep pain [Sign or Symptom]
+   575   C0234238:Aching (Ache) [Sign or Symptom]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   598   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+Meta Mapping (818):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   575   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   595   C0234238:Aching pain (Ache) [Sign or Symptom]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   598   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+Meta Mapping (818):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   575   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   575   C0234238:Aching (Ache) [Sign or Symptom]
+   595   C0458256:Heavy pain [Finding]
+   598   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+Meta Mapping (818):
+   575   C0521125:For (Preposition For) [Qualitative Concept]
+   742   C0332189:EPISODE (Episode of) [Temporal Concept]
+   575   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   575   C0460139:Pressure (Pressure (finding)) [Finding]
+   615   C0235715:Chest aching of [Finding]
+   575   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: that
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes three days ago.
+Meta Mapping (823):
+   694   C3845579:5-10 minutes [Temporal Concept]
+   632   C0205449:Three [Quantitative Concept]
+   799   C0439228:DAYS (day) [Temporal Concept]
+Processing 127_Cage.txt.tx.17: Family hx significant for early MI at age 40 and CAD in father. 
+
+Phrase: Family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: significant for early MI
+Meta Mapping (733):
+   770   C0750502:Significant [Idea or Concept]
+   604   C1279919:Early [Temporal Concept]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 40
+Meta Mapping (888):
+   861   C0001779:AGE (Age) [Organism Attribute]
+   861   C3842587:40% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: CAD in father.
+Meta Mapping (746):
+   790   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+   623   C0015671:FATHER (Father (person)) [Family Group]
+Processing 127_Cage.txt.tx.18: Vital signs significant for BP 150/92. 
+
+Phrase: Vital signs
+Meta Mapping (1000):
+  1000   C0518766:Signs, Vital (Vital signs) [Clinical Attribute]
+
+Phrase: significant for BP 150/92.
+Meta Mapping (686):
+   760   C0750502:Significant [Idea or Concept]
+   593   C1708288:BP (HP wt Allele) [Gene or Genome]
+Processing 127_Cage.txt.tx.19: Physical exam remarkable for anxiousness/restlessness. 
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: remarkable for anxiousness/restlessness.
+Meta Mapping (555):
+   604   C0003467:Anxiousness (Anxiety) [Mental or Behavioral Dysfunction]
+   604   C0085631:Restlessness (Agitation) [Sign or Symptom]
+Processing 127_Cage.txt.tx.20: Plan: differential diagnosis includes subclinical myocardial infarction, stable angina (most likely), costochondritis Orders: -EKG -BMP -lipid panel -referral to cardiology for angina workup (i.e. stress test)
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: differential diagnosis
+Meta Mapping (1000):
+  1000   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: subclinical myocardial infarction,
+Meta Mapping (901):
+   660   C0205211:Subclinical [Qualitative Concept]
+   901   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: (most likely
+Meta Mapping (1000):
+  1000   C0750501:most likely [Idea or Concept]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: costochondritis Orders
+Meta Mapping (888):
+   694   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+   861   C3244315:orders (orders - HL7PublishingDomain) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: EKG -BMP -lipid panel -referral to cardiology
+Meta Mapping (751):
+   581   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   581   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   612   C0200382:Lipid panel [Laboratory Procedure]
+   748   C0034927:Referral (Patient referral) [Health Care Activity]
+   581   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+Meta Mapping (751):
+   581   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   581   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   612   C0200382:Lipid panel [Laboratory Procedure]
+   738   C0420385:Cardiological referral (Referral to cardiology service) [Therapeutic or Preventive Procedure]
+
+Phrase: for angina workup
+Meta Mapping (901):
+   694   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   861   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: (i.e. stress test
+Meta Mapping (888):
+   694   C0683454:I-E (internal-external locus of control scale) [Diagnostic Procedure,Intellectual Product]
+   861   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: )

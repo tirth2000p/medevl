@@ -1,0 +1,397 @@
+Processing 13_Cage.txt.tx.1: HPI:  55 YO female with history of HTN presents to clinic for an episode of chest pain days ago that occurred after carrying heavy grocery bags. 
+
+Phrase: HPI
+
+Phrase: :
+
+Phrase: 55 YO female with history of HTN
+Meta Mapping (688):
+   581   C0450382:55 [Intellectual Product]
+   581   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   748   C0086287:FEMALE (Females) [Organism Attribute]
+   581   C0262512:History, NOS (History of present illness) [Finding]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for an episode of chest pain days ago
+Meta Mapping (731):
+   578   C0521125:For (Preposition For) [Qualitative Concept]
+   770   C0332189:Episode of [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   578   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: after
+
+Phrase: carrying heavy grocery bags.
+Meta Mapping (775):
+   645   C0206243:Carrying [Activity]
+   645   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   812   C0179196:Bags (Bag, device) [Manufactured Object]
+Processing 13_Cage.txt.tx.2: Pain described as deep heaviness associated with lightheadedness that "took her breath away" Episode lasted 5-10 minutes before self resolving. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: described as deep heaviness
+Meta Mapping (709):
+   770   C1552738:described [Idea or Concept]
+   770   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   699   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: associated with lightheadedness
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: that "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away" Episode
+Meta Mapping (901):
+   734   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+   827   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: before
+
+Phrase: self resolving.
+Meta Mapping (888):
+   861   C0036588:Self [Idea or Concept]
+   861   C3714811:resolving (Resolved) [Qualitative Concept]
+Processing 13_Cage.txt.tx.3: She has had similar episodes of less intense chest pain after exertion and feels of pressure in her chest after eating meals for the past year. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: similar episodes of less intense chest pain
+Meta Mapping (743):
+   581   C2348205:Similar (Similarity) [Qualitative Concept]
+   748   C0332189:Episodes (Episode of) [Temporal Concept]
+   581   C0522510:Intense (With intensity) [Qualitative Concept]
+   606   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: after exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: feels of pressure
+Meta Mapping (746):
+   790   C1527305:feels (Feelings) [Mental Process]
+   790   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: in her chest after eating meals
+Meta Mapping (723):
+   586   C0150312:In (Present) [Finding]
+   586   C0574443:HER (Herero language) [Language]
+   753   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   586   C0013470:Eating [Organism Function]
+   586   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: for the past year.
+Meta Mapping (1000):
+  1000   C4086728:Past Year [Temporal Concept]
+Processing 13_Cage.txt.tx.4: Denies any nausea, radiation of pain, swelling in extremities   PMH: HTN - controlled Med 25 mg chlorthalidone, 10 mg lisinopril PH: father w/ CAD, heart attack age 40, mother PE at 60, HTN, DM2 Social: pack a day smoker for 30 years Allergies: none  Vitals: T: 98, P: 85 R: 14 BP:150/92 PE: normal S1/S2 no murmurs, rub, gallops, Lung sounds clear equal bilaterally, chest wall nontender to palpation, no peripheral edema   Assessment: 55 YO female w/ HTN and 30 pack year smoking history presents with episode of chest pain and associated lightheadedness occuring after exertion. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: radiation of pain,
+Meta Mapping (858):
+   858   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: swelling in extremities   PMH
+Meta Mapping (772):
+   802 N C0158369:extremity swelling (Swelling of limb) [Sign or Symptom]
+   770 N C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN - controlled Med 25 mg chlorthalidone,
+Meta Mapping (751):
+   632 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   632   C2911690:Controlled (Disease Controlled) [Finding]
+   632   C4321267:MED (COMP wt Allele) [Gene or Genome]
+   632   C0024671:MG (Mammography) [Diagnostic Procedure]
+   799   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: 10 mg lisinopril PH
+Meta Mapping (833):
+   645   C3842590:10% [Quantitative Concept]
+   645   C0024671:MG (Mammography) [Diagnostic Procedure]
+   645   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   812   C0364896:pH (pH:LsCnc:Pt:Ser/Plas:Qn) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: father w/ CAD,
+Meta Mapping (802):
+   660   C0015671:FATHER (Father (person)) [Family Group]
+   827   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: heart attack age 40,
+Meta Mapping (861):
+   861   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   812   C0001779:AGE (Age) [Organism Attribute]
+   812   C3842587:40% [Quantitative Concept]
+
+Phrase: mother PE at 60,
+Meta Mapping (783):
+   604   C0026591:MOTHER (Mother (person)) [Family Group]
+   819   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM2
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day smoker for 30 years Allergies
+Meta Mapping (704):
+   591   C0556972:day year (days/year) [Temporal Concept]
+   748   C0337664:Smoker [Finding]
+   581   C3842588:30% [Quantitative Concept]
+   581   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none  Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T
+Meta Mapping (1000):
+  1000   C2603360:T' (T prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98,
+Meta Mapping (1000):
+  1000   C4319627:98 [Quantitative Concept]
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 85 R
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: :
+
+Phrase: 14 BP
+Meta Mapping (861):
+   861   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 PE
+Meta Mapping (827):
+   827   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: normal S1/S2
+Meta Mapping (901):
+   913   C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   660   C3715215:S1 [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rub,
+Meta Mapping (1000):
+  1000   C4283816:RUB (Rubricyte Count) [Laboratory Procedure]
+
+Phrase: gallops,
+
+Phrase: Lung sounds
+Meta Mapping (983):
+   983   C0035234:Lung Sound (Respiratory Sounds) [Clinical Attribute]
+
+Phrase: clear
+Meta Mapping (1000):
+  1000 N C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: equal bilaterally,
+Meta Mapping (861):
+   861   C1549782:Equal (Relational Operator - Equal) [Intellectual Product]
+
+Phrase: chest wall
+Meta Mapping (1000):
+  1000   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+
+Phrase: nontender to palpation,
+Meta Mapping (746):
+   790   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   623   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: no peripheral edema   Assessment
+Meta Mapping (901):
+   734 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 55 YO female w/ HTN
+Meta Mapping (766):
+   637   C0450382:55 [Intellectual Product]
+   637   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   637   C0086287:FEMALE (Females) [Organism Attribute]
+   804 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: 30 pack year smoking history
+Meta Mapping (857):
+   637   C3842588:30% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: presents with episode of chest pain
+Meta Mapping (772):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0332189:EPISODE (Episode of) [Temporal Concept]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: associated lightheadedness occuring after exertion.
+Meta Mapping (725):
+   593   C0332281:Associated (Associated with) [Qualitative Concept]
+   593   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+   726   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   593   C0015264:Exertion [Organism Function]
+Processing 13_Cage.txt.tx.5: Normal physical exam. 
+
+Phrase: Normal physical exam.
+Meta Mapping (901):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   901   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+Processing 13_Cage.txt.tx.6: Most likely diagnosis of angina. 
+
+Phrase: Most likely diagnosis of angina.
+Meta Mapping (761):
+   640   C0750501:most likely [Idea or Concept]
+   760   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+   593   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 13_Cage.txt.tx.7: Other considerations include PE, panic attack, aortic dissection  1. 
+
+Phrase: Other considerations
+Meta Mapping (1000):
+  1000   C0518609:considerations (Consideration) [Finding]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: panic attack,
+Meta Mapping (1000):
+  1000   C0086769:Panic Attack (Panic Attacks) [Mental or Behavioral Dysfunction]
+
+Phrase: aortic dissection  1.
+Meta Mapping (901):
+   901   C0340643:AORTIC DISSECTION (Dissection of aorta) [Disease or Syndrome]
+Processing 13_Cage.txt.tx.8: Obtain in office EKG, CMP, CBC, troponins 2. 
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: in office EKG,
+Meta Mapping (790):
+   660   C0442603:Office [Manufactured Object]
+   827   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: troponins 2.
+Meta Mapping (861):
+   861   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 13_Cage.txt.tx.9: CXR to rule out other etiologies 3. 
+
+Phrase: CXR
+Meta Mapping (1000):
+  1000   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out
+Meta Mapping (1000):
+  1000   C0439787:Out (Out (direction)) [Spatial Concept]
+
+Phrase: other etiologies 3.
+Meta Mapping (861):
+   861   C0015127:etiologies (Etiology aspects) [Functional Concept]
+Processing 13_Cage.txt.tx.10: Referral to cardiology, possible exercise stress testing
+
+Phrase: Referral to cardiology,
+Meta Mapping (822):
+   822   C0420385:Cardiological referral (Referral to cardiology service) [Therapeutic or Preventive Procedure]
+
+Phrase: possible exercise stress testing
+Meta Mapping (916):
+   645   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   923   C0015260:exercise stress testing (Exercise stress test) [Diagnostic Procedure]

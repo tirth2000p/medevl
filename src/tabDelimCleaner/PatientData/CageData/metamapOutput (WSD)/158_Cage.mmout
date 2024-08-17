@@ -1,0 +1,613 @@
+Processing 158_Cage.txt.tx.1: S Mr. 
+
+Phrase: S Mr.
+Meta Mapping (888):
+   694   C2603362:S' (S prime) [Clinical Attribute]
+   861   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 158_Cage.txt.tx.2: Cage is a 46yo M with HTN who presents with an episode of chest pain several days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yo M with HTN
+Meta Mapping (736):
+   797   C2346751:A/m (Ampere per Meter) [Quantitative Concept]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with an episode of chest pain several days ago.
+Meta Mapping (681):
+   739   C0150312:PRESENT (Present) [Finding]
+   760   C0332189:Episode of [Temporal Concept]
+   760   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   739   C0439228:DAYS (day) [Temporal Concept]
+Processing 158_Cage.txt.tx.3: The pain is described to be a 7/10 deep ache in the epigastric area that does not radiate. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: a 7/10 deep ache in the epigastric area
+Meta Mapping (728):
+   598   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   575   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   762   C0232493:epigastric ache (Epigastric pain) [Sign or Symptom]
+   595   C4018799:area 10 [Body Part, Organ, or Organ Component]
+
+Phrase: that
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 158_Cage.txt.tx.4: Patient was lifting heavy things before the onset of pain and the episode pain lasted for 5-10 mins, then spontaneously resolved. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: lifting
+Meta Mapping (1000):
+  1000   C0206244:Lifting [Activity]
+
+Phrase: heavy things before the onset of pain
+Meta Mapping (683):
+   607   C0458256:Heavy pain [Finding]
+   714   C1551338:Thing (Entity) [Entity]
+   581   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+Meta Mapping (683):
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   714   C1551338:Thing (Entity) [Entity]
+   607   C1507009:Pain onset [Finding]
+
+Phrase: and
+
+Phrase: the episode pain
+Meta Mapping (964):
+   964   C3808668:Episodic pain [Sign or Symptom]
+
+Phrase: lasted for 5-10 mins,
+Meta Mapping (744):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   726   C0702093:/min (Per Minute) [Temporal Concept]
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: spontaneously
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 158_Cage.txt.tx.5: Pain associated with lightheadedness. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 158_Cage.txt.tx.6: The pain is not reproducible and is not associated with taking deep breaths. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: not reproducible
+Meta Mapping (853):
+   694   C1518422:Not (Negation) [Functional Concept]
+   789   C1514863:Reproducibility [Qualitative Concept]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: associated with taking deep breaths.
+Meta Mapping (893):
+   806   C0332281:Associated with [Qualitative Concept]
+   835 N C0566507:breaths deep taking (Does take deep breaths) [Finding]
+Processing 158_Cage.txt.tx.7: Patient is not sure if pain changes with position. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: not sure
+Meta Mapping (1000):
+  1000   C3844332:Not sure [Finding]
+
+Phrase: if
+
+Phrase: pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: changes with position.
+Meta Mapping (858):
+   858   C0444793:change position (Position change) [Health Care Activity]
+Processing 158_Cage.txt.tx.8: Nothing makes the pain better or worse. 
+
+Phrase: Nothing
+
+Phrase: makes
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: the pain better
+Meta Mapping (888):
+   861   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   694   C0332272:Better [Qualitative Concept]
+
+Phrase: or
+
+Phrase: worse.
+Meta Mapping (1000):
+  1000   C1279889:Worse (Deterioration of status) [Finding]
+Processing 158_Cage.txt.tx.9: Of note, patient previously has had 2 episodes of similar pain but less severe in nature (a 2/10) that lasts 1 sec before resolving. 
+
+Phrase: Of note,
+Meta Mapping (1000):
+  1000   C1317574:Note (Note (document)) [Intellectual Product]
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: previously
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2 episodes of similar pain
+Meta Mapping (833):
+   593   C0740116:+2 [Quantitative Concept]
+   790   C0332189:Episode of [Temporal Concept]
+   593   C2348205:Similar (Similarity) [Qualitative Concept]
+   593   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: but
+
+Phrase: less severe in nature
+Meta Mapping (733):
+   604   C0547044:Less (Smaller) [Qualitative Concept]
+   770   C0205082:Severe (Severe (severity modifier)) [Finding]
+   604   C1262865:Nature (Natures) [Functional Concept]
+
+Phrase: (
+
+Phrase: a 2/10
+Meta Mapping (888):
+   861   C0740116:+2 [Quantitative Concept]
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: )
+
+Phrase: that lasts 1 sec before resolving.
+Meta Mapping (672):
+   753   C0565930:/sec (per second) [Temporal Concept]
+   586   C3714811:resolving (Resolved) [Qualitative Concept]
+Processing 158_Cage.txt.tx.10: Pain was also brought on by movement/exertion. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: also
+
+Phrase: brought on
+Meta Mapping (833):
+   833   C0332302:brought (Brought on by) [Functional Concept]
+
+Phrase: by movement/exertion.
+Meta Mapping (888):
+   694   C0026649:Movement [Organism Function]
+   861   C0015264:Exertion [Organism Function]
+Processing 158_Cage.txt.tx.11: Pain does not occur at rest. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: occur at rest.
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 158_Cage.txt.tx.12: Denies SOB, N/V, fever/chills, reflux symptoms, sour taste in mouth, or diaphoresis during pain episodes.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: N/V,
+Meta Mapping (694):
+   694   C0441922:N+ (N+ (tumor staging)) [Intellectual Product]
+
+Phrase: fever/chills,
+Meta Mapping (1000):
+  1000 N C0085594:FEVER CHILLS (Fever with chills) [Sign or Symptom]
+
+Phrase: reflux symptoms,
+Meta Mapping (1000):
+  1000 N C0744318:reflux SYMPTOMS (Acid reflux SYMPTOMS) [Sign or Symptom]
+
+Phrase: sour taste
+Meta Mapping (1000):
+  1000 N C0858599:sour taste (Taste sour) [Sign or Symptom]
+
+Phrase: in mouth,
+Meta Mapping (888):
+   861 N C0150312:In (Present) [Finding]
+   861   C0230028:Mouth (Oral region) [Body Location or Region]
+
+Phrase: or
+
+Phrase: diaphoresis during pain episodes.
+Meta Mapping (755):
+   770 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+   611 N C3808668:Episodic pain [Sign or Symptom]
+Processing 158_Cage.txt.tx.13: -Meds: chlorthalidone, lisinopril  -Allergies: NKDA -PMHx: HTN -Surg: No cardiac or chest wall surgery -FHx: Father had MI in his 40s and required CABG; mother had T2DM, HTN, and died of PE (unclear if provoked vs unprovoked); no family history of HLD, CAD, GERD -Social: alc 4-6/wk, smoke 1ppd for 21 years, no recreational drugs, no regular exercise  O BP 150/92, R14, P85, T98F Lungs: CTAB Cards: Regular rate and rhythm, S1 and S2 sounds noted without MRG MSK: Chest wall non tender to palpation to sternal, epigastric, and periepigastric areas  A 46 yo M with HTN who presents with dull, aching, non-radiating epigastric chest pain on exertion that improved with rest. 
+
+Phrase: -Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril  -Allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: NKDA -PMHx
+
+Phrase: :
+
+Phrase: HTN -Surg
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: No cardiac
+Meta Mapping (1000):
+  1000   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: or
+
+Phrase: chest wall surgery -FHx
+Meta Mapping (916):
+   756   C1261030:Chest wall surgery (Surgical procedure on chest wall) [Therapeutic or Preventive Procedure]
+   812   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: MI in his 40s
+Meta Mapping (708):
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: required CABG
+Meta Mapping (888):
+   694   C1514873:Required (Requirement) [Functional Concept]
+   861   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: ; mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: had
+
+Phrase: T2DM,
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: died of PE
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: (unclear
+Meta Mapping (1000):
+  1000   C4725585:Unclear (Unclear State of Matter) [Qualitative Concept]
+
+Phrase: if
+
+Phrase: provoked
+Meta Mapping (1000):
+  1000   C1444748:Provoked (Triggered by) [Qualitative Concept]
+
+Phrase: vs
+
+Phrase: unprovoked
+
+Phrase: )
+
+Phrase: ;
+
+Phrase: no family history of HLD,
+Meta Mapping (926):
+   926   C0332123:No family history of [Finding]
+
+Phrase: CAD,
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: GERD -Social
+Meta Mapping (888):
+   694 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   861   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: alc 4-6/wk,
+Meta Mapping (791):
+   645   C1424945:ALC (ALLC gene) [Gene or Genome]
+   812   C0332174:/wk (Weekly) [Temporal Concept]
+
+Phrase: smoke 1ppd for 21 years,
+Meta Mapping (520):
+   593   C0037366:Smoke [Hazardous or Poisonous Substance]
+   593   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: no recreational drugs,
+Meta Mapping (1000):
+  1000   C0242508:Recreational Drugs [Hazardous or Poisonous Substance]
+
+Phrase: no regular exercise  O BP 150/92,
+Meta Mapping (768):
+   827   C0582191:Regular exercise (Regular exercise (observable entity)) [Daily or Recreational Activity]
+   799   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: R14,
+
+Phrase: P85,
+Meta Mapping (1000):
+  1000   C3541313:p85 (PIK3R2 wt Allele) [Gene or Genome]
+
+Phrase: T98F Lungs
+Meta Mapping (861):
+   861   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB Cards
+Meta Mapping (872):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   827   C0007189:Card (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: S1
+Meta Mapping (1000):
+  1000   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2 sounds
+Meta Mapping (888):
+   694   C1419718:S2 (RPS2 gene) [Gene or Genome]
+   861   C0037709:Sounds (Sound - physical agent) [Natural Phenomenon or Process]
+
+Phrase: noted without MRG MSK
+Meta Mapping (733):
+   770   C4288581:Noted (Notable) [Qualitative Concept]
+   770   C1422304:MRG (MAS1L gene) [Gene or Genome]
+   770   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Chest wall
+Meta Mapping (1000):
+  1000   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+
+Phrase: non tender to palpation
+Meta Mapping (783):
+   833   C0520960:Non-tender [Qualitative Concept]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: to sternal, epigastric,
+Meta Mapping (888):
+   694   C0038293:Sternal (Sternum) [Body Part, Organ, or Organ Component]
+   861   C0521440:Epigastric [Body Location or Region]
+
+Phrase: and
+
+Phrase: periepigastric areas
+Meta Mapping (861):
+   861   C0205146:areas (Area) [Spatial Concept]
+
+Phrase: A 46 yo M with HTN
+Meta Mapping (712):
+   783   C2346751:A/m (Ampere per Meter) [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with dull,
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0278144:Dull (Dull pain) [Sign or Symptom]
+
+Phrase: aching
+Meta Mapping (1000):
+  1000   C0234238:Aching (Ache) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: non-radiating epigastric chest pain on exertion
+Meta Mapping (863):
+   581   C1518422:Non (Negation) [Functional Concept]
+   581   C0332301:radiating (Radiating to) [Functional Concept]
+   581   C0521440:Epigastric [Body Location or Region]
+   853 N C0232288:Chest pain on exertion [Sign or Symptom]
+
+Phrase: that
+
+Phrase: improved with rest.
+Meta Mapping (746):
+   790 N C0184511:Improved [Finding]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 158_Cage.txt.tx.14: Most likely stable angina as dull aching pain triggered with exertional activity and improves with rest. 
+
+Phrase: Most likely stable angina as dull aching pain
+Meta Mapping (748):
+   604   C0750501:most likely [Idea or Concept]
+   770   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   600   C0278144:Dull Pain (Dull pain) [Sign or Symptom]
+   578   C0234238:Aching (Ache) [Sign or Symptom]
+Meta Mapping (748):
+   604   C0750501:most likely [Idea or Concept]
+   770   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   578   C0278144:Dull (Dull pain) [Sign or Symptom]
+   604   C0234238:Aching pain (Ache) [Sign or Symptom]
+
+Phrase: triggered with exertional activity
+Meta Mapping (722):
+   737   C0032930:Trigger (Precipitating Factors) [Clinical Attribute]
+   770   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   770   C1561536:*Activity (*Activity (kind of quantity)) [Idea or Concept]
+
+Phrase: and
+
+Phrase: improves with rest.
+Meta Mapping (746):
+   790   C0184511:Improves (Improved) [Finding]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 158_Cage.txt.tx.15: Pain is non pleuritic, non positional, and non reproducible. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: non pleuritic, non positional,
+Meta Mapping (751):
+   645   C1518422:Non (Negation) [Functional Concept]
+   574 N C0032231:Pleuritides (Pleurisy) [Disease or Syndrome]
+   812 N C0240795:POSITIONAL (positional) [Finding]
+
+Phrase: and
+
+Phrase: non reproducible.
+Meta Mapping (853):
+   861   C1518422:Non (Negation) [Functional Concept]
+   789   C1514863:Reproducibility [Qualitative Concept]
+Processing 158_Cage.txt.tx.16: Other considerations: GERD, PE, costchondritis. 
+
+Phrase: Other considerations
+Meta Mapping (1000):
+  1000   C0518609:considerations (Consideration) [Finding]
+
+Phrase: :
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: costchondritis.
+Processing 158_Cage.txt.tx.17: P -EKG -CXR -Stress test -NTG PRN for chest pain -Counsel patient about lifestyle modifications for HTN and CAD
+
+Phrase: P -EKG -CXR -Stress test -NTG PRN for chest pain -Counsel patient
+Meta Mapping (547):
+   570   C2603361:P' (P prime) [Clinical Attribute]
+   570   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   570   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+   586   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   570   C1847730:NTG (GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO (finding)) [Finding]
+   586   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   586   C4288317:Counsel Patient (REMS Counsel Patient) [Health Care Activity]
+
+Phrase: about lifestyle modifications for HTN
+Meta Mapping (750):
+   593   C0332232:About (Approximate) [Qualitative Concept]
+   773   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]

@@ -1,0 +1,385 @@
+Processing 110_Cage.txt.tx.1: Gerry Cage is a 46yo male with PMHx significant for HTN who presents to clinic with complains of chest pain during strenuous activity such as bringing in heavy groceries or climbing stairs. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yo male with PMHx
+Meta Mapping (760):
+   760   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: significant for HTN
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with
+
+Phrase: complains of chest pain
+Meta Mapping (881):
+   854   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: during strenuous activity such as bringing
+Meta Mapping (783):
+   783   C5212735:during activity [Temporal Concept]
+
+Phrase: in heavy groceries
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: or
+
+Phrase: climbing stairs.
+Meta Mapping (1000):
+  1000   C1290942:Climbing stairs [Daily or Recreational Activity]
+Processing 110_Cage.txt.tx.2: He describes the pain as substernal that is relieved after approximately 5-10minutes of rest. 
+
+Phrase: He
+
+Phrase: describes
+
+Phrase: the pain as substernal
+Meta Mapping (819):
+   819   C0151826:SUBSTERNAL PAIN (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: relieved after approximately 5-10minutes of rest.
+Meta Mapping (652):
+   748   C1301771:Relieved (Relieved (qualifier value)) [Qualitative Concept]
+   748   C0332232:Approximately (Approximate) [Qualitative Concept]
+   748   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 110_Cage.txt.tx.3: He denies any SOB or palpitations. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any SOB
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: palpitations.
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+Processing 110_Cage.txt.tx.4: He measures his blood pressure at home and reports numbers in 130s/80s. 
+
+Phrase: He
+
+Phrase: measures
+Meta Mapping (1000):
+  1000   C0242485:Measure (Measurement) [Functional Concept]
+
+Phrase: his blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: at home
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+
+Phrase: and
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: numbers in 130s/80s.
+Meta Mapping (770):
+   770   C0237753:Numbers [Quantitative Concept]
+Processing 110_Cage.txt.tx.5: Patient also describes sensations of discomfort after large meals, but denies any sour/bitter taste in his mouth during these episodes. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: describes
+
+Phrase: sensations of discomfort
+Meta Mapping (816):
+   816   C0234215:Sensory Discomfort [Sign or Symptom]
+
+Phrase: after large meals,
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any sour/bitter taste in his mouth
+Meta Mapping (737):
+   581   C1552551:ANY (Any) [Qualitative Concept]
+   774   C0678583:Sour Taste (Sour) [Qualitative Concept]
+   581   C0235290:Bitter [Qualitative Concept]
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   581   C0230028:Mouth (Oral region) [Body Location or Region]
+Meta Mapping (737):
+   581   C1552551:ANY (Any) [Qualitative Concept]
+   581   C0678583:Sour [Qualitative Concept]
+   778   C0235290:Bitter Taste (Bitter) [Qualitative Concept]
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   581   C0230028:Mouth (Oral region) [Body Location or Region]
+
+Phrase: during these episodes.
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 110_Cage.txt.tx.6: He is currently taking lisinopril 10mg, and chlorthalidone 25mg for his HTN.  
+
+Phrase: He
+
+Phrase: is
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: lisinopril 10mg,
+Meta Mapping (694):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone 25mg for his HTN.
+Meta Mapping (529):
+   593   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 110_Cage.txt.tx.7: FH: significant for Mom with HTN and Father who had heart attack in 40s requiring bypass and passed with "heart complications" in his 70s.  
+
+Phrase: FH
+
+Phrase: :
+
+Phrase: significant for Mom
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: with HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: who
+
+Phrase: had
+
+Phrase: heart attack in 40s
+Meta Mapping (833):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: requiring
+
+Phrase: bypass
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: passed with "heart complications"
+Meta Mapping (783):
+   770   C2828386:Passed (Pass (indicator)) [Finding]
+   833   C0161816:Heart complications (Cardiac complication) [Pathologic Function]
+
+Phrase: in his 70s.
+Processing 110_Cage.txt.tx.8: SH: Lives by himself, but can call coworker if needs help.  
+
+Phrase: SH
+Meta Mapping (1000):
+  1000   C0038108:SH (Saint Helena Islands) [Geographic Area]
+
+Phrase: :
+
+Phrase: Lives by himself,
+Meta Mapping (790):
+   790   C0595998:lives (Household composition) [Finding]
+
+Phrase: but
+
+Phrase: can
+
+Phrase: call
+Meta Mapping (1000):
+  1000   C0679006:Call (Decision) [Mental Process]
+
+Phrase: coworker
+Meta Mapping (1000):
+  1000   C0681088:coworker [Population Group]
+
+Phrase: if
+
+Phrase: needs
+Meta Mapping (1000):
+  1000   C0027552:Needs [Qualitative Concept]
+
+Phrase: help.
+Meta Mapping (1000):
+  1000   C1552861:help (Help document) [Intellectual Product]
+Processing 110_Cage.txt.tx.9: Objective: BP: 150/92, Pulse: 85, Resp: 14, Temp: 98 CV: normal rate and rhythm, JVD is 6cm, PMI is brisk 2+  Assessment: Gerry Cage is a 46yo male who presents to clinic with symptoms concerning for stable angina.    ddx: Stable angina GERD  Plan: -Stress testing -CBC, CMP, lipid panel -Start statin if no contraindications.
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92,
+
+Phrase: Pulse
+Meta Mapping (1000):
+  1000   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+
+Phrase: :
+
+Phrase: 85,
+Meta Mapping (1000):
+  1000   C4517892:85 [Quantitative Concept]
+
+Phrase: Resp
+Meta Mapping (1000):
+  1000   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 14,
+
+Phrase: Temp
+Meta Mapping (1000):
+  1000   C0039476:TEMP (Temperature) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: 98 CV
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: normal rate
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: JVD
+Meta Mapping (1000):
+  1000   C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: is
+
+Phrase: 6cm,
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: is
+
+Phrase: brisk 2+  Assessment
+Meta Mapping (802):
+   660   C0443162:Brisk [Qualitative Concept]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46yo male
+Meta Mapping (861):
+   861   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: concerning for stable angina.    ddx
+Meta Mapping (750):
+   726   C2699424:Concern [Idea or Concept]
+   806   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   760   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Stable angina GERD  Plan
+Meta Mapping (861):
+   694   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   645   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   812   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: : -
+
+Phrase: Stress testing -CBC,
+Meta Mapping (901):
+   734   C0015260:stress testing (Exercise stress test) [Diagnostic Procedure]
+   827   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP,
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: lipid panel -Start statin
+Meta Mapping (861):
+   694   C0200382:Lipid panel [Laboratory Procedure]
+   645   C0439659:Start (Beginning) [Temporal Concept]
+   812   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: no contraindications.
+Meta Mapping (1000):
+  1000 N C1301624:Contraindications (Medical contraindication) [Finding]

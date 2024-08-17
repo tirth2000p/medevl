@@ -1,0 +1,597 @@
+Processing 202_Cage.txt.tx.1: Subjective Patient is a 46 year old male who an episode of chest pain that occurred 3 days ago. 
+
+Phrase: Subjective Patient
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: a 46 year old male
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who an episode of chest pain
+Meta Mapping (772):
+   586   C3272598:WHO (WHO Temperature/Humidity Storage Condition) [Qualitative Concept]
+   753   C0332189:EPISODE (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 202_Cage.txt.tx.2: He reports that it happened while carrying groceries. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: it
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 202_Cage.txt.tx.3: The pain is located along the sternum of his chest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: located along the sternum of his chest.
+Meta Mapping (706):
+   748   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   774   C3842424:Chest/sternum [Body Location or Region]
+Processing 202_Cage.txt.tx.4: The pain lasted for 5-10 minutes and was described as a "deep ache" and feeling "heavy." 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted for 5-10 minutes
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0439232:minutes (Minute of time) [Temporal Concept]
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: described as a "deep ache"
+Meta Mapping (696):
+   760   C1552738:described [Idea or Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling "heavy."
+Meta Mapping (888):
+   694   C1527305:Feeling (Feelings) [Mental Process]
+   861   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 202_Cage.txt.tx.5: He rates the pain as a 7/10. 
+
+Phrase: He rates
+Meta Mapping (966):
+   966   C1521828:Rate [Quantitative Concept]
+
+Phrase: the pain as a 7/10.
+Meta Mapping (722):
+   753   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   617   C5191365:10.7 [Quantitative Concept]
+Processing 202_Cage.txt.tx.6: He reports that for the past four months, he has had minor twinges of pain that are reminiscent of this pain. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that for the past four months,
+Meta Mapping (723):
+   767   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   753   C0205450:Four [Quantitative Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: minor twinges of pain
+Meta Mapping (541):
+   604   C0205165:Minor (Minor (value)) [Qualitative Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: that
+
+Phrase: are
+
+Phrase: reminiscent of this pain.
+Meta Mapping (672):
+   699   C0871247:reminiscence [Mental Process]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 202_Cage.txt.tx.7: The pain in those episodes last only 1-2 seconds and always coincided with physical activity. 
+
+Phrase: The pain in those episodes
+Meta Mapping (756):
+   756   C3808668:Episodic pain [Sign or Symptom]
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: only 1-2 seconds
+Meta Mapping (791):
+   645   C1720467:Only (Only - dosing instruction fragment) [Intellectual Product]
+   812   C0457385:Seconds (seconds) [Temporal Concept]
+
+Phrase: and
+
+Phrase: always
+Meta Mapping (1000):
+  1000   C2003902:Always (Always (frequency)) [Temporal Concept]
+
+Phrase: coincided with physical activity.
+Meta Mapping (833):
+   833   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+Processing 202_Cage.txt.tx.8: The pain is only relieved by sitting down and resting. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C1720467:Only (Only - dosing instruction fragment) [Intellectual Product]
+
+Phrase: relieved by sitting
+Meta Mapping (901):
+   882   C0332303:Relieved by [Functional Concept]
+   790   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: down
+
+Phrase: and
+
+Phrase: resting.
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+Processing 202_Cage.txt.tx.9: Patient reports that he regularly checks his blood pressure at home at that it runs in the 130/80s. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: regularly
+
+Phrase: checks
+Meta Mapping (1000):
+  1000   C1283174:Check (Checking (action)) [Activity]
+
+Phrase: his blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: at home at
+Meta Mapping (882):
+   882   C4534363:At home [Finding]
+
+Phrase: that
+
+Phrase: it
+
+Phrase: runs in the 130/80s.
+Meta Mapping (806):
+   806   C3274438:RUN-IN (Run-in Period) [Temporal Concept]
+Processing 202_Cage.txt.tx.10: He does not exercise at all.   
+
+Phrase: He
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise at all.
+Meta Mapping (790):
+   790   C0015259:Exercise [Daily or Recreational Activity]
+Processing 202_Cage.txt.tx.11: PMH: Hypertension, taking chlorthalidone and lisinopril   Objective VS: BP 150/92 HR 85 RR 14 T 98 Cardiovascular: normal rate regular rhythm, S1 and S2, no murmurs or rubs Respiratory: Clear to auscultation bilaterally in all four quadrants  Assessment Patient is a 46 year old male who an episode of chest pain that occurred 3 days ago while physically exerting himself. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Hypertension,
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril   Objective
+Meta Mapping (888):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   861   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP 150/92 HR 85 RR 14 T 98 Cardiovascular
+Meta Mapping (721):
+   623   C1708288:BP (HP wt Allele) [Gene or Genome]
+   623   C4517892:85 [Quantitative Concept]
+   623   C4554402:RR (RR genotype) [Finding]
+   623   C4319627:98 [Quantitative Concept]
+   790   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: normal rate regular rhythm,
+Meta Mapping (833):
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   645   C1521828:Rate [Quantitative Concept]
+   645   C0205272:Regular [Qualitative Concept]
+   812   C0871269:Rhythm [Finding]
+
+Phrase: S1
+Meta Mapping (1000):
+  1000   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: Respiratory
+Meta Mapping (1000):
+  1000   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+
+Phrase: :
+
+Phrase: Clear to auscultation bilaterally
+Meta Mapping (708):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: in all four quadrants  Assessment Patient
+Meta Mapping (888):
+   694   C0439738:Four quadrants [Spatial Concept]
+   861   C0679830:assessment patient (patient assessment) [Health Care Activity]
+
+Phrase: is
+
+Phrase: a 46 year old male
+Meta Mapping (775):
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: who an episode of chest pain
+Meta Mapping (772):
+   586   C3272598:WHO (WHO Temperature/Humidity Storage Condition) [Qualitative Concept]
+   753   C0332189:EPISODE (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: physically
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself.
+Processing 202_Cage.txt.tx.12: Physical exam was within normal limits.  
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: was within normal limits.
+Meta Mapping (783):
+   770   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+   833   C0442816:Normal limits [Finding]
+Processing 202_Cage.txt.tx.13: Differential Angina Myocardial infarction Aortic dissection  Plan - Ordered an EKG to help differential between angina and MI - Advise patient to start a statin medication - Advise patient to start a low dose aspirin - Patient reports having blood pressures around 130/80s at home. 
+
+Phrase: Differential Angina Myocardial infarction Aortic dissection  Plan -
+Meta Mapping (827):
+   629   C0443199:Differential (Differential quality) [Qualitative Concept]
+   629   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   651   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+   651   C0340643:AORTIC DISSECTION (Dissection of aorta) [Disease or Syndrome]
+   795   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: Ordered
+Meta Mapping (1000):
+  1000   C1705178:Ordered (Order (action)) [Activity]
+
+Phrase: an EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: help
+Meta Mapping (1000):
+  1000   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+
+Phrase: differential between angina
+Meta Mapping (746):
+   790   C0443199:Differential (Differential quality) [Qualitative Concept]
+   623   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: MI -
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: Advise
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: a statin medication -
+Meta Mapping (888):
+   694   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+   861   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: Advise
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: a low dose aspirin - Patient reports
+Meta Mapping (882):
+   717   C2608320:Low-Dose Aspirin [Organic Chemical,Pharmacologic Substance]
+   823   C0747307:patient report (Patient-Reported) [Intellectual Product]
+
+Phrase: having
+
+Phrase: blood pressures around 130/80s
+Meta Mapping (806):
+   806   C1272641:blood pressures (Systemic arterial pressure) [Finding]
+
+Phrase: at home.
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+Processing 202_Cage.txt.tx.14: Will recheck in 1 week to see if medication changes need to be made as patient does not want to make any lifestyle modifications - If blood pressure remains high, consider adding a beta blocker - Advised patient to stop smoking and asked if he would like to have a follow-up appointment to discuss smoking cessations, some of the resources the clinic has for him, and possible treatment plans
+
+Phrase: Will
+
+Phrase: recheck in 1 week
+Meta Mapping (833):
+   819   C4484138:week 1 [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: see
+Meta Mapping (1000):
+  1000   C0042789:see (Vision) [Organism Function]
+
+Phrase: if
+
+Phrase: medication changes
+Meta Mapping (983):
+   983   C0580105:medication change (Change of medication) [Therapeutic or Preventive Procedure]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0686904:need (Patient need for (contextual qualifier)) [Functional Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: made as patient
+Meta Mapping (730):
+   756   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+   790   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: want
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: make
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: any lifestyle modifications -
+Meta Mapping (966):
+   966   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+
+Phrase: If
+
+Phrase: blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: remains
+
+Phrase: high,
+Meta Mapping (1000):
+  1000   C0205250:High [Qualitative Concept]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: adding
+Meta Mapping (966):
+   966   C1883712:Add (Add - instruction imperative) [Functional Concept]
+
+Phrase: a beta blocker - Advised patient
+Meta Mapping (812):
+   673   C1420510:A-BETA (SUCLA2 gene) [Gene or Genome]
+   804   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: stop
+Meta Mapping (1000):
+  1000   C2746065:Stop (Stop (qualifier value)) [Temporal Concept]
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: and
+
+Phrase: asked
+
+Phrase: if
+
+Phrase: he
+
+Phrase: would like
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: have
+
+Phrase: a follow-up appointment
+Meta Mapping (901):
+   734   C1522577:Followup (follow-up) [Health Care Activity]
+   827   C0003629:Appointment (Appointments) [Temporal Concept]
+Meta Mapping (901):
+   734   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   827   C0003629:Appointment (Appointments) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: smoking cessations,
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessations (Cessation of smoking) [Individual Behavior]
+
+Phrase: some of the resources
+Meta Mapping (708):
+   770   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   770   C0035201:Resources [Idea or Concept]
+
+Phrase: the clinic
+Meta Mapping (1000):
+  1000   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: has for him,
+Meta Mapping (790):
+   790   C3539897:Has (Have) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: possible treatment
+Meta Mapping (888):
+   694   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+   861   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+
+Phrase: plans
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]

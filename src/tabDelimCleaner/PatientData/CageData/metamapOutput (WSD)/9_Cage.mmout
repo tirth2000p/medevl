@@ -1,0 +1,472 @@
+Processing 9_Cage.txt.tx.1: S:  Gerry cage is a male presenting with chest pain that occurred 3 days ago when walking to his car with bags of groceries. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Gerry cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a male presenting with chest pain
+Meta Mapping (753):
+   753   C0449450:Presenting (Presentation) [Idea or Concept]
+   626   C0235792:BREAST PAIN MALE [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: when
+
+Phrase: walking to his car
+Meta Mapping (733):
+   770   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: with bags of groceries.
+Meta Mapping (722):
+   604   C0332287:With (In addition to) [Functional Concept]
+   770   C0179196:Bags (Bag, device) [Manufactured Object]
+Processing 9_Cage.txt.tx.2: He described it as 7/10 deep aching heavy pain that improved with rest after 5-10 minutes. he also endorsed some light headedness and "knocking the wind out of him". 
+
+Phrase: He
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: it as 7/10 deep aching heavy pain
+Meta Mapping (749):
+   767   C5191365:10.7 [Quantitative Concept]
+   767   C0234229:Deep pain [Sign or Symptom]
+   744   C0234238:Aching (Ache) [Sign or Symptom]
+   744   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Meta Mapping (749):
+   767   C5191365:10.7 [Quantitative Concept]
+   744   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   767   C0234238:Aching pain (Ache) [Sign or Symptom]
+   744   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Meta Mapping (749):
+   767   C5191365:10.7 [Quantitative Concept]
+   744   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   744   C0234238:Aching (Ache) [Sign or Symptom]
+   770   C0458256:Heavy pain [Finding]
+
+Phrase: that
+
+Phrase: improved with rest
+Meta Mapping (746):
+   790   C0332272:Improved (Better) [Qualitative Concept]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: after 5-10 minutes.
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: he
+
+Phrase: also
+
+Phrase: endorsed
+
+Phrase: some light headedness
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: "
+
+Phrase: knocking
+
+Phrase: the wind out of him".
+Meta Mapping (695):
+   760   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+   593   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 9_Cage.txt.tx.3: He is concerned he had a heart attack. 
+
+Phrase: He
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 9_Cage.txt.tx.4: He endorsed for 4 months have similar twinges of pain with exertion in the same area that improved immediately.  
+
+Phrase: He
+
+Phrase: endorsed for 4 months
+Meta Mapping (770):
+   770   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: have
+
+Phrase: similar twinges of pain
+Meta Mapping (541):
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exertion in the same area
+Meta Mapping (691):
+   586   C0332287:With (In addition to) [Functional Concept]
+   753   C0015264:Exertion [Organism Function]
+   586   C0445247:SAME (Same) [Qualitative Concept]
+   586   C0205146:AREA (Area) [Spatial Concept]
+
+Phrase: that
+
+Phrase: improved
+Meta Mapping (1000):
+  1000   C0332272:Improved (Better) [Qualitative Concept]
+
+Phrase: immediately.
+Meta Mapping (1000):
+  1000   C0205548:Immediately (Stat (do immediately)) [Temporal Concept]
+Processing 9_Cage.txt.tx.5: Meds: take lisinopril and chlorthalidone for HTN allergies: Na  PMH; notable for HTN  FMH: notable for heart disease in father with heart attack at 40, needed bypass surgery. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: lisinopril
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone for HTN allergies
+Meta Mapping (772):
+   802   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Na  PMH
+Meta Mapping (888):
+   694   C1879645:NA (Adverse Event by CTCAE Category) [Finding]
+   861   C0262926:PMH (Medical History) [Finding]
+
+Phrase: ; notable for HTN  FMH
+Meta Mapping (708):
+   770   C4288581:Notable [Qualitative Concept]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: notable for heart disease
+Meta Mapping (783):
+   770   C4288581:Notable [Qualitative Concept]
+   666   C0018799:HEART DISEASE, NOS (Heart Diseases) [Disease or Syndrome]
+
+Phrase: in father with heart attack
+Meta Mapping (752):
+   593   C0150312:In (Present) [Finding]
+   760   C0015671:FATHER (Father (person)) [Family Group]
+   640   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: at 40,
+Meta Mapping (1000):
+  1000   C3842587:40% [Quantitative Concept]
+
+Phrase: needed bypass surgery.
+Meta Mapping (901):
+   660   C0027552:Needed (Needs) [Qualitative Concept]
+   901   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+Processing 9_Cage.txt.tx.6: HTN and DMII in mother. 
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: DMII in mother.
+Meta Mapping (623):
+   623   C0026591:MOTHER (Mother (person)) [Family Group]
+Processing 9_Cage.txt.tx.7: Brothers healthy Social: drinks 2-3 glasses of wine on weekends, smoked 1 ppd, no drugs. 
+
+Phrase: Brothers healthy Social
+Meta Mapping (851):
+   660   C0337527:Brothers [Family Group]
+   660   C3898900:Healthy [Qualitative Concept]
+   827   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: drinks 2-3 glasses of wine
+Meta Mapping (716):
+   617   C0425332:Drinks wine [Finding]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+
+Phrase: on weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: smoked
+Meta Mapping (966):
+   966   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: 1 ppd,
+Meta Mapping (888):
+   694   C2981698:1+ (1+ Score, WHO) [Intellectual Product]
+   861   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: no drugs.
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+Processing 9_Cage.txt.tx.8: No exercise, drinks coffee.  
+
+Phrase: No exercise,
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: coffee.
+Meta Mapping (1000):
+  1000   C0009237:Coffee [Food]
+Processing 9_Cage.txt.tx.9: ROS notable for reflux symptoms after eating, No SOB, NVD, Headache   O:  Vitals: elevated BP 150/92 chest: normal rate and rhythm, no murmurs noted, pulses not evaluated, chest pain not reproducible on exam pulm: normal breath sounds abdominal: soft, nontender, normal bowel sounds   A: Gerry Cage is a gentlemen presenting with 5-10 min of chest pain 3 days ago that did resolved with rest, sporadic for 4 months  plan: chest pain: likely stable angina given duration, setting of pain vs unstable angina -order lipid panel, EKG -Refer to cardiology for exercise stress test -prescribe aspirin 81mg to take daily  -recommend smoking cessation
+
+Phrase: ROS
+Meta Mapping (1000):
+  1000   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: notable for reflux symptoms
+Meta Mapping (783):
+   770   C4288581:Notable [Qualitative Concept]
+   666   C0744318:reflux SYMPTOMS (Acid reflux SYMPTOMS) [Sign or Symptom]
+
+Phrase: after eating,
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: No SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: NVD,
+
+Phrase: Headache   O
+Meta Mapping (694):
+   694 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: elevated BP 150/92 chest
+Meta Mapping (812):
+   673 N C0497247:Elevated BP (Increase in blood pressure) [Finding]
+   804   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: :
+
+Phrase: normal rate
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: noted
+Meta Mapping (1000):
+  1000   C4288581:Noted (Notable) [Qualitative Concept]
+
+Phrase: ,
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0034107:Pulses (Pulse taking) [Health Care Activity]
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: evaluated
+Meta Mapping (1000):
+  1000   C0220825:Evaluated (Evaluation) [Health Care Activity]
+
+Phrase: ,
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: not reproducible on exam
+Meta Mapping (709):
+   604   C1518422:Not (Negation) [Functional Concept]
+   699   C1514863:Reproducibility [Qualitative Concept]
+   604   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: normal breath sounds
+Meta Mapping (1000):
+  1000 N C0231855:Breath sounds, normal (Normal breath sounds) [Finding]
+
+Phrase: abdominal
+Meta Mapping (1000):
+  1000   C0000726:Abdominal (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: soft, nontender, normal bowel sounds
+Meta Mapping (875):
+   637   C0205358:Soft [Qualitative Concept]
+   637   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   884   C0278005:Normal bowel sounds [Finding]
+
+Phrase: A
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a gentlemen presenting with 5-10 min of chest pain 3 days ago
+Meta Mapping (697):
+   735   C0449450:Presenting (Presentation) [Idea or Concept]
+   582   C1883310:10^3 (One Thousand) [Quantitative Concept]
+   569   C0702093:/min (Per Minute) [Temporal Concept]
+   569   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   565   C3842674:Day 5 [Finding]
+Meta Mapping (697):
+   735   C0449450:Presenting (Presentation) [Idea or Concept]
+   582   C4517521:10.5 [Quantitative Concept]
+   569   C0702093:/min (Per Minute) [Temporal Concept]
+   569   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   565   C3842675:Day 3 [Finding]
+
+Phrase: that
+
+Phrase: did
+
+Phrase: resolved with rest,
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: sporadic for 4 months
+Meta Mapping (708):
+   770 N C1853237:Sporadic (Isolated cases) [Finding]
+   604   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: likely stable angina given duration,
+Meta Mapping (794):
+   637 N C0332148:Likely (Probable diagnosis) [Finding]
+   673   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   804   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+
+Phrase: setting of pain
+Meta Mapping (746):
+   790   C1318139:{Setting} [Quantitative Concept]
+   790   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: vs
+
+Phrase: unstable angina -order lipid panel,
+Meta Mapping (857):
+   673   C0002965:Angina, Unstable [Disease or Syndrome]
+   637   C1705178:Order (Order (action)) [Activity]
+   840   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: EKG -
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Refer to cardiology
+Meta Mapping (746):
+   790   C0205543:Refer (Referring) [Functional Concept]
+   790   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: for exercise stress test -
+Meta Mapping (1000):
+  1000   C0015260:Exercise stress test [Diagnostic Procedure]
+
+Phrase: prescribe
+
+Phrase: aspirin 81mg
+Meta Mapping (694):
+   694   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: daily  -
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: smoking cessation
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]

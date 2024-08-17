@@ -1,0 +1,741 @@
+Processing 68_Cage.txt.tx.1: Subjective:   Mr. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 68_Cage.txt.tx.2: Cage is pleasant appearing male with PMHx significant for hypertension who presents to clinic for evaluation of chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: pleasant appearing male with PMHx
+Meta Mapping (702):
+   593   C2987187:Pleasant [Mental Process]
+   560   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   760   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: significant for hypertension
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: for evaluation of chest pain.
+Meta Mapping (858):
+   593   C0521125:For (Preposition For) [Qualitative Concept]
+   760   C0220825:Evaluation [Health Care Activity]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 68_Cage.txt.tx.3: The pain began ~4 months ago with exertion related to climbing stairs and walking to his car. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: ~4 months ago with exertion related
+Meta Mapping (691):
+   586   C3838679:4+ (4+ Answer to question) [Finding]
+   753   C0439231:MONTHS (month) [Temporal Concept]
+   586   C0015264:Exertion [Organism Function]
+   586   C0439849:Related (Relationships) [Qualitative Concept]
+
+Phrase: to climbing stairs
+Meta Mapping (1000):
+  1000   C1290942:Climbing stairs [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: walking to his car.
+Meta Mapping (733):
+   770   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 68_Cage.txt.tx.4: He states the pain is centrally located in his chest and feels like a "pressure." 
+
+Phrase: He
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: centrally
+
+Phrase: located in his chest
+Meta Mapping (722):
+   770   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   770   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: and
+
+Phrase: feels like a "pressure."
+Meta Mapping (708):
+   770   C1527305:feels (Feelings) [Mental Process]
+   770   C0460139:Pressure (Pressure (finding)) [Finding]
+Processing 68_Cage.txt.tx.5: More recently, a few days ago, he noticed a more severe pain as he was loading groceries. 
+
+Phrase: More recently,
+Meta Mapping (888):
+   861   C0205172:More [Quantitative Concept]
+   861   C0332185:Recently (Recent) [Temporal Concept]
+
+Phrase: a few days ago,
+Meta Mapping (790):
+   660   C0205388:Few [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: he
+
+Phrase: noticed
+
+Phrase: a more severe pain
+Meta Mapping (901):
+   660   C0205172:More [Quantitative Concept]
+   901   C0278140:Severe pain [Finding]
+
+Phrase: as
+
+Phrase: he
+
+Phrase: was
+
+Phrase: loading groceries.
+Meta Mapping (694):
+   694   C1708715:Loading (Loading Technique) [Activity]
+Processing 68_Cage.txt.tx.6: Again, he states the pain is like a "deep pressure" and it "took the wind out of him." 
+
+Phrase: Again,
+
+Phrase: he
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is like a "deep pressure"
+Meta Mapping (696):
+   760   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: and
+
+Phrase: it "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: the wind out of him."
+Meta Mapping (695):
+   760   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+   593   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 68_Cage.txt.tx.7: The pain subsided with sitting in his car for ~10 mins. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided with sitting
+Meta Mapping (790):
+   790   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in his car for ~10 mins.
+Meta Mapping (734):
+   586   C0150312:In (Present) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   753   C0004381:Car (Automobiles) [Manufactured Object]
+   606   C0456692:/10 min [Temporal Concept]
+Processing 68_Cage.txt.tx.8: Denied any pain radiating to his neck or his left arm during this episode. 
+
+Phrase: Denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: any pain radiating to his neck
+Meta Mapping (888):
+   586   C1552551:ANY (Any) [Qualitative Concept]
+   864 N C1960989:Pain radiating to neck [Sign or Symptom]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: or
+
+Phrase: his left arm during this episode.
+Meta Mapping (725):
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   790   C0230347:Left Arm (Left upper arm structure) [Body Part, Organ, or Organ Component]
+   586   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 68_Cage.txt.tx.9: Additionally denies any syncope related to the pain or pain at rest. 
+
+Phrase: Additionally
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any syncope
+Meta Mapping (1000):
+  1000 N C0039070:SYNCOPE (Syncope) [Sign or Symptom]
+
+Phrase: related to the pain
+Meta Mapping (708):
+   770   C0439849:Related (Relationships) [Qualitative Concept]
+   770 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: or
+
+Phrase: pain at rest.
+Meta Mapping (1000):
+  1000 N C0234253:Pain at rest (Rest pain) [Sign or Symptom]
+Processing 68_Cage.txt.tx.10: He also notes he occasionally has a similar pressure 5-10 mins after eating meals, but states this pressure is different than what he experienced while loading groceries. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1316572:Note (Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider}) [Clinical Attribute]
+
+Phrase: he
+
+Phrase: occasionally
+Meta Mapping (1000):
+  1000   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: has
+
+Phrase: a similar pressure 5-10 mins after eating meals,
+Meta Mapping (714):
+   575   C2348205:Similar (Similarity) [Qualitative Concept]
+   745   C4037946:Pressure.min [Quantitative Concept]
+   595   C4517521:10.5 [Quantitative Concept]
+   575   C0013470:Eating [Organism Function]
+   575   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: this pressure
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: is
+
+Phrase: different than what
+Meta Mapping (790):
+   790   C1705242:Different [Qualitative Concept]
+
+Phrase: he
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: while
+
+Phrase: loading groceries.
+Meta Mapping (694):
+   694   C1708715:Loading (Loading Technique) [Activity]
+Processing 68_Cage.txt.tx.11: Denies any history of reflux or previous MI. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any history of reflux
+Meta Mapping (733):
+   604   C1552551:ANY (Any) [Qualitative Concept]
+   770 N C0262926:History (Medical History) [Finding]
+   604 N C0232483:Reflux [Pathologic Function]
+
+Phrase: or
+
+Phrase: previous MI.
+Meta Mapping (888):
+   694   C0205156:Previous [Temporal Concept]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 68_Cage.txt.tx.12: His most significant concern is that he is having a heart attack or at risk of a heart attack.  
+
+Phrase: His most significant concern
+Meta Mapping (901):
+   734   C1299394:Most significant [Qualitative Concept]
+   827   C2699424:Concern [Idea or Concept]
+
+Phrase: is
+
+Phrase: that
+
+Phrase: he
+
+Phrase: is
+
+Phrase: having
+
+Phrase: a heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: or at risk of a heart attack.
+Meta Mapping (692):
+   748   C4761403:OR (Oroqen Chinese) [Population Group]
+   748   C0035647:Risk [Idea or Concept]
+   778   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 68_Cage.txt.tx.13: Meds: Lisinopril, chlorthalidone  PMHx: Hypertension  FHx: Hypertension in mother, previous heart attack and bypass surgery in father   SHx: smokes 1 ppd x 20 years, drinks a few glasses of wine on social occasions. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: chlorthalidone  PMHx
+Meta Mapping (694):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Hypertension  FHx
+Meta Mapping (888):
+   694   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Hypertension in mother,
+Meta Mapping (830):
+   830   C0565599:Maternal hypertension [Disease or Syndrome]
+
+Phrase: previous heart attack
+Meta Mapping (1000):
+  1000   C0155668:previous Heart attack (Old myocardial infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: bypass surgery in father   SHx
+Meta Mapping (745):
+   806   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   593   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: :
+
+Phrase: smokes 1 ppd x 20 years,
+Meta Mapping (768):
+   632   C0037369:smokes (Smoking) [Individual Behavior]
+   632   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+   827   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: a few glasses of wine
+Meta Mapping (686):
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on social occasions.
+Meta Mapping (847):
+   694   C0728831:Social [Functional Concept]
+   777   C0521114:Occasional (Infrequent) [Temporal Concept]
+Processing 68_Cage.txt.tx.14: Denies any illicit drug use including cocaine.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any illicit drug use
+Meta Mapping (1000):
+  1000 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: cocaine.
+Meta Mapping (1000):
+  1000   C0009170:COCAINE (cocaine) [Hazardous or Poisonous Substance,Organic Chemical]
+Processing 68_Cage.txt.tx.15: Objective:   VS: T=98, P=85, BP=150/92, RR=14  Physical Exam: - General: Pt is alert, oriented to time in place, well groomed, tidy, and not in any acute distress - CV: Normal S1/S2, RRR, no murmurs/rubs/gallops/S3/S4. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T=98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P=85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: =150/92,
+
+Phrase: RR
+
+Phrase: =14  Physical Exam
+Meta Mapping (901):
+   901   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: : -
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: alert,
+Meta Mapping (1000):
+  1000   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: oriented to time
+Meta Mapping (1000):
+  1000   C1961029:Oriented to time [Finding]
+
+Phrase: in place,
+Meta Mapping (1000):
+  1000   C0442504:Place [Spatial Concept]
+
+Phrase: well groomed,
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0018249:groom (Grooming) [Individual Behavior]
+
+Phrase: tidy,
+
+Phrase: and
+
+Phrase: not in any acute distress - CV
+Meta Mapping (697):
+   753   C1518422:Not (Negation) [Functional Concept]
+   753   C0205178:ACUTE (acute) [Temporal Concept]
+   753 N C0231303:Distress [Finding]
+   753   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: Normal S1/S2,
+Meta Mapping (901):
+   913 N C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   660 N C3715215:S1 [Finding]
+
+Phrase: RRR,
+
+Phrase: no murmurs/
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: /gallops/S3/S4.
+Meta Mapping (890):
+   717 N C0232278:gallop s3 (Protodiastolic gallop with abnormally audible third heart sound) [Finding]
+   827   C2349970:S4+ [Element, Ion, or Isotope]
+Processing 68_Cage.txt.tx.16: Carotids free of bruits on auscultation and palpable with 2+ pulses bilaterally. 
+
+Phrase: Carotids
+Meta Mapping (1000):
+  1000   C0741968:carotids (carotid) [Body Part, Organ, or Organ Component]
+
+Phrase: free of bruits
+Meta Mapping (746):
+   790   C1996904:Free (Free (available (qualifier))) [Qualitative Concept]
+   623 N C0006318:bruits (Bruit) [Finding]
+
+Phrase: on auscultation
+Meta Mapping (1000):
+  1000   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: palpable with 2+ pulses bilaterally.
+Meta Mapping (686):
+   760   C0522499:PALPABLE (Palpable) [Qualitative Concept]
+   593 N C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+Processing 68_Cage.txt.tx.17: No pain elicited with palpation of the anterior chest wall. 
+
+Phrase: No pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: elicited with palpation of the anterior chest wall.
+Meta Mapping (721):
+   744   C0449265:elicited (Elicited by) [Qualitative Concept]
+   744   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   800   C0230132:Anterior chest wall (Anterior chest wall structure) [Body Location or Region]
+Processing 68_Cage.txt.tx.18: PMI is 2 cm in diameter and nondisplaced. 
+
+Phrase: PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: is
+
+Phrase: 2 cm in diameter
+Meta Mapping (652):
+   652   C0805899:Diameter 2 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: nondisplaced.
+Meta Mapping (1000):
+  1000   C0746928:non displaced [Idea or Concept]
+Processing 68_Cage.txt.tx.19: Radial, post tib, dorsalis pedis all 2+ b/l. 
+
+Phrase: Radial, post tib,
+Meta Mapping (623):
+   660   C0442038:Radial [Conceptual Entity]
+   660   C0687676:Post [Temporal Concept]
+
+Phrase: dorsalis pedis
+Meta Mapping (861):
+   861   C4727455:Pedi (Northern Sotho Language) [Language]
+
+Phrase: all 2+ b/l.
+Meta Mapping (660):
+   660   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+Processing 68_Cage.txt.tx.20: - Lungs: CTAB, no wheezes/crackles/rhonchi - Extremities: No LEE  Assessment: Mr. 
+
+Phrase: - Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no wheezes/
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: /rhonchi - Extremities
+Meta Mapping (888):
+   694 N C0035508:RHONCHI (Rhonchi) [Finding]
+   861   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: No LEE  Assessment
+Meta Mapping (861):
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 68_Cage.txt.tx.21: Cage is a gentleman with PMH s/f HTN who presents for evaluation of exertional chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a gentleman with PMH s/f HTN
+Meta Mapping (548):
+   581   C0262926:PMH (Medical History) [Finding]
+   607   C3714799:F/s (Frames Per Second) [Temporal Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for evaluation of exertional chest pain.
+Meta Mapping (761):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0220825:Evaluation [Health Care Activity]
+   748   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   772   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 68_Cage.txt.tx.22: Denies any radiation or syncope. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any radiation
+Meta Mapping (1000):
+  1000   C0851346:Radiation [Natural Phenomenon or Process]
+
+Phrase: or
+
+Phrase: syncope.
+Meta Mapping (1000):
+  1000 N C0039070:SYNCOPE (Syncope) [Sign or Symptom]
+Processing 68_Cage.txt.tx.23: Physical exam unremarkable, cardiac exam wnl. 
+
+Phrase: Physical exam unremarkable, cardiac exam
+Meta Mapping (632):
+   673   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+   637   C0205307:UNREMARKABLE (Normal) [Qualitative Concept]
+   637   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: wnl.
+Processing 68_Cage.txt.tx.24: Given history of exertional CP and benign physical exam, most likely diagnosis is stable angina. 
+
+Phrase: Given history of exertional CP
+Meta Mapping (724):
+   593   C1442162:GIVEN [Functional Concept]
+   760   C0262926:History (Medical History) [Finding]
+   593   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   593   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: benign physical exam,
+Meta Mapping (901):
+   660   C0205183:BENIGN (Benign) [Qualitative Concept]
+   901   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: most likely diagnosis
+Meta Mapping (964):
+   964   C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+
+Phrase: is
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 68_Cage.txt.tx.25: Other differentials include unstable angina vs. 
+
+Phrase: Other differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: vs.
+Processing 68_Cage.txt.tx.26: GERD.  
+
+Phrase: GERD.
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 68_Cage.txt.tx.27: Plan:  - Obtain routine EKG - Obtain Echo - Obtain stress testing - Given echo and stress results, can consider nitro for symptomatic relief.  
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: routine EKG -
+Meta Mapping (888):
+   694   C0205547:Routine [Qualitative Concept]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: Echo -
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: stress testing - Given echo
+Meta Mapping (852):
+   902   C0920208:Stress Echo (Echocardiography, Stress) [Diagnostic Procedure]
+   645   C0039593:Testing [Functional Concept]
+   612   C1947971:Give (Give - dosing instruction imperative) [Functional Concept]
+Meta Mapping (852):
+   694   C0015260:stress testing (Exercise stress test) [Diagnostic Procedure]
+   612   C1947971:Give (Give - dosing instruction imperative) [Functional Concept]
+   812   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: and
+
+Phrase: stress results,
+Meta Mapping (872):
+   694   C0038435:Stress [Finding]
+   827   C1274040:Result [Functional Concept]
+
+Phrase: can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: nitro for symptomatic relief.
+Meta Mapping (666):
+   666   C3242309:symptomatic relief [Idea or Concept]
+Processing 68_Cage.txt.tx.28: Geetika Reichmann, MS3
+
+Phrase: Geetika Reichmann,
+
+Phrase: MS3
+Meta Mapping (1000):
+  1000   C2675477:MS3 (MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3) [Finding]

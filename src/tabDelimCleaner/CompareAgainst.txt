@@ -1,0 +1,7 @@
+# Need to make the thingy ignore hashtag leading lines like these, comments are important. Empty lines should also be ignored, since they're there for style
+# First seperate by newline for importance, then comma for item, then colon for alternative concept cuis
+# For the less important ones, I'd like to do "points off- cuis and stuff in the normal format"
+# There must be a space after the tag dash!
+
+e- Angina:C0027051:C0002965,Heart Attack:C1623258,
+e- C0027051:C0002965,C1623258,

@@ -1,0 +1,470 @@
+Processing 205_Cage.txt.tx.1: S: cc - "chest pain"  46M presenting w an episode of chest pain 4 days ago. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: cc - "chest pain"  46M presenting w
+Meta Mapping (595):
+   632   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+   660   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   632   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: an episode of chest pain 4 days ago.
+Meta Mapping (784):
+   578   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   770   C0332189:Episode of [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   584   C3840892:Day 4 [Finding]
+Processing 205_Cage.txt.tx.2: He was carrying groceries and felt sudden substernal pain. 
+
+Phrase: He
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: and
+
+Phrase: felt sudden substernal pain.
+Meta Mapping (852):
+   612   C1527305:feel (Feelings) [Mental Process]
+   645   C5201090:Sudden (Sudden (qualifier value)) [Qualitative Concept]
+   861   C0151826:SUBSTERNAL PAIN (Retrosternal pain) [Sign or Symptom]
+Processing 205_Cage.txt.tx.3: He dropped groceries and rested and pain resolved within a few min. 
+
+Phrase: He
+
+Phrase: dropped
+Meta Mapping (1000):
+  1000   C1705648:Dropped (Dropping) [Activity]
+
+Phrase: groceries
+
+Phrase: and
+
+Phrase: rested
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved within a few min.
+Meta Mapping (686):
+   760   C2699488:Resolved (Resolution) [Conceptual Entity]
+   760   C0702093:/min (Per Minute) [Temporal Concept]
+Processing 205_Cage.txt.tx.4: Also reported feeling lightheadedness and like the "wind was knocked out" of him, denies cough or SOB. 
+
+Phrase: Also
+
+Phrase: reported
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+
+Phrase: feeling lightheadedness
+Meta Mapping (888):
+   694   C1527305:Feeling (Feelings) [Mental Process]
+   861   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and like the "wind
+Meta Mapping (708):
+   770   C1515981:And [Idea or Concept]
+   770   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: knocked out" of him,
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: cough
+Meta Mapping (1000):
+  1000 N C0010200:COUGH (Coughing) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: SOB.
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 205_Cage.txt.tx.5: Over last 4 months, has had 2-3 episodes of similar pain on exertion. 
+
+Phrase: Over
+Meta Mapping (1000):
+  1000   C0205136:Over (Over (spatial)) [Spatial Concept]
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: 4 months,
+Meta Mapping (888):
+   694   C3838679:4+ (4+ Answer to question) [Finding]
+   861   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: has
+
+Phrase: had
+
+Phrase: 2-3 episodes of similar pain
+Meta Mapping (851):
+   648   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   586   C2348205:Similar (Similarity) [Qualitative Concept]
+   586   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 205_Cage.txt.tx.6: Denies palpitations, arrhythmia, anxiety.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: arrhythmia,
+Meta Mapping (1000):
+  1000 N C0003811:Arrythmia (Cardiac Arrhythmia) [Disease or Syndrome]
+
+Phrase: anxiety.
+Meta Mapping (1000):
+  1000 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+Processing 205_Cage.txt.tx.7: Pt noted that he also has been having acute epigastric pain w meals. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: noted
+Meta Mapping (1000):
+  1000   C4288581:Noted (Notable) [Qualitative Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: also
+
+Phrase: has
+
+Phrase: been
+
+Phrase: having
+
+Phrase: acute epigastric pain w meals.
+Meta Mapping (794):
+   686   C0184567:Acute Pain (Acute onset pain) [Sign or Symptom]
+   637   C0521440:Epigastric [Body Location or Region]
+   804   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Meta Mapping (794):
+   637   C0205178:ACUTE (acute) [Temporal Concept]
+   673   C0232493:Epigastric pain [Sign or Symptom]
+   804   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 205_Cage.txt.tx.8: Denies issues w belching, nausea, vomitus regurgitation.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: issues w belching,
+Meta Mapping (785):
+   627 N C0033213:Issue (Problem) [Finding]
+   827 N C0014724:BELCHING (Eructation) [Sign or Symptom]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomitus regurgitation.
+Meta Mapping (888):
+   694   C1547958:Vomitus (Specimen Source Codes - Vomitus) [Intellectual Product]
+   861 N C2004489:REGURGITATION (Regurgitation) [Sign or Symptom]
+Processing 205_Cage.txt.tx.9: PMHx notable for HTN, on chlorthalidone 25 mg daily and lisinopril 10 mg daily.  no prior surgeries or hospitalizations  Family hx - father, MI age 40 requiring bypass - mother, HTN and DM2, passed away from PE age 60 - maternal GM, breast ca  Social - last PCP fu was 6 months ago - works in IT at capital one - smokes 1 ppd x 20 years - weekend EtOH intake, infrequent - no other drugs  O: VS: T 98, P 85, R 14, BP 150/92 General: anxious but healthy appearing man Eye: PERRLA Chest: mild loss of breath sounds on LL, no increased breathing effort, no crackles/wheezes/stridor Heart: RRR, S1 S2 clear, no rubs, no murmurs or gallops GI: abdomen painless on palp, normal BS  46M presenting w acute CP on exertion 4 days ago, PE indicating possible L lung loss of airway.  
+
+Phrase: PMHx
+
+Phrase: notable for HTN,
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on chlorthalidone 25 mg
+Meta Mapping (1000):
+  1000   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: and
+
+Phrase: lisinopril 10 mg daily.
+Meta Mapping (916):
+   923   C0987217:Lisinopril 10 MG [Clinical Drug]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: no prior surgeries
+Meta Mapping (983):
+   983 N C0455610:Prior Surgery (H/O: surgery) [Finding]
+
+Phrase: or
+
+Phrase: hospitalizations  Family hx - father,
+Meta Mapping (833):
+   645   C0019993:Hospitalizations (Hospitalization) [Health Care Activity]
+   645   C0015576:Family [Family Group]
+   645 N C0262926:Hx (Medical History) [Finding]
+   812   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: MI age 40 requiring bypass - mother,
+Meta Mapping (751):
+   632   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   632   C0001779:AGE (Age) [Organism Attribute]
+   632   C3842587:40% [Quantitative Concept]
+   632   C0741847:Bypass [Therapeutic or Preventive Procedure]
+   799   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: DM2,
+
+Phrase: passed away from PE age 60 - maternal GM,
+Meta Mapping (695):
+   744   C2828386:Passed (Pass (indicator)) [Finding]
+   767   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   744   C0001779:AGE (Age) [Organism Attribute]
+   744   C2347083:Maternal (Maternal Relative) [Family Group]
+Meta Mapping (695):
+   744   C2828386:Passed (Pass (indicator)) [Finding]
+   744   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   744   C3842585:60% [Quantitative Concept]
+   767   C0024915:Maternal Age [Temporal Concept]
+
+Phrase: breast ca  Social - last PCP fu
+Meta Mapping (751):
+   632   C0006141:BREAST (Breast) [Body Part, Organ, or Organ Component]
+   632   C3887642:CA (Hippocampus Proper) [Body Part, Organ, or Organ Component]
+   632   C0728831:Social [Functional Concept]
+   632   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+   799   C0016360:FU (fluorouracil) [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+
+Phrase: was
+
+Phrase: 6 months ago - works in IT
+Meta Mapping (672):
+   586   C0439231:MONTHS (month) [Temporal Concept]
+   753   C0043227:works (Work) [Occupational Activity]
+
+Phrase: at capital one - smokes 1 ppd x 20 years - weekend EtOH intake,
+Meta Mapping (728):
+   622   C0006909:Capital [Quantitative Concept]
+   622   C0205447:ONE (One) [Quantitative Concept]
+   622   C0037369:smokes (Smoking) [Individual Behavior]
+   622   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+   634   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   622   C0680190:Weekend [Temporal Concept]
+   622   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   788   C1512806:Intake [Functional Concept]
+
+Phrase: infrequent -
+Meta Mapping (1000):
+  1000   C0521114:Infrequent [Temporal Concept]
+
+Phrase: no other drugs  O
+Meta Mapping (694):
+   694   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: BP 150/92 General
+Meta Mapping (791):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   812   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: anxious
+Meta Mapping (1000):
+  1000   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: but
+
+Phrase: healthy appearing man Eye
+Meta Mapping (825):
+   645   C3898900:Healthy [Qualitative Concept]
+   612   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   645   C0025266:Man (Male population group) [Population Group]
+   812   C0015392:?Eye (Eye) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: PERRLA Chest
+Meta Mapping (888):
+   694   C2143306:PERRLA (Pupils Equal Round and Reactive to Light and Accommodation) [Finding]
+   861   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: :
+
+Phrase: mild loss of breath sounds
+Meta Mapping (752):
+   593   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   760   C1517945:Loss [Quantitative Concept]
+   640   C0035234:Breath sounds (Respiratory Sounds) [Clinical Attribute]
+
+Phrase: on LL,
+Meta Mapping (1000):
+  1000   C4554676:LL (LL genotype) [Finding]
+
+Phrase: no increased breathing effort,
+Meta Mapping (901):
+   660   C0442805:INCREASED (Increase) [Functional Concept]
+   901   C4084858:Breathing Effort (Breathing Distress Question) [Intellectual Product]
+
+Phrase: no
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: /wheezes/stridor Heart
+Meta Mapping (851):
+   660 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+   660 N C0038450:STRIDOR (Stridor) [Sign or Symptom]
+   827   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: S1 S2
+Meta Mapping (888):
+   694 N C3715215:S1 [Finding]
+   861   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: clear,
+Meta Mapping (1000):
+  1000 N C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: no
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: gallops GI
+Meta Mapping (861):
+   861   C1708130:Gi (GNAI1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: painless on palp,
+Meta Mapping (746):
+   790   C0234226:Painless [Functional Concept]
+   623   C1412365:PALP (ALPP gene) [Gene or Genome]
+
+Phrase: normal BS  46M presenting w acute CP on exertion 4 days ago,
+Meta Mapping (655):
+   570   C0205307:NORMAL (Normal) [Qualitative Concept]
+   570   C4050217:BS (Bug Search Subtest (WPPSI-IV)) [Intellectual Product]
+   570   C0449450:Presenting (Presentation) [Idea or Concept]
+   570   C0205178:ACUTE (acute) [Temporal Concept]
+   736   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   570   C0015264:Exertion [Organism Function]
+   568   C3840892:Day 4 [Finding]
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: indicating
+
+Phrase: possible L lung loss of airway.
+Meta Mapping (685):
+   586   C0332149:Possible [Finding]
+   586   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   753   C1517945:Loss [Quantitative Concept]
+   586   C0458827:Airway (Airway structure) [Body Part, Organ, or Organ Component]
+Processing 205_Cage.txt.tx.10: Dx - angina - pneumonia - GERD - panic attack - arhythmia  Plan - obtain EKG - BMP, CBC, TSH - CXR -RTC 2 wk
+
+Phrase: Dx - angina - pneumonia - GERD - panic attack - arhythmia  Plan -
+Meta Mapping (771):
+   626   C4761408:DX (Dongxiang Chinese) [Population Group]
+   684   C0235462:ANGINA ATTACK (angina attack) [Disease or Syndrome]
+   626   C0032285:PNEUMONIA (Pneumonia) [Disease or Syndrome]
+   626   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   626   C0030318:Panic [Finding]
+   793   C0599880:Plan (Treatment Plan) [Intellectual Product]
+Meta Mapping (771):
+   626   C4761408:DX (Dongxiang Chinese) [Population Group]
+   626   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   626   C0032285:PNEUMONIA (Pneumonia) [Disease or Syndrome]
+   626   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   645   C0086769:Panic Attack (Panic Attacks) [Mental or Behavioral Dysfunction]
+   793   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG - BMP,
+Meta Mapping (888):
+   694   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   861   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: TSH - CXR -RTC 2 wk
+Meta Mapping (762):
+   637   C2708739:TSH (Thyrotropin:-:Pt:Ser/Plas:-) [Clinical Attribute]
+   637   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+   804   C0439230:wk (week) [Temporal Concept]

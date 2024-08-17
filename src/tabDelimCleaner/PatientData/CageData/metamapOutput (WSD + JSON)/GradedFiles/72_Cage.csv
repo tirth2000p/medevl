@@ -1,0 +1,182 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: CC: Chest pain HPI:  Ms. 
+C0008318,CC,cholecalciferol,-1000,-1000,CC,12,True,Subjective: CC: Chest pain HPI:  Ms. 
+C0008031,CHEST PAIN,Chest Pain,-734,-734,Chest pain HPI,16,True,Subjective: CC: Chest pain HPI:  Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,33,True,Subjective: CC: Chest pain HPI:  Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,37,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0450382,55,55,-645,-833,a 55-year-old female,45,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0439508,/Year,per year,-645,-833,a 55-year-old female,45,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0580836,Old,Old,-645,-833,a 55-year-old female,45,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C1705498,FEMALE,Female Phenotype,-812,-833,a 55-year-old female,45,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0150312,PRESENT,Present,-1000,-1000,presents,70,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C1442459,3 Days,3 Days,-770,-733,3 days after an episode of chest pain.,79,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0332189,Episode of,Episode of,-604,-733,3 days after an episode of chest pain.,79,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0008031,CHEST PAIN,Chest Pain,-604,-733,3 days after an episode of chest pain.,79,True,Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+C0700287,Reported,Reporting,-1000,-1000,reported,122,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0206243,Carrying,Carrying,-694,-694,carrying groceries,144,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0439659,Begin,Beginning,-966,-966,began,172,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,178,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C1527305,feel,Feelings,-1000,-1000,feel,181,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0205125,DEEP,Deep (qualifier value),-645,-825,a deep squeezing midline pressure.,186,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0413258,Squeeze,Barotrauma of descent,-612,-825,a deep squeezing midline pressure.,186,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C1660780,midline,midline cell component,-645,-825,a deep squeezing midline pressure.,186,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0460139,Pressure,Pressure (finding),-812,-825,a deep squeezing midline pressure.,186,True,She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+C0700287,Reported,Reporting,-1000,-1000,reported,225,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,239,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C1518422,Not,Negation,-1000,-1000,not,252,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0332301,radiate,Radiating to,-1000,-1000,radiate,256,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C1299581,Able,Able (finding),-1000,-1000,able,281,False,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,286,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0443225,Full,Full,-604,-733,full relief after sitting,293,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0564405,Relief,Feeling relief,-770,-733,full relief after sitting,293,False,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0277814,SITTING,Sitting position,-604,-733,full relief after sitting,293,False,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0150312,In,Present,-578,-705,in her car quietly for 5-10 minutes.,319,False,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0574443,HER,Herero language,-578,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0004381,Car,Automobiles,-744,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C4517521,10.5,10.5,-600,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0439232,minutes,Minute of time,-578,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0150312,In,Present,-578,-705,in her car quietly for 5-10 minutes.,319,False,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0574443,HER,Herero language,-578,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0004381,Car,Automobiles,-744,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C3842590,10%,10%,-578,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0886384,minute 5,5 minutes Office visit,-600,-705,in her car quietly for 5-10 minutes.,319,True,She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+C0700287,Reported,Reporting,-1000,-1000,reported,365,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C0439231,Month,month,-581,-731,a 4 month history of similar episodes,382,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C0262926,History,Medical History,-748,-731,a 4 month history of similar episodes,382,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C2348205,Similar,Similarity,-581,-731,a 4 month history of similar episodes,382,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C0332189,Episode of,Episode of,-591,-731,a 4 month history of similar episodes,382,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C1709305,Occurred,Occur (action),-770,-783,occurred during physical exertion,425,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C0031807,Physical Exertion,Physical Exertion,-833,-783,occurred during physical exertion,425,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C2699488,Resolved,Resolution,-790,-746,resolved with rest.,476,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C0035253,Rest,Rest,-790,-746,resolved with rest.,476,True,She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+C1513491,Most Recent episode,Most Recent,-1000,-1000,This most recent episode,496,True,"This most recent episode was the worst, which prompted her visit today. "
+C1522166,Worst,Worst,-1000,-1000,"the worst,",525,True,"This most recent episode was the worst, which prompted her visit today. "
+C0871157,prompted,Prompting,-1000,-1000,prompted,542,True,"This most recent episode was the worst, which prompted her visit today. "
+C2826704,VISIT,Visit Name,-694,-888,her visit today.,551,True,"This most recent episode was the worst, which prompted her visit today. "
+C0750526,Today,Today (temporal qualifier),-861,-888,her visit today.,551,True,"This most recent episode was the worst, which prompted her visit today. "
+C1822717,SHE,SHE gene,-581,-755,She also endorsed feelings short of breath,568,True,She also endorsed feelings short of breath and faint during these episodes. 
+C1527305,Feelings,Feelings,-748,-755,She also endorsed feelings short of breath,568,True,She also endorsed feelings short of breath and faint during these episodes. 
+C0013404,Short of breath,Dyspnea,-647,-755,She also endorsed feelings short of breath,568,True,She also endorsed feelings short of breath and faint during these episodes. 
+C0751534,Syncopal Episodes,Syncopal Episode,-773,-773,faint during these episodes.,615,True,She also endorsed feelings short of breath and faint during these episodes. 
+C0332319,Denied,Denied (qualifier),-1000,-1000,denied,648,True,"She denied dizziness, heart palpitations or nausea during the episodes.  "
+C0012833,Dizzyness,Dizziness,-1000,-1000,"dizziness,",655,False,"She denied dizziness, heart palpitations or nausea during the episodes.  "
+C0030252,Heart palpitations,Palpitations,-1000,-1000,heart palpitations,666,False,"She denied dizziness, heart palpitations or nausea during the episodes.  "
+C0027497,NAUSEA,Nausea,-770,-708,nausea during the episodes.,688,False,"She denied dizziness, heart palpitations or nausea during the episodes.  "
+C0332189,Episodes,Episode of,-604,-708,nausea during the episodes.,688,True,"She denied dizziness, heart palpitations or nausea during the episodes.  "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies,717,True,Allergies: None Medications: Chlorthalidone for HTN. 
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-1000,-1000,None Medications,728,True,Allergies: None Medications: Chlorthalidone for HTN. 
+C0008294,Chlortalidone,chlorthalidone,-790,-746,Chlorthalidone for HTN.,746,True,Allergies: None Medications: Chlorthalidone for HTN. 
+C0020538,HTN,Hypertensive disease,-623,-746,Chlorthalidone for HTN.,746,True,Allergies: None Medications: Chlorthalidone for HTN. 
+C0065374,Lysinopril,lisinopril,-790,-746,Lisinopril for HTN.,770,True,Lisinopril for HTN. 
+C0020538,HTN,Hypertensive disease,-623,-746,Lisinopril for HTN.,770,True,Lisinopril for HTN. 
+C0020538,HTN,Hypertensive disease,-694,-888,HTN FHx,796,True,PMHx: HTN FHx: Father - hx of CABG in 30s. 
+C1428412,FHX,FOXJ2 gene,-861,-888,HTN FHx,796,True,PMHx: HTN FHx: Father - hx of CABG in 30s. 
+C0015671,FATHER,Father (person),-604,-916,Father - hx of CABG,805,True,PMHx: HTN FHx: Father - hx of CABG in 30s. 
+C4695787,Hx of CABG,Coronary artery bypass graft surgery:Hx:Pt:^Patient:Ord,-909,-916,Father - hx of CABG,805,True,PMHx: HTN FHx: Father - hx of CABG in 30s. 
+C0227073,30s,Mandibular right first molar,-1000,-1000,in 30s.,825,True,PMHx: HTN FHx: Father - hx of CABG in 30s. 
+C1306577,Died,Death (finding),-790,-746,Died from MI,833,True,Died from MI at 40. 
+C0683474,MI,Motivational Interviewing,-790,-746,Died from MI,833,True,Died from MI at 40. 
+C3842587,40%,40%,-1000,-1000,at 40.,846,True,Died from MI at 40. 
+C0026591,MOTHER,Mother (person),-694,-888,Mother - DM,853,True,Mother - DM and died of PE at 60. 
+C0011816,DM,dextromethorphan,-861,-888,Mother - DM,853,True,Mother - DM and died of PE at 60. 
+C1306577,Died,Death (finding),-790,-746,died of PE,869,True,Mother - DM and died of PE at 60. 
+C0070939,PE,phosphoethanolamine,-790,-746,died of PE,869,True,Mother - DM and died of PE at 60. 
+C3842585,60%,60%,-1000,-1000,at 60.,880,True,Mother - DM and died of PE at 60. 
+C0001962,ETOH,ethanol,-1000,-1000,EtOH,892,True,SHx: EtOH: Wine on weekends. 
+C0043188,WINE,Wine,-790,-746,Wine on weekends.,898,True,SHx: EtOH: Wine on weekends. 
+C0680190,weekends,Weekend,-623,-746,Wine on weekends.,898,True,SHx: EtOH: Wine on weekends. 
+C1420851,TOB,TOB1 gene,-1000,-1000,Tob,916,True,Tob: 1 PPD. 
+C2827734,1+,1+ Score,-694,-888,1 PPD.,921,True,Tob: 1 PPD. 
+C2827473,PPD,AGO2 wt Allele,-861,-888,1 PPD.,921,True,Tob: 1 PPD. 
+C0013227,Drugs,Pharmaceutical Preparations,-1000,-1000,Drugs,928,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,935,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C0018017,Objective,objective (goal),-1000,-1000,Objective,944,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C1708288,BP,HP wt Allele,-1000,-1000,BP,955,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C4517892,85,85,-637,-728,= 150 /92 P = 85 RR,957,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C4554402,RR,RR genotype,-804,-728,= 150 /92 P = 85 RR,957,False,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C1516048,Assessment,Assessed,-812,-812,= 14 T = 98F  Assessment,977,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,1003,True,Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1007,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0450382,55,55,-645,-833,a 55-year-old female,1015,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0439508,/Year,per year,-645,-833,a 55-year-old female,1015,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0580836,Old,Old,-645,-833,a 55-year-old female,1015,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C1705498,FEMALE,Female Phenotype,-812,-833,a 55-year-old female,1015,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0150312,PRESENT,Present,-1000,-1000,presents,1040,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C1442459,3 Days,3 Days,-764,-746,3 days after an acute episode of chest pain,1049,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0522051,Acute chest pain,Acute chest pain,-617,-746,3 days after an acute episode of chest pain,1049,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0332189,Episode of,Episode of,-598,-746,3 days after an acute episode of chest pain,1049,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0015264,Exertion,Exertion,-1000,-1000,during exertion,1093,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C2699488,Resolved,Resolution,-1000,-1000,resolved,1114,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0205197,Completely,Complete,-790,-746,completely with rest,1123,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0035253,Rest,Rest,-790,-746,completely with rest,1123,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C4086718,5-10,PSA Level Five to Ten,-734,-890,after 5-10 mins.,1144,False,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0702093,/min,Per Minute,-793,-890,after 5-10 mins.,1144,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0439084,>5,>5,-660,-890,after 5-10 mins.,1144,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0456692,/10 min,/10 min,-884,-890,after 5-10 mins.,1144,True,Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+C0750501,most likely,most likely,-694,-888,most likely stable angina,1169,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0340288,STABLE ANGINA,Stable angina,-861,-888,most likely stable angina,1169,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1195,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0439655,Subjective,Subjective observation (qualifier value),-575,-743,the patient's subjective report of typical chest pain symptoms,1201,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0700287,Report,Reporting,-742,-743,the patient's subjective report of typical chest pain symptoms,1201,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C3538928,Typical,Usual,-575,-743,the patient's subjective report of typical chest pain symptoms,1201,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0024902,Pain of breast,Mastodynia,-587,-743,the patient's subjective report of typical chest pain symptoms,1201,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C1457887,SYMPTOMS,Symptoms,-575,-743,the patient's subjective report of typical chest pain symptoms,1201,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0332287,With,In addition to,-593,-733,with complete resolution with rest.,1264,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0205197,COMPLETE,Complete,-593,-733,with complete resolution with rest.,1264,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C2699488,Resolution,Resolution,-760,-733,with complete resolution with rest.,1264,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0035253,Rest,Rest,-593,-733,with complete resolution with rest.,1264,True,This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+C0750502,Significant,Significant,-604,-733,Significant concerns for progression,1300,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C2699424,Concerns,Concern,-770,-733,Significant concerns for progression,1300,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C0242656,Progression,Disease Progression,-604,-733,Significant concerns for progression,1300,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C1442162,GIVEN,GIVEN,-1000,-1000,given,1337,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C0574443,HER,Herero language,-578,-721,her reported history of the most recent episode,1343,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C2133562,reported History,reported History,-770,-721,her reported history of the most recent episode,1343,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C0332185,Recent,Recent,-578,-721,her reported history of the most recent episode,1343,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C0332189,Episode of,Episode of,-600,-721,her reported history of the most recent episode,1343,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C1522166,Worst,Worst,-1000,-1000,the worst.,1397,True,Significant concerns for progression given her reported history of the most recent episode being the worst. 
+C1442162,GIVEN,GIVEN,-1000,-1000,Given,1408,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0574443,HER,Herero language,-586,-938,her family history of heart disease,1414,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C2186266,Family history of heart disease,Family history of heart disease,-938,-938,her family history of heart disease,1414,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0015671,FATHER,Father (person),-1000,-1000,"in her father,",1450,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C2699424,Concerns,Concern,-760,-733,concerns for familial inherited dyslipidemia.,1479,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0015576,Familial,Family,-760,-733,concerns for familial inherited dyslipidemia.,1479,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0439660,INHERITED,Hereditary,-760,-733,concerns for familial inherited dyslipidemia.,1479,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0242339,Dyslipidemia,Dyslipidemias,-760,-733,concerns for familial inherited dyslipidemia.,1479,True,"Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. "
+C0574443,HER,Herero language,-604,-916,Her history of smoking,1525,True,Her history of smoking is also concerning for contribution to the disease progression. 
+C4721824,History of smoking,Smoking History,-909,-916,Her history of smoking,1525,True,Her history of smoking is also concerning for contribution to the disease progression. 
+C2699424,Concern,Concern,-756,-730,concerning for contribution,1556,True,Her history of smoking is also concerning for contribution to the disease progression. 
+C1880177,Contribution,Contribution,-790,-730,concerning for contribution,1556,True,Her history of smoking is also concerning for contribution to the disease progression. 
+C1947900,Disease progression NOS,"Death Due to Disease Progression Not Associated with More Specific Term NOS, CTCAE",-1000,-1000,to the disease progression.,1584,True,Her history of smoking is also concerning for contribution to the disease progression. 
+C0020538,HYPERTENSION,Hypertensive disease,-1000,-1000,Her hypertension,1612,True,Her hypertension also seems to be uncontrolled and will warrant further workup. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1640,True,Her hypertension also seems to be uncontrolled and will warrant further workup. 
+C0205318,Uncontrolled,Uncontrolled,-1000,-1000,uncontrolled,1646,True,Her hypertension also seems to be uncontrolled and will warrant further workup. 
+C1517331,Further,Further,-694,-901,further workup.,1676,True,Her hypertension also seems to be uncontrolled and will warrant further workup. 
+C0750430,Work-up,Work-up,-861,-901,further workup.,1676,True,Her hypertension also seems to be uncontrolled and will warrant further workup. 
+C1881534,Make,Make - Instruction Imperative,-1000,-1000,make,1697,True,Will make contact with PCP for medication adjsutment. 
+C0332158,Contact with,Contact with,-882,-901,contact with PCP,1702,True,Will make contact with PCP for medication adjsutment. 
+C1535939,PCP,Pneumocystis jiroveci pneumonia,-623,-901,contact with PCP,1702,True,Will make contact with PCP for medication adjsutment. 
+C0013227,Medication,Pharmaceutical Preparations,-694,-694,for medication adjsutment.,1719,True,Will make contact with PCP for medication adjsutment. 
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,DDx,1746,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0332257,include,Including (qualifier),-1000,-1000,includes,1750,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C1883468,Unstable,Unstable Medical Device Problem,-694,-694,"unstable angine,",1760,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0155626,Acute MI,Acute myocardial infarction,-1000,-1000,"acute MI,",1777,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0070939,PE,phosphoethanolamine,-1000,-1000,"PE,",1787,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0340643,AORTIC DISSECTION,Dissection of aorta,-1000,-1000,"aortic dissection,",1791,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0014863,ESOPHAGEAL SPASM,Esophageal spasm,-1000,-1000,"esophageal spasm,",1810,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0020550,HYPERTHYROIDISM,Hyperthyroidism,-694,-888,hyperthyroidism Plan,1828,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0599880,Plan,Treatment Plan,-861,-888,hyperthyroidism Plan,1828,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0545131,CBC with Diff,Blood Cell Count with Differential,-909,-916,CBC with diff - CMP,1851,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0519825,CMP,Comprehensive Metabolic Panel,-604,-916,CBC with diff - CMP,1851,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0205054,Hepatic,Hepatic,-626,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C1706365,Panel,Device Panel,-626,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0518015,HGB,Hemoglobin measurement,-626,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C4521595,A1C,US Military enlisted E3,-626,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0441889,Levels,Levels (qualifier value),-626,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0202230,TSH level,Thyroid stimulating hormone measurement,-612,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C1623258,EKG,Electrocardiography,-793,-807,with hepatic panel  - Hgb A1c levels - TSH levels  - EKG,1871,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0041260,TO,Tryptophanase,-1000,-1000,to,1928,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0220825,Evaluate,Evaluation,-1000,-1000,evaluate,1931,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C2826576,Ischemic Change,Ischemic Change,-587,-749,ischemic changes  - Isosorbide mononitrate today for symptomatic relief,1940,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0064079,ISOSORBIDE MONONITRATE,isosorbide mononitrate,-604,-749,ischemic changes  - Isosorbide mononitrate today for symptomatic relief,1940,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C0750526,Today,Today (temporal qualifier),-744,-749,ischemic changes  - Isosorbide mononitrate today for symptomatic relief,1940,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"
+C3242309,symptomatic relief,symptomatic relief,-604,-749,ischemic changes  - Isosorbide mononitrate today for symptomatic relief,1940,True,"DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief"

@@ -1,0 +1,615 @@
+Processing 63_Cage.txt.tx.1: Subjective: Gerry Cage is a 46 yo M w/ HTN who presents today c/o acute on chronic chest pains that have been started ~ 2 months ago recently worsening 4 days ago. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo M w/ HTN
+Meta Mapping (740):
+   637   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   637   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today c/o acute on chronic chest pains
+Meta Mapping (798):
+   626   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   668   C0439588:Acute-on-chronic [Temporal Concept]
+   812   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: have
+
+Phrase: been
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: ~ 2 months ago
+Meta Mapping (901):
+   901   C1442456:2 Months [Temporal Concept]
+
+Phrase: recently
+Meta Mapping (1000):
+  1000   C0332185:Recently (Recent) [Temporal Concept]
+
+Phrase: worsening
+Meta Mapping (1000):
+  1000   C1457868:Worsening (Worse) [Finding]
+
+Phrase: 4 days ago.
+Meta Mapping (901):
+   901   C1442765:4 Days [Temporal Concept]
+Processing 63_Cage.txt.tx.2: He reports that he occasionally feels some "pressure" in the middle of his chest that does not radiate usually when he is walking up steps, carrying groceries or otherwise exerting himself. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: occasionally
+Meta Mapping (1000):
+  1000   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: feels
+Meta Mapping (1000):
+  1000   C1527305:feels (Feelings) [Mental Process]
+
+Phrase: some "pressure"
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: in the middle of his chest
+Meta Mapping (712):
+   586   C0150312:In (Present) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   783   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+
+Phrase: that
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: usually
+Meta Mapping (1000):
+  1000   C3538928:Usually (Usual) [Qualitative Concept]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: is
+
+Phrase: walking up steps,
+Meta Mapping (890):
+   790   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   841   C0454366:step up (Step ups) [Therapeutic or Preventive Procedure]
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: groceries
+
+Phrase: or
+
+Phrase: otherwise
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: himself.
+Processing 63_Cage.txt.tx.3: He reports that 4 days ago he was carrying jugs of water and felt worse pressure than before, he rates it at a 7/10 and says that he had to sit down and catch his breath because he felt winded. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that 4 days ago
+Meta Mapping (901):
+   901   C1442765:4 Days [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying jugs of water
+Meta Mapping (722):
+   604   C0206243:Carrying [Activity]
+   737   C1881295:JUG (Jug Dosing Unit) [Quantitative Concept]
+   604   C0599638:WATER (Drinking Water) [Substance]
+
+Phrase: and
+
+Phrase: felt worse pressure than before,
+Meta Mapping (721):
+   568   C0231218:ILL FEELING (Malaise) [Sign or Symptom]
+   760   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: he rates
+Meta Mapping (966):
+   966   C1521828:Rate [Quantitative Concept]
+
+Phrase: it at a 7/10
+Meta Mapping (806):
+   797   C5191365:10.7 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: says
+
+Phrase: that
+
+Phrase: he
+
+Phrase: had
+
+Phrase: to sit down
+Meta Mapping (833):
+   660   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   827   C0277814:Sit (Sitting position) [Finding]
+   771   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: catch
+Meta Mapping (1000):
+  1000   C0231617:Catch (Catch - Finding of sensory dimension of pain) [Sign or Symptom]
+
+Phrase: his breath
+Meta Mapping (1000):
+  1000   C0225386:Breath [Body Substance]
+
+Phrase: because
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: winded.
+Meta Mapping (1000):
+  1000   C3241964:Winded [Finding]
+Processing 63_Cage.txt.tx.4: He also endorses feeling a similar "pressure" just below the sternum on and off after eating large meals. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: endorses
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: a similar "
+Meta Mapping (1000):
+  1000   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: " just below the sternum on and off
+Meta Mapping (748):
+   748   C0038293:STERNUM (Sternum) [Body Part, Organ, or Organ Component]
+
+Phrase: after
+
+Phrase: eating
+Meta Mapping (1000):
+  1000   C0013470:Eating [Organism Function]
+
+Phrase: large meals.
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 63_Cage.txt.tx.5: He denies any other associated symptoms of n/v/d, fever, chills, blurry vision, shortness of breath.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any other associated symptoms of n/v/d,
+Meta Mapping (699):
+   578   C1552551:ANY (Any) [Qualitative Concept]
+   770 N C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+   604 N C0231965:V D (Dead space gas volume) [Laboratory or Test Result]
+
+Phrase: fever,
+Meta Mapping (1000):
+  1000 N C0015967:FEVER (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: blurry vision,
+Meta Mapping (1000):
+  1000 N C0344232:blurry vision (Blurred vision) [Finding]
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+Processing 63_Cage.txt.tx.6: PMHx - HTN  FHX Dad - MI age 40, CABG Mom - HTN, DM, PE Maternal Grandmother - Breast Ca  PSHx - None  Social Etoh - 1-2 glasses of wine a week Tobacco - 20 pack year hx Drugs - None  Meds Chlorthalidone Lisinopril  Allergies NKDA  Vitals T: 98 P: 85 R: 14 BP: 150/92  PE CV: rrr, no mrg Resp: CTAB MSK: no ttp on palpation of chest  Psych: cooperative Neuro: non-focal  A/P  Pt is a 46 yo M w/ uncontrolled HTN and FHX significant for MI in father in 40s requiring CABG, HTN. 
+
+Phrase: PMHx - HTN  FHX Dad - MI age 40,
+Meta Mapping (769):
+   795   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   795   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   795   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   795   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   795   C0001779:AGE (Age) [Organism Attribute]
+   795   C0439509:/40 [Quantitative Concept]
+
+Phrase: CABG Mom - HTN,
+Meta Mapping (851):
+   660   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   660   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   827   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: PE Maternal Grandmother - Breast Ca  PSHx -
+Meta Mapping (632):
+   632   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   660   C1273525:Maternal grand-mother (Maternal grandmother) [Family Group]
+   632   C0006141:BREAST (Breast) [Body Part, Organ, or Organ Component]
+   632   C3887642:CA (Hippocampus Proper) [Body Part, Organ, or Organ Component]
+
+Phrase: None  Social Etoh - 1-2 glasses of wine
+Meta Mapping (667):
+   578   C0549184:NONE (None) [Finding]
+   578   C0728831:Social [Functional Concept]
+   578   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   744   C0015421:Glasses (Eyeglasses) [Medical Device]
+   578   C0043188:WINE (Wine) [Food]
+
+Phrase: a week Tobacco - 20 pack year hx Drugs -
+Meta Mapping (822):
+   629   C0332174:/week (Weekly) [Temporal Concept]
+   860   C0939903:tobacco drug (Nicotiana tabacum, tobacco, Homeopathic preparation) [Organic Chemical,Pharmacologic Substance]
+   651   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   629   C0439508:/Year (per year) [Temporal Concept]
+   629   C0262926:Hx (Medical History) [Finding]
+Meta Mapping (822):
+   629   C0332174:/week (Weekly) [Temporal Concept]
+   860   C0939903:tobacco drug (Nicotiana tabacum, tobacco, Homeopathic preparation) [Organic Chemical,Pharmacologic Substance]
+   629   C3842589:20% [Quantitative Concept]
+   651   C1277691:Pack Year (Pack years) [Intellectual Product]
+   629   C0262926:Hx (Medical History) [Finding]
+
+Phrase: None  Meds Chlorthalidone Lisinopril  Allergies NKDA  Vitals T
+Meta Mapping (563):
+   629   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   646   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+   629   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   557   C0518766:VITAL (Vital signs) [Clinical Attribute]
+Meta Mapping (563):
+   629   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   629   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   635   C0571941:Lisinopril allergy [Disease or Syndrome]
+   557   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98 P
+Meta Mapping (694):
+   694   C4319627:98 [Quantitative Concept]
+
+Phrase: :
+
+Phrase: 85 R
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 14 BP
+Meta Mapping (861):
+   861   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92  PE CV
+Meta Mapping (750):
+   645   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   812   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: rrr,
+
+Phrase: no mrg Resp
+Meta Mapping (888):
+   694   C1422304:MRG (MAS1L gene) [Gene or Genome]
+   861   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: CTAB MSK
+Meta Mapping (888):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   861   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no ttp on palpation of chest  Psych
+Meta Mapping (683):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   748   C1506603:TTP (ZFP36 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   581 N C1306597:psych (Psychiatric problem) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: cooperative Neuro
+Meta Mapping (888):
+   694   C0679729:cooperative [Organization]
+   861   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: non-focal  A/P  Pt
+Meta Mapping (812):
+   673   C4296883:Non-focal [Finding]
+   804   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: a 46 yo M w/ uncontrolled HTN
+Meta Mapping (728):
+   632   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   632   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   632   C0205318:Uncontrolled [Qualitative Concept]
+   799   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: FHX
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: significant for MI
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in father in 40s
+Meta Mapping (722):
+   604   C0150312:In (Present) [Finding]
+   770   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: requiring
+
+Phrase: CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 63_Cage.txt.tx.7: Social hx significant for 20 pack year smoking history. 
+
+Phrase: Social hx
+Meta Mapping (1000):
+  1000   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: significant for 20 pack year smoking history.
+Meta Mapping (763):
+   748   C0750502:Significant [Idea or Concept]
+   612   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   581   C0439508:/Year (per year) [Temporal Concept]
+   612   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (763):
+   748   C0750502:Significant [Idea or Concept]
+   581   C3842589:20% [Quantitative Concept]
+   612   C1277691:Pack Year (Pack years) [Intellectual Product]
+   612   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Processing 63_Cage.txt.tx.8: Who presents complaining of acute on chronic worsening chest pain on exertion. 
+
+Phrase: Who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: complaining of acute on chronic worsening chest pain
+Meta Mapping (633):
+   633   C0439588:Acute-on-chronic [Temporal Concept]
+   578   C1457868:Worsening (Worse) [Finding]
+   595   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 63_Cage.txt.tx.9: Concerning for MI vs stable angina.  
+
+Phrase: Concerning for MI
+Meta Mapping (730):
+   756   C2699424:Concern [Idea or Concept]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: vs
+
+Phrase: stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 63_Cage.txt.tx.10: #Chest pain - Differential includes MI vs stable angina vs costochondritis vs peptic ulcer disease  - Considering FHx of early MI, social history of smoking, and personal history of uncontrolled HTN, concern for MI is high; will get EKG and troponins to rule out - Pending results consider outpatient follow up for stress test vs acute intervention  #Uncontrolled HTN - Patient on chlorthalidone and lisnopril - BP elevated today to 150/92 - Consider starting ACE/ARB
+
+Phrase: #Chest pain - Differential
+Meta Mapping (901):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   827   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: vs
+
+Phrase: stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: costochondritis
+Meta Mapping (1000):
+  1000   C0040213:COSTOCHONDRITIS (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: vs
+
+Phrase: peptic ulcer disease  - Considering FHx of early MI,
+Meta Mapping (755):
+   633   C0030920:PEPTIC ULCER DISEASE (Peptic Ulcer) [Disease or Syndrome]
+   578   C0750591:considering (consider) [Idea or Concept]
+   744   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   578   C1279919:Early [Temporal Concept]
+   578   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: social history of smoking,
+Meta Mapping (916):
+   770   C0728831:Social [Functional Concept]
+   909   C4721824:History of smoking (Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: personal history of uncontrolled HTN,
+Meta Mapping (752):
+   806   C0424945:Personal history (Social and personal history) [Finding]
+   593   C0205318:Uncontrolled [Qualitative Concept]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: concern for MI
+Meta Mapping (746):
+   790   C2699424:Concern [Idea or Concept]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: is
+
+Phrase: high
+Meta Mapping (1000):
+  1000   C1299351:High (Abnormally high) [Qualitative Concept]
+
+Phrase: ;
+
+Phrase: will
+
+Phrase: get
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: troponins
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out - Pending results
+Meta Mapping (785):
+   660   C0439787:Out (Out (direction)) [Spatial Concept]
+   793   C1546471:Result (What subject filter - Result) [Idea or Concept]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: outpatient
+Meta Mapping (1000):
+  1000   C0029921:Outpatient (Outpatients) [Patient or Disabled Group]
+
+Phrase: follow up for stress test
+Meta Mapping (779):
+   806   C1522577:Followup (follow-up) [Health Care Activity]
+   640   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+Meta Mapping (779):
+   806   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   640   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: vs
+
+Phrase: acute intervention  #Uncontrolled HTN - Patient on chlorthalidone
+Meta Mapping (738):
+   581   C0205178:ACUTE (acute) [Temporal Concept]
+   581   C1273869:Intervention (Intervention regimes) [Health Care Activity]
+   581   C0205318:Uncontrolled [Qualitative Concept]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   748   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   581   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisnopril - BP
+Meta Mapping (861):
+   861   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: today to 150/92 -
+Meta Mapping (770):
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: starting ACE/ARB
+Meta Mapping (840):
+   627   C0439659:Start (Beginning) [Temporal Concept]
+   660   C1452534:ACE (ACE protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C3888198:ARB (BESTROPHINOPATHY, AUTOSOMAL RECESSIVE) [Disease or Syndrome]

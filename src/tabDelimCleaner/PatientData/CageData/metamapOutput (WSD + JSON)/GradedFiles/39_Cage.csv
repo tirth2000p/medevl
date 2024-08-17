@@ -1,0 +1,128 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0565930,/s,per second,-1000,-1000,S,0,True,S: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,3,True,S: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,7,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C0450382,55,55,-578,-656,a 55 yo female with PMHx of hypertension,15,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C1413296,Yo,CDR2 gene,-578,-656,a 55 yo female with PMHx of hypertension,15,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C0086287,FEMALE,Females,-744,-656,a 55 yo female with PMHx of hypertension,15,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C0020538,HYPERTENSION,Hypertensive disease,-578,-656,a 55 yo female with PMHx of hypertension,15,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C2587213,Controlled,Control function,-790,-790,controlled with chothadilone,56,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C0150312,PRESENT,Present,-770,-783,presents with chest pain.,105,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C0008031,CHEST PAIN,Chest Pain,-833,-783,presents with chest pain.,105,True,Cage is a 55 yo female with PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,131,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C1272689,Started,Started,-1000,-1000,started,140,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C1272517,Sudden onset,Sudden onset (contextual qualifier) (qualifier value),-1000,-1000,sudden onset,148,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,175,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-637,-764,some heavy groceries 3 days ago.,184,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C0439228,DAYS,day,-804,-764,some heavy groceries 3 days ago.,184,True,The pain started sudden onset after she was carrying some heavy groceries 3 days ago. 
+C1517741,Last,Last,-966,-966,lasted,220,True,It lasted 5-10 minutes and did not recur since then. 
+C3845579,5-10 minutes,5-10 minutes,-1000,-1000,5-10 minutes,227,True,It lasted 5-10 minutes and did not recur since then. 
+C1518422,Not,Negation,-1000,-1000,not,248,True,It lasted 5-10 minutes and did not recur since then. 
+C0034897,recur,Recurrence,-1000,-1000,recur,252,True,It lasted 5-10 minutes and did not recur since then. 
+C1711239,Since,Since,-861,-888,since then.,258,True,It lasted 5-10 minutes and did not recur since then. 
+C1883708,Then,Then,-861,-888,since then.,258,True,It lasted 5-10 minutes and did not recur since then. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,Pain,270,True,Pain did not radiated. 
+C1518422,Not,Negation,-1000,-1000,not,279,True,Pain did not radiated. 
+C0332301,radiated,Radiating to,-1000,-1000,radiated.,283,True,Pain did not radiated. 
+C0392752,LOCALIZED,Localized,-760,-727,Localized in midsternal chest area.,293,True,Localized in midsternal chest area. 
+C1456858,Thoracic area,Subdivision of thorax,-778,-727,Localized in midsternal chest area.,293,True,Localized in midsternal chest area. 
+C1527305,feel,Feelings,-827,-827,she felt like,346,True,"When it happend, she felt like it took her breath away and felt like fainting. "
+C1515187,Take,Take,-966,-966,took,363,True,"When it happend, she felt like it took her breath away and felt like fainting. "
+C3154057,Breath-Away,Breath-Away,-1000,-1000,her breath away,368,True,"When it happend, she felt like it took her breath away and felt like fainting. "
+C0581879,Felt faint,Felt faint,-896,-896,felt like fainting.,388,True,"When it happend, she felt like it took her breath away and felt like fainting. "
+C0035253,Resting,Rest,-1000,-1000,Resting,408,True,Resting made pain subside. 
+C1881534,Make,Make - Instruction Imperative,-661,-872,made pain,416,True,Resting made pain subside. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-861,-872,made pain,416,True,Resting made pain subside. 
+C0871208,Rated,Rating (action),-812,-775,Rated pain 7/10,435,True,Rated pain 7/10 when it happende. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-812,-775,Rated pain 7/10,435,True,Rated pain 7/10 when it happende. 
+C3842590,10%,10%,-812,-775,Rated pain 7/10,435,True,Rated pain 7/10 when it happende. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,469,True,Denies F/C/N/V. 
+C0016327,F-,Fluorides,-645,-645,F/C/N/V.,476,True,Denies F/C/N/V. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,485,True,Denies illicit drug use. 
+C0281875,Illicit drug use,Illicit medication use,-1000,-1000,illicit drug use.,492,False,Denies illicit drug use. 
+C0037366,Smoke,Smoke,-586,-741,Smoke 1 pack of cig/ day.,510,True,Smoke 1 pack of cig/ day. 
+C2825051,PACK,Pack unit,-753,-741,Smoke 1 pack of cig/ day.,510,True,Smoke 1 pack of cig/ day. 
+C1570610,CIG,"FN1 protein, human",-586,-741,Smoke 1 pack of cig/ day.,510,True,Smoke 1 pack of cig/ day. 
+C1442449,Day 1,1 Day,-617,-741,Smoke 1 pack of cig/ day.,510,True,Smoke 1 pack of cig/ day. 
+C1518422,Not,Negation,-1000,-1000,Not,536,True,Not drinks alcohol. 
+C0394996,DRINK,Acute alcoholic intoxication,-1000,-1000,drinks,540,False,Not drinks alcohol. 
+C0001962,ALCOHOL,ethanol,-1000,-1000,alcohol.,547,True,Not drinks alcohol. 
+C0332665,Recent trauma,Recent injury,-1000,-1000,No recent trauma,556,False,No recent trauma or falls. 
+C0085639,FALLS,Falls,-1000,-1000,falls.,576,False,No recent trauma or falls. 
+C0205156,Previous,Previous,-694,-888,"No previous MI,",583,True,"No previous MI, CAD. "
+C0683474,MI,Motivational Interviewing,-861,-888,"No previous MI,",583,True,"No previous MI, CAD. "
+C0574547,CAD,Caddo language,-1000,-1000,CAD.,599,True,"No previous MI, CAD. "
+C0858309,Normal cholesterol,Normal total cholesterol,-1000,-1000,"Normal cholesterol,",604,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0200382,Lipid panel,Lipid panel,-734,-734,lipid panel  O,624,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0215604,T 98,T 98,-1000,-1000,"T = 98,",640,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C4517892,85,85,-1000,-1000,"= 85,",651,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C1415692,Bp,HP gene,-1000,-1000,BP,666,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0700364,Appearance,Appearance,-827,-827,= 150/92 Appearance,669,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0205307,NORMAL,Normal,-1000,-1000,"normal,",690,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0239110,ALERT,Consciousness clear,-1000,-1000,"alert,",703,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C1961028,Oriented,Oriented to place,-694,-888,oriented MSK,710,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C1420279,msk,SIK1 gene,-861,-888,oriented MSK,710,True,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0013604,OEDEMA,Edema,-861,-861,no edema bilaterally.,724,False,"Normal cholesterol, lipid panel  O: T = 98, HR = 85, RR = 14, BP = 150/92 Appearance: normal, AND, alert, oriented MSK: no edema bilaterally. "
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,Chest pain,746,True,Chest pain not reproducible upon palpation midline.  
+C1518422,Not,Negation,-593,-706,not reproducible upon palpation midline.,757,True,Chest pain not reproducible upon palpation midline.  
+C1514863,Reproducibility,Reproducibility,-688,-706,not reproducible upon palpation midline.,757,True,Chest pain not reproducible upon palpation midline.  
+C0030247,PALPATION,Palpation,-593,-706,not reproducible upon palpation midline.,757,True,Chest pain not reproducible upon palpation midline.  
+C1660780,midline,midline cell component,-593,-706,not reproducible upon palpation midline.,757,True,Chest pain not reproducible upon palpation midline.  
+C0018787,HEART,Heart,-1000,-1000,Heart,799,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0205307,NORMAL,Normal,-694,-888,"normal rate,",806,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0871208,Rate,Rating (action),-861,-888,"normal rate,",806,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0205272,Regular,Regular,-694,-888,"regular rhythm,",819,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0871269,Rhythm,Rhythm,-861,-888,"regular rhythm,",819,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0018808,MURMUR,Heart murmur,-694,-888,no murmur  Lung,835,False,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0024109,LUNG,Lung,-861,-888,no murmur  Lung,835,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1709157,Clear,Negative Surgical Margin,-660,-851,"clear, vesicular Skin",852,False,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0205378,Vesicular,Vesicular,-660,-851,"clear, vesicular Skin",852,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1123023,SKIN,Skin,-827,-851,"clear, vesicular Skin",852,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0582051,Warm,Feels warm,-660,-851,"warm, moist  AP",875,False,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0205381,Moist,Moist,-660,-851,"warm, moist  AP",875,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0002680,AP,ampicillin,-827,-851,"warm, moist  AP",875,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0086287,FEMALE,Females,-861,-861,"55yo female,",892,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0020538,HYPERTENSION,Hypertensive disease,-623,-623,PMHx of hypertension,905,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0745117,hypertension controlled,hypertension controlled,-797,-797,controlled with  PMHx of hypertension,926,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C2587213,Controlled,Control function,-790,-790,controlled with chothadilone,964,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0150312,PRESENT,Present,-770,-783,presents with chest pain,1013,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0008031,CHEST PAIN,Chest Pain,-833,-783,presents with chest pain,1013,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1272689,Started,Started,-660,-901,that started sudden onset,1038,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1272517,Sudden onset,Sudden onset (contextual qualifier) (qualifier value),-901,-901,that started sudden onset,1038,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1517741,Last,Last,-966,-966,lasted,1068,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1883310,10^3,One Thousand,-686,-798,10 minutes 3 days ago.,1075,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0702093,/minute,Per Minute,-637,-798,10 minutes 3 days ago.,1075,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C0439228,DAYS,day,-804,-798,10 minutes 3 days ago.,1075,True,"Heart: normal rate, regular rhythm, no murmur  Lung: clear, vesicular Skin: warm, moist  AP: 55yo female, PMHx of hypertension controlled with  PMHx of hypertension controlled with chothadilone and lissinopril who presents with chest pain that started sudden onset and lasted 10 minutes 3 days ago. "
+C1880476,PE,Etoposide-Platinol Regimen,-1000,-1000,PE,1098,True,PE significant for benign chest and lung exam. 
+C0750502,Significant,Significant,-770,-733,significant for benign chest,1101,True,PE significant for benign chest and lung exam. 
+C0205183,BENIGN,Benign,-604,-733,significant for benign chest,1101,True,PE significant for benign chest and lung exam. 
+C1527391,Chest,Anterior thoracic region,-604,-733,significant for benign chest,1101,True,PE significant for benign chest and lung exam. 
+C0024109,LUNG,Lung,-694,-888,lung exam.,1134,True,PE significant for benign chest and lung exam. 
+C0582103,Exam,Medical Examination,-861,-888,lung exam.,1134,True,PE significant for benign chest and lung exam. 
+C0013604,OEDEMA,Edema,-1000,-1000,No edema.,1145,False,No edema.  
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,Ddx,1156,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C2827734,1+,1+ Score,-660,-901,1/ prinzmetal angina,1162,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C0002963,"Angina, Prinzmetal","Angina Pectoris, Variant",-901,-901,1/ prinzmetal angina,1162,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1272517,Sudden onset,Sudden onset (contextual qualifier) (qualifier value),-1000,-1000,"sudden onset,",1184,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1518422,Not,Negation,-1000,-1000,not,1216,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C0034897,recurred,Recurrence,-578,-572,recurred. tx with calcium channel blocker  2/ costocondritis,1220,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C0006684,Calcium Channel Blocker,Calcium Channel Blockers,-633,-572,recurred. tx with calcium channel blocker  2/ costocondritis,1220,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1420279,msk,SIK1 gene,-770,-733,MSK in nature. supportive,1282,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1262865,Nature,Natures,-604,-733,MSK in nature. supportive,1282,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1521721,Supportive,Supportive assistance,-604,-733,MSK in nature. supportive,1282,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C1709305,Happened,Occur (action),-1000,-1000,happened,1316,True,"Ddx:  1/ prinzmetal angina: sudden onset, subsided quickly, not recurred. tx with calcium channel blocker  2/ costocondritis: MSK in nature. supportive when it happened again.  "
+C0439086,<3,<3 (qualifier value),-694,-888,3/ MI,1333,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0683474,MI,Motivational Interviewing,-861,-888,3/ MI,1333,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0205182,Atypical,Atypical,-581,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C1521970,Features,Characteristics,-748,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0043210,Women,Woman,-581,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C1283174,Check,Checking (action),-581,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0041199,Troponin,Troponin,-581,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C1547707,Level,Floor - story of building,-581,-725,atypical features in women. check troponin level.,1340,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0205250,Elevated,High,-1000,-1000,elevated,1393,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0018787,Cardiac,Heart,-645,-775,> cardiac cath F/U,1404,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0016327,F-,Fluorides,-645,-775,> cardiac cath F/U,1404,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0439148,{U},Unit,-812,-775,> cardiac cath F/U,1404,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,symptoms,1426,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C0034897,recur,Recurrence,-1000,-1000,recur,1435,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen
+C1457868,worsen,Worse,-1000,-1000,worsen,1444,True,3/ MI: atypical features in women. check troponin level. if elevated --> cardiac cath F/U if symptoms recur or worsen

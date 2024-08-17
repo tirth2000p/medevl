@@ -1,0 +1,564 @@
+Processing 50_Cage.txt.tx.1: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 50_Cage.txt.tx.2: Gerry Cage presents today for chest pain. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today for chest pain.
+Meta Mapping (783):
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   666   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 50_Cage.txt.tx.3: 3 days ago she was carrying groceries and water when she felt a deep, heavy substernal chest pain. 
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: and
+
+Phrase: water
+Meta Mapping (1000):
+  1000   C0043047:WATER (water) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a deep, heavy substernal chest pain.
+Meta Mapping (875):
+   637   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   637   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   884   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+Processing 50_Cage.txt.tx.4: She had associated shortness of breath and feeling faint. 
+
+Phrase: She
+
+Phrase: had
+
+Phrase: associated shortness of breath
+Meta Mapping (916):
+   645   C0332281:Associated (Associated with) [Qualitative Concept]
+   923   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling faint.
+Meta Mapping (1000):
+  1000   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+Processing 50_Cage.txt.tx.5: She rested in her car for 5-10 minutes and it improved. 
+
+Phrase: She
+
+Phrase: rested in her car
+Meta Mapping (733):
+   770   C0035253:rested (Rest) [Daily or Recreational Activity]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: improved.
+Meta Mapping (1000):
+  1000   C0332272:Improved (Better) [Qualitative Concept]
+Processing 50_Cage.txt.tx.6: She has had some "twinges" of chest pain the past few months with activity. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: some "twinges"
+
+Phrase: of chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: the past few months with activity.
+Meta Mapping (704):
+   767   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   586   C0441655:ACTIVITY (Activities) [Activity]
+Processing 50_Cage.txt.tx.7: She has hypertension which is well controlled with clorthalidone and lisinopril. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: hypertension
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: well controlled with clorthalidone
+Meta Mapping (833):
+   833   C3853142:Well controlled [Functional Concept]
+
+Phrase: and
+
+Phrase: lisinopril.
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Processing 50_Cage.txt.tx.8: She follows up with regular labs and doesnt believe she has high cholesterol. 
+
+Phrase: She
+
+Phrase: follows up
+Meta Mapping (1000):
+  1000   C0589120:Follow-up (Follow-up status) [Finding]
+
+Phrase: with regular labs
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: and
+
+Phrase: doesnt
+
+Phrase: believe
+
+Phrase: she
+
+Phrase: has
+
+Phrase: high cholesterol.
+Meta Mapping (1000):
+  1000   C0020443:High cholesterol (Hypercholesterolemia) [Disease or Syndrome]
+Processing 50_Cage.txt.tx.9: She has a family history of her father passing from a heart attack at age 40. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: a family history of her father passing
+Meta Mapping (696):
+   778   C0241889:FAMILY HISTORY (Family history) [Finding]
+   581   C0574443:HER (Herero language) [Language]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+Meta Mapping (696):
+   748   C0262512:History, NOS (History of present illness) [Finding]
+   774   C3812393:HER Family (ErbB Receptors) [Amino Acid, Peptide, or Protein,Enzyme,Receptor]
+   581   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: from a heart attack at age 40.
+Meta Mapping (701):
+   581   C1517320:From [Qualitative Concept]
+   778   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   581   C0001779:AGE (Age) [Organism Attribute]
+   581   C0439509:/40 [Quantitative Concept]
+Processing 50_Cage.txt.tx.10: She is anxious about having a heart attack. 
+
+Phrase: She
+
+Phrase: is
+
+Phrase: anxious
+Meta Mapping (1000):
+  1000   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: about
+
+Phrase: having
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 50_Cage.txt.tx.11: Denies nausea, vomiting. no chest pain in the office today.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting.
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: no chest pain in the office today.
+Meta Mapping (852):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   819 N C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   581   C0442603:Office [Manufactured Object]
+   581   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 50_Cage.txt.tx.12: Objective: BP 150/92 HR 85 98F RR 14 General: Anxious appearing, fidgeting and wringing her hands and feet Cardiovascular: regular rate and rhythm, no murmurs, rubs or clicks. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: BP 150/92 HR 85 98F RR 14 General
+Meta Mapping (727):
+   624   C1415692:Bp (HP gene) [Gene or Genome]
+   624   C4517892:85 [Quantitative Concept]
+   624   C4554402:RR (RR genotype) [Finding]
+   791   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Anxious appearing,
+Meta Mapping (872):
+   694   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: fidgeting
+Meta Mapping (1000):
+  1000   C0424235:Fidgeting [Finding]
+
+Phrase: and
+
+Phrase: wringing
+
+Phrase: her hands
+Meta Mapping (1000):
+  1000   C0018563:Hands (Hand) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: feet
+Meta Mapping (1000):
+  1000   C0016504:Feet (Foot) [Body Part, Organ, or Organ Component]
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: clicks.
+Meta Mapping (1000):
+  1000 N C3842106:Clicks [Finding]
+Processing 50_Cage.txt.tx.13: 2+ pulses in the dorsalis pedis and radial arteries bilaterally. 
+
+Phrase: 2+ pulses in the dorsalis pedis
+Meta Mapping (774):
+   586   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   820   C1997492:Dorsalis pedis PULSES (Dorsalis pedis pulse rate) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: radial arteries bilaterally.
+Meta Mapping (901):
+   901   C0162857:Arteries, Radial (Structure of radial artery) [Body Part, Organ, or Organ Component]
+Processing 50_Cage.txt.tx.14: Pulm: Lungs clear to ausculation builaterally  Extremities: No peripheral edema  Assessment: Ms. 
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear
+Meta Mapping (1000):
+  1000   C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: to ausculation builaterally  Extremities
+Meta Mapping (791):
+   645   C1883351:To [Qualitative Concept]
+   812   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: No peripheral edema  Assessment
+Meta Mapping (901):
+   734 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+   827   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 50_Cage.txt.tx.15: Cage has a past medical history of hypertension who presents today after having substernal chest pain with exertion. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: has
+
+Phrase: a past medical history of hypertension
+Meta Mapping (813):
+   820   C0332119:Past history of [Finding]
+   753   C0205476:Medical [Functional Concept]
+   586   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (813):
+   753   C1444637:Past (In the past) [Temporal Concept]
+   820   C0262926:History of MEDICAL (Medical History) [Finding]
+   586   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (813):
+   753   C1444637:Past (In the past) [Temporal Concept]
+   753   C0205476:Medical [Functional Concept]
+   833   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today
+Meta Mapping (1000):
+  1000   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: after
+
+Phrase: having
+
+Phrase: substernal chest pain with exertion.
+Meta Mapping (816):
+   862   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+   593   C0015264:Exertion [Organism Function]
+Processing 50_Cage.txt.tx.16: Her cardiovascular and respiratory exam is benign and not suggestive of heart failure or valve dysfunction. 
+
+Phrase: Her cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: and
+
+Phrase: respiratory exam
+Meta Mapping (888):
+   694   C0521346:RESPIRATORY (respiratory) [Functional Concept]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: benign
+Meta Mapping (1000):
+  1000   C0205183:BENIGN (Benign) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: not suggestive of heart failure
+Meta Mapping (857):
+   593   C1518422:Not (Negation) [Functional Concept]
+   806   C0332299:Suggestive of [Functional Concept]
+   640 N C0018801:Failure, Heart (Heart failure) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: valve dysfunction.
+Meta Mapping (888):
+   694   C0184252:VALVE (Medical Valves) [Medical Device]
+   861   C0031847:dysfunction (physiopathological) [Functional Concept]
+Processing 50_Cage.txt.tx.17: She likely has stable angina and may have coronary artery disease. 
+
+Phrase: She
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: has
+
+Phrase: stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: may
+
+Phrase: have
+
+Phrase: coronary artery disease.
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+Processing 50_Cage.txt.tx.18: It is less likely that she had a myocardial infarction, and less likely to be GERD and musculoskeletal.  
+
+Phrase: It
+
+Phrase: is
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: had
+
+Phrase: a myocardial infarction,
+Meta Mapping (1000):
+  1000   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: be
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: musculoskeletal.
+Meta Mapping (1000):
+  1000   C0497254:MUSCULOSKELETAL (Musculoskeletal) [Functional Concept]
+Processing 50_Cage.txt.tx.19: Plan: She will get an EKG in the office today. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: She
+
+Phrase: will
+
+Phrase: get
+
+Phrase: an EKG in the office today.
+Meta Mapping (691):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   753   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   586   C0442603:Office [Manufactured Object]
+   586   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 50_Cage.txt.tx.20: A lipid panel, CBC, and BMP will be ordered. 
+
+Phrase: A lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: BMP
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: will
+
+Phrase: be
+
+Phrase: ordered.
+Meta Mapping (1000):
+  1000   C1705178:Ordered (Order (action)) [Activity]
+Processing 50_Cage.txt.tx.21: She will likely need a cardiac stress test to evaluate for coronary artery disease. 
+
+Phrase: She
+
+Phrase: will
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: a cardiac stress test
+Meta Mapping (1000):
+  1000   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: evaluate for coronary artery disease.
+Meta Mapping (816):
+   760   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   862 N C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+Processing 50_Cage.txt.tx.22: She may also benefit from a statin and aspirin, pending further workup.
+
+Phrase: She
+
+Phrase: may
+
+Phrase: also
+
+Phrase: benefit from a statin
+Meta Mapping (708):
+   770   C0814225:Benefit [Quantitative Concept]
+   770   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: aspirin,
+Meta Mapping (1000):
+  1000   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pending
+
+Phrase: further workup.
+Meta Mapping (901):
+   694   C1517331:Further [Spatial Concept]
+   861   C0750430:Work-up [Diagnostic Procedure]

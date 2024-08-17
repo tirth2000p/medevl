@@ -1,0 +1,592 @@
+Processing 92_Cage.txt.tx.1: Mrs. 
+
+Phrase: Mrs.
+Meta Mapping (1000):
+  1000   C2349188:Mrs. (Mrs - title) [Intellectual Product]
+Processing 92_Cage.txt.tx.2: Gerry Cage is a 55yr old female w/PMH of hypertension presenting to the clinic after having an episode of chest pain. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55yr old female w/PMH of hypertension presenting
+Meta Mapping (660):
+   575   C0580836:Old [Temporal Concept]
+   575   C0086287:FEMALE (Females) [Organism Attribute]
+   742   C0262926:PMH (Medical History) [Finding]
+   581   C5205099:Hypertension Present [Finding]
+
+Phrase: to the clinic
+Meta Mapping (1000):
+  1000   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: after
+
+Phrase: having
+
+Phrase: an episode of chest pain.
+Meta Mapping (858):
+   593   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   760   C0332189:EPISODE (Episode of) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 92_Cage.txt.tx.3: 3 days ago she was walking in the grocery store when she suddenly felt a what she described as a deep ache with heaviness in the middle of her chest. 
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: she
+
+Phrase: was
+
+Phrase: walking in the grocery store
+Meta Mapping (768):
+   790   C3846681:Walk-in, not otherwise specified [Finding]
+   640   C0557778:Grocery Store (Supermarket) [Manufactured Object]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: suddenly
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a what
+
+Phrase: she
+
+Phrase: described as a deep ache
+Meta Mapping (696):
+   760   C1552738:described [Idea or Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: with heaviness in the middle of her chest.
+Meta Mapping (682):
+   578   C0332287:With (In addition to) [Functional Concept]
+   578   C0549183:middle (Midline (qualifier value)) [Spatial Concept]
+   578   C0574443:HER (Herero language) [Language]
+   767   C0742339:chest heaviness [Sign or Symptom]
+Processing 92_Cage.txt.tx.4: She rates the pain 7/10. 
+
+Phrase: She rates
+Meta Mapping (966):
+   966   C1521828:Rate [Quantitative Concept]
+
+Phrase: the pain 7/10.
+Meta Mapping (802):
+   827   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   827   C3842590:10% [Quantitative Concept]
+Processing 92_Cage.txt.tx.5: She walked to the car, sat there for 5-10mins and the pain subsequently resolved. 
+
+Phrase: She
+
+Phrase: walked to the car,
+Meta Mapping (691):
+   737   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: sat there for 5-10mins
+Meta Mapping (760):
+   760   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsequently
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 92_Cage.txt.tx.6: She also endorse some shortness of breath with the episode. 
+
+Phrase: She
+
+Phrase: also
+
+Phrase: endorse
+
+Phrase: some shortness of breath with the episode.
+Meta Mapping (808):
+   853   C4287837:Some Shortness of Breath [Finding]
+   581   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 92_Cage.txt.tx.7: She endorses two other similar episodes in the past 2 months in which the onset of her pain was while she was engaging in physical activity. 
+
+Phrase: She
+
+Phrase: endorses
+
+Phrase: two
+Meta Mapping (1000):
+  1000   C0205448:Two [Quantitative Concept]
+
+Phrase: other similar episodes in the past 2 months
+Meta Mapping (705):
+   600   C4086470:Other 2 (How Much Distress Other Symptom 2) [Intellectual Product]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   578   C1444637:Past (In the past) [Temporal Concept]
+   578   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: in which
+
+Phrase: the onset of her pain
+Meta Mapping (745):
+   593   C0574443:HER (Herero language) [Language]
+   797   C1507009:Pain onset [Finding]
+
+Phrase: was
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: engaging in physical activity.
+Meta Mapping (783):
+   770   C0425152:engaging (Engaged to be married) [Finding]
+   833   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+Processing 92_Cage.txt.tx.8: She says these episodes were much more minor rating the pain during those a 2/10. 
+
+Phrase: She
+
+Phrase: says
+
+Phrase: these episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: were
+
+Phrase: much more minor rating
+Meta Mapping (775):
+   645   C4281574:Much [Finding]
+   645   C0205165:Minor (Minor (value)) [Qualitative Concept]
+   812   C0871208:Rating (Rating (action)) [Activity]
+
+Phrase: the pain during those
+Meta Mapping (770):
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: a 2/10.
+Meta Mapping (888):
+   861   C2827735:2+ (2+ Score) [Quantitative Concept]
+   861   C3842590:10% [Quantitative Concept]
+Processing 92_Cage.txt.tx.9: She denies coughing, increased pain with inspiration, dizziness, or radiation of her pain during these episodes.  
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: coughing,
+Meta Mapping (1000):
+  1000 N C0010200:COUGHING (Coughing) [Sign or Symptom]
+
+Phrase: increased pain with inspiration,
+Meta Mapping (733):
+   604   C0442805:INCREASED (Increase) [Functional Concept]
+   770 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   604   C0004048:Inspiration (Inspiration function) [Organism Function]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: radiation of her pain
+Meta Mapping (783):
+   604   C0574443:HER (Herero language) [Language]
+   819   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: during these episodes.
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 92_Cage.txt.tx.10: Mrs. 
+
+Phrase: Mrs.
+Meta Mapping (1000):
+  1000   C2349188:Mrs. (Mrs - title) [Intellectual Product]
+Processing 92_Cage.txt.tx.11: Gerry Cage also endorse pressure like pain in her midsternal/epigastric area happening occasionally after she eats her meals. 
+
+Phrase: Gerry
+Meta Mapping (1000):
+  1000   C1019207:gerry (Gerris) [Eukaryote]
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: also
+
+Phrase: endorse
+
+Phrase: pressure like pain
+Meta Mapping (746):
+   790   C0460139:Pressure (Pressure (finding)) [Finding]
+   623   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in her midsternal/epigastric area happening occasionally
+Meta Mapping (574):
+   637   C0521440:Epigastric [Body Location or Region]
+   637   C0017446:Area (Geographic Locations) [Geographic Area]
+   637   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: after
+
+Phrase: she
+
+Phrase: eats
+Meta Mapping (1000):
+  1000   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: her meals.
+Meta Mapping (1000):
+  1000   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 92_Cage.txt.tx.12: She says these episodes last 3-5minutes and then resolve. 
+
+Phrase: She
+
+Phrase: says
+
+Phrase: these episodes
+Meta Mapping (1000):
+  1000   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: 3-5minutes
+Meta Mapping (694):
+   694   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+
+Phrase: and
+
+Phrase: then
+Meta Mapping (1000):
+  1000   C1883708:Then [Temporal Concept]
+
+Phrase: resolve.
+Meta Mapping (1000):
+  1000   C2699488:Resolve (Resolution) [Conceptual Entity]
+Processing 92_Cage.txt.tx.13: She denies cough and acid reflux. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: cough
+Meta Mapping (1000):
+  1000 N C1961131:Cough (Cough, CTCAE) [Finding]
+
+Phrase: and
+
+Phrase: acid reflux.
+Meta Mapping (1000):
+  1000 N C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+Processing 92_Cage.txt.tx.14: She would like to know the management of her pain.  
+
+Phrase: She
+
+Phrase: would like
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: know
+
+Phrase: the management of her pain.
+Meta Mapping (745):
+   797   C0002766:management pain (Pain management) [Therapeutic or Preventive Procedure]
+   593   C0574443:HER (Herero language) [Language]
+Processing 92_Cage.txt.tx.15: Allergies  - N/A  Medications -lisnopril 10mg once daily - chlorothalidone 25mg once daily   PMH Hypertension  FMH father - CAD (passed at 40) Mother - DMII, HTN (passed at 60  Social ETOH: 2-3 glasses of wine/week Tobacco: 25 pack years Substance Use: None   Vitals  T: 98 HR: 85 RR: 14 BP: 150/92  Physical Exam General: Well appearing lady sitting comfortably on exam chair no acute distress Cardio: normal rate, regular rhythm, no rubs, no murmurs, no gallops, 2+ pulses in UE Pulm: Clear to ausculation bilaterally, no rhonchi, no wheezes, no stridor,  Abdomen: soft, nontender, normal bowel sounds   Assessment  Gerry Cage is a 55 yr old female w/PMH of HTN, presenting to clinic after a 10minute episode of exertional chest pain while grocery shopping with 2 other similar episodes in the past 4 months. 
+
+Phrase: Allergies  - N/A  Medications -lisnopril 10mg once daily - chlorothalidone 25mg once daily   PMH Hypertension  FMH father - CAD
+Meta Mapping (711):
+   638   C0013182:allergies medications (Drug Allergy) [Pathologic Function]
+   618   C0332173:Daily [Temporal Concept]
+   618   C0262926:PMH (Medical History) [Finding]
+   618   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   618   C0015671:FATHER (Father (person)) [Family Group]
+   784   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: (
+
+Phrase: passed at 40
+Meta Mapping (746):
+   790   C2828386:Passed (Pass (indicator)) [Finding]
+   790   C3842587:40% [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Mother - DMII,
+Meta Mapping (694):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: (
+
+Phrase: passed at 60  Social ETOH
+Meta Mapping (733):
+   760   C2828386:Passed (Pass (indicator)) [Finding]
+   760   C3842585:60% [Quantitative Concept]
+   760   C0728831:Social [Functional Concept]
+   760   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine/week Tobacco
+Meta Mapping (836):
+   633   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   748   C0015421:Glasses (Eyeglasses) [Medical Device]
+   581   C0043188:WINE (Wine) [Food]
+   581   C0332174:/week (Weekly) [Temporal Concept]
+   581   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 25 pack years Substance Use
+Meta Mapping (826):
+   673   C1277691:Pack years [Intellectual Product]
+   840   C1705534:Substance Use (Substance Use Domain) [Intellectual Product]
+
+Phrase: :
+
+Phrase: None   Vitals  T
+Meta Mapping (623):
+   623   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 98 HR
+Meta Mapping (694):
+   694   C4319627:98 [Quantitative Concept]
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 BP
+Meta Mapping (861):
+   861   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92  Physical Exam
+Meta Mapping (861):
+   861   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Well appearing lady
+Meta Mapping (606):
+   660   C0205170:Well (Good) [Qualitative Concept]
+   627   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: sitting
+Meta Mapping (1000):
+  1000   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: comfortably on exam
+Meta Mapping (790):
+   790   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: chair
+Meta Mapping (1000):
+  1000   C1524106:Chair (Chairperson) [Professional or Occupational Group]
+
+Phrase: no acute distress
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: regular rhythm,
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861 N C0871269:Rhythm [Finding]
+
+Phrase: no
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: no gallops,
+
+Phrase: 2+ pulses in UE
+Meta Mapping (722):
+   604   C2827735:2+ (2+ Score) [Quantitative Concept]
+   770 N C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Clear to ausculation bilaterally,
+Meta Mapping (770):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: no rhonchi,
+Meta Mapping (1000):
+  1000 N C0035508:RHONCHI (Rhonchi) [Finding]
+
+Phrase: no wheezes,
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: no stridor,
+Meta Mapping (1000):
+  1000 N C0038450:STRIDOR (Stridor) [Sign or Symptom]
+
+Phrase: Abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: soft, nontender, normal bowel sounds   Assessment  Gerry Cage
+Meta Mapping (826):
+   626   C0205358:Soft [Qualitative Concept]
+   626   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   668 N C0278005:Normal bowel sounds [Finding]
+   626   C1516048:Assessment (Assessed) [Activity]
+   626   C1019207:gerry (Gerris) [Eukaryote]
+   793   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yr old female w/PMH of HTN,
+Meta Mapping (672):
+   575   C0450382:55 [Intellectual Product]
+   575   C0439234:yr (year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   575   C0086287:FEMALE (Females) [Organism Attribute]
+   742   C0262926:PMH (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: presenting to clinic
+Meta Mapping (746):
+   790   C0449450:Presenting (Presentation) [Idea or Concept]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: after a 10minute episode of exertional chest pain
+Meta Mapping (756):
+   578   C0231290:After (Status post) [Temporal Concept]
+   770   C0332189:Episode of [Temporal Concept]
+   633   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: grocery shopping with 2
+Meta Mapping (770):
+   770   C0150768:Shopping (Shopping (activity)) [Daily or Recreational Activity]
+
+Phrase: other similar episodes in the past 4 months.
+Meta Mapping (678):
+   578   C0205394:OTHER (Other) [Qualitative Concept]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 92_Cage.txt.tx.16: Most likely angina given history of HTN, exertional nature of chest pain, and resolution with rest. 
+
+Phrase: Most likely angina given history of HTN,
+Meta Mapping (706):
+   612   C0750501:most likely [Idea or Concept]
+   581   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   748   C0262926:History (Medical History) [Finding]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: exertional nature of chest pain,
+Meta Mapping (858):
+   593   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+   760   C1262865:Nature (Natures) [Functional Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: resolution with rest.
+Meta Mapping (746):
+   790   C2699488:Resolution [Conceptual Entity]
+   623   C0035253:Rest [Daily or Recreational Activity]
+Processing 92_Cage.txt.tx.17: Other differentials including, Pulmonary embolism but no pain with inspriation or coughing,   Plan -troponin -EKG -CBC -BMP
+
+Phrase: Other differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: ,
+
+Phrase: Pulmonary embolism
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: but
+
+Phrase: no pain with inspriation
+Meta Mapping (833):
+   833   C0234225:No pain (Absence of pain) [Finding]
+
+Phrase: or
+
+Phrase: coughing,
+Meta Mapping (1000):
+  1000 N C0010200:COUGHING (Coughing) [Sign or Symptom]
+
+Phrase: Plan -troponin -EKG -CBC -BMP
+Meta Mapping (822):
+   637   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   637   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   637   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   637   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   804   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]

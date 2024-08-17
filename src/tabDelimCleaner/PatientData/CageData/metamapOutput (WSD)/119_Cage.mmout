@@ -1,0 +1,1037 @@
+Processing 119_Cage.txt.tx.1: CC: â€œchest painsâ€ HPI: 45 y/o F presenting with cc of lower back pain   - Over the past four months, has had a few instances (3-4) of feeling strange pressure like sensation in the center of her chest - Worst was 3 days ago, when the pressure was more severe than prior and was associated with feeling faint, taking her breath away - Denies diaphoresis, radiation down the arms; denies sharp pain; denies n/v - Says that sitting and resting for 5-10 minutes resolved the sensation; didnâ€™t last more than 2-3 minutes max  - Has been taking her Lisinopril 10 mg and Chlorthalidone 25 mg daily, has â€œcontrolled her blood pressureâ€ well over the last few years  - Doesnâ€™t take BP at home, gets it taken at work but she isnâ€™t sure what the readings are. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: â€œchest painsâ€ HPI
+
+Phrase: :
+
+Phrase: 45 y/o F presenting with cc of lower back pain   -
+Meta Mapping (673):
+   571   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   738   C0449450:Presenting (Presentation) [Idea or Concept]
+   571   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+   571   C2003888:Lower (Lower (action)) [Activity]
+   587   C0205095:Back of (Dorsal) [Spatial Concept]
+   571   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: Over the past four months,
+Meta Mapping (890):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   660   C0205450:Four [Quantitative Concept]
+
+Phrase: has
+
+Phrase: had
+
+Phrase: a few instances
+Meta Mapping (872):
+   694   C0205388:Few [Quantitative Concept]
+   827   C1550608:Instance [Idea or Concept]
+
+Phrase: (3-4
+Meta Mapping (1000):
+  1000   C0442757:3 4 (3/4) [Finding]
+
+Phrase: )
+
+Phrase: of feeling strange pressure like sensation
+Meta Mapping (806):
+   623   C1443060:FEELING STRANGE (Feeling abnormal) [Sign or Symptom]
+   814   C0234222:Sensation of pressure (Baresthesia) [Organ or Tissue Function]
+
+Phrase: in the center of her chest - Worst
+Meta Mapping (706):
+   774   C0205099:In center (Central) [Spatial Concept]
+   581   C0574443:HER (Herero language) [Language]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   581   C1522166:Worst [Qualitative Concept]
+
+Phrase: was
+
+Phrase: 3 days ago,
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: when
+
+Phrase: the pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: was
+
+Phrase: more severe than prior
+Meta Mapping (733):
+   604   C0205172:More [Quantitative Concept]
+   770   C0205082:Severe (Severe (severity modifier)) [Finding]
+   604   C2826257:PRIOR (Prior Medication Usage) [Event]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with feeling faint,
+Meta Mapping (888):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away -
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: diaphoresis,
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+
+Phrase: radiation down the arms
+Meta Mapping (708):
+   770   C0851346:Radiation [Natural Phenomenon or Process]
+   604   C0446516:Arms (Upper arm) [Body Location or Region]
+
+Phrase: ;
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: sharp pain
+Meta Mapping (1000):
+  1000 N C0455270:Sharp Pain (Sharp pain) [Sign or Symptom]
+
+Phrase: ;
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: n/v -
+Meta Mapping (694):
+   694   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: Says
+
+Phrase: that sitting
+Meta Mapping (1000):
+  1000 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: and
+
+Phrase: resting for 5-10 minutes
+Meta Mapping (761):
+   760   C0035253:Resting (Rest) [Daily or Recreational Activity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (761):
+   760   C0035253:Resting (Rest) [Daily or Recreational Activity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: the sensation
+Meta Mapping (1000):
+  1000 N C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+
+Phrase: ; didnâ€™t
+
+Phrase: last
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: more than 2-3 minutes max  -
+Meta Mapping (672):
+   753   C0205172:More [Quantitative Concept]
+   753   C0702093:/minute (Per Minute) [Temporal Concept]
+   753   C4760036:Max (Max (cigarettes)) [Finding]
+
+Phrase: Has
+
+Phrase: been
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her Lisinopril 10 mg
+Meta Mapping (1000):
+  1000   C0987217:Lisinopril 10 MG [Clinical Drug]
+
+Phrase: and
+
+Phrase: Chlorthalidone 25 mg daily,
+Meta Mapping (916):
+   923   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: has
+
+Phrase: â€œcontrolled
+
+Phrase: her blood pressureâ€ well over the last few years  - Doesnâ€™t
+Meta Mapping (455):
+   571   C0574443:HER (Herero language) [Language]
+   571   C0005768:BLOOD (In Blood) [Body Substance]
+   571   C0205170:Well (Good) [Qualitative Concept]
+   571   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: BP at home, gets
+Meta Mapping (764):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+   645   C1553498:Home (home health encounter) [Health Care Activity]
+   779   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: it
+
+Phrase: taken at work
+Meta Mapping (746):
+   790   C1883727:Taken [Conceptual Entity]
+   790   C0043227:Work [Occupational Activity]
+
+Phrase: but
+
+Phrase: she isnâ€™t
+
+Phrase: sure
+Meta Mapping (1000):
+  1000   C0205423:Sure (Certain (qualifier value)) [Qualitative Concept]
+
+Phrase: what the readings
+Meta Mapping (966):
+   966   C0034754:Reading (Reading (activity)) [Daily or Recreational Activity]
+
+Phrase: are.
+Processing 119_Cage.txt.tx.2: Told that theyâ€™re â€œgoodâ€ by the nurses  PMHx/Surgical - HTN - No surgeries Family Hx Mom: CAD, diabetes, died at 60 of PE Dad: bypass surgery, heart aattack at 40  Siblings: healthy  Social hx: works at capital one, says she walks infrequently for exercise; diet has not changed over the past few months  Meds: Lisinopril 10 mg and Chlorthalidone 25 mg daily NKDA ROS: denies diaphoresis, denies arm or leg radiating pain, denies recent sickness, denies palpitations, denies nausea or vomiting, denies dizziness, denies persistent chest pain/pressure (not feeling it now); endorses faintness during episode, endorses pressure in chest   Physical exam:  Vitals: HR: 785 BP: 150/92 RR: 14 T: 98F General: awake, alert, sitting upright on exam table in NAD; pleasant, appropriate affect HEENT: normocephalic, atraumatic, exam limited by face shield and mask  CVS: RRR, no murmurs or rubs; adequate peripheral perfusion, no cyanosis; peripheral pulses 2+; PMI mix axillary line between 5th and 6th intercostal space (dime sized, brisk and tapping, normal)  Lungs: CTAB, no wheezes or crackles, no cyanosis, no respiratory distress  MSK: no costochondral tenderness, no tenderness to palpation of the sternum; no peripheral edema  Skin: no lesions or discoloration Neuro: no focal deficits, alert and oriented x 4 A/P: 50 y/o F with HTN on lisonopril 10 and chlorthalidone 25 complaining of several episodes of chest pressure, worsening, last one 3 days ago and was associated with feeling faint. 
+
+Phrase: Told
+
+Phrase: that theyâ€™re â€œgoodâ€ by the nurses  PMHx/Surgical - HTN -
+Meta Mapping (455):
+   571   C0556581:{RE} (Retinol equivalents) [Quantitative Concept]
+   571   C0028661:Nurses [Professional or Occupational Group]
+   571   C0543467:Surgical (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   571   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: No surgeries Family Hx Mom
+Meta Mapping (833):
+   645   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   645   C0015576:Family [Family Group]
+   645 N C0262926:Hx (Medical History) [Finding]
+   812   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: CAD,
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: diabetes,
+Meta Mapping (1000):
+  1000 N C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: died at 60 of PE Dad
+Meta Mapping (712):
+   753 N C1306577:Died (Death (finding)) [Finding]
+   783   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   753   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: bypass surgery,
+Meta Mapping (1000):
+  1000   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: heart aattack at 40  Siblings
+Meta Mapping (529):
+   593   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   593   C0439509:/40 [Quantitative Concept]
+   593   C0037047:Siblings (Sibling) [Family Group]
+
+Phrase: :
+
+Phrase: healthy  Social hx
+Meta Mapping (901):
+   660   C3898900:Healthy [Qualitative Concept]
+   901   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: works at capital one,
+Meta Mapping (733):
+   770   C0043227:works (Work) [Occupational Activity]
+   604   C0006909:Capital [Quantitative Concept]
+   604   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: says
+
+Phrase: she
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: infrequently for exercise
+Meta Mapping (746):
+   790   C0521114:Infrequently (Infrequent) [Temporal Concept]
+   790   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: ; diet
+Meta Mapping (1000):
+  1000   C0012159:Diet (Diet therapy) [Health Care Activity]
+
+Phrase: has
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: changed over the past few months  Meds
+Meta Mapping (683):
+   748   C0392747:Changed (Changing) [Functional Concept]
+   757   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   748 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Lisinopril 10 mg
+Meta Mapping (1000):
+  1000   C0987217:Lisinopril 10 MG [Clinical Drug]
+
+Phrase: and
+
+Phrase: Chlorthalidone 25 mg daily NKDA ROS
+Meta Mapping (816):
+   694   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   632   C0332173:Daily [Temporal Concept]
+   799   C1709820:ROS (ROS1 wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: diaphoresis,
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: arm
+Meta Mapping (1000):
+  1000   C0446516:ARM (Upper arm) [Body Location or Region]
+
+Phrase: or
+
+Phrase: leg radiating pain,
+Meta Mapping (901):
+   913 N C0023222:LEG PAIN (Pain in lower limb) [Sign or Symptom]
+   660   C0332301:radiating (Radiating to) [Functional Concept]
+Meta Mapping (901):
+   660   C0023216:Leg (Lower Extremity) [Body Part, Organ, or Organ Component]
+   901 N C0234254:Radiating Pain (Radiating pain) [Sign or Symptom]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: recent sickness,
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861 N C0221423:Sickness (Illness (finding)) [Sign or Symptom]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vomiting,
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: persistent chest pain/pressure
+Meta Mapping (895):
+   729 N C1277645:Persistent Breast pain (Persistent mastalgia) [Sign or Symptom]
+   812   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: (
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000 N C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: it now
+Meta Mapping (1000):
+  1000   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+
+Phrase: )
+
+Phrase: ;
+
+Phrase: endorses
+
+Phrase: faintness during episode,
+Meta Mapping (746):
+   790 N C0039070:FAINTNESS (Syncope) [Sign or Symptom]
+   623   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: endorses
+
+Phrase: pressure in chest   Physical exam
+Meta Mapping (893):
+   862 N C0438716:Pressure in chest (Chest pressure) [Sign or Symptom]
+   806   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: HR
+
+Phrase: :
+
+Phrase: 785 BP
+Meta Mapping (861):
+   861   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 RR
+Meta Mapping (827):
+   827   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 T
+
+Phrase: :
+
+Phrase: 98F
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: awake, alert,
+Meta Mapping (888):
+   694   C0234422:Awake [Finding]
+   861   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: sitting
+Meta Mapping (1000):
+  1000   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: upright on exam table
+Meta Mapping (733):
+   770   C0522015:Upright [Spatial Concept]
+   604   C0582103:Exam (Medical Examination) [Health Care Activity]
+   604   C0039224:Table (Table - furniture) [Manufactured Object]
+
+Phrase: in NAD
+Meta Mapping (1000):
+  1000   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: ; pleasant, appropriate
+Meta Mapping (888):
+   694   C2987187:Pleasant [Mental Process]
+   861   C1548787:Appropriate [Qualitative Concept]
+
+Phrase: affect
+Meta Mapping (1000):
+  1000   C0001721:Affect (Affect (mental function)) [Mental Process]
+
+Phrase: HEENT
+Meta Mapping (1000):
+  1000   C1512338:HEENT [Body Location or Region]
+
+Phrase: :
+
+Phrase: normocephalic, atraumatic, exam
+Meta Mapping (827):
+   827   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: limited by face shield
+Meta Mapping (783):
+   770   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   833   C0183255:Face shield (Face shield (physical object)) [Medical Device]
+
+Phrase: and
+
+Phrase: mask  CVS
+Meta Mapping (694):
+   694   C1555580:mask (masked - No information) [Idea or Concept]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ; adequate peripheral perfusion,
+Meta Mapping (901):
+   660   C0205411:Adequate [Qualitative Concept]
+   901 N C0425710:Peripheral perfusion [Finding]
+
+Phrase: no cyanosis
+Meta Mapping (1000):
+  1000 N C0010520:CYANOSIS (Cyanosis) [Sign or Symptom]
+
+Phrase: ; peripheral pulses 2+
+Meta Mapping (901):
+   901   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+
+Phrase: ; PMI
+Meta Mapping (1000):
+  1000   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+
+Phrase: mix
+Meta Mapping (1000):
+  1000   C1720722:Mix [Qualitative Concept]
+
+Phrase: axillary line between 5th
+Meta Mapping (783):
+   833   C0738485:Axillary line [Body Location or Region]
+   604   C0205439:5th (Fifth) [Quantitative Concept]
+
+Phrase: and
+
+Phrase: 6th intercostal space
+Meta Mapping (901):
+   901   C0230136:Intercostal space (Structure of intercostal space) [Body Space or Junction]
+
+Phrase: (dime sized, brisk
+Meta Mapping (773):
+   627   C0456389:Size (size) [Spatial Concept]
+   827   C0443162:Brisk [Qualitative Concept]
+
+Phrase: and
+
+Phrase: tapping,
+
+Phrase: normal
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: )
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: no wheezes
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: ,
+
+Phrase: no cyanosis,
+Meta Mapping (1000):
+  1000 N C0010520:CYANOSIS (Cyanosis) [Sign or Symptom]
+
+Phrase: no respiratory distress  MSK
+Meta Mapping (901):
+   734 N C0476273:Distress, Respiratory (Respiratory distress) [Sign or Symptom]
+   827   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no costochondral tenderness,
+Meta Mapping (861):
+   861 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: no tenderness to palpation of the sternum
+Meta Mapping (674):
+   581   C1518422:No (Negation) [Functional Concept]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   738 N C0241246:STERNAL TENDERNESS [Finding]
+Meta Mapping (674):
+   581   C1518422:No (Negation) [Functional Concept]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   738 N C0575501:Sternum tender [Finding]
+
+Phrase: ;
+
+Phrase: no peripheral edema  Skin
+Meta Mapping (901):
+   734 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+   827   C1123023:SKIN (Skin) [Body System]
+Meta Mapping (901):
+   660   C0205100:PERIPHERAL (Peripheral) [Spatial Concept]
+   901 N C0521464:oedema skin (Edematous skin) [Finding]
+
+Phrase: :
+
+Phrase: no lesions
+Meta Mapping (1000):
+  1000 N C0221198:lesions (Lesion) [Finding]
+
+Phrase: or
+
+Phrase: discoloration
+Meta Mapping (1000):
+  1000 N C0332572:Discolouration (Abnormal color) [Finding]
+
+Phrase: Neuro
+Meta Mapping (1000):
+  1000   C0027855:NEURO (Neurology speciality) [Biomedical Occupation or Discipline]
+
+Phrase: :
+
+Phrase: no focal deficits,
+Meta Mapping (888):
+   694   C0205234:FOCAL (Focal) [Spatial Concept]
+   861   C2987487:deficits (Deficit) [Qualitative Concept]
+
+Phrase: alert
+Meta Mapping (1000):
+  1000 N C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: and
+
+Phrase: oriented
+Meta Mapping (1000):
+  1000 N C1961028:Oriented (Oriented to place) [Finding]
+
+Phrase: x 4 A/P
+
+Phrase: :
+
+Phrase: 50 y/o F with HTN
+Meta Mapping (666):
+   586 N C3843766:<50 [Finding]
+   753   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on lisonopril 10
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: and
+
+Phrase: chlorthalidone 25 complaining of several episodes of chest pressure,
+Meta Mapping (508):
+   575   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   578   C0332189:Episode of [Temporal Concept]
+   598   C0438716:Chest pressure [Sign or Symptom]
+
+Phrase: worsening
+Meta Mapping (1000):
+  1000   C1457868:Worsening (Worse) [Finding]
+
+Phrase: ,
+
+Phrase: last one 3 days ago
+Meta Mapping (779):
+   637   C1517741:Last [Qualitative Concept]
+   836   C3844320:One day [Temporal Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with feeling faint.
+Meta Mapping (888):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+Processing 119_Cage.txt.tx.3: Denies diaphoresis, radiation down the L or R arm, n/v, lasted 2-3 minutes and resolved with rest within 5-10 minutes.  
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: diaphoresis,
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+
+Phrase: radiation down the L
+Meta Mapping (770):
+   770   C0851346:Radiation [Natural Phenomenon or Process]
+
+Phrase: or
+
+Phrase: R arm,
+Meta Mapping (1000):
+  1000   C4048756:R arm (Right arm) [Body Part, Organ, or Organ Component]
+
+Phrase: n/v,
+Meta Mapping (694):
+   694   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 2-3 minutes
+Meta Mapping (901):
+   734   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   827   C0702093:/minute (Per Minute) [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved with rest
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: within 5-10 minutes.
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+Processing 119_Cage.txt.tx.4: CV exam and pulm exam WNL, no tenderness of the anterior chest wall, no edema or cyanosis of the extremities.  
+
+Phrase: CV exam
+Meta Mapping (888):
+   694   C4318503:CV (ciliary vesicle) [Cell Component]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: and
+
+Phrase: pulm exam
+Meta Mapping (888):
+   694   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: WNL,
+
+Phrase: no tenderness of the anterior chest wall,
+Meta Mapping (757):
+   581   C1518422:No (Negation) [Functional Concept]
+   804 N C0239008:Tenderness of chest (Chest wall tenderness) [Finding]
+   581   C0205094:ANTERIOR (Anterior) [Spatial Concept]
+   581   C0677535:Wall (Walls of a building) [Manufactured Object]
+
+Phrase: no edema
+Meta Mapping (1000):
+  1000 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: or
+
+Phrase: cyanosis of the extremities.
+Meta Mapping (819):
+   819 N C0239334:cyanosis extremities (extremity cyanosis) [Finding]
+Processing 119_Cage.txt.tx.5: #Chest pressure - DDX: angina vs. arrhythmia o Discussed differential with patient, advised that though symptoms are reassuring that less likely to be emergent at the present time, we need to do more workup to ensure no underlying heart condition on top of HTN. 
+
+Phrase: #Chest pressure - DDX
+Meta Mapping (901):
+   734   C0438716:Chest pressure [Sign or Symptom]
+   827   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: vs. arrhythmia o
+Meta Mapping (694):
+   694   C0003811:Arrythmia (Cardiac Arrhythmia) [Disease or Syndrome]
+
+Phrase: Discussed
+Meta Mapping (966):
+   966   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: differential with patient,
+Meta Mapping (746):
+   790   C0443199:Differential (Differential quality) [Qualitative Concept]
+   623   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: advised
+
+Phrase: that
+
+Phrase: though
+
+Phrase: symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: are
+
+Phrase: reassuring
+Meta Mapping (1000):
+  1000   C0557055:Reassuring (Reassuring (procedure)) [Health Care Activity]
+
+Phrase: that less likely
+Meta Mapping (888):
+   861   C0439092:Less (Less Than) [Quantitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: be
+
+Phrase: emergent at the present time,
+Meta Mapping (696):
+   760   C0750573:Emergent (emergent) [Idea or Concept]
+   593   C0150312:PRESENT (Present) [Finding]
+   593   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: we
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to do more workup
+Meta Mapping (804):
+   645   C1883351:To [Qualitative Concept]
+   812   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: ensure
+Meta Mapping (1000):
+  1000   C0218063:ENSURE (Ensure (product)) [Food]
+
+Phrase: no underlying heart condition on top of HTN.
+Meta Mapping (705):
+   767   C0497153:No condition (No disease) [Finding]
+   578 N C4722602:Underlying [Finding]
+   578   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   578   C1704458:Top (Top (position)) [Spatial Concept]
+   578 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (705):
+   578   C1518422:No (Negation) [Functional Concept]
+   578 N C4722602:Underlying [Finding]
+   770 N C3842523:Heart condition [Finding]
+   578   C1704458:Top (Top (position)) [Spatial Concept]
+   578 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 119_Cage.txt.tx.6: With family history, need to rule out structural heart disease.  o Order EEG. 
+
+Phrase: With family history,
+Meta Mapping (1000):
+  1000   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out structural heart disease.  o Order EEG.
+Meta Mapping (786):
+   629   C0849355:Out (Removed) [Qualitative Concept]
+   679 N C1290384:Structural Heart disease (Structural disorder of heart) [Disease or Syndrome]
+   629   C1705178:Order (Order (action)) [Activity]
+   795   C0013819:EEG, NOS (Electroencephalography) [Diagnostic Procedure]
+Processing 119_Cage.txt.tx.7: Draw lipid panel, troponins, CBC w/diff, BMP o A1C due to risk factors. 
+
+Phrase: Draw
+Meta Mapping (1000):
+  1000   C0013113:Draw (Drawings (art)) [Intellectual Product]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: troponins,
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC w/diff,
+Meta Mapping (913):
+   913   C0545131:cbc diff (Blood Cell Count with Differential) [Laboratory Procedure]
+
+Phrase: BMP o A1C due to risk factors.
+Meta Mapping (763):
+   581   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   748   C4521595:A1C (US Military enlisted E3) [Classification]
+   612   C0678226:Due To (Due to) [Functional Concept]
+   612   C0035648:Risk Factors (risk factors) [Finding]
+Processing 119_Cage.txt.tx.8: Patient may need statin therapy if lipid profile supports.  o Echo if concerns on EEG  o HTN counseling: not well controlled on current regimen. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: may
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: statin therapy
+Meta Mapping (1000):
+  1000   C1278454:Statin therapy (Statin prophylaxis) [Therapeutic or Preventive Procedure]
+
+Phrase: if
+
+Phrase: lipid profile
+Meta Mapping (888):
+   694   C0523744:LIPID (Lipids measurement) [Laboratory Procedure]
+   861   C1979963:Profile (Profile (lab procedure)) [Laboratory Procedure]
+
+Phrase: supports.  o
+Meta Mapping (694):
+   694   C0183683:Support, NOS (Support, device) [Medical Device]
+
+Phrase: Echo
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: if
+
+Phrase: concerns on EEG  o HTN counseling
+Meta Mapping (685):
+   753   C2699424:Concerns (Concern) [Idea or Concept]
+   586   C0013819:EEG, NOS (Electroencephalography) [Diagnostic Procedure]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   586   C0740209:Counseling NOS (Encounter due to counseling) [Finding]
+
+Phrase: :
+
+Phrase: not well controlled on current regimen.
+Meta Mapping (741):
+   790   C3841798:Not well [Finding]
+   753   C2587213:Controlled (Control function) [Functional Concept]
+   586   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   586   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Meta Mapping (741):
+   586   C1518422:Not (Negation) [Functional Concept]
+   790   C3853142:Well controlled [Functional Concept]
+   586   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   586   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Processing 119_Cage.txt.tx.9: Diet counseling and exercise counseling. 
+
+Phrase: Diet counseling
+Meta Mapping (1000):
+  1000   C0204932:Diet counselling (Diet education) [Educational Activity]
+
+Phrase: and
+
+Phrase: exercise counseling.
+Meta Mapping (888):
+   694   C0015259:Exercise [Daily or Recreational Activity]
+   861   C0740209:Counseling NOS (Encounter due to counseling) [Finding]
+Processing 119_Cage.txt.tx.10: Recommend increasing Lisinopril and RTC in 4 weeks, get BP cuff at home and take pressures daily if possible  Kristen Lospinoso, M3
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: increasing Lisinopril
+Meta Mapping (888):
+   694   C0442808:Increasing [Functional Concept]
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: RTC in 4 weeks,
+Meta Mapping (604):
+   604   C0439230:WEEKS (week) [Temporal Concept]
+
+Phrase: get
+
+Phrase: BP cuff
+Meta Mapping (888):
+   694   C1415692:Bp (HP gene) [Gene or Genome]
+   861   C0441107:Cuff (Cuffs device) [Manufactured Object]
+
+Phrase: at home
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+
+Phrase: and
+
+Phrase: take
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: pressures daily
+Meta Mapping (888):
+   861   C0460139:pressures (Pressure (finding)) [Finding]
+   694   C0332173:Daily [Temporal Concept]
+
+Phrase: if
+
+Phrase: possible  Kristen Lospinoso,
+Meta Mapping (660):
+   660   C0332149:Possible [Finding]
+
+Phrase: M3
+Meta Mapping (1000):
+  1000   C1300554:m3 (Cubic Meter) [Quantitative Concept]

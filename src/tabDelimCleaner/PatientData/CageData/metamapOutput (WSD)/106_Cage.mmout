@@ -1,0 +1,606 @@
+Processing 106_Cage.txt.tx.1: Subj: Ms. 
+
+Phrase: Subj
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 106_Cage.txt.tx.2: Gage is  55yo female with pmhx of well-controlled hypertension who presents today with concern about severe chest pain she experienced 3 days ago. 
+
+Phrase: Gage
+Meta Mapping (1000):
+  1000   C1521879:GAGE [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: is
+
+Phrase: 55yo female with pmhx of well-controlled hypertension
+Meta Mapping (684):
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   604   C3853142:Well controlled [Functional Concept]
+   578   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (684):
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   578   C0205170:Well (Good) [Qualitative Concept]
+   600   C0745117:hypertension controlled [Finding]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: today with concern
+Meta Mapping (746):
+   790   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   623   C2699424:Concern [Idea or Concept]
+
+Phrase: about severe chest pain
+Meta Mapping (901):
+   913   C0278140:Severe pain [Finding]
+   827   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (901):
+   660   C0205082:Severe (Severe (severity modifier)) [Finding]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: she
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: 3 days ago.
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+Processing 106_Cage.txt.tx.3: 3 days ago when she was carrying groceries, she felt a dull ache in the center of her chest. 
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries,
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a dull ache in the center of her chest.
+Meta Mapping (667):
+   575   C0278144:Dull (Dull pain) [Sign or Symptom]
+   762   C0235715:ache chest (Chest aching of) [Finding]
+   575   C0205099:Centre (Central) [Spatial Concept]
+   575   C0574443:HER (Herero language) [Language]
+Processing 106_Cage.txt.tx.4: She describes it as a 7/10 pain and she states that it went away after 5-10 minutes. 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: it
+
+Phrase: as
+
+Phrase: a 7/10 pain
+Meta Mapping (790):
+   660   C3842590:10% [Quantitative Concept]
+   827   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: and
+
+Phrase: she
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: it
+
+Phrase: went
+
+Phrase: away after 5-10 minutes.
+Meta Mapping (806):
+   806   C0456692:/10 minutes (/10 min) [Temporal Concept]
+Processing 106_Cage.txt.tx.5: She has had similar pain but less severe on 2-3 other occasions in the past 4 months with activity such as stairs and running. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: similar pain
+Meta Mapping (888):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+   861   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: but
+
+Phrase: less severe on 2-3
+Meta Mapping (695):
+   593   C0439092:Less (Less Than) [Quantitative Concept]
+   760   C0205082:Severe (Severe (severity modifier)) [Finding]
+
+Phrase: other occasions in the past 4 months
+Meta Mapping (663):
+   581   C0205394:OTHER (Other) [Qualitative Concept]
+   664   C0521114:Occasional (Infrequent) [Temporal Concept]
+   591   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: with activity such as stairs
+Meta Mapping (696):
+   593   C0332287:With (In addition to) [Functional Concept]
+   760   C0441655:ACTIVITY (Activities) [Activity]
+   593   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+
+Phrase: and
+
+Phrase: running.
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+Processing 106_Cage.txt.tx.6: She did have SOB 3 days ago with this event but has not experienced SOB or DOE at any other times. 
+
+Phrase: She
+
+Phrase: did
+
+Phrase: have
+
+Phrase: SOB 3 days ago with this event
+Meta Mapping (692):
+   581   C0013404:SOB (Dyspnea) [Sign or Symptom]
+   757   C3842675:Day 3 [Finding]
+   581   C0441471:Event [Event]
+
+Phrase: but
+
+Phrase: has
+
+Phrase: not experienced SOB
+Meta Mapping (802):
+   660   C1518422:Not (Negation) [Functional Concept]
+   827 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: DOE at any
+Meta Mapping (790):
+   790 N C0231807:DOE (Dyspnea on exertion) [Sign or Symptom]
+
+Phrase: other times.
+Meta Mapping (1000):
+  1000   C0040223:times (Time) [Temporal Concept]
+Processing 106_Cage.txt.tx.7: She also felt faint during this event, but no nausea or vomiting. 
+
+Phrase: She also felt faint during this event,
+Meta Mapping (692):
+   581   C1822717:SHE (SHE gene) [Gene or Genome]
+   778   C0581879:Felt faint [Sign or Symptom]
+   581   C0441471:Event [Event]
+
+Phrase: but
+
+Phrase: no nausea
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vomiting.
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+Processing 106_Cage.txt.tx.8: She states that she gets her BP checked once per month at work and it is always normal.   
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: she gets
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: her BP
+Meta Mapping (1000):
+  1000   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: checked
+Meta Mapping (1000):
+  1000   C1283174:Checked (Checking (action)) [Activity]
+
+Phrase: once per month
+Meta Mapping (1000):
+  1000   C0585302:Once Per Month (Once monthly) [Temporal Concept]
+
+Phrase: at work
+Meta Mapping (1000):
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: is
+
+Phrase: always normal.
+Meta Mapping (888):
+   694   C2003902:Always (Always (frequency)) [Temporal Concept]
+   861   C0205307:NORMAL (Normal) [Qualitative Concept]
+Processing 106_Cage.txt.tx.9: No allergies Meds: chlorthalidone 25 and Lisinopril 10  Family hx notable for hypertension in mother and early MI in father at age of 40 as well as CAD  No surgeries  Obj: T 98 BP 150/92 RR 14 P 85  PE Cardiovascular: 2+ radial and DP pulses b/l. 
+
+Phrase: No allergies Meds
+Meta Mapping (888):
+   694 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+   861 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone 25
+Meta Mapping (861):
+   861   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril 10  Family hx
+Meta Mapping (833):
+   645   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   645   C3842590:10% [Quantitative Concept]
+   645   C0015576:Family [Family Group]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: notable for hypertension
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: in mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: and
+
+Phrase: early MI in father
+Meta Mapping (733):
+   604   C1279919:Early [Temporal Concept]
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: at age of 40
+Meta Mapping (733):
+   604   C0392970:AT (Doxorubicin/Docetaxel Regimen) [Therapeutic or Preventive Procedure]
+   770   C0001779:AGE (Age) [Organism Attribute]
+   604   C0439509:/40 [Quantitative Concept]
+
+Phrase: as well as
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: No surgeries  Obj
+Meta Mapping (888):
+   694   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   861   C2826278:OBJ (Observation Object) [Physical Object]
+
+Phrase: :
+
+Phrase: T 98 BP 150/92 RR 14 P 85  PE
+Meta Mapping (731):
+   637   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   623   C1415692:Bp (HP gene) [Gene or Genome]
+   623 N C4554402:RR (RR genotype) [Finding]
+   623   C4517892:85 [Quantitative Concept]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: 2+ radial
+Meta Mapping (888):
+   694   C2827735:2+ (2+ Score) [Quantitative Concept]
+   861   C0442038:Radial [Conceptual Entity]
+
+Phrase: and
+
+Phrase: DP
+Meta Mapping (1000):
+  1000   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+
+Phrase: b/l.
+Processing 106_Cage.txt.tx.10: Regular rate and rhythm. 
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+Processing 106_Cage.txt.tx.11: Normal S1 and S2 no murmurs rubs or gallops. 
+
+Phrase: Normal S1
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops.
+Processing 106_Cage.txt.tx.12: No JVD appreciated. 
+
+Phrase: No JVD
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: appreciated.
+Processing 106_Cage.txt.tx.13: No lower extremity edema.  
+
+Phrase: No lower extremity edema.
+Meta Mapping (1000):
+  1000 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+Processing 106_Cage.txt.tx.14: Lungs: clear to auscultation in all anterior and posterior lung fields. no wheezes, dullness, crackles  A: Ms. 
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: clear to auscultation
+Meta Mapping (746):
+   790   C1709157:Clear (Negative Surgical Margin) [Finding]
+   623   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: in all anterior
+Meta Mapping (1000):
+  1000   C0205094:ANTERIOR (Anterior) [Spatial Concept]
+
+Phrase: and
+
+Phrase: posterior lung fields.
+Meta Mapping (890):
+   660   C0205095:POSTERIOR (Dorsal) [Spatial Concept]
+   884   C0225759:Lung field [Body Location or Region]
+
+Phrase: no wheezes,
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: dullness,
+Meta Mapping (1000):
+  1000 N C0541911:DULLNESS (Dullness) [Finding]
+
+Phrase: crackles
+Meta Mapping (1000):
+  1000 N C0034642:Crackles (Rales) [Finding]
+
+Phrase: A
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 106_Cage.txt.tx.15: Gage is a 55yo female with hx of hypertenxion who presents with severe 7/10 chest pain with exertion 3 days ago associated with lightheadedness and shortness of breath. 
+
+Phrase: Gage
+Meta Mapping (1000):
+  1000   C1521879:GAGE [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: is
+
+Phrase: a 55yo female with hx of hypertenxion
+Meta Mapping (663):
+   748   C0086287:FEMALE (Females) [Organism Attribute]
+   581   C0262926:Hx (Medical History) [Finding]
+
+Phrase: who
+
+Phrase: presents with severe 7/10 chest pain
+Meta Mapping (763):
+   748   C0150312:PRESENT (Present) [Finding]
+   774   C0278140:Severe pain [Finding]
+   774   C5191365:10.7 [Quantitative Concept]
+   748   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (763):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0205082:Severe (Severe (severity modifier)) [Finding]
+   774   C5191365:10.7 [Quantitative Concept]
+   778   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: with exertion 3 days
+Meta Mapping (802):
+   660   C0015264:Exertion [Organism Function]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: ago
+
+Phrase: associated with lightheadedness
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 106_Cage.txt.tx.16: She is hypertensive on exam and her cardiovascular exam is within normal limits.  
+
+Phrase: She
+
+Phrase: is
+
+Phrase: hypertensive on exam
+Meta Mapping (746):
+   790   C0857121:hypertensive (Hypertensive (finding)) [Finding]
+   623   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: and
+
+Phrase: her cardiovascular exam
+Meta Mapping (888):
+   694   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+   861   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: is within normal limits.
+Meta Mapping (783):
+   770   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   833   C0442816:Normal limits [Finding]
+Processing 106_Cage.txt.tx.17: Plan: 1. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 106_Cage.txt.tx.18: Labs today including BMP, CBC, and troponin level 2. 
+
+Phrase: Labs today
+Meta Mapping (888):
+   694   C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: troponin level 2.
+Meta Mapping (901):
+   827   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   901   C0456948:Level 2 (Level 2 (qualifier value)) [Intellectual Product]
+Processing 106_Cage.txt.tx.19: EKG today to look for signs of ischemia, abnormal rhythm etc 3. 
+
+Phrase: EKG today
+Meta Mapping (888):
+   694   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: look for signs of ischemia,
+Meta Mapping (687):
+   760   C0233426:look (Personal appearance) [Organism Attribute]
+   760   C0311392:SIGNS (Physical findings) [Finding]
+   760   C0022116:Ischaemia, NOS (Ischemia) [Pathologic Function]
+
+Phrase: abnormal rhythm etc 3.
+Meta Mapping (775):
+   812   C0205161:ABNORMAL (Abnormal) [Finding]
+   812   C0871269:Rhythm [Finding]
+   812   C1548556:Etc. [Idea or Concept]
+Processing 106_Cage.txt.tx.20: If these tests are normal, examine risk factors and consider scheduling exercise stress test 4. 
+
+Phrase: If
+
+Phrase: these tests
+Meta Mapping (1000):
+  1000   C0022885:Tests (Laboratory Procedures) [Laboratory Procedure]
+
+Phrase: are
+
+Phrase: normal,
+Meta Mapping (1000):
+  1000   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: examine
+
+Phrase: risk factors
+Meta Mapping (1000):
+  1000   C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: and
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: scheduling exercise stress test 4.
+Meta Mapping (854):
+   804   C0205539:scheduling (Scheduled - procedure status) [Qualitative Concept]
+   884   C0015260:Exercise stress test [Diagnostic Procedure]
+Processing 106_Cage.txt.tx.21: recommend following up on blood pressure management once we have these results  5. 
+
+Phrase: recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: following up on blood pressure management
+Meta Mapping (752):
+   773   C1522577:Follow Up (follow-up) [Health Care Activity]
+   586   C0005768:BLOOD (In Blood) [Body Substance]
+   623   C0558010:Pressure management (Pressure area care) [Therapeutic or Preventive Procedure]
+
+Phrase: once
+
+Phrase: we
+
+Phrase: have
+
+Phrase: these results  5.
+Meta Mapping (827):
+   827   C1274040:Result [Functional Concept]
+Processing 106_Cage.txt.tx.22: consider echo
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: echo
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]

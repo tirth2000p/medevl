@@ -1,0 +1,673 @@
+Processing 70_Cage.txt.tx.1: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 70_Cage.txt.tx.2: Gerry Cage is a 55 yo female with pmh of HTN who presents for concerns of chest pain. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with pmh of HTN
+Meta Mapping (667):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   578   C0262926:PMH (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for concerns of chest pain.
+Meta Mapping (772):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C2699424:Concerns (Concern) [Idea or Concept]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 70_Cage.txt.tx.3: She reports having a deep heavy aching chest pain that occurred 3 days ago while she was carrying groceries. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: a deep heavy aching chest pain
+Meta Mapping (857):
+   897   C0234229:Deep pain [Sign or Symptom]
+   637   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   840   C0235715:aching chest (Chest aching of) [Finding]
+Meta Mapping (857):
+   637   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   875   C0458256:Heavy pain [Finding]
+   840   C0235715:aching chest (Chest aching of) [Finding]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 70_Cage.txt.tx.4: She rates this pain as 8/10 and that it self-resolved in a few minutes after sitting in her car. 
+
+Phrase: She rates
+Meta Mapping (966):
+   966   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: this pain as 8/10
+Meta Mapping (752):
+   593   C1080058:This (This (eukaryote)) [Eukaryote]
+   760   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   631   C4517523:10.8 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: that
+
+Phrase: it
+
+Phrase: self-resolved in a few minutes
+Meta Mapping (672):
+   753   C1551994:self (subscriber - self) [Intellectual Product]
+   753   C2699488:Resolved (Resolution) [Conceptual Entity]
+   753   C0702093:/minute (Per Minute) [Temporal Concept]
+
+Phrase: after sitting in her car.
+Meta Mapping (724):
+   593   C0231290:After (Status post) [Temporal Concept]
+   760 N C0277814:SITTING (Sitting position) [Finding]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 70_Cage.txt.tx.5: . 
+
+Phrase: .
+Processing 70_Cage.txt.tx.6: She has no pain currently. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: no pain currently.
+Meta Mapping (888):
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   694   C0521116:Currently (Current (present time)) [Temporal Concept]
+Processing 70_Cage.txt.tx.7: She endorses associated SOB and feeling faint. 
+
+Phrase: She
+
+Phrase: endorses
+
+Phrase: associated SOB
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: feeling faint.
+Meta Mapping (1000):
+  1000   C0581879:Feeling faint (Felt faint) [Sign or Symptom]
+Processing 70_Cage.txt.tx.8: She denies any radiating pain, sweating, nausea, or palpitations. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any radiating pain,
+Meta Mapping (1000):
+  1000 N C0234254:Radiating Pain (Radiating pain) [Sign or Symptom]
+
+Phrase: sweating
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+
+Phrase: ,
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: palpitations.
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+Processing 70_Cage.txt.tx.9: She endorses experiencing similar, but less severe pains, over the past 4 months which she calls "twinges" she rates these pains as 2/10. 
+
+Phrase: She
+
+Phrase: endorses
+
+Phrase: experiencing
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: similar,
+Meta Mapping (1000):
+  1000   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: less severe pains,
+Meta Mapping (890):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   884   C0278140:Severe pain [Finding]
+
+Phrase: over the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: which she
+
+Phrase: calls
+Meta Mapping (1000):
+  1000   C1947967:Call (Call (Instruction)) [Functional Concept]
+
+Phrase: "twinges"
+
+Phrase: she rates
+Meta Mapping (966):
+   966   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: these pains as 2/10.
+Meta Mapping (696):
+   593   C0039828:these (Theses) [Intellectual Product]
+   760   C0030193:pains (Pain) [Sign or Symptom]
+   593   C3842590:10% [Quantitative Concept]
+Processing 70_Cage.txt.tx.10: She reports they came on while chasing after her cat and going up a flight of stairs, although she does not feel like she was exerting herself 3 days ago when the pain occurred. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: they
+
+Phrase: came on
+
+Phrase: while
+
+Phrase: chasing after her cat
+Meta Mapping (722):
+   770   C0574443:HER (Herero language) [Language]
+   770   C0007450:CAT (Felis catus) [Mammal]
+
+Phrase: and
+
+Phrase: going up a flight of stairs,
+Meta Mapping (672):
+   753   C2610507:flight (flight (process)) [Phenomenon or Process]
+   753   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+
+Phrase: although
+
+Phrase: she
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: feel like she
+Meta Mapping (746):
+   790   C1527305:feel (Feelings) [Mental Process]
+   790   C1822717:SHE (SHE gene) [Gene or Genome]
+
+Phrase: was
+
+Phrase: exerting
+Meta Mapping (1000):
+  1000   C0015264:exerting (Exertion) [Organism Function]
+
+Phrase: herself 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: when
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: occurred.
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+Processing 70_Cage.txt.tx.11: She denies any associated edema in legs/feet, coughing, SOB. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any associated edema in legs/feet,
+Meta Mapping (741):
+   586   C1552551:ANY (Any) [Qualitative Concept]
+   586   C0332281:Associated (Associated with) [Qualitative Concept]
+   783 N C0235886:legs oedema (Leg edema) [Pathologic Function]
+   586   C0016504:Feet (Foot) [Body Part, Organ, or Organ Component]
+Meta Mapping (741):
+   586   C1552551:ANY (Any) [Qualitative Concept]
+   586   C0332281:Associated (Associated with) [Qualitative Concept]
+   586   C1140621:Legs (Leg) [Body Part, Organ, or Organ Component]
+   783 N C0574002:feet Edema (Edema of foot (finding)) [Sign or Symptom]
+
+Phrase: coughing
+Meta Mapping (1000):
+  1000 N C0010200:COUGHING (Coughing) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: SOB.
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 70_Cage.txt.tx.12: She endorses some epigastric pressure post-prandially but does not think this is associated with her chest pain. 
+
+Phrase: She
+
+Phrase: endorses
+
+Phrase: some epigastric pressure post-prandially
+Meta Mapping (775):
+   645   C0521440:Epigastric [Body Location or Region]
+   812   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   645   C0687676:Post [Temporal Concept]
+
+Phrase: but
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: think
+Meta Mapping (1000):
+  1000 N C0039869:think (Thinking, function) [Mental Process]
+
+Phrase: this
+
+Phrase: is
+
+Phrase: associated with her chest pain.
+Meta Mapping (857):
+   806   C0332281:Associated with [Qualitative Concept]
+   760   C0574443:HER (Herero language) [Language]
+   806 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 70_Cage.txt.tx.13: She denies any new stressors or changes. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any new stressors
+Meta Mapping (888):
+   694   C0205314:New [Qualitative Concept]
+   861   C0597530:stressors (Stressor) [Idea or Concept]
+
+Phrase: or
+
+Phrase: changes.
+Meta Mapping (1000):
+  1000   C0392747:changes (Changing) [Functional Concept]
+Processing 70_Cage.txt.tx.14: She describes her mood as "anxious" because of the chest pain but previously her mood was good.  
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: her mood as "anxious"
+Meta Mapping (783):
+   604   C0574443:HER (Herero language) [Language]
+   819   C2239195:Anxious mood [Finding]
+
+Phrase: because of the chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: previously
+
+Phrase: her mood
+Meta Mapping (1000):
+  1000   C0026516:Mood (Mood (psychological function)) [Mental Process]
+
+Phrase: was
+
+Phrase: good.
+Meta Mapping (1000):
+  1000   C0205170:Good [Qualitative Concept]
+Processing 70_Cage.txt.tx.15: Meds: lisinopril, HCTZ allergies: none PMH: HTN Family HX: Dad - heart attack at 40 yo, mom: HTN, DM, pulmonary aneurysm - deceased, grandmother: breast cancer   Objective Vitals: 150/92 PE:  Cardio: regular rate rhythme, no murmurs, rubs, gallops, no tenderness to chest wall. no deformities  Pulmonary: clear to auscultation bilaterally, no wheezing, rales, good effort    Assessment Summary: Ms. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: HCTZ allergies
+Meta Mapping (888):
+   694   C0020261:HCTZ (hydrochlorothiazide) [Organic Chemical,Pharmacologic Substance]
+   861   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN Family HX
+Meta Mapping (851):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C0015576:Family [Family Group]
+   827   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Dad - heart attack at 40 yo,
+Meta Mapping (741):
+   586   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   790   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   586   C0439509:/40 [Quantitative Concept]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+
+Phrase: mom
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pulmonary aneurysm - deceased, grandmother
+Meta Mapping (833):
+   645   C2709248:Pulmonary (Pulmonary (qualifier value)) [Qualitative Concept]
+   645   C0002940:ANEURYSM (Aneurysm) [Pathologic Function]
+   645   C0011065:Deceased (Cessation of life) [Organism Function]
+   812   C0337474:Grandmother [Family Group]
+
+Phrase: :
+
+Phrase: breast cancer   Objective Vitals
+Meta Mapping (837):
+   694   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+   645   C1571702:Objective (Objective observation) [Qualitative Concept]
+   741   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 150/92 PE
+Meta Mapping (827):
+   827   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: regular rate rhythme,
+Meta Mapping (623):
+   660   C0205272:Regular [Qualitative Concept]
+   660   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: gallops,
+
+Phrase: no tenderness to chest wall.
+Meta Mapping (807):
+   593   C1518422:No (Negation) [Functional Concept]
+   844 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+
+Phrase: no deformities
+Meta Mapping (1000):
+  1000 N C0000768:Deformities (Congenital Abnormality) [Congenital Abnormality]
+
+Phrase: Pulmonary
+Meta Mapping (1000):
+  1000   C2709248:Pulmonary (Pulmonary (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: clear to auscultation bilaterally,
+Meta Mapping (708):
+   770 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: no wheezing, rales,
+Meta Mapping (888):
+   694 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+   861 N C0034642:RALES (Rales) [Finding]
+
+Phrase: good effort    Assessment Summary
+Meta Mapping (833):
+   645   C0205170:Good [Qualitative Concept]
+   645   C0015264:Effort (Exertion) [Organism Function]
+   645   C1516048:Assessment (Assessed) [Activity]
+   812   C1706244:Summary (Summary (document)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 70_Cage.txt.tx.16: Gerry Cage is a Ms. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 70_Cage.txt.tx.17: Gerry Cage is a 55 yo female with pmh of HTN who presents for concerns of chest pain as 8/10 3 days ago with similar milder episodes over the past 4 months. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with pmh of HTN
+Meta Mapping (667):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   578   C0262926:PMH (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for concerns of chest pain
+Meta Mapping (772):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C2699424:Concerns (Concern) [Idea or Concept]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: as 8/10 3 days ago with similar milder episodes
+Meta Mapping (708):
+   593   C0291457:AS 8 [Organic Chemical,Pharmacologic Substance]
+   593   C1883310:10^3 (One Thousand) [Quantitative Concept]
+   739   C0439228:DAYS (day) [Temporal Concept]
+   573   C2348205:Similar (Similarity) [Qualitative Concept]
+   540   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   573   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: over the past 4 months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 70_Cage.txt.tx.18: Family hx notable for heart disease.   
+
+Phrase: Family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: notable for heart disease.
+Meta Mapping (783):
+   770   C4288581:Notable [Qualitative Concept]
+   666   C0018799:HEART DISEASE, NOS (Heart Diseases) [Disease or Syndrome]
+Processing 70_Cage.txt.tx.19: DDx: Unstable angina: likely due to onset of CP without exertion, associated SOB, timing of symptoms. 
+
+Phrase: DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: likely due to onset of CP
+Meta Mapping (753):
+   753   C0750492:Likely (Probably) [Idea or Concept]
+   790   C0678226:Due To (Due to) [Functional Concept]
+   753   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   753   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: without exertion,
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: associated SOB,
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: timing of symptoms.
+Meta Mapping (746):
+   790   C0449243:Timing [Temporal Concept]
+   623 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 70_Cage.txt.tx.20: PMH of HTN Myocardial infarction: likely due to chest pain, less likely due to symptoms 3 days ago, no diaphoresis, no radiating chest pain. 
+
+Phrase: PMH of HTN Myocardial infarction
+Meta Mapping (761):
+   760   C0262926:PMH (Medical History) [Finding]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   640   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: likely due to chest pain,
+Meta Mapping (857):
+   760   C0750492:Likely (Probably) [Idea or Concept]
+   806   C0678226:Due To (Due to) [Functional Concept]
+   806   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: less likely due to symptoms 3 days ago,
+Meta Mapping (775):
+   744   C0547044:Less (Smaller) [Qualitative Concept]
+   744   C0750492:Likely (Probably) [Idea or Concept]
+   770   C0678226:Due To (Due to) [Functional Concept]
+   744   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   750   C3842675:Day 3 [Finding]
+
+Phrase: no diaphoresis,
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+
+Phrase: no radiating chest pain.
+Meta Mapping (1000):
+  1000 N C0232289:Chest pain, radiating (Radiating chest pain) [Sign or Symptom]
+Processing 70_Cage.txt.tx.21: CHF: likely due to CP, associated SOB, HTN, less likely due to acuity of symptoms no associated SOB  Plan - EKG - troponins Cardiac stress test - provide nitroglycerin
+
+Phrase: CHF
+Meta Mapping (1000):
+  1000   C0018802:CHF (Congestive heart failure) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: likely due to CP,
+Meta Mapping (861):
+   770   C0750492:Likely (Probably) [Idea or Concept]
+   833   C0678226:Due To (Due to) [Functional Concept]
+   770   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: associated SOB,
+Meta Mapping (888):
+   694   C0332281:Associated (Associated with) [Qualitative Concept]
+   861   C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: less likely due to acuity of symptoms
+Meta Mapping (751):
+   748   C0547044:Less (Smaller) [Qualitative Concept]
+   748   C0750492:Likely (Probably) [Idea or Concept]
+   778   C0678226:Due To (Due to) [Functional Concept]
+   748   C0750509:acuity [Idea or Concept]
+   748   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: no associated SOB  Plan - EKG - troponins Cardiac stress test -
+Meta Mapping (826):
+   626   C0332281:Associated (Associated with) [Qualitative Concept]
+   626 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+   626   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   626   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   835   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: provide
+Meta Mapping (1000):
+  1000   C1999230:Provide (Providing (action)) [Activity]
+
+Phrase: nitroglycerin
+Meta Mapping (1000):
+  1000   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]

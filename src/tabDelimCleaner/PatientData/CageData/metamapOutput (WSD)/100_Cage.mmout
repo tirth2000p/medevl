@@ -1,0 +1,379 @@
+Processing 100_Cage.txt.tx.1: Subjective CC: Chest Pain HPI: Gerry Cage is a 55 y/o F presenting to clinic with chest pain 3 days ago. 
+
+Phrase: Subjective CC
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: Chest Pain HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 y/o F presenting to clinic
+Meta Mapping (698):
+   600   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   578   C0450382:55 [Intellectual Product]
+   578   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   578   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with chest pain 3 days ago.
+Meta Mapping (790):
+   673   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   804   C0439228:DAYS (day) [Temporal Concept]
+Processing 100_Cage.txt.tx.2: She was carrying groceries when she felt the sudden onset of midsternal chest pain described as a heavy, deep ache. 
+
+Phrase: She
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the sudden onset of midsternal chest pain
+Meta Mapping (752):
+   804   C0184567:Sudden onset pain (Acute onset pain) [Sign or Symptom]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: described as a heavy, deep ache.
+Meta Mapping (697):
+   753   C1552738:described [Idea or Concept]
+   753   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   753   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   753   C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 100_Cage.txt.tx.3: She also felt faint and says it "took her breath away" Symptoms lasted 5-10 mins and resolved without intervention. 
+
+Phrase: She also felt faint
+Meta Mapping (901):
+   901   C0581879:Felt faint [Sign or Symptom]
+
+Phrase: and
+
+Phrase: says
+
+Phrase: it "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away" Symptoms
+Meta Mapping (901):
+   734   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+   827   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 mins
+Meta Mapping (890):
+   734   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   793   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (890):
+   660   C0439084:>5 [Quantitative Concept]
+   884   C0456692:/10 min [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved without intervention.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1273869:Intervention (Intervention regimes) [Health Care Activity]
+Processing 100_Cage.txt.tx.4: She has never experienced similar symptoms, but has felt twinges in her chest previously.   
+
+Phrase: She
+
+Phrase: has
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: similar symptoms,
+Meta Mapping (888):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+   861   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: has
+
+Phrase: felt twinges in her chest previously.
+Meta Mapping (495):
+   553   C1527305:feel (Feelings) [Mental Process]
+   586   C0574443:HER (Herero language) [Language]
+   586   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Processing 100_Cage.txt.tx.5: Objective Vitals: T 98.0F P85 R14 BP 150/92 Exam: General: appears well, no acute distress Cardio: RRR, pulses 2+ and equal bilaterally throughout Lung: CTAB   PMHx: HTN Medication: Chlorthalidone 25 mg daily, Lisinopril 10mg daily  Allergies: NKDA FHx: Father with CAD, deceased from MI at age 50; mother with HTN SHx: 30 pack year smoking history, 2-3 glasses of wine on weekends, balanced diet but drinks 4-5 cups of coffee daily, no exercisee  Assessment Ms. 
+
+Phrase: Objective Vitals
+Meta Mapping (853):
+   694   C1571702:Objective (Objective observation) [Qualitative Concept]
+   789   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T 98.0F P85 R14 BP 150/92 Exam
+Meta Mapping (738):
+   641   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   624   C3541313:p85 (PIK3R2 wt Allele) [Gene or Genome]
+   624   C1415692:Bp (HP gene) [Gene or Genome]
+   791   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: well,
+Meta Mapping (1000):
+  1000   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: no acute distress
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000 N C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+
+Phrase: 2+
+Meta Mapping (1000):
+  1000   C0740116:+2 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: equal bilaterally throughout Lung
+Meta Mapping (708):
+   770   C0205163:Equal [Qualitative Concept]
+   770   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB   PMHx
+Meta Mapping (694):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: :
+
+Phrase: HTN Medication
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Chlorthalidone 25 mg daily,
+Meta Mapping (916):
+   923   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: Lisinopril 10mg daily  Allergies
+Meta Mapping (813):
+   886   C0571941:Lisinopril allergy [Disease or Syndrome]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: :
+
+Phrase: NKDA FHx
+Meta Mapping (861):
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father with CAD,
+Meta Mapping (746):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: deceased from MI
+Meta Mapping (746):
+   790   C0011065:Deceased (Cessation of life) [Organism Function]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 50
+Meta Mapping (888):
+   861   C0001779:AGE (Age) [Organism Attribute]
+   861   C3843766:<50 [Finding]
+
+Phrase: ; mother with HTN SHx
+Meta Mapping (708):
+   770   C0026591:MOTHER (Mother (person)) [Family Group]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: 30 pack year smoking history,
+Meta Mapping (857):
+   637   C3842588:30% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: balanced diet
+Meta Mapping (1000):
+  1000   C0452410:Balanced diet [Therapeutic or Preventive Procedure]
+
+Phrase: but
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: 4-5 cups of coffee daily,
+Meta Mapping (851):
+   648   C4687967:4 OF 5 (Severity Four Out of Five) [Finding]
+   753   C0180231:Cups (Cup Device) [Medical Device]
+   586   C0009237:Coffee [Food]
+   586   C0332173:Daily [Temporal Concept]
+
+Phrase: no exercisee  Assessment Ms.
+Meta Mapping (790):
+   660   C1516048:Assessment (Assessed) [Activity]
+   827   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 100_Cage.txt.tx.6: Cage is a 55 y/o F w/ episodic chest pain w/ hx notable for 30 pack year smoking, HTN, and heavy coffee intake. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 y/o F w/ episodic chest pain w/ hx
+Meta Mapping (729):
+   623   C0450382:55 [Intellectual Product]
+   623   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   646   C3808668:Episodic pain [Sign or Symptom]
+   623   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   790   C0262926:Hx (Medical History) [Finding]
+Meta Mapping (729):
+   623   C0450382:55 [Intellectual Product]
+   623   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   623   C1455761:Episodic [Temporal Concept]
+   637   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   790   C0262926:Hx (Medical History) [Finding]
+
+Phrase: notable for 30 pack year smoking,
+Meta Mapping (753):
+   753   C4288581:Notable [Qualitative Concept]
+   586   C3842588:30% [Quantitative Concept]
+   623   C1277691:Pack Year (Pack years) [Intellectual Product]
+   586   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: heavy coffee intake.
+Meta Mapping (901):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   901   C0556160:Coffee intake [Finding]
+Processing 100_Cage.txt.tx.7: Likely diagnosis is stable angina, but should also consider  MI, anxiety attack.  
+
+Phrase: Likely diagnosis
+Meta Mapping (964):
+   964   C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+
+Phrase: is
+
+Phrase: stable angina,
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: should
+
+Phrase: also
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: anxiety attack.
+Meta Mapping (1000):
+  1000   C0700031:ANXIETY ATTACK (Anxiety attack) [Mental or Behavioral Dysfunction]
+Processing 100_Cage.txt.tx.8: Plan - CBC, Tpn - Smoking cessation counseling - BP log to monitor for medication change
+
+Phrase: Plan - CBC,
+Meta Mapping (888):
+   694   C1301732:Plan (Planned) [Functional Concept]
+   861   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: Tpn - Smoking cessation counseling - BP
+Meta Mapping (840):
+   637   C1313790:TPN (TAPBP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   673   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   637   C0740209:Counseling NOS (Encounter due to counseling) [Finding]
+   804   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: log
+Meta Mapping (1000):
+  1000   C1708728:Log (Event Log) [Intellectual Product]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: monitor for medication change
+Meta Mapping (783):
+   819   C0085421:Medication monitor (Drug Monitoring) [Health Care Activity]
+   770   C0392747:Change (Changing) [Functional Concept]
+Meta Mapping (783):
+   770   C0030695:monitor (Patient Monitoring) [Health Care Activity]
+   833   C0580105:medication change (Change of medication) [Therapeutic or Preventive Procedure]

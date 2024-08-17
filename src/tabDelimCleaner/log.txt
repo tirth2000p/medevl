@@ -1,0 +1,12 @@
+Done! 189 txt files created for patient Cage.
+189 files created for patient Cage (if restarting after an error, don't worry about created file count.)
+27_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+20_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+40_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+119_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+170_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+138_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+204_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+125_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+97_Cage.json is incomplete, this is a metamap error. Manual grading required for this file.
+190 files created for patient Cage (if restarting after an error, don't worry about created file count.)

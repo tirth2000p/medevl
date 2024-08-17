@@ -1,0 +1,459 @@
+Processing 162_Cage.txt.tx.1: Subjective    HPI:  Mr. 
+
+Phrase: Subjective    HPI
+Meta Mapping (694):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 162_Cage.txt.tx.2: Cage is a 47 yo M with a history of HTN who presents with complaints of chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 47 yo M with a history of HTN
+Meta Mapping (664):
+   762   C4331833:a.m. [Qualitative Concept]
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   575   C0262926:History (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with complaints of chest pain.
+Meta Mapping (772):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0277786:complaints (Chief complaint (finding)) [Finding]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 162_Cage.txt.tx.3: Patient reports he experienced a deep, aching pain in the center of his chest while he was carrying water and some heavy items to his car. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: he
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: a deep,
+Meta Mapping (1000):
+  1000   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+
+Phrase: aching
+Meta Mapping (1000):
+  1000   C0234238:Aching (Ache) [Sign or Symptom]
+
+Phrase: pain in the center of his chest
+Meta Mapping (785):
+   819   C0024902:Pain in the breast (Mastodynia) [Sign or Symptom]
+   581   C0205099:Centre (Central) [Spatial Concept]
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying water
+Meta Mapping (888):
+   694   C0206243:Carrying [Activity]
+   861   C0043047:WATER (water) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: some heavy items to his car.
+Meta Mapping (716):
+   586   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   719   C1551338:Item (Entity) [Entity]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 162_Cage.txt.tx.4: Pain rated as a 7/10. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: rated as a 7/10.
+Meta Mapping (745):
+   760   C0871208:Rated (Rating (action)) [Activity]
+   797   C5191365:10.7 [Quantitative Concept]
+Processing 162_Cage.txt.tx.5: The pain lasted for about 5 min and was associated with lightheadedness. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted for about 5 min
+Meta Mapping (669):
+   726   C1517741:Last [Qualitative Concept]
+   760   C0702093:/min (Per Minute) [Temporal Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 162_Cage.txt.tx.6: He also reports that he has had a couple similar episode of mild chest pain associated with exertion, but he had never had increased pain like this one episode. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: a couple similar episode of mild chest pain
+Meta Mapping (780):
+   578   C0010222:couple (Couples (persons)) [Family Group]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   770   C0332189:Episode of [Temporal Concept]
+   600   C0278138:Mild pain [Finding]
+   578   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (780):
+   578   C0010222:couple (Couples (persons)) [Family Group]
+   578   C2348205:Similar (Similarity) [Qualitative Concept]
+   770   C0332189:Episode of [Temporal Concept]
+   578   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: associated with exertion,
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: but
+
+Phrase: he
+
+Phrase: had
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: had
+
+Phrase: increased pain like
+Meta Mapping (790):
+   660   C0442805:INCREASED (Increase) [Functional Concept]
+   827 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: this one episode.
+Meta Mapping (888):
+   694   C0205447:ONE (One) [Quantitative Concept]
+   861   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 162_Cage.txt.tx.7: He denies any fevers, chills, headache, dyspnea or vision changes.   
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any fevers,
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: headache,
+Meta Mapping (1000):
+  1000 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: dyspnea
+Meta Mapping (1000):
+  1000 N C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: vision changes.
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+Processing 162_Cage.txt.tx.8: Meds:  Chlorthalidone  Lisinopril   Allergies: NKDA   PMH: HTN   FH: father died of MI and had CABG done, mother with T2DM   Social Hx: smokes 1 pach/day for the last 21 years, drinks 2-3 wine glasses on Friday and Saturday, no illicit drug use. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone  Lisinopril   Allergies
+Meta Mapping (890):
+   896   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Meta Mapping (890):
+   660   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   884   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: NKDA   PMH
+Meta Mapping (861):
+   861   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN   FH
+Meta Mapping (694):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died of MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: CABG
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: done
+
+Phrase: ,
+
+Phrase: mother with T2DM   Social Hx
+Meta Mapping (745):
+   760   C0026591:MOTHER (Mother (person)) [Family Group]
+   640   C0945165:Social Hx (Social history:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: smokes 1 pach/day for the last 21 years,
+Meta Mapping (672):
+   575   C0037369:smokes (Smoking) [Individual Behavior]
+   745   C0556972:day year (days/year) [Temporal Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: 2-3 wine glasses on Friday
+Meta Mapping (753):
+   623   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   753   C0043188:WINE (Wine) [Food]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+   586   C0585029:Friday [Temporal Concept]
+
+Phrase: and
+
+Phrase: Saturday,
+Meta Mapping (1000):
+  1000   C0585030:Saturday [Temporal Concept]
+
+Phrase: no illicit drug use.
+Meta Mapping (1000):
+  1000 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+Processing 162_Cage.txt.tx.9: Works as an IT at CapitalOne    Objectively:  BP 150/92  P 85  Res[ 14  Temp 98    Exam:  General: appears comfortable, NAD  CVS: RRR, normal S1 and S2, no murmurs, or gallops. 
+
+Phrase: Works as an
+Meta Mapping (790):
+   790   C0043227:works (Work) [Occupational Activity]
+
+Phrase: IT at CapitalOne    Objectively
+
+Phrase: :
+
+Phrase: BP 150/92  P 85  Res
+Meta Mapping (756):
+   632   C1415692:Bp (HP gene) [Gene or Genome]
+   632   C4517892:85 [Quantitative Concept]
+   799   C2347379:RES (Observation Result) [Finding]
+
+Phrase: [ 14  Temp 98    Exam
+Meta Mapping (775):
+   645   C0039476:TEMP (Temperature) [Quantitative Concept]
+   645   C4319627:98 [Quantitative Concept]
+   812   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: comfortable, NAD  CVS
+Meta Mapping (660):
+   660   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: normal S1
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: or
+
+Phrase: gallops.
+Processing 162_Cage.txt.tx.10: Radial, carotid and dorsalis pedis pulses 2+ bilaterally,  no JVD, no LE edema  Pulm: CTA     Assessement:  Mr. 
+
+Phrase: Radial, carotid
+Meta Mapping (888):
+   694   C0442038:Radial [Conceptual Entity]
+   861   C0741968:Carotid (carotid) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: dorsalis pedis pulses 2+ bilaterally,
+Meta Mapping (884):
+   884   C1997492:Dorsalis pedis PULSES (Dorsalis pedis pulse rate) [Clinical Attribute]
+
+Phrase: no JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no LE edema
+Meta Mapping (888):
+   694   C0439090:LE (Less Than or Equal to) [Quantitative Concept]
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTA     Assessement
+Meta Mapping (694):
+   694   C3540513:CTA (PCYT1A wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 162_Cage.txt.tx.11: Cage is a 47 yo M with HTN presenting with exertional chest pain associated with lightheadedness. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 47 yo M with HTN presenting
+Meta Mapping (701):
+   774   C4331833:a.m. [Qualitative Concept]
+   581   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   581   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with exertional chest pain
+Meta Mapping (1000):
+  1000   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: associated with lightheadedness.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 162_Cage.txt.tx.12: Patient is hypertensive and active smoker. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: hypertensive
+Meta Mapping (1000):
+  1000   C0857121:hypertensive (Hypertensive (finding)) [Finding]
+
+Phrase: and
+
+Phrase: active smoker.
+Meta Mapping (888):
+   694   C0205177:Active [Qualitative Concept]
+   861   C0337664:Smoker [Finding]
+Processing 162_Cage.txt.tx.13: Most likely diagnosis include stable angina given pain is exertional and not at rest. 
+
+Phrase: Most likely diagnosis
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: stable angina given pain
+Meta Mapping (824):
+   694   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   812   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Meta Mapping (824):
+   645   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   875   C0002962:angina pain (Angina Pectoris) [Sign or Symptom]
+
+Phrase: is
+
+Phrase: exertional
+Meta Mapping (1000):
+  1000   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: not at rest.
+Meta Mapping (746):
+   790   C1518422:Not (Negation) [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 162_Cage.txt.tx.14: MI also in the differential   Plan  - Order EGK
+
+Phrase: MI also in the differential   Plan  - Order EGK
+Meta Mapping (656):
+   744   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   578   C0443199:Differential (Differential quality) [Qualitative Concept]
+   578   C1301732:Plan (Planned) [Functional Concept]
+   578   C1705178:Order (Order (action)) [Activity]

@@ -1,0 +1,629 @@
+Processing 163_Cage.txt.tx.1: Subjective - Mr. 
+
+Phrase: Subjective - Mr.
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 163_Cage.txt.tx.2: Gerry Cage is a 46 y/o male with hx of HTN (takes Chlorthalidone and Lisinopril daily) presenting with complaints of episodic CP. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 y/o male with hx of HTN
+Meta Mapping (664):
+   595   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0262926:Hx (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: (
+
+Phrase: takes
+Meta Mapping (1000):
+  1000   C1515187:Take [Health Care Activity]
+
+Phrase: Chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril daily
+Meta Mapping (888):
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   694   C0332173:Daily [Temporal Concept]
+
+Phrase: )
+
+Phrase: presenting with complaints of episodic CP.
+Meta Mapping (750):
+   767   C0277786:Presenting Complaint (Chief complaint (finding)) [Finding]
+   581   C0332189:Episode of [Temporal Concept]
+   586   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Processing 163_Cage.txt.tx.3: Patient states that 3 days ago he was carrying groceries when he noticed a central CP described as a "deep ache". 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: noticed
+
+Phrase: a central CP
+Meta Mapping (888):
+   694   C0205099:CENTRAL (Central) [Spatial Concept]
+   861   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: described as a "deep ache".
+Meta Mapping (696):
+   760   C1552738:described [Idea or Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 163_Cage.txt.tx.4: Pt went and sat in his car for 5-10 minutes and the pain then completely subsided. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: went
+
+Phrase: and
+
+Phrase: sat in his car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   604   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: the pain then
+Meta Mapping (888):
+   861   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   694   C1883708:Then [Temporal Concept]
+
+Phrase: completely
+Meta Mapping (1000):
+  1000   C0205197:Completely (Complete) [Qualitative Concept]
+
+Phrase: subsided.
+Processing 163_Cage.txt.tx.5: He has had similar episodes of CP for the last 4 months that only occur when he is exercising or being active. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: similar episodes of CP
+Meta Mapping (852):
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+   816   C0332189:Episode of [Temporal Concept]
+   604   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: for the last 4 months
+Meta Mapping (896):
+   896   C4331910:Last Month (Past 30 days) [Temporal Concept]
+
+Phrase: that
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: occur
+Meta Mapping (1000):
+  1000   C2745955:OCCUR (Occurrence) [Temporal Concept]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: is
+
+Phrase: exercising
+Meta Mapping (966):
+   966   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: being
+
+Phrase: active.
+Meta Mapping (1000):
+  1000   C0205177:Active [Qualitative Concept]
+Processing 163_Cage.txt.tx.6: Pain does not radiate elsewhere. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: elsewhere.
+Processing 163_Cage.txt.tx.7: Denies any recent fever, cough, congestion, SOB, abd pain, nausea, vomiting, diarrhea. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any recent fever,
+Meta Mapping (888):
+   694   C0332185:Recent [Temporal Concept]
+   861 N C0015967:FEVER (Fever) [Sign or Symptom]
+
+Phrase: cough,
+Meta Mapping (1000):
+  1000 N C0010200:COUGH (Coughing) [Sign or Symptom]
+
+Phrase: congestion,
+Meta Mapping (1000):
+  1000 N C2826600:CONGESTION (Tissue Congestion) [Finding]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: abd pain,
+Meta Mapping (888):
+   694   C0000726:abd (Abdomen) [Body Location or Region]
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: diarrhea.
+Meta Mapping (1000):
+  1000 N C0011991:DIARRHOEA (Diarrhea) [Sign or Symptom]
+Processing 163_Cage.txt.tx.8: Pt smokes cigarettes, 1 ppd for >20 years. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: cigarettes,
+Meta Mapping (1000):
+  1000   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: 1 ppd for
+Meta Mapping (771):
+   623   C2827734:1+ (1+ Score) [Quantitative Concept]
+   790   C1144026:PPD (EIF2C2 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: >20 years.
+Meta Mapping (1000):
+  1000   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+Processing 163_Cage.txt.tx.9: Endorses drinking 3-5 drinks each weekend. 
+
+Phrase: Endorses
+
+Phrase: drinking
+Meta Mapping (1000):
+  1000   C0001948:Drinking (Alcohol consumption) [Individual Behavior]
+
+Phrase: 3-5
+Meta Mapping (1000):
+  1000   C0442758:3 5 (3/5) [Quantitative Concept]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: each weekend.
+Meta Mapping (1000):
+  1000   C0680190:Weekend [Temporal Concept]
+Processing 163_Cage.txt.tx.10: Familial hx of father with MI in 40s and CABG; mother with HTN, diabetes and PE. 
+
+Phrase: Familial hx of father
+Meta Mapping (733):
+   604   C0015576:Familial (Family) [Family Group]
+   770   C0262926:Hx (Medical History) [Finding]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with MI in 40s
+Meta Mapping (722):
+   604   C0332287:With (In addition to) [Functional Concept]
+   770   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: CABG
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: ; mother with HTN,
+Meta Mapping (746):
+   790   C0026591:MOTHER (Mother (person)) [Family Group]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: diabetes
+Meta Mapping (1000):
+  1000   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: PE.
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 163_Cage.txt.tx.11: No further medical complaints at this time.   
+
+Phrase: No further medical complaints at this time.
+Meta Mapping (719):
+   774   C0424577:No complaints [Finding]
+   581   C1517331:Further [Spatial Concept]
+   581   C0205476:Medical [Functional Concept]
+   581   C0040223:TIME (Time) [Temporal Concept]
+Processing 163_Cage.txt.tx.12: Objective - Vital signs T 98, P 85, R 14, BP 150/92 Physical exam: General - Well nourished, well developed, No acute distress Cardiovascular - Regular rate and rhythm, no murmurs, rubs or gallup. 
+
+Phrase: Objective - Vital signs T 98,
+Meta Mapping (794):
+   804   C1571702:Objective (Objective observation) [Qualitative Concept]
+   840   C0150404:Vital signs (Taking vital signs) [Health Care Activity]
+   804   C4319627:98 [Quantitative Concept]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: BP 150/92 Physical exam
+Meta Mapping (812):
+   637   C1708288:BP (HP wt Allele) [Gene or Genome]
+   840   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: General - Well nourished, well developed,
+Meta Mapping (619):
+   637   C0205246:General (Generalized) [Spatial Concept]
+   673   C2364291:Well nourished (Actual Positive Nutritional Status) [Finding]
+
+Phrase: No acute distress Cardiovascular - Regular rate
+Meta Mapping (822):
+   637   C0205178:ACUTE (acute) [Temporal Concept]
+   637 N C0231303:Distress [Finding]
+   637   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+   637   C0205272:Regular [Qualitative Concept]
+   804   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallup.
+Processing 163_Cage.txt.tx.13: No peripheral edema bilaterally. 
+
+Phrase: No peripheral edema bilaterally.
+Meta Mapping (901):
+   901 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+Processing 163_Cage.txt.tx.14: Chest - Chest wall is nontender, no crepitus.  
+
+Phrase: Chest - Chest wall
+Meta Mapping (913):
+   913   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+
+Phrase: is
+
+Phrase: nontender,
+Meta Mapping (1000):
+  1000   C0520960:Nontender (Non-tender) [Qualitative Concept]
+
+Phrase: no crepitus.
+Meta Mapping (1000):
+  1000 N C0277964:Crepitus (Subcutaneous crepitus) [Pathologic Function]
+Processing 163_Cage.txt.tx.15: Lungs - Clear to auscultate bilaterally. 
+
+Phrase: Lungs -
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: Clear
+Meta Mapping (1000):
+  1000   C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: auscultate
+
+Phrase: bilaterally.
+Processing 163_Cage.txt.tx.16: No wheezing, rales or rhonchi.  
+
+Phrase: No wheezing, rales
+Meta Mapping (888):
+   694 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+   861 N C0034642:RALES (Rales) [Finding]
+
+Phrase: or
+
+Phrase: rhonchi.
+Meta Mapping (1000):
+  1000 N C0035508:RHONCHI (Rhonchi) [Finding]
+Processing 163_Cage.txt.tx.17: MSK - Good tone, moving all extremities Skin - warm, dry  Assessment - Mr. 
+
+Phrase: MSK - Good tone,
+Meta Mapping (828):
+   660   C1420279:msk (SIK1 gene) [Gene or Genome]
+   660   C0205170:Good [Qualitative Concept]
+   755   C3543842:tonic (TONICS) [Pharmacologic Substance]
+
+Phrase: moving
+Meta Mapping (1000):
+  1000   C0560560:Moving [Organism Function]
+
+Phrase: all extremities Skin - warm, dry  Assessment - Mr.
+Meta Mapping (827):
+   660   C1282135:extremities skin (Skin of part of limb) [Body Part, Organ, or Organ Component]
+   632   C0687712:warm (warming process) [Natural Phenomenon or Process]
+   632   C0205222:Dry [Qualitative Concept]
+   632   C1516048:Assessment (Assessed) [Activity]
+   799   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Meta Mapping (827):
+   632   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+   691   C0558035:Skin assessment [Diagnostic Procedure]
+   632   C0687712:warm (warming process) [Natural Phenomenon or Process]
+   632   C0205222:Dry [Qualitative Concept]
+   799   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 163_Cage.txt.tx.18: Gerry cage is a 46 y/o male w/ hx of HTN presenting for episodic, CP x 4 months. 
+
+Phrase: Gerry cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 y/o male w/ hx of HTN presenting
+Meta Mapping (660):
+   591   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   573   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   739   C0262926:Hx (Medical History) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for episodic, CP x 4 months.
+Meta Mapping (762):
+   637   C1455761:Episodic [Temporal Concept]
+   637   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   804   C0439231:MONTHS (month) [Temporal Concept]
+Processing 163_Cage.txt.tx.19: Sx only occur with exercise, significant cardiac risk factors include smoking, alcohol use, HTN, familial hx of MI/CABG/DM/PE. 
+
+Phrase: Sx
+Meta Mapping (1000):
+  1000   C3539997:SX (Sint Maarten (Dutch Part)) [Geographic Area]
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: occur with exercise,
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: significant cardiac risk factors
+Meta Mapping (861):
+   645   C0750502:Significant [Idea or Concept]
+   812   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: smoking,
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: alcohol use,
+Meta Mapping (1000):
+  1000   C0001948:ALCOHOL USE (Alcohol consumption) [Individual Behavior]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: familial hx of MI/CABG/DM/PE.
+Meta Mapping (836):
+   581   C0015576:Familial (Family) [Family Group]
+   804   C4695787:Hx of CABG (Coronary artery bypass graft surgery:Hx:Pt:^Patient:Ord) [Clinical Attribute]
+   581   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   581   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+   581   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 163_Cage.txt.tx.20: Vital signs notable for HTN.  
+
+Phrase: Vital signs
+Meta Mapping (1000):
+  1000   C0150404:Vital signs (Taking vital signs) [Health Care Activity]
+
+Phrase: notable for HTN.
+Meta Mapping (746):
+   790   C4288581:Notable [Qualitative Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 163_Cage.txt.tx.21: Ddx: Angina, MI, PE, muscle strain  Plan - EKG, troponin, CK, in office to evaluate current cardiac status. 
+
+Phrase: Ddx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Angina,
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: muscle strain  Plan - EKG,
+Meta Mapping (861):
+   694   C0080194:Muscle Strain (Muscle strain) [Injury or Poisoning]
+   645   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   812   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CK,
+Meta Mapping (1000):
+  1000   C0010287:CK (Creatine Kinase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: in office
+Meta Mapping (861):
+   861   C0442603:Office [Manufactured Object]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate
+Meta Mapping (1000):
+  1000   C0220825:Evaluate (Evaluation) [Health Care Activity]
+
+Phrase: current cardiac status.
+Meta Mapping (901):
+   660   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   901   C2735302:Cardiac status (Cardiac status:-:Point in time:^Patient:-) [Clinical Attribute]
+Processing 163_Cage.txt.tx.22: Lipid levels in office. 
+
+Phrase: Lipid levels
+Meta Mapping (966):
+   966   C0428460:Lipid level (Finding of lipid level) [Laboratory or Test Result]
+
+Phrase: in office.
+Meta Mapping (861):
+   861   C0442603:Office [Manufactured Object]
+Processing 163_Cage.txt.tx.23: - Refer to cardiologist for further imaging (possible echocardiogram) and w/u. 
+
+Phrase: -
+
+Phrase: Refer
+Meta Mapping (1000):
+  1000   C0205543:Refer (Referring) [Functional Concept]
+
+Phrase: to cardiologist for further imaging
+Meta Mapping (724):
+   593   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   760   C0175906:CARDIOLOGIST (Cardiologists) [Professional or Occupational Group]
+   593   C1517331:Further [Spatial Concept]
+   593   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+
+Phrase: (possible echocardiogram
+Meta Mapping (888):
+   694   C0332149:Possible [Finding]
+   861   C0013516:Echocardiogram (Echocardiography) [Diagnostic Procedure]
+
+Phrase: )
+
+Phrase: and
+
+Phrase: w/u.
+Meta Mapping (861):
+   861   C0439148:{U} (Unit) [Quantitative Concept]
+Processing 163_Cage.txt.tx.24: - provide NTG tablets for episodes of CP  - return precautions - worsening/unrelenting CP. 
+
+Phrase: -
+
+Phrase: provide
+Meta Mapping (1000):
+  1000   C1999230:Provide (Providing (action)) [Activity]
+
+Phrase: NTG tablets for episodes of CP  - return precautions -
+Meta Mapping (732):
+   578   C1847730:NTG (GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO (finding)) [Finding]
+   744   C0039225:Tablets (Tablet Dosage Form) [Biomedical or Dental Material]
+   587   C0332189:Episode of [Temporal Concept]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   578   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+   578   C1882442:Precautions (Precaution) [Conceptual Entity]
+
+Phrase: worsening
+Meta Mapping (1000):
+  1000   C1457868:Worsening (Worse) [Finding]
+
+Phrase: /unrelenting CP.
+Meta Mapping (861):
+   861   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Processing 163_Cage.txt.tx.25: No strenuous exercise at home until appointment with cardiology.
+
+Phrase: No strenuous exercise
+Meta Mapping (1000):
+  1000   C1514989:Strenuous Exercise [Daily or Recreational Activity]
+
+Phrase: at home until appointment
+Meta Mapping (783):
+   833 N C4534363:At home [Finding]
+   604   C0003629:Appointment (Appointments) [Temporal Concept]
+
+Phrase: with cardiology.
+Meta Mapping (1000):
+  1000   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]

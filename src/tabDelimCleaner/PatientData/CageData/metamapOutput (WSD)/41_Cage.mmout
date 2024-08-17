@@ -1,0 +1,520 @@
+Processing 41_Cage.txt.tx.1: Ms. 
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 41_Cage.txt.tx.2: Gage is a 55 yo F with pmhx of htn who presents to clinic today for chest pain. 
+
+Phrase: Gage
+Meta Mapping (1000):
+  1000   C1521879:GAGE [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: is
+
+Phrase: a 55 yo F with pmhx of htn
+Meta Mapping (656):
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents to clinic today
+Meta Mapping (733):
+   770   C0150312:PRESENT (Present) [Finding]
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: for chest pain.
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 41_Cage.txt.tx.3: She states that 3 days ache she experiences pressure-like chest pain and dizziness while carrying her groceries to the car. 
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that 3 days
+Meta Mapping (1000):
+  1000   C1442459:3 Days [Temporal Concept]
+
+Phrase: ache
+Meta Mapping (1000):
+  1000   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: she
+
+Phrase: experiences
+Meta Mapping (1000):
+  1000   C0596545:experiences (Experience) [Mental Process]
+
+Phrase: pressure-
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: like chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: dizziness
+Meta Mapping (1000):
+  1000   C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: her groceries to the car.
+Meta Mapping (520):
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 41_Cage.txt.tx.4: She states the pain resolved after 5-10 minutes of rest. 
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved after 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Processing 41_Cage.txt.tx.5: She reports 2-3 similar incidences in the past 4 months. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: 2-3 similar incidences in the past 4 months.
+Meta Mapping (709):
+   575   C2827735:2+ (2+ Score) [Quantitative Concept]
+   575   C2348205:Similar (Similarity) [Qualitative Concept]
+   742   C0021149:Incidences (Incidence) [Quantitative Concept]
+   615   C4086725:Past 3 Months [Temporal Concept]
+Processing 41_Cage.txt.tx.6: She also co of lower, midepigastric pressure that occurs after a large meal that resolves in 3-5 minutes. 
+
+Phrase: She also co of lower, midepigastric
+Meta Mapping (666):
+   586   C1822717:SHE (SHE gene) [Gene or Genome]
+   753   C3245499:CO (Colombia) [Geographic Area]
+   586   C0441994:LOWER (Lower - spatial qualifier) [Spatial Concept]
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: that
+
+Phrase: occurs after a large meal
+Meta Mapping (696):
+   760   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   760   C0549177:LARGE (Large) [Quantitative Concept]
+   760   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: resolves in 3-5 minutes.
+Meta Mapping (745):
+   760   C2699488:Resolve (Resolution) [Conceptual Entity]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 41_Cage.txt.tx.7: She denies nausea, vomitting during these episdoes. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomitting during these episdoes.
+Processing 41_Cage.txt.tx.8: Denies sob, pleuritc chest pain.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: sob,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: pleuritc chest pain.
+Meta Mapping (901):
+   901 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 41_Cage.txt.tx.9: Meds: Chlorithalidone 25 mg daily, Lisinopril 10 mg daily  Allergies: none  Pmhx: htn No surgical hx, no recent hospitalizations Family Hx: Father: deceased secdonary to MI at age 40, CAD Mother: deceased secondary to PE age 60, HTN  PE:   BP 150/92, Pulse 85 bpm, RR 14, Temp 98 F General: pleasant woman in NAD Resp: non-labored respirations, lungs CTAB bl Cardio: RRR, nl S1 and S2, no peripheral edema, radial and pt 2+ bl   Assessment: Mrs, Gage is a 55 yo F with htn who presents for episode chest pain with exertion that resolves with rest. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorithalidone 25 mg daily,
+Meta Mapping (750):
+   812   C0024671:MG (Mammography) [Diagnostic Procedure]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: Lisinopril 10 mg daily  Allergies
+Meta Mapping (875):
+   717   C0987217:Lisinopril 10 MG [Clinical Drug]
+   637   C0332173:Daily [Temporal Concept]
+   804   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none  Pmhx
+
+Phrase: :
+
+Phrase: htn
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: No surgical hx,
+Meta Mapping (888):
+   694   C0543467:Surgical (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   861 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: no recent hospitalizations Family Hx
+Meta Mapping (833):
+   645   C0332185:Recent [Temporal Concept]
+   645   C0019993:Hospitalizations (Hospitalization) [Health Care Activity]
+   645   C0015576:Family [Family Group]
+   812 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: :
+
+Phrase: deceased secdonary to MI
+Meta Mapping (541):
+   604   C0011065:Deceased (Cessation of life) [Organism Function]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at age 40,
+Meta Mapping (888):
+   861   C0001779:AGE (Age) [Organism Attribute]
+   861   C3842587:40% [Quantitative Concept]
+
+Phrase: CAD Mother
+Meta Mapping (888):
+   694   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   861   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: :
+
+Phrase: deceased secondary to PE age 60,
+Meta Mapping (839):
+   586   C0011065:Deceased (Cessation of life) [Organism Function]
+   790   C0175668:Secondary to [Qualitative Concept]
+   617   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+   586   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: HTN  PE
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: Pulse 85 bpm,
+Meta Mapping (623):
+   660   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+   660   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: Temp 98 F
+Meta Mapping (851):
+   660   C0039476:TEMP (Temperature) [Quantitative Concept]
+   660   C4319627:98 [Quantitative Concept]
+   827   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: pleasant woman in NAD Resp
+Meta Mapping (724):
+   593   C2987187:Pleasant [Mental Process]
+   760   C0043210:WOMAN (Woman) [Population Group]
+   593   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+   593   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: non-labored respirations,
+Meta Mapping (901):
+   660   C1518422:Non (Negation) [Functional Concept]
+   901 N C0553668:labored respirations (Labored breathing) [Sign or Symptom]
+
+Phrase: lungs CTAB bl
+Meta Mapping (851):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   660   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   827   C2827109:BL (Saint Barthelemy) [Geographic Area]
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: nl S1
+Meta Mapping (888):
+   694   C0027778:NL (Netherlands) [Geographic Area]
+   861 N C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no peripheral edema,
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: radial
+Meta Mapping (1000):
+  1000   C0920847:Radial (Circumpennate) [Conceptual Entity]
+
+Phrase: and
+
+Phrase: pt 2+ bl   Assessment
+Meta Mapping (775):
+   645   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+   645   C2827109:BL (Saint Barthelemy) [Geographic Area]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mrs,
+Meta Mapping (1000):
+  1000   C2349188:Mrs. (Mrs - title) [Intellectual Product]
+
+Phrase: Gage
+Meta Mapping (1000):
+  1000   C1521879:GAGE [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: is
+
+Phrase: a 55 yo F with htn
+Meta Mapping (697):
+   586   C0450382:55 [Intellectual Product]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   753   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents for episode chest pain
+Meta Mapping (761):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C0332189:EPISODE (Episode of) [Temporal Concept]
+   806   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: resolves with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 41_Cage.txt.tx.10: PE was non-contributory. 
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: was
+
+Phrase: non-contributory.
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C1880177:Contributory (Contribution) [Activity]
+Processing 41_Cage.txt.tx.11: Family hx is notable for early MI in her father. 
+
+Phrase: Family hx
+Meta Mapping (888):
+   694   C0015576:Family [Family Group]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: is
+
+Phrase: notable for early MI
+Meta Mapping (733):
+   770   C4288581:Notable [Qualitative Concept]
+   604   C1279919:Early [Temporal Concept]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in her father.
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+Processing 41_Cage.txt.tx.12: Pain is consistent with angina given it occurs with exertion and resolves with rest. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: consistent with angina
+Meta Mapping (901):
+   882   C0332290:Consistent with [Idea or Concept]
+   623   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: it
+
+Phrase: occurs with exertion
+Meta Mapping (746):
+   790   C2745955:OCCUR (Occurrence) [Temporal Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: resolves with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 41_Cage.txt.tx.13: Other items on differential include gerd, anxiety, and PE.  
+
+Phrase: Other items on differential
+Meta Mapping (722):
+   604   C0205394:OTHER (Other) [Qualitative Concept]
+   737   C1551338:Item (Entity) [Entity]
+   604   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C2700399:Include (Include (action)) [Activity]
+
+Phrase: gerd,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: anxiety,
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: and
+
+Phrase: PE.
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Processing 41_Cage.txt.tx.14: Plan: - obtain EKG in office. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C1301732:Plan (Planned) [Functional Concept]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: in office.
+Meta Mapping (861):
+   861   C0442603:Office [Manufactured Object]
+Processing 41_Cage.txt.tx.15: - rx statin, asa, bb to prevent anginal episodes + short acting nitrate to abort episodes - Cardio referral for echo and stress test
+
+Phrase: - rx statin,
+Meta Mapping (888):
+   694   C2709207:Rx (Rx therapy) [Therapeutic or Preventive Procedure]
+   861   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: asa,
+Meta Mapping (1000):
+  1000   C0004057:ASA (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: bb
+Meta Mapping (1000):
+  1000   C0004739:BB (Barbados) [Geographic Area]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: prevent
+Meta Mapping (1000):
+  1000   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: anginal episodes + short acting nitrate
+Meta Mapping (801):
+   566   C0002962:anginas (Angina Pectoris) [Sign or Symptom]
+   637   C0332189:Episodes (Episode of) [Temporal Concept]
+   637   C1282927:short (Shortened) [Qualitative Concept]
+   604   C1869853:ACT (SERPINA3 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   804   C0028125:Nitrate (Nitrates) [Chemical Viewed Structurally]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: abort
+Meta Mapping (1000):
+  1000   C1611646:Abort (Abort - Remote control command) [Functional Concept]
+
+Phrase: episodes - Cardio referral for echo
+Meta Mapping (733):
+   593   C0332189:Episodes (Episode of) [Temporal Concept]
+   593   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+   760   C0034927:Referral (Patient referral) [Health Care Activity]
+   593   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: and
+
+Phrase: stress test
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]

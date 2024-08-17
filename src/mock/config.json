@@ -1,0 +1,77 @@
+{
+    "cage" : {
+        "subjective" : {
+            "fail" : [
+                {
+                    "name" : "hypertension",
+                    "term" : "hypertension"
+                }
+
+            ],
+            "review" : [
+                {
+                    
+                    "name" :"myocardial infarction",
+                    "term" : "(myocardial)\\s+(infarction)"
+                    
+                }
+            ]
+            
+        },
+        "objective" : {
+            "fail" : [
+                {
+                    "name" : "vitals_BP",
+                    "term" : "150( )?/( )?92"
+                },
+                {
+                    "name" : "vitals_HR",
+                    "term" : "85"
+                 }
+                
+            ],
+            "review" : [
+
+            ]
+        },
+        "assessment" : {
+            "fail" : [
+                {
+                    "name" : "DDX",
+                    "term" : "(angina)|((myocardial)\\s+(infarction))"
+                }  
+
+            ],
+            "review" : [
+
+            ]
+        },
+        "plan" : {
+            "fail":[
+                {
+                    "name" : "EKG",
+                    "term" : "(EKG|ECG)"
+                },
+                {
+                    "name" : "stress test",
+                    "term" : "(((stress)\\s+(test))|((myocardial)\\s+(perfusion))|((echo)\\s+(stress))|((exercise)\\s+(stress)\\s+(test)))"
+
+                }
+            ],
+            "review" : [
+
+            ]
+        }
+    },
+    "abbreviations" : [
+        {
+            "term" : "\\s+MI\\s+",
+
+            "replace" : " myocardial infarction "
+
+        }
+
+        
+    ]
+        
+}

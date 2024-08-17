@@ -1,0 +1,182 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0565930,/s,per second,-1000,-1000,S,0,True,S: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,3,True,S: Mr. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,7,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,7,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C1413296,Yo,CDR2 gene,-575,-649,a 46 yo man with PMH of HTN presenting,21,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0025266,Man,Male population group,-742,-649,a 46 yo man with PMH of HTN presenting,21,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0262926,PMH,Medical History,-575,-649,a 46 yo man with PMH of HTN presenting,21,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0020538,HTN,Hypertensive disease,-575,-649,a 46 yo man with PMH of HTN presenting,21,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0449450,Presenting,Presentation,-575,-649,a 46 yo man with PMH of HTN presenting,21,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0231290,After,Status post,-586,-772,after an episode of chest pain,60,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0332189,EPISODE,Episode of,-753,-772,after an episode of chest pain,60,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0024902,Pain of breast,Mastodynia,-626,-772,after an episode of chest pain,60,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0206244,Lifting,Lifting,-660,-623,after lifting heavy groceries.,91,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-660,-623,after lifting heavy groceries.,91,True,Gerry Cage is a 46 yo man with PMH of HTN presenting after an episode of chest pain after lifting heavy groceries. 
+C1552738,described,described,-1000,-1000,described,125,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0234229,Deep pain,Deep pain,-783,-722,"the pain as a deep ache,",135,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0234238,ACHE,Ache,-586,-722,"the pain as a deep ache,",135,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0439539,Heavy,Heavy (weight) (qualifier value),-1000,-1000,"""heavy""",164,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0016204,Wind NOS,Flatulence,-760,-695,"the wind out of him.""",186,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0439787,Out,Out (direction),-593,-695,"the wind out of him.""",186,True,"He described the pain as a deep ache, and ""heavy"" that ""knocked the wind out of him."" "
+C0027552,Needed,Needs,-1000,-1000,needed,211,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C1883351,To,To,-660,-833,to sit down,218,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C0728713,sit,Does sit,-827,-833,to sit down,218,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C0423866,Lanugo,Lanugo,-771,-833,to sit down,218,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C0035253,Rest,Rest,-770,-708,rest in the car,234,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C0004381,Car,Automobiles,-604,-708,rest in the car,234,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C0456692,/10 minutes,/10 min,-806,-806,away after 5-10 minutes.,262,True,He needed to sit down and rest in the car and it went away after 5-10 minutes. 
+C1527305,feel,Feelings,-612,-795,He also felt light headed,287,True,He also felt light headed and dizzy during the episode. 
+C0220870,Lightheaded,Lightheadedness,-861,-795,He also felt light headed,287,True,He also felt light headed and dizzy during the episode. 
+C3280868,"Dizziness, episodic","Dizziness, episodic",-748,-748,dizzy during the episode.,317,True,He also felt light headed and dizzy during the episode. 
+C0439231,MONTHS,month,-753,-753,"said over the last 4 months,",346,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0457385,Seconds,seconds,-760,-760,"a few seconds of ""twinges""",386,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C1527391,Chest,Anterior thoracic region,-1000,-1000,in his chest,413,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0439092,Less Than,Less Than,-631,-761,(less painful than this event,426,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0030193,Painful,Pain,-760,-761,(less painful than this event,426,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0441471,Event,Event,-593,-761,(less painful than this event,426,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0035953,Running,Running (physical activity),-1000,-1000,running,463,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0080331,Walking,Walking (activity),-790,-746,walking up stairs,474,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C4329247,Stairs,Ability to Use Stairs,-623,-746,walking up stairs,474,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C1518422,Not,Negation,-1000,-1000,not,503,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0027552,Need,Needs,-1000,-1000,need,507,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C1883351,To,To,-1000,-1000,to,512,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C2746065,Stop,Stop (qualifier value),-1000,-1000,stop,515,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C0457385,Seconds,seconds,-790,-790,away in seconds.,552,True,"He said over the last 4 months, he has had a few seconds of ""twinges"" in his chest (less painful than this event) while running or walking up stairs but he did not need to stop what he was doing and they went away in seconds. "
+C1515187,Take,Take,-1000,-1000,takes,572,True,He takes 25mg chlorthaladone and 10mg lisinopril daily for a diagnosis of HTN. 
+C0065374,Lysinopril,lisinopril,-744,-649,10mg lisinopril daily for a diagnosis of HTN.,602,True,He takes 25mg chlorthaladone and 10mg lisinopril daily for a diagnosis of HTN. 
+C0332173,Daily,Daily,-578,-649,10mg lisinopril daily for a diagnosis of HTN.,602,True,He takes 25mg chlorthaladone and 10mg lisinopril daily for a diagnosis of HTN. 
+C1704338,diagnosis,diagnosis aspect,-578,-649,10mg lisinopril daily for a diagnosis of HTN.,602,True,He takes 25mg chlorthaladone and 10mg lisinopril daily for a diagnosis of HTN. 
+C0020538,HTN,Hypertensive disease,-578,-649,10mg lisinopril daily for a diagnosis of HTN.,602,True,He takes 25mg chlorthaladone and 10mg lisinopril daily for a diagnosis of HTN. 
+C0013227,Medications,Pharmaceutical Preparations,-1000,-1000,other medications.,651,True,No other medications.   
+C0015576,Family,Family,-694,-888,Family hx,672,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0262926,Hx,Medical History,-861,-888,Family hx,672,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0750502,Significant,Significant,-770,-708,significant for an MI,682,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0683474,MI,Motivational Interviewing,-604,-708,significant for an MI,682,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C1536078,Bypass Surgery,Bypass Surgery,-806,-752,bypass surgery in his father,708,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0523697,HIS,Histidine measurement,-593,-752,bypass surgery in his father,708,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0015671,FATHER,Father (person),-593,-752,bypass surgery in his father,708,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0043194,WAS,Wiskott-Aldrich Syndrome,-770,-708,was in his 40s.,745,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0523697,HIS,Histidine measurement,-770,-708,was in his 40s.,745,True,Family hx significant for an MI and bypass surgery in his father when he was in his 40s. 
+C0026591,MOTHER,Mother (person),-1000,-1000,Mother,761,True,Mother passed away from a pulmonary embolism.  
+C2828386,Passed,Pass (indicator),-753,-722,passed away from a pulmonary embolism.,768,True,Mother passed away from a pulmonary embolism.  
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-790,-722,passed away from a pulmonary embolism.,768,True,Mother passed away from a pulmonary embolism.  
+C0043227,works,Work,-790,-746,works in marketing,813,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0024826,Marketing,Marketing,-623,-746,works in marketing,813,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0006909,Capital,Capital,-694,-888,"at Capital One,",832,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0205447,ONE,One,-861,-888,"at Capital One,",832,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C2700095,20 Pack,Twenty Pack,-673,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0439508,/Year,per year,-637,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0453996,Smoking,Tobacco smoking behavior,-637,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0262926,Hx,Medical History,-804,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C3842589,20%,20%,-637,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C1277691,Pack Year,Pack years,-673,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0453996,Smoking,Tobacco smoking behavior,-637,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0262926,Hx,Medical History,-804,-840,"20 pack year smoking hx,",848,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C3843788,4 - 6,4 - 6,-640,-761,"4-6 drinks per week,",873,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0452428,Drinks,Drink (dietary substance),-760,-761,"4-6 drinks per week,",873,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0332174,/week,Weekly,-593,-761,"4-6 drinks per week,",873,True,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C0281875,Illicit drug use,Illicit medication use,-1000,-1000,no illicit drug use.,894,False,"SHx: works in marketing at Capital One, 20 pack year smoking hx, 4-6 drinks per week, no illicit drug use. "
+C1518422,Not,Negation,-660,-851,"not very active,",926,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0442824,Very,Very,-660,-851,"not very active,",926,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0205177,Active,Active,-827,-851,"not very active,",926,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0080331,Walk,Walking (activity),-1000,-1000,walks,943,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C2825407,Half,Half,-1000,-1000,half,949,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C2347127,mile,British Mile,-581,-506,a mile 2x per day very slowly,954,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0439228,Day,day,-581,-506,a mile 2x per day very slowly,954,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0442824,Very,Very,-581,-506,a mile 2x per day very slowly,954,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0439834,Slowly,Slow,-581,-506,a mile 2x per day very slowly,954,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0012984,DOG,Canis familiaris,-1000,-1000,with his dog.,984,True,"Says he is not very active, walks half a mile 2x per day very slowly with his dog. "
+C0013470,Eat,Eating,-966,-966,Eats,998,True,"Eats whatever is available, heavy carbs.   "
+C0470187,Available,Availability of,-660,-851,"available, heavy carbs.",1015,True,"Eats whatever is available, heavy carbs.   "
+C0439539,Heavy,Heavy (weight) (qualifier value),-660,-851,"available, heavy carbs.",1015,True,"Eats whatever is available, heavy carbs.   "
+C0007004,Carbs,Carbohydrates,-827,-851,"available, heavy carbs.",1015,True,"Eats whatever is available, heavy carbs.   "
+C0483204,O NOS,O NOS Ab,-1000,-1000,O,1041,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0518766,VITAL,Vital signs,-755,-755,"Vitals 150/92,",1045,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",1060,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C4517892,85,85,-861,-861,"HR 85,",1067,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C2603360,T',T prime,-660,-802,T 98F  Exam,1074,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0582103,Exam,Medical Examination,-827,-802,T 98F  Exam,1074,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0205246,General,Generalized,-1000,-1000,General,1088,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0205170,Well,Good,-581,-686,"well appearing man with athletic body habitus,",1097,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0700364,APPEAR,Appearance,-548,-686,"well appearing man with athletic body habitus,",1097,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0025266,Man,Male population group,-748,-686,"well appearing man with athletic body habitus,",1097,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C1510656,Athletic,Athletics,-581,-686,"well appearing man with athletic body habitus,",1097,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0460148,Body,Human body structure,-581,-686,"well appearing man with athletic body habitus,",1097,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0700364,APPEAR,Appearance,-1000,-1000,appears,1144,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C1442792,Stated,State,-694,-888,"stated age,",1152,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0001779,AGE,Age,-861,-888,"stated age,",1152,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0205178,ACUTE,acute,-694,-888,no acute distress,1164,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0231303,Distress,Distress,-861,-888,no acute distress,1164,False,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0018787,Cardiac,Heart,-1000,-1000,Cardiac,1182,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0205272,Regular,Regular,-694,-888,Regular rate,1191,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C1521828,Rate,Rate,-861,-888,Regular rate,1191,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0871269,Rhythm,Rhythm,-1000,-1000,"rhythm,",1208,True,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C0018808,murmurs,Heart murmur,-1000,-1000,"no murmurs,",1216,False,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1228,False,"O:  Vitals 150/92, RR 14, HR 85, T 98F  Exam:  General: well appearing man with athletic body habitus, appears stated age, no acute distress Cardiac: Regular rate and rhythm, no murmurs, rubs, gallops. "
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,1243,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C0456389,Size,size,-790,-746,size of quarter,1250,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C2825406,Quarter,Quarter,-623,-746,size of quarter,1250,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C1516077,At,At,-581,-774,at 4th intercostal space at midaxillary line.,1266,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C4068814,4th intercostal space,4th intercostal space,-814,-774,at 4th intercostal space at midaxillary line.,1266,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C0446443,Midaxillary line,Midaxillary line,-612,-774,at 4th intercostal space at midaxillary line.,1266,True,PMI is size of quarter at 4th intercostal space at midaxillary line. 
+C0007280,CAROTID BRUIT,Carotid bruit,-1000,-1000,"No carotid bruit,",1312,False,"No carotid bruit, No JVD, jugular venous pulse is brisk. "
+C0425687,JVD,Jugular venous engorgement,-1000,-1000,"No JVD,",1330,False,"No carotid bruit, No JVD, jugular venous pulse is brisk. "
+C0232133,Jugular venous pulse,Jugular venous pulse,-1000,-1000,jugular venous pulse,1338,True,"No carotid bruit, No JVD, jugular venous pulse is brisk. "
+C0443162,Brisk,Brisk,-1000,-1000,brisk.,1362,True,"No carotid bruit, No JVD, jugular venous pulse is brisk. "
+C0439090,LE,Less Than or Equal to,-1000,-1000,LE,1369,True,LE pulses 2+ bilaterally. 
+C0034107,Pulses,Pulse taking,-1000,-1000,pulses,1372,True,LE pulses 2+ bilaterally. 
+C0740116,+2,+2,-861,-861,2+ bilaterally.,1379,True,LE pulses 2+ bilaterally. 
+C0439090,LE,Less Than or Equal to,-694,-888,No LE edema.,1395,True,No LE edema.  
+C0013604,OEDEMA,Edema,-861,-888,No LE edema.,1395,False,No LE edema.  
+C0521346,RESPIRATORY,respiratory,-1000,-1000,Respiratory,1409,True,"Respiratory: CTAB on posterior lung fields, no increased WOB.  "
+C0951233,CTAB,cetrimonium bromide,-760,-761,"CTAB on posterior lung fields,",1422,True,"Respiratory: CTAB on posterior lung fields, no increased WOB.  "
+C0205095,POSTERIOR,Dorsal,-593,-761,"CTAB on posterior lung fields,",1422,True,"Respiratory: CTAB on posterior lung fields, no increased WOB.  "
+C0225759,fields lung,Lung field,-631,-761,"CTAB on posterior lung fields,",1422,True,"Respiratory: CTAB on posterior lung fields, no increased WOB.  "
+C0442805,INCREASED,Increase,-694,-694,no increased WOB.,1453,True,"Respiratory: CTAB on posterior lung fields, no increased WOB.  "
+C1123023,SKIN,Skin,-1000,-1000,Skin,1472,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C0582051,Warm,Feels warm,-660,-851,"warm, dry  GI",1478,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C0205222,Dry,Dry,-660,-851,"warm, dry  GI",1478,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C1708130,Gi,GNAI1 wt Allele,-827,-851,"warm, dry  GI",1478,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C0003483,Aortic,Aorta,-694,-694,no aortic anerysm,1493,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C0006318,BRUIT,Bruit,-1000,-1000,bruit,1514,False,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1525,True,"Skin: warm, dry  GI: no aortic anerysm or bruit   A: Mr. "
+C0337189,Cage,Cage device,-1000,-1000,Cage,1529,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0025266,Man,Male population group,-753,-672,"a 46yo man with PMH HTN,",1537,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0262926,PMH,Medical History,-586,-672,"a 46yo man with PMH HTN,",1537,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0020538,HTN,Hypertensive disease,-586,-672,"a 46yo man with PMH HTN,",1537,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C3541878,FAM,USP9X wt Allele,-694,-888,Fam Hx,1562,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0262926,Hx,Medical History,-861,-888,Fam Hx,1562,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0750502,Significant,Significant,-790,-746,significant for MI,1569,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0683474,MI,Motivational Interviewing,-623,-746,significant for MI,1569,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0150312,In,Present,-593,-529,"in 40s in his father,",1588,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0523697,HIS,Histidine measurement,-593,-529,"in 40s in his father,",1588,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0015671,FATHER,Father (person),-593,-529,"in 40s in his father,",1588,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C2700095,20 Pack,Twenty Pack,-673,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0439508,/Year,per year,-637,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C1519384,Smoking History,Tobacco Smoking History,-840,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C3842589,20%,20%,-637,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C1277691,Pack Year,Pack years,-673,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C1519384,Smoking History,Tobacco Smoking History,-840,-857,"20 pack-year smoking history,",1610,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C1532253,Sedentary Lifestyle,Sedentary lifestyle,-1000,-1000,sedentary lifestyle,1644,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0150312,PRESENT,Present,-770,-783,presents with stable angina.,1668,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C0340288,STABLE ANGINA,Stable angina,-833,-783,presents with stable angina.,1668,True,"Cage is a 46yo man with PMH HTN, Fam Hx significant for MI in 40s in his father, 20 pack-year smoking history, and sedentary lifestyle who presents with stable angina. "
+C2699424,Concerns,Concern,-1000,-1000,Other concerns,1697,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0742343,ACS,Acute Chest Syndrome,-1000,-1000,ACS,1716,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0205170,Well,Good,-861,-872,well appearing,1730,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0700364,APPEAR,Appearance,-827,-872,well appearing,1730,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C1515981,And,And,-760,-696,and in no acute distress,1745,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0205178,ACUTE,acute,-760,-696,and in no acute distress,1745,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0231303,Distress,Distress,-760,-696,and in no acute distress,1745,False,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0582103,Exam,Medical Examination,-1000,-1000,on exam,1770,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,chest pain,1782,False,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C0035253,Rest,Rest,-790,-790,away with rest.,1798,True,Other concerns are ACS but he is well appearing and in no acute distress on exam and chest pain went away with rest.   
+C2603361,P',P prime,-1000,-1000,P,1816,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C1623258,EKG,Electrocardiography,-1000,-1000,EKG,1819,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C0039985,cxr,Plain chest X-ray,-1000,-1000,CXR,1827,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C1883351,To,To,-1000,-1000,to,1831,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C1516048,Assess,Assessed,-1000,-1000,assess,1834,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C0749075,STRUCTURAL Abnormalities,STRUCTURAL Abnormalities,-734,-901,"structural abnormalities Lipids,",1841,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C0023779,Lipids,Lipids,-827,-901,"structural abnormalities Lipids,",1841,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C0015663,FASTING,Fasting,-861,-888,fasting glucose,1874,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"
+C0017725,GLUCOSE,glucose,-861,-888,fasting glucose,1874,True,"P: EKG and CXR to assess structural abnormalities Lipids, fasting glucose"

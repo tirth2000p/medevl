@@ -1,0 +1,165 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0008318,CC,cholecalciferol,-1000,-1000,CC,0,True,"CC: ""Chest pain""  Subjective: HPI: Mr. "
+C0008031,CHEST PAIN,Chest Pain,-734,-901,"""Chest pain""  Subjective",4,True,"CC: ""Chest pain""  Subjective: HPI: Mr. "
+C0439655,Subjective,Subjective observation (qualifier value),-827,-901,"""Chest pain""  Subjective",4,True,"CC: ""Chest pain""  Subjective: HPI: Mr. "
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,35,True,"CC: ""Chest pain""  Subjective: HPI: Mr. "
+C0337189,Cage,Cage device,-1000,-1000,Cage,39,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C1706180,Male,"Male Gender, Self Report",-760,-686,a 47yo male with hypertension,47,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C0020538,HYPERTENSION,Hypertensive disease,-593,-686,a 47yo male with hypertension,47,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C0150312,PRESENT,Present,-738,-724,presents after an episode of substernal chest pain 3 days ago.,81,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-756,-724,presents after an episode of substernal chest pain 3 days ago.,81,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C0151826,"Chest pain, substernal",Retrosternal pain,-775,-724,presents after an episode of substernal chest pain 3 days ago.,81,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C3842675,Day 3,Day 3,-737,-724,presents after an episode of substernal chest pain 3 days ago.,81,True,Cage is a 47yo male with hypertension who presents after an episode of substernal chest pain 3 days ago. 
+C0332189,EPISODE,Episode of,-1000,-1000,The episode,144,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C1517741,Last,Last,-966,-966,lasted,156,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C0456692,/10 minutes,/10 min,-913,-913,10-15 minutes,163,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C1709305,Occurred,Occur (action),-1000,-1000,occurred,181,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,203,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-623,-623,heavy groceries in,212,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C0004381,Car,Automobiles,-1000,-1000,from the car.,231,True,The episode lasted 10-15 minutes and occurred while he was carrying heavy groceries in from the car. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-760,-745,"the pain as 7/10,",258,True,"He describes the pain as 7/10, deep, heavy, and aching. "
+C5191365,10.7,10.7,-631,-745,"the pain as 7/10,",258,True,"He describes the pain as 7/10, deep, heavy, and aching. "
+C0205125,DEEP,Deep (qualifier value),-1000,-1000,"deep,",276,True,"He describes the pain as 7/10, deep, heavy, and aching. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-1000,-1000,"heavy,",282,True,"He describes the pain as 7/10, deep, heavy, and aching. "
+C0234238,Aching,Ache,-1000,-1000,aching.,293,True,"He describes the pain as 7/10, deep, heavy, and aching. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,301,True,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C1518422,Not,Negation,-1000,-1000,not,315,True,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C0332301,radiate,Radiating to,-1000,-1000,radiate,319,True,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C1518422,Not,Negation,-1000,-1000,not,334,True,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C0332281,Associated with,Associated with,-882,-901,associated with diaphoresis,338,True,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C0700590,DIAPHORESIS,Increased sweating,-790,-901,associated with diaphoresis,338,False,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,palpitations.,369,False,The pain does not radiate and is not associated with diaphoresis or palpitations. 
+C0700287,reports,Reporting,-1000,-1000,reports,386,True,He reports feeling lightheaded during the episode. 
+C1527305,Feeling,Feelings,-1000,-1000,feeling,394,True,He reports feeling lightheaded during the episode. 
+C0220870,Lightheaded,Lightheadedness,-770,-708,lightheaded during the episode.,402,True,He reports feeling lightheaded during the episode. 
+C0332189,EPISODE,Episode of,-604,-708,lightheaded during the episode.,402,True,He reports feeling lightheaded during the episode. 
+C0700287,reports,Reporting,-1000,-1000,reports,442,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C0439064,Several,Numerous,-694,-888,"several similar,",450,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C2348205,Similar,Similarity,-861,-888,"several similar,",450,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C0547044,Less,Smaller,-660,-851,"less intense, episodes",476,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C0522510,Intense,With intensity,-660,-851,"less intense, episodes",476,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C0332189,Episodes,Episode of,-827,-851,"less intense, episodes",476,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C2745955,OCCUR,Occurrence,-719,-656,occurring within the last 4 months.,499,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C0439231,MONTHS,month,-753,-656,occurring within the last 4 months.,499,True,"He also reports several similar, although less intense, episodes occurring within the last 4 months. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,535,True,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0085619,Orthopnoea,Orthopnea,-1000,-1000,"orthopnea,",542,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C1956415,PND,Paroxysmal nocturnal dyspnea,-1000,-1000,"PND,",553,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,"palpitations,",558,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0000737,ABDOMINAL PAIN,Abdominal Pain,-1000,-1000,"abdominal pain,",572,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0085594,FEVER CHILLS,Fever with chills,-1000,-1000,"fever/chills,",588,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0441922,N+,N+ (tumor staging),-694,-694,"N/V,",602,True,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C0039070,SYNCOPE,Syncope,-1000,-1000,syncope.,610,False,"Denies orthopnea, PND, palpitations, abdominal pain, fever/chills, N/V, or syncope. "
+C1542147,Main,Main,-660,-851,His main concern today,619,True,His main concern today is that he may have had a heart attack.  
+C2699424,Concern,Concern,-660,-851,His main concern today,619,True,His main concern today is that he may have had a heart attack.  
+C0750526,Today,Today (temporal qualifier),-827,-851,His main concern today,619,True,His main concern today is that he may have had a heart attack.  
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,a heart attack.,666,True,His main concern today is that he may have had a heart attack.  
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,Meds,683,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,"Chlorthalidone,",689,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0571941,Lisinopril allergy,Lisinopril allergy,-983,-983,lisinopril Allergies,705,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",739,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0455610,Prior Surgery,H/O: surgery,-983,-983,no prior surgeries,744,False,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0038257,Stents,"Stent, device",-694,-888,stents  FHx,766,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C1428412,FHX,FOXJ2 gene,-861,-888,stents  FHx,766,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0015671,FATHER,Father (person),-1000,-1000,Father,781,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C1707433,CAD,Collision-Induced Dissociation,-1000,-1000,"CAD,",789,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0683474,MI,Motivational Interviewing,-790,-790,"MI in 40s,",794,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0010055,CABG,Coronary Artery Bypass Surgery,-694,-888,CABG - Mother,805,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0026591,MOTHER,Mother (person),-861,-888,CABG - Mother,805,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"HTN,",820,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0011849,Diabetes,Diabetes Mellitus,-1000,-1000,"diabetes,",825,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C1306577,Died,Death (finding),-770,-708,died of PE  SHx,835,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C1880476,PE,Etoposide-Platinol Regimen,-770,-708,died of PE  SHx,835,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C3241966,Current Smoker,Current Smoker,-1000,-1000,"Current smoker,",852,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C2700095,20 Pack,Twenty Pack,-694,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0439508,/Year,per year,-645,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0262926,Hx,Medical History,-812,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C3842589,20%,20%,-645,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C1277691,Pack Year,Pack years,-694,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C0262926,Hx,Medical History,-812,-861,20 pack year Hx.,868,True,"Meds: Chlorthalidone, lisinopril Allergies: NKDA  PMHx: HTN, no prior surgeries or stents  FHx: - Father: CAD, MI in 40s, CABG - Mother: HTN, diabetes, died of PE  SHx: Current smoker, 20 pack year Hx. "
+C3843788,4 - 6,4 - 6,-623,-771,4-6 alcoholic beverages per week.,885,True,4-6 alcoholic beverages per week. 
+C0001967,Alcoholic Beverages,Alcoholic Beverages,-790,-771,4-6 alcoholic beverages per week.,885,True,4-6 alcoholic beverages per week. 
+C0332174,/week,Weekly,-586,-771,4-6 alcoholic beverages per week.,885,True,4-6 alcoholic beverages per week. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,919,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0281875,Illicit drug use,Illicit medication use,-756,-916,illicit drug use  Objective,926,False,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C1571702,Objective,Objective observation,-812,-916,illicit drug use  Objective,926,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C1708288,BP,HP wt Allele,-622,-737,BP 150/92 HR 85 RR 14 T 98F Physical exam,959,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C4517892,85,85,-622,-737,BP 150/92 HR 85 RR 14 T 98F Physical exam,959,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C4554402,RR,RR genotype,-622,-737,BP 150/92 HR 85 RR 14 T 98F Physical exam,959,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0031809,"Exam, Physical",Physical Examination,-801,-737,BP 150/92 HR 85 RR 14 T 98F Physical exam,959,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0205246,General,Generalized,-1000,-1000,General,1004,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0205170,Well,Good,-660,-840,"Well appearing man,",1013,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0700364,APPEAR,Appearance,-627,-840,"Well appearing man,",1013,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0086582,MAN,Males,-827,-840,"Well appearing man,",1013,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0205178,ACUTE,acute,-660,-851,no acute distress - Cardiac,1033,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0231303,Distress,Distress,-660,-851,no acute distress - Cardiac,1033,False,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0018787,Cardiac,Heart,-827,-851,no acute distress - Cardiac,1033,True,"Denies illicit drug use  Objective: VS: BP 150/92 HR 85 RR 14 T 98F Physical exam: - General: Well appearing man, no acute distress - Cardiac: RRR. "
+C0232231,Normal S2,"Normal second heart sound, S>2<",-797,-761,Normal S1/S2 without murmurs,1067,False,Normal S1/S2 without murmurs or gallops. 
+C3715215,S1,S1,-593,-761,Normal S1/S2 without murmurs,1067,False,Normal S1/S2 without murmurs or gallops. 
+C0018808,murmurs,Heart murmur,-593,-761,Normal S1/S2 without murmurs,1067,False,Normal S1/S2 without murmurs or gallops. 
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,1108,True,PMI no displaced. 
+C0012727,Displaced,Spatial Displacement,-1000,-1000,displaced.,1115,True,PMI no displaced. 
+C0442038,Radial,Radial,-660,-851,"Radial, DP/PT",1126,True,"Radial, DP/PT pulses 2+ bilaterally. "
+C1531217,DP,"DSP protein, human",-660,-851,"Radial, DP/PT",1126,True,"Radial, DP/PT pulses 2+ bilaterally. "
+C0699718,PT,Physical therapy (field),-827,-851,"Radial, DP/PT",1126,True,"Radial, DP/PT pulses 2+ bilaterally. "
+C0034107,Pulses,Pulse taking,-1000,-1000,pulses,1140,True,"Radial, DP/PT pulses 2+ bilaterally. "
+C2827735,2+,2+ Score,-861,-861,2+ bilaterally.,1147,True,"Radial, DP/PT pulses 2+ bilaterally. "
+C0439090,LE,Less Than or Equal to,-694,-888,No LE edema.,1163,True,No LE edema. 
+C0013604,OEDEMA,Edema,-861,-888,No LE edema.,1163,False,No LE edema. 
+C0231832,RESP,Respiratory rate,-1000,-1000,- Resp,1176,True,- Resp: Good air movement. 
+C0205170,Good,Good,-660,-901,Good air movement.,1184,True,- Resp: Good air movement. 
+C0001868,"Movement, Air",Air Movements,-901,-901,Good air movement.,1184,True,- Resp: Good air movement. 
+C0024109,LUNGS,Lung,-694,-888,Lungs CTAB.,1203,True,Lungs CTAB. 
+C0951233,CTAB,cetrimonium bromide,-861,-888,Lungs CTAB.,1203,True,Lungs CTAB. 
+C0000726,Abdominal,Abdomen,-1000,-1000,- Abdominal,1215,True,"- Abdominal: Bowel sounds normoactive, soft and nontender to palpation. "
+C0232693,Bowel sounds,Bowel sounds,-694,-824,"Bowel sounds normoactive, soft",1228,True,"- Abdominal: Bowel sounds normoactive, soft and nontender to palpation. "
+C0205358,Soft,Soft,-812,-824,"Bowel sounds normoactive, soft",1228,True,"- Abdominal: Bowel sounds normoactive, soft and nontender to palpation. "
+C0520960,Nontender,Non-tender,-790,-746,nontender to palpation.,1263,True,"- Abdominal: Bowel sounds normoactive, soft and nontender to palpation. "
+C0030247,PALPATION,Palpation,-623,-746,nontender to palpation.,1263,True,"- Abdominal: Bowel sounds normoactive, soft and nontender to palpation. "
+C0027855,NEURO,Neurology speciality,-1000,-1000,- Neuro,1287,True,"- Neuro: Awake, alert, engaged in conversation.  "
+C0234422,Awake,Awake,-694,-888,"Awake, alert,",1296,True,"- Neuro: Awake, alert, engaged in conversation.  "
+C0239110,ALERT,Consciousness clear,-861,-888,"Awake, alert,",1296,True,"- Neuro: Awake, alert, engaged in conversation.  "
+C0425152,Engaged,Engaged to be married,-790,-746,engaged in conversation.,1310,True,"- Neuro: Awake, alert, engaged in conversation.  "
+C0871703,Conversation,conversation,-790,-746,engaged in conversation.,1310,True,"- Neuro: Awake, alert, engaged in conversation.  "
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1336,True,Assessment and plan: Mr. 
+C0599880,Plan,Treatment Plan,-1000,-1000,plan,1351,True,Assessment and plan: Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,1357,True,Assessment and plan: Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1361,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C1706180,Male,"Male Gender, Self Report",-760,-686,a 47yo male with HTN,1369,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0020538,HTN,Hypertensive disease,-593,-686,a 47yo male with HTN,1369,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0150312,PRESENT,Present,-739,-734,"presents after an episode of deep, achy substernal chest pain",1394,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0332189,Episode of,Episode of,-760,-734,"presents after an episode of deep, achy substernal chest pain",1394,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0205125,DEEP,Deep (qualifier value),-739,-734,"presents after an episode of deep, achy substernal chest pain",1394,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0234238,Aches,Ache,-668,-734,"presents after an episode of deep, achy substernal chest pain",1394,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0151826,"Chest pain, substernal",Retrosternal pain,-782,-734,"presents after an episode of deep, achy substernal chest pain",1394,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C1517741,Last,Last,-966,-966,lasted,1461,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0456692,/10 minutes,/10 min,-913,-913,10-15 minutes,1468,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C2699488,Resolved,Resolution,-790,-746,resolved with rest.,1486,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0035253,Rest,Rest,-790,-746,resolved with rest.,1486,True,"Cage is a 47yo male with HTN who presents after an episode of deep, achy substernal chest pain that lasted 10-15 minutes and resolved with rest. "
+C0031809,"Exam, Physical",Physical Examination,-1000,-1000,Physical exam,1506,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C0443289,Revealed,Revealed,-1000,-1000,revealed,1520,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C0577821,Normal heart sounds,Heart sounds normal,-1000,-1000,normal heart sounds,1529,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C1845208,Euvolemia,Euvolemia,-589,-828,euvolemic volume status.,1553,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C0449468,*Volume,Volume,-660,-828,euvolemic volume status.,1553,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C0449438,Status,Status,-827,-828,euvolemic volume status.,1553,True,Physical exam revealed normal heart sounds and euvolemic volume status. 
+C0750501,most likely,most likely,-734,-901,Most likely explanation,1578,True,Most likely explanation is stable angina. 
+C0681841,Explanation,Explanation,-827,-901,Most likely explanation,1578,True,Most likely explanation is stable angina. 
+C0340288,STABLE ANGINA,Stable angina,-1000,-1000,stable angina.,1605,True,Most likely explanation is stable angina. 
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,DDx,1620,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0332257,include,Including (qualifier),-1000,-1000,includes,1624,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,"unstable angina,",1633,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0683474,MI,Motivational Interviewing,-1000,-1000,"MI,",1650,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0017168,GERD,Gastroesophageal reflux disease,-1000,-1000,"GERD,",1654,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0476280,Musculoskeletal chest pain,Musculoskeletal chest pain,-1000,-1000,musculoskeletal chest pain.,1663,True,"DDx includes unstable angina, MI, GERD, or musculoskeletal chest pain.  "
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1692,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C1623258,ECG NOS,Electrocardiography,-578,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0442603,Office,Office,-578,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0750526,Today,Today (temporal qualifier),-578,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0439659,Start,Beginning,-578,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0017887,Nitroglycerine,nitroglycerin,-744,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0002962,ANGINA,Angina Pectoris,-578,-693,ECG in office today - Start nitroglycerin for angina -,1700,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0750591,consider,consider,-1000,-1000,Consider,1755,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0015260,cardiac stress test,Exercise stress test,-1000,-1000,"cardiac stress test,",1764,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C2347269,ECG Result,CDISC SDTM ECG Finding Terminology,-983,-983,ECG results -,1793,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0443211,establish,Established,-1000,-1000,Establish,1807,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C1947933,Care,care activity,-790,-746,care with cardiologist,1817,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"
+C0175906,CARDIOLOGIST,Cardiologists,-623,-746,care with cardiologist,1817,True,"Plan: - ECG in office today - Start nitroglycerin for angina - Consider cardiac stress test, pending ECG results - Establish care with cardiologist"

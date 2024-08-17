@@ -1,0 +1,164 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective:  Mr. 
+C2347167,Mr.,Mr. - Title,-1000,-1000,Mr.,13,True,Subjective:  Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,17,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C4331833,a.m.,a.m.,-754,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0439508,/Year,per year,-571,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0580836,Old,Old,-571,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0262926,PMH,Medical History,-571,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0020538,HTN,Hypertensive disease,-571,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0449450,Presenting,Presentation,-571,-660,a 46 year old M with a PMH of HTN presenting,25,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0332287,With,In addition to,-593,-858,with episodes of chest pain.,70,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0332189,Episodes,Episode of,-760,-858,with episodes of chest pain.,70,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C0024902,Pain of breast,Mastodynia,-650,-858,with episodes of chest pain.,70,True,Cage is a 46 year old M with a PMH of HTN presenting with episodes of chest pain. 
+C1824356,GET,RESF1 gene,-627,-884,getting chest pain,111,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C0008031,CHEST PAIN,Chest Pain,-901,-884,getting chest pain,111,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C0557778,Grocery Store,Supermarket,-1000,-1000,"the grocery store,",143,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,162,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1515187,Take,Take,-966,-966,took,171,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C3154057,Breath-Away,Breath-Away,-1000,-1000,"his breath away,",176,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1527305,feel,Feelings,-966,-966,felt,196,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C0220870,Lightheaded,Lightheadedness,-1000,-1000,light headed,201,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1883708,Then,Then,-1000,-1000,then,218,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,223,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1705827,SAT,SAT1 wt Allele,-833,-833,sat down,249,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C0004381,Car,Automobiles,-1000,-1000,in his car.,258,True,"He endorses getting chest pain when leaving the grocery store, the pain took his breath away, he felt light headed and then the pain subsided when he sat down in his car. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,Pain,270,True,Pain lasted a couple minutes in durration. 
+C1517741,Last,Last,-966,-966,lasted,275,True,Pain lasted a couple minutes in durration. 
+C0010222,couple,Couples (persons),-593,-695,a couple minutes in durration.,282,True,Pain lasted a couple minutes in durration. 
+C0439232,minutes,Minute of time,-760,-695,a couple minutes in durration.,282,True,Pain lasted a couple minutes in durration. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-760,-745,the pain as 7/10,326,True,"He describes the pain as 7/10 and ""achy pressure"". "
+C5191365,10.7,10.7,-631,-745,the pain as 7/10,326,True,"He describes the pain as 7/10 and ""achy pressure"". "
+C0234238,Aches,Ache,-623,-853,"""achy pressure"".",347,True,"He describes the pain as 7/10 and ""achy pressure"". "
+C0033095,Pressure,Pressure- physical agent,-861,-853,"""achy pressure"".",347,True,"He describes the pain as 7/10 and ""achy pressure"". "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,364,True,The pain was in his left chest. 
+C0043194,WAS,Wiskott-Aldrich Syndrome,-760,-747,was in his left chest.,373,True,The pain was in his left chest. 
+C0019602,HIS,histidine,-760,-747,was in his left chest.,373,True,The pain was in his left chest. 
+C3841482,Thoracic-left,Thoracic-left,-770,-747,was in his left chest.,373,True,The pain was in his left chest. 
+C2981700,2+,"2+ Score, WHO",-1000,-1000,2,407,True,He has had 2 other episodes of chest pain when exerting himself. 
+C0029537,Other chest pain,Other chest pain,-677,-885,other episodes of chest pain,409,True,He has had 2 other episodes of chest pain when exerting himself. 
+C0332189,Episode of,Episode of,-790,-885,other episodes of chest pain,409,True,He has had 2 other episodes of chest pain when exerting himself. 
+C0015264,exerting,Exertion,-1000,-1000,exerting,443,True,He has had 2 other episodes of chest pain when exerting himself. 
+C0008031,Pain In Chest,Chest Pain,-881,-916,pain in his chest,472,True,He has had pain in his chest after eating but he said that feel different. 
+C0019602,HIS,histidine,-604,-916,pain in his chest,472,True,He has had pain in his chest after eating but he said that feel different. 
+C0013470,Eating,Eating,-1000,-1000,after eating,490,True,He has had pain in his chest after eating but he said that feel different. 
+C1527305,feel,Feelings,-1000,-1000,feel,520,True,He has had pain in his chest after eating but he said that feel different. 
+C1705242,Different,Different,-1000,-1000,different.,525,True,He has had pain in his chest after eating but he said that feel different. 
+C0332122,No history of,No history of,-862,-893,no history of acid reflux.,543,True,He has no history of acid reflux. 
+C0018834,Acid reflux,Heartburn,-640,-893,no history of acid reflux.,543,False,He has no history of acid reflux. 
+C1515187,Take,Take,-1000,-1000,takes,573,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C0024671,MG,Mammography,-827,-827,carthalidone 25 mg,579,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C0332173,Daily,Daily,-1000,-1000,daily,598,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-833,-789,lisinopril 10 mg daily for HTN.,608,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C0332173,Daily,Daily,-586,-789,lisinopril 10 mg daily for HTN.,608,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C0020538,HTN,Hypertensive disease,-586,-789,lisinopril 10 mg daily for HTN.,608,True,He takes carthalidone 25 mg daily and lisinopril 10 mg daily for HTN. 
+C1442163,MoM,Multiple of the median,-1000,-1000,Mom,640,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C0262926,History,Medical History,-760,-696,a history of high BP,648,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C1299351,High,Abnormally high,-593,-696,a history of high BP,648,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C1708288,BP,HP wt Allele,-593,-696,a history of high BP,648,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-1000,-1000,dad,673,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C0027051,HEART ATTACK,Myocardial Infarction,-790,-722,a heart attack in his 40s.,681,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C0019602,HIS,histidine,-586,-722,a heart attack in his 40s.,681,True,Mom has a history of high BP and dad had a heart attack in his 40s. 
+C0439994,Smoke,Tobacco smoke,-1000,-1000,smokes,711,True,He smokes 1 ppd of cigarettes. 
+C2827734,1+,1+ Score,-604,-733,1 ppd of cigarettes.,718,True,He smokes 1 ppd of cigarettes. 
+C1710647,PPD,WISP3 wt Allele,-770,-733,1 ppd of cigarettes.,718,True,He smokes 1 ppd of cigarettes. 
+C0677453,Cigarettes,Cigarette,-604,-733,1 ppd of cigarettes.,718,True,He smokes 1 ppd of cigarettes. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,742,True,He denies SOB when walking or laying down. 
+C0013404,SOB,Dyspnea,-1000,-1000,SOB,749,False,He denies SOB when walking or laying down. 
+C0080331,Walking,Walking (activity),-1000,-1000,walking,758,True,He denies SOB when walking or laying down. 
+C1622979,LAYING,Egg Laying,-833,-833,laying down.,769,True,He denies SOB when walking or laying down. 
+C2700401,Deny,Deny (action),-1000,-1000,denies,785,True,He denies palpitations.   
+C0030252,PALPITATIONS,Palpitations,-1000,-1000,palpitations.,792,False,He denies palpitations.   
+C1571702,Objective,Objective observation,-1000,-1000,Objective,808,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C0215604,T 98,T 98,-1000,-1000,"T 98,",822,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C2603361,P',P prime,-861,-888,"P 85,",828,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C4517892,85,85,-861,-888,"P 85,",828,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",834,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C1708288,BP,HP wt Allele,-645,-791,BP 150/92 PE,841,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C0070939,PE,phosphoethanolamine,-812,-791,BP 150/92 PE,841,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C2712143,Normal heart rate,Normal heart rate,-1000,-1000,normal heart rate,855,True,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C0018808,murmurs,Heart murmur,-1000,-1000,no murmurs,884,False,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C3842105,Rubs,Rubs,-1000,-1000,rubs,895,False,"Objective VS: T 98, P 85, RR 14, BP 150/92 PE: normal heart rate and rythm, no murmurs rubs or gallops. "
+C1518422,No,Negation,-578,-717,No pain on palpation of the chest wall.,912,True,No pain on palpation of the chest wall. 
+C0008035,pain chest wall,Chest wall pain,-793,-717,No pain on palpation of the chest wall.,912,False,No pain on palpation of the chest wall. 
+C0030247,PALPATION,Palpation,-578,-717,No pain on palpation of the chest wall.,912,True,No pain on palpation of the chest wall. 
+C1518422,No,Negation,-578,-717,No pain on palpation of the chest wall.,912,True,No pain on palpation of the chest wall. 
+C1963056,Chest wall pain,"Chest Wall Pain, CTCAE 3.0",-793,-717,No pain on palpation of the chest wall.,912,False,No pain on palpation of the chest wall. 
+C0030247,PALPATION,Palpation,-578,-717,No pain on palpation of the chest wall.,912,True,No pain on palpation of the chest wall. 
+C1518422,No,Negation,-593,-734,No bruits in the carotids.,952,True,No bruits in the carotids. 
+C0007280,carotid bruits,Carotid bruit,-781,-734,No bruits in the carotids.,952,False,No bruits in the carotids. 
+C0205108,DISTAL,Distal (qualifier value),-694,-888,Distal pulses,979,True,Distal pulses are 3+. 
+C0034107,Pulses,Pulse taking,-861,-888,Distal pulses,979,True,Distal pulses are 3+. 
+C0439086,<3,<3 (qualifier value),-1000,-1000,3+.,997,True,Distal pulses are 3+. 
+C0425716,Capillary refill,"Capillary filling, function (observable entity)",-1000,-1000,Capillary refill,1001,True,Capillary refill > 3 s. 
+C0439086,<3,<3 (qualifier value),-694,-694,> 3 s.,1018,True,Capillary refill > 3 s. 
+C0024109,LUNGS,Lung,-660,-790,Lungs CTAB bilaterally.,1025,True,Lungs CTAB bilaterally.   
+C0951233,CTAB,cetrimonium bromide,-827,-790,Lungs CTAB bilaterally.,1025,True,Lungs CTAB bilaterally.   
+C1571702,Objective,Objective observation,-694,-888,Objective Mr.,1051,True,Objective Mr. 
+C2347167,Mr.,Mr. - Title,-861,-888,Objective Mr.,1051,True,Objective Mr. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1065,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C4331833,a.m.,a.m.,-754,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0439508,/Year,per year,-571,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0580836,Old,Old,-571,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0262926,PMH,Medical History,-571,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0020538,HTN,Hypertensive disease,-571,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0449450,Presenting,Presentation,-571,-660,a 46 year old M with a PMH of HTN presenting,1073,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0332287,With,In addition to,-586,-772,with 3 episodes of chest pain,1118,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0332189,Episodes,Episode of,-753,-772,with 3 episodes of chest pain,1118,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0024902,Pain of breast,Mastodynia,-626,-772,with 3 episodes of chest pain,1118,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0015264,Exertion,Exertion,-1000,-1000,on exertion.,1148,True,Cage is a 46 year old M with a PMH of HTN presenting with 3 episodes of chest pain on exertion. 
+C0750501,most likely,most likely,-734,-901,Most likely differential,1161,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0443199,Differential,Differential quality,-827,-901,Most likely differential,1161,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,"angina,",1189,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,the pain,1203,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C3812801,IS,Immunogenicity Specimen Assessments Domain,-790,-746,is with exertion,1212,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0015264,Exertion,Exertion,-790,-746,is with exertion,1212,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0456962,Rapidly,Rapid,-770,-708,away rapidly with rest.,1238,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0035253,Rest,Rest,-770,-708,away rapidly with rest.,1238,True,"Most likely differential is angina, since the pain is with exertion and went away rapidly with rest. "
+C0033204,Probable,Probability,-861,-861,also probable,1268,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,1282,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,angina,1288,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0262926,History,Medical History,-770,-708,"a history of HTN,",1305,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0020538,HTN,Hypertensive disease,-604,-708,"a history of HTN,",1305,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0037369,smokes,Smoking,-1000,-1000,smokes,1323,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0750502,Significant,Significant,-586,-813,a significant history of heart disease.,1338,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0730226,History of Disease,H/O: Disorder,-820,-813,a significant history of heart disease.,1338,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0018787,HEART,Heart,-586,-813,a significant history of heart disease.,1338,True,"It is also probable to be angina as he has a history of HTN, smokes and has a significant history of heart disease. "
+C0547044,Less,Smaller,-861,-888,less likely,1384,True,It is less likely that he had an MI since the episode was so short. 
+C0750492,Likely,Probably,-861,-888,less likely,1384,True,It is less likely that he had an MI since the episode was so short. 
+C0683474,MI,Motivational Interviewing,-1000,-1000,an MI,1408,True,It is less likely that he had an MI since the episode was so short. 
+C0332189,EPISODE,Episode of,-1000,-1000,the episode,1420,True,It is less likely that he had an MI since the episode was so short. 
+C0037640,SO,Somalia,-694,-888,so short.,1436,True,It is less likely that he had an MI since the episode was so short. 
+C2350002,Short,Short Value,-861,-888,so short.,1436,True,It is less likely that he had an MI since the episode was so short. 
+C0547044,Less,Smaller,-660,-851,Less likely HF,1446,True,Less likely HF since he has no SOB. 
+C0750492,Likely,Probably,-660,-851,Less likely HF,1446,True,Less likely HF since he has no SOB. 
+C1538440,HF,CFH gene,-827,-851,Less likely HF,1446,True,Less likely HF since he has no SOB. 
+C0013404,SOB,Dyspnea,-1000,-1000,no SOB.,1474,False,Less likely HF since he has no SOB. 
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-1000,-1000,Costochondritis,1482,True,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C0547044,Less,Smaller,-861,-888,less likely,1501,True,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C0750492,Likely,Probably,-861,-888,less likely,1501,True,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,no pain,1528,False,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C1514863,Reproducibility,Reproducibility,-718,-711,reproducible on palpation.,1536,True,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C0030247,PALPATION,Palpation,-623,-711,reproducible on palpation.,1536,True,Costochondritis is less likely since there is no pain reproducible on palpation. 
+C0332189,Episode of,Episode of,-816,-799,The episodes of pain,1563,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C1962977,Pain NOS,"Pain NOS, CTCAE",-604,-799,The episodes of pain,1563,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C1518422,Not,Negation,-1000,-1000,not,1588,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C1709305,Happen,Occur (action),-1000,-1000,happen,1592,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C0013470,Eating,Eating,-1000,-1000,eating,1605,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C0017168,GERD,Gastroesophageal reflux disease,-1000,-1000,GERD,1615,False,The episodes of pain did not happen while eating so GERD is less likely.   
+C0547044,Less,Smaller,-861,-888,less likely.,1623,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C0750492,Likely,Probably,-861,-888,less likely.,1623,True,The episodes of pain did not happen while eating so GERD is less likely.   
+C1301732,Plan,Planned,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C1623258,EKG,Electrocardiography,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0016327,F-,Fluorides,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0439148,{U},Unit,-738,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C1546471,Result,What subject filter - Result,-538,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0332158,Contact with,Contact with,-587,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C1535939,PCP,Pneumocystis jiroveci pneumonia,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0020538,HTN,Hypertensive disease,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C2587213,Control,Control function,-571,-737,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control -,1638,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,angina,1711,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0750591,consider,consider,-1000,-1000,consider,1718,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0439659,Start,Beginning,-661,-872,starting Nitroglycerin,1727,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0017887,Nitroglycerine,nitroglycerin,-861,-872,starting Nitroglycerin,1727,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology
+C0420385,Cardiological referral,Referral to cardiology service,-822,-822,referral to cardiology,1754,True,Plan - EKG  - F/u with results  - Contact PCP regarding HTN control - If angina consider starting Nitroglycerin and referral to cardiology

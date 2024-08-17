@@ -1,0 +1,628 @@
+Processing 49_Cage.txt.tx.1: HPI Gerry Cage is 55 yo female who presents with acute chest pain. 
+
+Phrase: HPI Gerry Cage
+Meta Mapping (790):
+   660   C1019207:gerry (Gerris) [Eukaryote]
+   827   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: 55 yo female
+Meta Mapping (851):
+   660   C0450382:55 [Intellectual Product]
+   660   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   827   C0086287:FEMALE (Females) [Organism Attribute]
+
+Phrase: who
+
+Phrase: presents with acute chest pain.
+Meta Mapping (816):
+   760   C0150312:PRESENT (Present) [Finding]
+   862   C0522051:Acute chest pain [Sign or Symptom]
+Processing 49_Cage.txt.tx.2: She first felt the pain 3 days when carrying heavy groceries. 
+
+Phrase: She
+
+Phrase: first
+Meta Mapping (1000):
+  1000   C0205435:First (First (number)) [Quantitative Concept]
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the pain 3 days
+Meta Mapping (802):
+   660   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: when
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries.
+Meta Mapping (694):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 49_Cage.txt.tx.3: She was able to walk to her car and sit in her car for 5 to 10 minutes until pain subsided. 
+
+Phrase: She
+
+Phrase: was
+
+Phrase: able
+Meta Mapping (1000):
+  1000   C1299581:Able (Able (finding)) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: walk to her car
+Meta Mapping (733):
+   770   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: sit in her car
+Meta Mapping (733):
+   770   C0728713:sit (Does sit) [Finding]
+   604   C0574443:HER (Herero language) [Language]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5 to 10 minutes
+Meta Mapping (752):
+   760   C0521125:For (Preposition For) [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (752):
+   760   C0521125:For (Preposition For) [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: until pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: subsided.
+Processing 49_Cage.txt.tx.4: Since then she did not feel similar pain. 
+
+Phrase: Since then
+Meta Mapping (888):
+   861   C1711239:Since [Temporal Concept]
+   861   C1883708:Then [Temporal Concept]
+
+Phrase: she
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: feel
+Meta Mapping (1000):
+  1000   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: similar pain.
+Meta Mapping (888):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 49_Cage.txt.tx.5: She reports having similar but less intense pain 3-4 times since 4 months ago. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: similar
+Meta Mapping (1000):
+  1000   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: less intense pain 3-4 times since 4 months ago.
+Meta Mapping (723):
+   623   C0547044:Less (Smaller) [Qualitative Concept]
+   623   C0522510:Intense (With intensity) [Qualitative Concept]
+   623   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   807   C0556969:times Month (times/month) [Quantitative Concept]
+Processing 49_Cage.txt.tx.6: She rates the pain 7/10. 
+
+Phrase: She rates
+Meta Mapping (966):
+   966   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: the pain 7/10.
+Meta Mapping (802):
+   827   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   827   C3842590:10% [Quantitative Concept]
+Processing 49_Cage.txt.tx.7: She denies any trauma, sick contact or fever or chills. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any trauma,
+Meta Mapping (1000):
+  1000   C1510467:trauma (trauma qualifier) [Qualitative Concept]
+
+Phrase: sick contact
+Meta Mapping (888):
+   694 N C0221423:Sick (Illness (finding)) [Sign or Symptom]
+   861   C0332158:contact (Contact with) [Functional Concept]
+
+Phrase: or
+
+Phrase: fever
+Meta Mapping (1000):
+  1000 N C0015967:FEVER (Fever) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: chills.
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+Processing 49_Cage.txt.tx.8: Her main concern is about possibility of having heart attack.  
+
+Phrase: Her main concern
+Meta Mapping (888):
+   694   C1542147:Main [Qualitative Concept]
+   861   C2699424:Concern [Idea or Concept]
+
+Phrase: is
+
+Phrase: about possibility of
+Meta Mapping (735):
+   623   C0332232:About (Approximate) [Qualitative Concept]
+   718   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+
+Phrase: having
+
+Phrase: heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 49_Cage.txt.tx.9: PM: HTN FM: Dad (HF, CAD), MOM (HTN, DM, pulmonary aneurysms) Social: 2-3 drinks/week, smoking: 1pack/day (for past 30 years), no recreational drugs, does not exercise Med: Chlorthalidone, lisinopril Allergy: none  VS: T:98 P:85 R:14 BP: 150/92  PE: lung: CTAB CVS: no JVD, no peripheral edema, RRR, S1, S2, no m/r/g  Assessment: This is a 55 yo female with h/o HTN who presents with pain with exertion. 
+
+Phrase: PM
+Meta Mapping (1000):
+  1000   C4761638:PM (Pumi Chinese) [Population Group]
+
+Phrase: :
+
+Phrase: HTN FM
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3540627:FM (FMOD wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: (HF,
+Meta Mapping (1000):
+  1000   C1538440:HF (CFH gene) [Gene or Genome]
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: MOM
+Meta Mapping (1000):
+  1000   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+
+Phrase: (HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pulmonary aneurysms
+Meta Mapping (888):
+   694   C0024109:pulmonary (Lung) [Body Part, Organ, or Organ Component]
+   861   C0002940:ANEURYSMS (Aneurysm) [Pathologic Function]
+
+Phrase: )
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: 2-3 drinks/week,
+Meta Mapping (861):
+   694   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   645   C0452428:Drinks (Drink (dietary substance)) [Food]
+   812   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: :
+
+Phrase: 1pack/day
+Meta Mapping (861):
+   861   C0439228:Day (day) [Temporal Concept]
+
+Phrase: (
+
+Phrase: for past 30 years
+Meta Mapping (890):
+   896   C4086728:Past Year [Temporal Concept]
+   660   C3842588:30% [Quantitative Concept]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: no recreational drugs,
+Meta Mapping (1000):
+  1000   C0242508:Recreational Drugs [Hazardous or Poisonous Substance]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: Med
+Meta Mapping (1000):
+  1000   C4321267:MED (COMP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril Allergy
+Meta Mapping (1000):
+  1000 N C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T:98 P:85 R:14 BP
+Meta Mapping (749):
+   651   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   629   C4517892:85 [Quantitative Concept]
+   629   C0205090:R- (Right) [Spatial Concept]
+   795   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92  PE
+Meta Mapping (827):
+   827   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: lung
+Meta Mapping (1000):
+  1000   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTAB CVS
+Meta Mapping (694):
+   694   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: :
+
+Phrase: no JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no peripheral edema,
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: RRR,
+
+Phrase: S1,
+Meta Mapping (1000):
+  1000 N C3715215:S1 [Finding]
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no m/r/g  Assessment
+Meta Mapping (861):
+   708   C0456715:m g (g.m) [Quantitative Concept]
+   645   C0205090:R- (Right) [Spatial Concept]
+   812   C1516048:Assessment (Assessed) [Activity]
+Meta Mapping (861):
+   694   C0457610:M/R (Measles-rubella vaccine (live)) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+   645   C0439267:g% (Gram per Deciliter) [Quantitative Concept]
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: This
+
+Phrase: is
+
+Phrase: a 55 yo female with h/o HTN
+Meta Mapping (730):
+   600 N C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   578   C0450382:55 [Intellectual Product]
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   744   C0086287:FEMALE (Females) [Organism Attribute]
+   578   C0564385:/h (/hour) [Temporal Concept]
+   578 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with pain
+Meta Mapping (746):
+   790 N C0150312:PRESENT (Present) [Finding]
+   790 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 49_Cage.txt.tx.10: With pertinent physical finding of normal CVS (no volume overload), who has 30pack year smoking history with family history of CAD and HF in dad. 
+
+Phrase: With pertinent physical finding of normal CVS
+Meta Mapping (692):
+   581   C0332287:With (In addition to) [Functional Concept]
+   778   C0311392:Physical finding (Physical findings) [Finding]
+   581   C0205307:NORMAL (Normal) [Qualitative Concept]
+
+Phrase: (
+
+Phrase: no volume overload
+Meta Mapping (1000):
+  1000 N C0546817:VOLUME OVERLOAD (Fluid overload) [Pathologic Function]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: who
+
+Phrase: has
+
+Phrase: 30pack year smoking history with family history of CAD
+Meta Mapping (750):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575 N C0262926:History (Medical History) [Finding]
+   810 N C2733371:Family history of smoking [Finding]
+   575   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: and
+
+Phrase: HF in dad.
+Meta Mapping (746):
+   790   C1538440:HF (CFH gene) [Gene or Genome]
+   623   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+Processing 49_Cage.txt.tx.11: Most likely DDx is stable angina as pain started with exertion and she has HTN with pertinent family history. 
+
+Phrase: Most likely DDx
+Meta Mapping (901):
+   734   C0750501:most likely [Idea or Concept]
+   827   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: is
+
+Phrase: stable angina as pain
+Meta Mapping (783):
+   833   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Meta Mapping (783):
+   770   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   819   C0002962:pain angina (Angina Pectoris) [Sign or Symptom]
+
+Phrase: started with exertion
+Meta Mapping (746):
+   790   C1272689:Started [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: she
+
+Phrase: has
+
+Phrase: HTN with pertinent family history.
+Meta Mapping (745):
+   760   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   640   C0241889:FAMILY HISTORY (Family history) [Finding]
+Processing 49_Cage.txt.tx.12: Other DDx includes NSTEMI or STEMI (less likely as she has pain only with exertion), pancreatitis (less likely as pain only lasts 5 minutes), gerd (not likely pain is not positional).  
+
+Phrase: Other DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: NSTEMI
+Meta Mapping (1000):
+  1000   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: STEMI
+Meta Mapping (1000):
+  1000   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: (less likely
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: as
+
+Phrase: she
+
+Phrase: has
+
+Phrase: pain only with exertion
+Meta Mapping (733):
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   604   C0205171:Only (Singular) [Quantitative Concept]
+   604   C0015264:Exertion [Organism Function]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: pancreatitis
+Meta Mapping (1000):
+  1000   C0030305:PANCREATITIS (Pancreatitis) [Disease or Syndrome]
+
+Phrase: (less likely as pain
+Meta Mapping (733):
+   770   C0547044:Less (Smaller) [Qualitative Concept]
+   770   C0750492:Likely (Probably) [Idea or Concept]
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: lasts
+Meta Mapping (1000):
+  1000   C1517741:Last [Qualitative Concept]
+
+Phrase: 5 minutes
+Meta Mapping (1000):
+  1000   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: gerd
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: (
+
+Phrase: not likely pain
+Meta Mapping (851):
+   660   C1518422:Not (Negation) [Functional Concept]
+   660   C0750492:Likely (Probably) [Idea or Concept]
+   827 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: not positional
+Meta Mapping (888):
+   694   C1518422:Not (Negation) [Functional Concept]
+   861 N C0240795:POSITIONAL (positional) [Finding]
+
+Phrase: ).
+Processing 49_Cage.txt.tx.13: plan -order ECG to r/o stemi -order troponin I (to r/o nstemi an stemi) -order stress test to fine tune diagnosis of stable angina -if stable angina, will start calcium channel blocker and 81mg aspirin -encourage to quit smoking and start exercising
+
+Phrase: plan -order ECG to r/o stemi -order troponin I
+Meta Mapping (674):
+   573   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   573   C1705178:Order (Order (action)) [Activity]
+   739   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   573   C0205090:R- (Right) [Spatial Concept]
+   573   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+   593   C0077401:Troponin I [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: (
+
+Phrase: to r/o nstemi
+Meta Mapping (802):
+   660   C0205090:R- (Right) [Spatial Concept]
+   827   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: an stemi
+Meta Mapping (1000):
+  1000   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: ) -
+
+Phrase: order stress test to
+Meta Mapping (810):
+   604   C1705178:Order (Order (action)) [Activity]
+   833   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: fine tune
+Meta Mapping (861):
+   861   C0205232:Fine (Fine - adjective) [Qualitative Concept]
+
+Phrase: diagnosis of stable angina -
+Meta Mapping (783):
+   770   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+   666   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: if
+
+Phrase: stable angina,
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: will
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: calcium channel blocker
+Meta Mapping (1000):
+  1000   C0006684:Calcium Channel Blocker (Calcium Channel Blockers) [Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: 81mg aspirin -
+Meta Mapping (861):
+   861   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: encourage
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: quit
+Meta Mapping (1000):
+  1000   C0748223:QUIT [Idea or Concept]
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: and
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: exercising
+Meta Mapping (966):
+   966   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]

@@ -1,0 +1,600 @@
+Processing 115_Cage.txt.tx.1: S CC: chest pain  HPI: 55 y/o F w/ HTN presenting for several days of intermittent, substernal chest pain. 
+
+Phrase: S CC
+Meta Mapping (888):
+   694   C2603362:S' (S prime) [Clinical Attribute]
+   861   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain  HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: 55 y/o F w/ HTN presenting for several days of intermittent, substernal chest pain.
+Meta Mapping (652):
+   567   C0450382:55 [Intellectual Product]
+   567   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   567   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   733   C0449450:Presenting (Presentation) [Idea or Concept]
+   567   C0439228:DAYS (day) [Temporal Concept]
+   567   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   593   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+Processing 115_Cage.txt.tx.2: She reports this occurred while carrying groceries to her car, lasted 5-10 mins, and resolved with rest. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: this
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: carrying groceries to her car,
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 mins,
+Meta Mapping (890):
+   734   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   793   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (890):
+   660   C0728893:+5 [Quantitative Concept]
+   884   C0456692:/10 min [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 115_Cage.txt.tx.3: The pain was pressure-like and accompanied by shortness of breath and lightheadedness. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: pressure-
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: like
+
+Phrase: and
+
+Phrase: accompanied by shortness of breath
+Meta Mapping (862):
+   862   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: lightheadedness.
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 115_Cage.txt.tx.4: Pt reports similar sxs occurring a few times over the last 4 months but none this severe. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: similar sxs
+Meta Mapping (694):
+   694   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: occurring
+Meta Mapping (966):
+   966   C2745955:OCCUR (Occurrence) [Temporal Concept]
+
+Phrase: a few times over the last 4 months
+Meta Mapping (750):
+   750   C0556969:times Month (times/month) [Quantitative Concept]
+
+Phrase: but
+
+Phrase: none this severe.
+Meta Mapping (1000):
+  1000   C0205082:Severe (Severe (severity modifier)) [Finding]
+Processing 115_Cage.txt.tx.5: No syncope, diaphoresis. 
+
+Phrase: No syncope,
+Meta Mapping (1000):
+  1000 N C0039070:SYNCOPE (Syncope) [Sign or Symptom]
+
+Phrase: diaphoresis.
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+Processing 115_Cage.txt.tx.6: Notes she also has intermittent epigastric pressure-like pain with eating, no radiation to chest.  
+
+Phrase: Notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: she
+
+Phrase: also
+
+Phrase: has
+
+Phrase: intermittent epigastric pressure-
+Meta Mapping (851):
+   660   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   660   C0521440:Epigastric [Body Location or Region]
+   827   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: like pain with eating,
+Meta Mapping (916):
+   604   C0870814:Like [Mental Process]
+   909   C0242030:PAIN WITH EATING (pain with eating) [Sign or Symptom]
+
+Phrase: no radiation to chest.
+Meta Mapping (783):
+   833   C3846110:No Radiation (No radiation therapy) [Finding]
+   604   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Processing 115_Cage.txt.tx.7: Meds: lisinopril, chlorthalidone Allergies: none PMHx: HTN Surg hx: none Soc Hx: 30 pack-year hx (current smoker), drinks 3-4 glasses of wine weekly, no recreational drugs Fhx: Mother died from PE in her 60s and had DM, HTN. 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: chlorthalidone Allergies
+Meta Mapping (983):
+   983   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none PMHx
+
+Phrase: :
+
+Phrase: HTN Surg hx
+Meta Mapping (851):
+   660   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   660   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   827   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: none Soc Hx
+Meta Mapping (861):
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: 30 pack-year hx
+Meta Mapping (861):
+   645   C3842588:30% [Quantitative Concept]
+   694   C1277691:Pack Year (Pack years) [Intellectual Product]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: (current smoker
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0394996:DRINK (Acute alcoholic intoxication) [Mental or Behavioral Dysfunction]
+
+Phrase: 3-4 glasses of wine weekly,
+Meta Mapping (851):
+   648   C4687964:3 OF 4 (Severity Three Out of Four) [Finding]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+   586   C0043188:WINE (Wine) [Food]
+   586   C0332174:Weekly [Temporal Concept]
+
+Phrase: no recreational drugs Fhx
+Meta Mapping (901):
+   734   C0242508:Recreational Drugs [Hazardous or Poisonous Substance]
+   827   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: died from PE
+Meta Mapping (746):
+   790 N C1306577:Died (Death (finding)) [Finding]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: in her 60s
+
+Phrase: and
+
+Phrase: had
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 115_Cage.txt.tx.8: Father died from MI in his 40s  O: VS: T 98 F P 85 R 14 BP 150/92  PE Gen: resting comfortably, appropriate grooming and hygiene, no acute distress CV: regular rate and rhythm, normal S1/S2. 
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died from MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in his 40s  O
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: T 98 F P 85 R 14 BP 150/92  PE Gen
+Meta Mapping (715):
+   890   C1529462:T-Gen [Organic Chemical,Pharmacologic Substance]
+   621   C4319627:98 [Quantitative Concept]
+   621   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   621   C4517892:85 [Quantitative Concept]
+   621   C2603358:R' (R prime) [Clinical Attribute]
+   621   C1708288:BP (HP wt Allele) [Gene or Genome]
+   621   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+Meta Mapping (715):
+   632   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+   621   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   621   C4517892:85 [Quantitative Concept]
+   621   C2603358:R' (R prime) [Clinical Attribute]
+   621   C1708288:BP (HP wt Allele) [Gene or Genome]
+   621   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   787   C2239486:Gen (GEN1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: resting
+Meta Mapping (1000):
+  1000   C0035253:Resting (Rest) [Daily or Recreational Activity]
+
+Phrase: comfortably,
+
+Phrase: appropriate grooming
+Meta Mapping (888):
+   694   C1548787:Appropriate [Qualitative Concept]
+   861   C0018249:Grooming [Individual Behavior]
+
+Phrase: and
+
+Phrase: hygiene,
+Meta Mapping (1000):
+  1000   C0020405:Hygiene [Biomedical Occupation or Discipline]
+
+Phrase: no acute distress CV
+Meta Mapping (851):
+   660   C0205178:ACUTE (acute) [Temporal Concept]
+   660 N C0231303:Distress [Finding]
+   827   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000 N C0871269:Rhythm [Finding]
+
+Phrase: normal S1/S2.
+Meta Mapping (901):
+   913 N C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   660 N C3715215:S1 [Finding]
+Processing 115_Cage.txt.tx.9: No murmurs/rubs/gallops. 
+
+Phrase: No murmurs/
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: /gallops.
+Processing 115_Cage.txt.tx.10: 2+ radial and DP pulses. 
+
+Phrase: 2+ radial
+Meta Mapping (888):
+   694   C2827735:2+ (2+ Score) [Quantitative Concept]
+   861   C0442038:Radial [Conceptual Entity]
+
+Phrase: and
+
+Phrase: DP pulses.
+Meta Mapping (888):
+   694   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+Processing 115_Cage.txt.tx.11: No peripheral edema. 
+
+Phrase: No peripheral edema.
+Meta Mapping (1000):
+  1000 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+Processing 115_Cage.txt.tx.12: No JVD. 
+
+Phrase: No JVD.
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+Processing 115_Cage.txt.tx.13: Pulm: lungs CTAB bilaterally, normal work of breathing, symmetric chest wall expansion MSK: no chest wall tenderness  A: 55 y/o F w/ HTN and strong FHx of CAD presenting with sxs concerning for stable angina that began 4 months ago, will need EKG and stress test to rule out. 
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: lungs CTAB bilaterally,
+Meta Mapping (790):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   827   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: normal work of breathing,
+Meta Mapping (916):
+   604   C0205307:NORMAL (Normal) [Qualitative Concept]
+   909   C0043229:Work of Breathing [Organ or Tissue Function]
+
+Phrase: symmetric chest wall expansion MSK
+Meta Mapping (840):
+   637   C0332516:Symmetric (Symmetrical) [Finding]
+   686   C0231902:Chest expansion [Finding]
+   637   C0458421:Wall, NOS (Wall of bladder) [Body Part, Organ, or Organ Component]
+   804   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: no chest wall tenderness  A
+Meta Mapping (756):
+   756 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+
+Phrase: :
+
+Phrase: 55 y/o F w/ HTN
+Meta Mapping (750):
+   632   C0450382:55 [Intellectual Product]
+   632   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   799 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: strong FHx of CAD presenting
+Meta Mapping (724):
+   593   C0442821:Strong [Qualitative Concept]
+   760   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   593   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   593   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with sxs
+
+Phrase: concerning for stable angina
+Meta Mapping (766):
+   737   C2699424:Concern [Idea or Concept]
+   833   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: that
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: 4 months ago,
+Meta Mapping (790):
+   660   C3838679:4+ (4+ Answer to question) [Finding]
+   827   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: will
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: stress test
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out.
+Meta Mapping (1000):
+  1000   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 115_Cage.txt.tx.14: Ddx includes GERD, vasospastic angina, pulmonary embolism. 
+
+Phrase: Ddx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: vasospastic angina,
+Meta Mapping (1000):
+  1000   C0002963:vasospastic angina (Angina Pectoris, Variant) [Disease or Syndrome]
+
+Phrase: pulmonary embolism.
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+Processing 115_Cage.txt.tx.15: Has multiple risk factors for CAD including h/o HTN, 30 pack-year hx, classic anginal type sxs, and strong FHx. 
+
+Phrase: Has
+
+Phrase: multiple risk factors for CAD
+Meta Mapping (761):
+   593   C0439064:MULTIPLE (Numerous) [Quantitative Concept]
+   806   C0035648:Risk Factors (risk factors) [Finding]
+   593   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: h/o HTN,
+Meta Mapping (901):
+   734   C0455483:h o (history of - * (non-specific)) [Finding]
+   827   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: 30 pack-year hx,
+Meta Mapping (861):
+   645   C3842588:30% [Quantitative Concept]
+   694   C1277691:Pack Year (Pack years) [Intellectual Product]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: classic anginal type sxs,
+Meta Mapping (584):
+   645   C0439858:Classic (Conventional) [Qualitative Concept]
+   574   C0002962:anginas (Angina Pectoris) [Sign or Symptom]
+   645   C0332307:TYPE (Type - attribute) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: strong FHx.
+Meta Mapping (888):
+   694   C0442821:Strong [Qualitative Concept]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+Processing 115_Cage.txt.tx.16: PE unlikely given no LE swelling or pleuritic type pain; Wells score is 0.  
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: unlikely
+Meta Mapping (1000):
+  1000   C0750558:Unlikely [Finding]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: no LE swelling
+Meta Mapping (888):
+   694   C2697858:LE (LE, Rat Strain) [Mammal]
+   861 N C0013604:SWELLING (Edema) [Pathologic Function]
+
+Phrase: or
+
+Phrase: pleuritic type pain
+Meta Mapping (901):
+   913 N C0008033:PLEURITIC PAIN (Pleuritic pain) [Sign or Symptom]
+   660   C0332307:TYPE (Type - attribute) [Qualitative Concept]
+
+Phrase: ; Wells score
+Meta Mapping (1000):
+  1000 N C1997143:Wells score (Wells deep vein thrombosis clinical probability score) [Finding]
+
+Phrase: is
+
+Phrase: 0.
+Meta Mapping (1000):
+  1000   C3842591:0% [Quantitative Concept]
+Processing 115_Cage.txt.tx.17: P: 1. 
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 1.
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+Processing 115_Cage.txt.tx.18: EKG in office to r/o acute MI 2. 
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: in office to r/o acute MI 2.
+Meta Mapping (685):
+   744   C0442603:Office [Manufactured Object]
+   578   C2603358:R' (R prime) [Clinical Attribute]
+   578   C0205178:ACUTE (acute) [Temporal Concept]
+   604   C1440961:Mi-2 [Immunologic Factor]
+Processing 115_Cage.txt.tx.19: Recommend admission to hospital for urgent stress testing given high pre-test probability of CAD 3. 
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: admission to hospital
+Meta Mapping (1000):
+  1000   C0184666:Admission to hospital (Hospital admission) [Health Care Activity]
+
+Phrase: for urgent stress testing given high pre-test probability of CAD 3.
+Meta Mapping (686):
+   570   C0521125:For (Preposition For) [Qualitative Concept]
+   570   C0439609:Urgent [Qualitative Concept]
+   586   C0015260:stress testing (Exercise stress test) [Diagnostic Procedure]
+   751   C4699572:High probability [Finding]
+   736   C0740175:Pre (Before values) [Qualitative Concept]
+   736   C0392366:test (Tests (qualifier value)) [Intellectual Product]
+   570   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+Processing 115_Cage.txt.tx.20: If neg. stress test, will trial PPIs for possible GERD
+
+Phrase: If
+
+Phrase: neg. stress test,
+Meta Mapping (901):
+   660   C3853545:NEG (Negative - answer) [Qualitative Concept]
+   901   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: will
+
+Phrase: trial PPIs for possible GERD
+Meta Mapping (716):
+   593   C0008976:Trial (Clinical Trials) [Research Activity]
+   726   C0871125:PPI (prepulse inhibition activity) [Physiologic Function]
+   593   C2362652:Possible (Possible diagnosis) [Qualitative Concept]
+   593   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]

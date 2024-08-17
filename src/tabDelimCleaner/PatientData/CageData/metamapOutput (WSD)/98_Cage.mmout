@@ -1,0 +1,292 @@
+Processing 98_Cage.txt.tx.1: Mr. 
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C0024485:MR (Magnetic Resonance Imaging) [Diagnostic Procedure]
+Processing 98_Cage.txt.tx.2: Cage is 46 yo M pt with HTN on chlorthalidone +lisinopril, 20 pack year smoking history, and FamHx of HTN in parents and father with MI and CABG in his 40s, presenting with complaint of chest pain that occurred 3 days ago while carrying heavy groceries to car. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: 46 yo M pt with HTN
+Meta Mapping (697):
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   586   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   753   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on chlorthalidone +lisinopril,
+Meta Mapping (888):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: 20 pack year smoking history,
+Meta Mapping (857):
+   673   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   637   C0439508:/Year (per year) [Temporal Concept]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (857):
+   637   C3842589:20% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: FamHx of HTN
+Meta Mapping (623):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: in parents
+Meta Mapping (1000):
+  1000   C0030551:Parents (parent) [Family Group]
+
+Phrase: and
+
+Phrase: father with MI
+Meta Mapping (746):
+   790   C0015671:FATHER (Father (person)) [Family Group]
+   623   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: CABG in his 40s,
+Meta Mapping (708):
+   770   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: presenting with complaint of chest pain
+Meta Mapping (790):
+   783   C0277786:Presenting Complaint (Chief complaint (finding)) [Finding]
+   793   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to car.
+Meta Mapping (541):
+   604   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 98_Cage.txt.tx.3: Pain did not radiate and resolved after 5-10 minutes of rest. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: resolved after 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Meta Mapping (706):
+   748   C2699488:Resolved (Resolution) [Conceptual Entity]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Processing 98_Cage.txt.tx.4: Pt denies shortness of breath or any other associated symptoms. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: shortness of breath
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: any other associated symptoms.
+Meta Mapping (1000):
+  1000 N C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+Processing 98_Cage.txt.tx.5: Pt recounts 2-3 other episodes of chest pain that ocurred with exertion in the last 4 months. 
+
+Phrase: Pt recounts 2-3
+Meta Mapping (812):
+   812   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: other episodes of chest pain
+Meta Mapping (885):
+   677   C0029537:Other chest pain [Sign or Symptom]
+   790   C0332189:Episode of [Temporal Concept]
+
+Phrase: that ocurred with exertion
+Meta Mapping (604):
+   604   C0015264:Exertion [Organism Function]
+
+Phrase: in the last 4 months.
+Meta Mapping (896):
+   896   C4331910:Last Month (Past 30 days) [Temporal Concept]
+Processing 98_Cage.txt.tx.6: Pt denies significant GERD symptoms.   
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: significant GERD symptoms.
+Meta Mapping (851):
+   660   C0237881:significant (Statistical Significance) [Quantitative Concept]
+   660 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   827 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 98_Cage.txt.tx.7: Objective: Cardio: RRR, no murmurs pulm: CTAB, normal WOB    A/P angina/CAD vs. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Cardio
+Meta Mapping (1000):
+  1000   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: CTAB,
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: normal WOB    A/P angina/CAD
+Meta Mapping (756):
+   632   C0205307:NORMAL (Normal) [Qualitative Concept]
+   632 N C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   799   C0574547:CAD (Caddo language) [Language]
+
+Phrase: vs.
+Processing 98_Cage.txt.tx.8: GERD vs. malignancy (lung) Pt with FH, smoking history, and HTN with chest pain most concerning for angina/CAD - cardiac stress test - blood troponins to r/o MI - smoking cessation, counseled pt, will f/u - surgical treatment as indicated by stress test. 
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: vs. malignancy
+Meta Mapping (1000):
+  1000   C1306459:Malignancy (Primary malignant neoplasm) [Neoplastic Process]
+
+Phrase: (lung
+Meta Mapping (1000):
+  1000   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: )
+
+Phrase: Pt with FH,
+Meta Mapping (790):
+   790   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: history,
+Meta Mapping (1000):
+  1000   C0262926:History (Medical History) [Finding]
+
+Phrase: and
+
+Phrase: HTN with chest pain
+Meta Mapping (783):
+   770   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   666   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: most
+Meta Mapping (1000):
+  1000   C0205393:Most [Quantitative Concept]
+
+Phrase: concerning for angina/CAD - cardiac stress test - blood troponins
+Meta Mapping (759):
+   708   C2699424:Concern [Idea or Concept]
+   742   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   742   C0574547:CAD (Caddo language) [Language]
+   790   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+   742   C0005768:BLOOD (In Blood) [Body Substance]
+   742   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: to r/o MI - smoking cessation,
+Meta Mapping (794):
+   637   C2603358:R' (R prime) [Clinical Attribute]
+   637   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   840   C1095963:smoking cessation (Smoking cessation therapy) [Therapeutic or Preventive Procedure]
+
+Phrase: counseled pt,
+Meta Mapping (872):
+   661   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   861   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: will
+
+Phrase: f/u - surgical treatment
+Meta Mapping (861):
+   645   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   645   C0439148:{U} (Unit) [Quantitative Concept]
+   861   C0543467:surgical treatment (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: as
+
+Phrase: indicated by stress test.
+Meta Mapping (783):
+   770   C1444656:Indicated [Finding]
+   833   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+Processing 98_Cage.txt.tx.9: - chest x-ray  some GERD like pain after meals 2-3 times per week.
+
+Phrase: - chest x-ray
+Meta Mapping (1000):
+  1000   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: some GERD like pain
+Meta Mapping (733):
+   604   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   770   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: after meals 2-3 times per week.
+Meta Mapping (723):
+   612   C0376674:After Meals (Postprandial Period) [Temporal Concept]
+   748   C0040223:times (Time) [Temporal Concept]
+   607   C4484139:week 2 [Temporal Concept]

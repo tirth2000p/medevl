@@ -1,0 +1,462 @@
+Processing 165_Cage.txt.tx.1: Gerry Cage is a elderly male with a PMHx of Hypertension presenting after feeling chest pain 3 days ago. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a elderly male with a PMHx of Hypertension presenting
+Meta Mapping (660):
+   575   C0001792:ELDERLY (Elderly (population group)) [Population Group]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C5205099:Hypertension Present [Finding]
+
+Phrase: after feeling chest pain 3 days ago.
+Meta Mapping (762):
+   632   C1527305:Feeling (Feelings) [Mental Process]
+   660   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   799   C0439228:DAYS (day) [Temporal Concept]
+Processing 165_Cage.txt.tx.2: He states he felt chest pain while carrying heavy items to his car. 
+
+Phrase: He
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy items to his car.
+Meta Mapping (716):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   726   C1551338:Item (Entity) [Entity]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 165_Cage.txt.tx.3: He says the pain was a 7/10 in intensity located in the middle of his chest. 
+
+Phrase: He
+
+Phrase: says
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: a 7/10 in intensity
+Meta Mapping (761):
+   806   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   760   C3842590:10% [Quantitative Concept]
+   760   C0522510:Intensity (With intensity) [Qualitative Concept]
+
+Phrase: located in the middle of his chest.
+Meta Mapping (706):
+   748   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   774   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+Processing 165_Cage.txt.tx.4: He describe it as a dull ache. 
+
+Phrase: He
+
+Phrase: describe
+
+Phrase: it
+
+Phrase: as
+
+Phrase: a dull ache.
+Meta Mapping (888):
+   694   C0278144:Dull (Dull pain) [Sign or Symptom]
+   861   C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 165_Cage.txt.tx.5: The pain resolved with rest. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 165_Cage.txt.tx.6: In the past he has felt a "twinge" in his chest during activities like running or climbing up the stairs. 
+
+Phrase: In the past
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a "twinge"
+
+Phrase: in his chest during activities
+Meta Mapping (733):
+   593   C0150312:In (Present) [Finding]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   760   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   593   C0441655:Activities [Activity]
+
+Phrase: like running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: or
+
+Phrase: climbing up the stairs.
+Meta Mapping (819):
+   819   C1290942:Climbing stairs [Daily or Recreational Activity]
+Processing 165_Cage.txt.tx.7: He has never felt pain at rest. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: never felt pain at rest.
+Meta Mapping (868):
+   593   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+   560   C1527305:feel (Feelings) [Mental Process]
+   862   C0234253:Pain at rest (Rest pain) [Sign or Symptom]
+Processing 165_Cage.txt.tx.8: He has no pain at this time. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: no pain at this time.
+Meta Mapping (745):
+   806   C0234225:No pain (Absence of pain) [Finding]
+   593   C0040223:TIME (Time) [Temporal Concept]
+Processing 165_Cage.txt.tx.9: He normally visits the doctor once a year and has never been told that he has high blood sugar or high cholesterol. 
+
+Phrase: He
+
+Phrase: normally
+
+Phrase: visits
+Meta Mapping (1000):
+  1000   C2826704:VISIT (Visit Name) [Intellectual Product]
+
+Phrase: the doctor once
+Meta Mapping (861):
+   861   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+
+Phrase: a year
+Meta Mapping (1000):
+  1000   C0439508:/Year (per year) [Temporal Concept]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: been
+
+Phrase: told
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: high blood sugar
+Meta Mapping (1000):
+  1000   C0020456:High blood sugar (Hyperglycemia) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: high cholesterol.
+Meta Mapping (1000):
+  1000   C0020443:High cholesterol (Hypercholesterolemia) [Disease or Syndrome]
+Processing 165_Cage.txt.tx.10: He does check his blood pressure at home and it normally is 130/80.   
+
+Phrase: He
+
+Phrase: does
+
+Phrase: check
+Meta Mapping (1000):
+  1000   C1283174:Check (Checking (action)) [Activity]
+
+Phrase: his blood pressure
+Meta Mapping (1000):
+  1000   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+
+Phrase: at home
+Meta Mapping (1000):
+  1000   C4534363:At home [Finding]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: normally
+
+Phrase: is
+
+Phrase: 130/80.
+Meta Mapping (861):
+   861   C3842583:80% [Quantitative Concept]
+Processing 165_Cage.txt.tx.11: Medications - Lisinopril 10mg daily and Chlorthalidone 25mg daily.  
+
+Phrase: Medications - Lisinopril 10mg
+Meta Mapping (623):
+   660   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: and
+
+Phrase: Chlorthalidone 25mg daily.
+Meta Mapping (635):
+   660   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   660   C0332173:Daily [Temporal Concept]
+Processing 165_Cage.txt.tx.12: Allergies - none PMHX - HTN Pertinent FMHx - Heart Attack in Father at age 40 Social History - smokes 1 PPD  Objective T 98 F, BP 150/92, RR 14, HR 85  CV Physical Exam: Normal rate and rhythm with no murmurs, rubs, or gallops. 
+
+Phrase: Allergies -
+Meta Mapping (1000):
+  1000   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: none PMHX - HTN Pertinent FMHx - Heart Attack in Father
+Meta Mapping (664):
+   575   C0549184:NONE (None) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   764   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   575   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: at age 40 Social History - smokes 1 PPD  Objective T 98 F,
+Meta Mapping (732):
+   622   C0001779:AGE (Age) [Organism Attribute]
+   622   C0439509:/40 [Quantitative Concept]
+   634   C0424945:Social history (Social and personal history) [Finding]
+   622   C0037369:smokes (Smoking) [Individual Behavior]
+   830   C0032883:PPD F (PPD-F) [Immunologic Factor,Indicator, Reagent, or Diagnostic Aid]
+   622   C1571702:Objective (Objective observation) [Qualitative Concept]
+   622   C4319627:98 [Quantitative Concept]
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: RR 14,
+Meta Mapping (861):
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: HR 85  CV Physical Exam
+Meta Mapping (798):
+   637   C4517892:85 [Quantitative Concept]
+   637   C4318503:CV (ciliary vesicle) [Cell Component]
+   840   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Normal rate
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm with no murmurs,
+Meta Mapping (708):
+   770 N C0871269:Rhythm [Finding]
+   604 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops.
+Processing 165_Cage.txt.tx.13: Denies tenderness to palpation of the chest well.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: tenderness to palpation of the chest well.
+Meta Mapping (737):
+   800 N C0239008:Tenderness of chest (Chest wall tenderness) [Finding]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   581   C0205170:Well (Good) [Qualitative Concept]
+Processing 165_Cage.txt.tx.14: Assessment: Gerry Cage is an elderly male with PMHx of HTN presenting with substernal, exertional chest pain that resolves with rest. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: an elderly male with PMHx of HTN presenting
+Meta Mapping (671):
+   578   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   578   C0001792:ELDERLY (Elderly (population group)) [Population Group]
+   744   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   578   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with substernal, exertional chest pain
+Meta Mapping (923):
+   923   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: resolves with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 165_Cage.txt.tx.15: History notable for smoking history and early heart attack in his father. 
+
+Phrase: History
+Meta Mapping (1000):
+  1000   C0262926:History (Medical History) [Finding]
+
+Phrase: notable for smoking history
+Meta Mapping (783):
+   770   C4288581:Notable [Qualitative Concept]
+   666   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: early heart attack in his father.
+Meta Mapping (741):
+   586   C1279919:Early [Temporal Concept]
+   790   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   586   C0015671:FATHER (Father (person)) [Family Group]
+Processing 165_Cage.txt.tx.16: Physical exam notable for elevated blood pressure.   
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: notable for elevated blood pressure.
+Meta Mapping (816):
+   760   C4288581:Notable [Qualitative Concept]
+   695   C0497247:Elevated Blood Pressure (Increase in blood pressure) [Finding]
+Processing 165_Cage.txt.tx.17: Most Likely Diagnosis - Stable Angina (3/3 symptoms) Other DDx- Unstable angina, musculoskeletal pain, myocardial infarction  Plan  - obtain EKG  - obtain BMP and lipid panel - counseled about tobacco cessation - obtain 2 week home BP recordings to rule out white coat hypertension, if elevated start Amlodipine - order stress test
+
+Phrase: Most Likely Diagnosis - Stable Angina
+Meta Mapping (857):
+   673   C0750501:most likely [Idea or Concept]
+   637   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+   840   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: (3/3 symptoms
+Meta Mapping (802):
+   660   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+   827   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+
+Phrase: )
+
+Phrase: Other DDx- Unstable angina,
+Meta Mapping (901):
+   660   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+   901   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: musculoskeletal pain,
+Meta Mapping (1000):
+  1000   C0026858:MUSCULOSKELETAL PAIN (Musculoskeletal Pain) [Finding]
+
+Phrase: myocardial infarction  Plan  -
+Meta Mapping (901):
+   734   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+   827   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG  -
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: BMP
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: and
+
+Phrase: lipid panel -
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: counseled about tobacco cessation -
+Meta Mapping (772):
+   737   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   833   C0600549:Tobacco Cessation (Tobacco Use Cessation) [Individual Behavior]
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: 2 week home BP recordings
+Meta Mapping (604):
+   637   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   637   C0439230:Week (week) [Temporal Concept]
+   637   C0442519:HOME (Home environment) [Spatial Concept]
+   637   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0522637:Rule (Measuring ruler, device) [Manufactured Object]
+
+Phrase: out white coat hypertension,
+Meta Mapping (916):
+   645   C0439787:Out (Out (direction)) [Spatial Concept]
+   923 N C0262534:White Coat Hypertension [Disease or Syndrome]
+
+Phrase: if
+
+Phrase: elevated start Amlodipine - order stress test
+Meta Mapping (827):
+   632   C0205250:Elevated (High) [Qualitative Concept]
+   632   C0439659:Start (Beginning) [Temporal Concept]
+   632   C0051696:AMLODIPINE (amlodipine) [Organic Chemical,Pharmacologic Substance]
+   632   C1705178:Order (Order (action)) [Activity]
+   827   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]

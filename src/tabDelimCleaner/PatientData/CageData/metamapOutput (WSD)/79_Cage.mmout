@@ -1,0 +1,419 @@
+Processing 79_Cage.txt.tx.1: Patient comes to clinic today after experiencing chest pain 3 days ago that was 7/10. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: comes to clinic today
+Meta Mapping (722):
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: after experiencing chest pain 3 days ago
+Meta Mapping (751):
+   599   C0596545:Experience [Mental Process]
+   660   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   799   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: that
+
+Phrase: was
+
+Phrase: 7/10.
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+Processing 79_Cage.txt.tx.2: Patient was lfting heavy groceries when he suddenly experienced deep heavy chest pain that he describes as a deep ache. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: lfting heavy groceries
+Meta Mapping (660):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: suddenly
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: deep heavy chest pain
+Meta Mapping (861):
+   902   C0234229:Deep pain [Sign or Symptom]
+   645   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   812   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (861):
+   645   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   875   C0458256:Heavy pain [Finding]
+   812   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (861):
+   645   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   645   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: describes as a deep ache.
+Meta Mapping (695):
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 79_Cage.txt.tx.3: Patient notes he felt lightheaded and sat in his car for 5 minutes as he felt like he got "the wind knocked out of him". 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: lightheaded
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: sat in his car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for 5 minutes
+Meta Mapping (1000):
+  1000   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: as
+
+Phrase: he felt like
+Meta Mapping (827):
+   827   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: he
+
+Phrase: got
+Meta Mapping (966):
+   966   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: "
+
+Phrase: the wind
+Meta Mapping (1000):
+  1000   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+
+Phrase: knocked out of him".
+Meta Mapping (833):
+   833   C0560617:knocked out [Injury or Poisoning]
+Processing 79_Cage.txt.tx.4: The pain resolved after sitting in his car for 5 minutes. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved after sitting
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in his car for 5 minutes.
+Meta Mapping (741):
+   586 N C0150312:In (Present) [Finding]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   753   C0004381:Car (Automobiles) [Manufactured Object]
+   617   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 79_Cage.txt.tx.5: He notes no pains since. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: no pains since.
+Meta Mapping (861):
+   861 N C0030193:pains (Pain) [Sign or Symptom]
+Processing 79_Cage.txt.tx.6: He denies any dyspnea since resolution and no chest pain. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any dyspnea
+Meta Mapping (1000):
+  1000 N C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+
+Phrase: since
+
+Phrase: resolution
+Meta Mapping (1000):
+  1000   C2699488:Resolution [Conceptual Entity]
+
+Phrase: and
+
+Phrase: no chest pain.
+Meta Mapping (1000):
+  1000 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 79_Cage.txt.tx.7: Patient has a 20 pack year smoking history and has history of HTN treated with chlorthalidone and lisinopril.   
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: has
+
+Phrase: a 20 pack year smoking history
+Meta Mapping (857):
+   673   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   637   C0439508:/Year (per year) [Temporal Concept]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (857):
+   637   C3842589:20% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: history of HTN
+Meta Mapping (746):
+   790   C0262926:History (Medical History) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: treated with chlorthalidone
+Meta Mapping (901):
+   882   C0332293:Treated with [Therapeutic or Preventive Procedure]
+   790   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril.
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+Processing 79_Cage.txt.tx.8: On exam patient is hypertensive with no significant findings on physical exam.  
+
+Phrase: On exam patient
+Meta Mapping (888):
+   694   C0582103:Exam (Medical Examination) [Health Care Activity]
+   861   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: hypertensive with no significant findings
+Meta Mapping (734):
+   781   C0857121:Hypertensive (finding) [Finding]
+   593   C0750502:Significant [Idea or Concept]
+
+Phrase: on physical exam.
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+Processing 79_Cage.txt.tx.9: Patient is a male with history of HTN presenting with an isolated episode of chest pain with resolution following physical strain carrying heavy objects with exam findings only significant for elevated BP and negative for edema, tenderness to palpation or dyspnea.   
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: is
+
+Phrase: a male with history of HTN presenting
+Meta Mapping (664):
+   748   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   581   C0262926:History (Medical History) [Finding]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   581   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with an isolated episode of chest pain
+Meta Mapping (763):
+   581   C0332287:With (In addition to) [Functional Concept]
+   581   C0205409:Isolated [Functional Concept]
+   778   C0332189:Episode of [Temporal Concept]
+   612   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: with resolution
+Meta Mapping (1000):
+  1000   C2699488:Resolution [Conceptual Entity]
+
+Phrase: following
+Meta Mapping (1000):
+  1000   C0332282:Following [Temporal Concept]
+
+Phrase: physical strain
+Meta Mapping (888):
+   694   C1509143:Physical (Physical assessment findings) [Finding]
+   861   C0080194:Strain (Muscle strain) [Injury or Poisoning]
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy objects with exam findings
+Meta Mapping (724):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   760   C0347997:Objects (Physical object) [Physical Object]
+   593   C0582103:Exam (Medical Examination) [Health Care Activity]
+   593   C2926606:Findings (Procedure findings:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: only significant for elevated BP
+Meta Mapping (752):
+   593   C0205171:Only (Singular) [Quantitative Concept]
+   760   C0750502:Significant [Idea or Concept]
+   640   C0497247:Elevated BP (Increase in blood pressure) [Finding]
+
+Phrase: and
+
+Phrase: negative for edema,
+Meta Mapping (746):
+   790   C0205160:Negative [Finding]
+   623 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: tenderness to palpation
+Meta Mapping (746):
+   790 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   623   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: or
+
+Phrase: dyspnea.
+Meta Mapping (1000):
+  1000 N C0013404:DYSPNOEA (Dyspnea) [Sign or Symptom]
+Processing 79_Cage.txt.tx.10: In light of history differential includes chostochondritis, acute coronary syndrome, muscle strain, muscle tear, tendon tear, pulmonary embolism and pneumothorax. 
+
+Phrase: In light of history
+Meta Mapping (1000):
+  1000   C0262926:History (Medical History) [Finding]
+
+Phrase: differential
+Meta Mapping (1000):
+  1000   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: chostochondritis,
+Meta Mapping (1000):
+  1000   C0040213:chostochondritis (Tietze's Syndrome) [Disease or Syndrome]
+
+Phrase: acute coronary syndrome,
+Meta Mapping (1000):
+  1000   C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+
+Phrase: muscle strain,
+Meta Mapping (1000):
+  1000   C0080194:Muscle Strain (Muscle strain) [Injury or Poisoning]
+
+Phrase: muscle tear,
+Meta Mapping (1000):
+  1000   C0149732:Muscle tear (Rupture of muscle) [Injury or Poisoning]
+
+Phrase: tendon tear,
+Meta Mapping (1000):
+  1000   C0850773:tendon tear (Tendon tears) [Injury or Poisoning]
+
+Phrase: pulmonary embolism
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: and
+
+Phrase: pneumothorax.
+Meta Mapping (1000):
+  1000   C0032326:PNEUMOTHORAX (Pneumothorax) [Disease or Syndrome]
+Processing 79_Cage.txt.tx.11: Chostochodritis, tendon or muscle injury most likely considering acute event with resolution, sudden onset in setting of heavy lifting, acute coronary syndrome cannot be ruled out however.   
+
+Phrase: Chostochodritis,
+
+Phrase: tendon
+Meta Mapping (1000):
+  1000   C0039508:TENDON (Tendon structure) [Body Part, Organ, or Organ Component]
+
+Phrase: or
+
+Phrase: muscle injury most
+Meta Mapping (901):
+   901 N C0410256:Muscle injury (muscle injury) [Injury or Poisoning]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: considering
+Meta Mapping (1000):
+  1000   C0750591:considering (consider) [Idea or Concept]
+
+Phrase: acute event with resolution,
+Meta Mapping (733):
+   604   C1551345:ACUTE (acute inpatient encounter) [Health Care Activity]
+   770   C0441471:Event [Event]
+   604   C2699488:Resolution [Conceptual Entity]
+
+Phrase: sudden onset in setting of heavy lifting,
+Meta Mapping (701):
+   778   C1276802:Sudden onset (Sudden onset (attribute)) [Temporal Concept]
+   581   C1318139:{Setting} [Quantitative Concept]
+   581   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   581   C0206244:Lifting [Activity]
+
+Phrase: acute coronary syndrome
+Meta Mapping (1000):
+  1000 N C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+
+Phrase: cannot
+
+Phrase: be
+
+Phrase: ruled
+Meta Mapping (1000):
+  1000 N C1446409:ruled (Positive) [Finding]
+
+Phrase: out however.
+Meta Mapping (861):
+   861   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 79_Cage.txt.tx.12: Will order ECG, troponin   - If exg negative will reassure patient and
+
+Phrase: Will
+
+Phrase: order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: ECG,
+Meta Mapping (1000):
+  1000   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: troponin   -
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: If
+
+Phrase: exg negative
+Meta Mapping (861):
+   861   C0205160:Negative [Finding]
+
+Phrase: will
+
+Phrase: reassure
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: and

@@ -1,0 +1,577 @@
+Processing 185_Cage.txt.tx.1: CC: chest pain   HPI:  Ms. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain   HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 185_Cage.txt.tx.2: Cage is a F with a past medical history of hypertension who presented 3d after an episode of central heavy aching pain in her chest while she was carrying groceries. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a F with a past medical history of hypertension
+Meta Mapping (720):
+   742   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   617   C0332119:Past history of [Finding]
+   575   C0205476:Medical [Functional Concept]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   617   C0262926:History of MEDICAL (Medical History) [Finding]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   575   C0205476:Medical [Functional Concept]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presented
+Meta Mapping (1000):
+  1000   C0449450:Presented (Presentation) [Idea or Concept]
+
+Phrase: 3d after an episode of central heavy aching pain
+Meta Mapping (730):
+   742   C1442459:3D (3 Days) [Temporal Concept]
+   598   C0332189:Episode of [Temporal Concept]
+   595   C0234243:Central pain [Sign or Symptom]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   575   C0234238:Aching (Ache) [Sign or Symptom]
+Meta Mapping (730):
+   742   C1442459:3D (3 Days) [Temporal Concept]
+   598   C0332189:Episode of [Temporal Concept]
+   575   C0205099:CENTRAL (Central) [Spatial Concept]
+   595   C0458256:Heavy pain [Finding]
+   575   C0234238:Aching (Ache) [Sign or Symptom]
+Meta Mapping (730):
+   742   C1442459:3D (3 Days) [Temporal Concept]
+   598   C0332189:Episode of [Temporal Concept]
+   575   C0205099:CENTRAL (Central) [Spatial Concept]
+   575   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   598   C0234238:Aching pain (Ache) [Sign or Symptom]
+
+Phrase: in her chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+Processing 185_Cage.txt.tx.3: She reports that she felt faint and like her "breath had been taken away". 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: faint
+Meta Mapping (1000):
+  1000   C0039070:FAINT (Syncope) [Sign or Symptom]
+
+Phrase: and like her "breath
+Meta Mapping (733):
+   770   C1515981:And [Idea or Concept]
+   770   C0574443:HER (Herero language) [Language]
+   770   C0225386:Breath [Body Substance]
+
+Phrase: had
+
+Phrase: been
+
+Phrase: taken
+Meta Mapping (1000):
+  1000   C1883727:Taken [Conceptual Entity]
+
+Phrase: away".
+Processing 185_Cage.txt.tx.4: She denied sweating, LOC, or palpitations during the episode. 
+
+Phrase: She
+
+Phrase: denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: sweating,
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+
+Phrase: LOC,
+Meta Mapping (1000):
+  1000   C2698620:LOC (CDISC SDTM Anatomical Location Terminology) [Intellectual Product]
+
+Phrase: or
+
+Phrase: palpitations during the episode.
+Meta Mapping (708):
+   770 N C0030252:PALPITATIONS (Palpitations) [Finding]
+   604   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 185_Cage.txt.tx.5: The pain dissipated after she rested for 5-10 minutes.   
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: dissipated
+
+Phrase: after
+
+Phrase: she
+
+Phrase: rested for 5-10 minutes.
+Meta Mapping (761):
+   760   C0035253:rested (Rest) [Daily or Recreational Activity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (761):
+   760   C0035253:rested (Rest) [Daily or Recreational Activity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 185_Cage.txt.tx.6: She reports 2-3 similar episodes in the last 4 months while she was climbing stairs and chasing after the bus. 
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: 2-3 similar episodes in the last 4 months
+Meta Mapping (678):
+   598   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   575   C2348205:Similar (Similarity) [Qualitative Concept]
+   742   C0332189:Episodes (Episode of) [Temporal Concept]
+   575   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: climbing stairs
+Meta Mapping (1000):
+  1000   C1290942:Climbing stairs [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: chasing after the bus.
+Meta Mapping (604):
+   604   C0336815:Bus (Motor bus) [Manufactured Object]
+Processing 185_Cage.txt.tx.7: She describes these episodes as feeling a 'twinge'. 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: these episodes as feeling
+Meta Mapping (733):
+   604   C0039828:these (Theses) [Intellectual Product]
+   770   C0332189:Episodes (Episode of) [Temporal Concept]
+   604   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: a 'twinge'.
+Processing 185_Cage.txt.tx.8: She also reports a 1 one year history of pressure in her upper abdomen after she eats a "big meal". 
+
+Phrase: She
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: a 1 one year history of pressure
+Meta Mapping (701):
+   612   C4082117:One year [Temporal Concept]
+   748   C0262926:History (Medical History) [Finding]
+   581   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: in her upper abdomen
+Meta Mapping (1000):
+  1000   C0230165:Upper Abdomen (Upper abdomen (surface region)) [Body Location or Region]
+
+Phrase: after
+
+Phrase: she
+
+Phrase: eats
+Meta Mapping (1000):
+  1000   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: a "big meal".
+Meta Mapping (888):
+   694   C0549177:Big (Large) [Quantitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 185_Cage.txt.tx.9: She reports that she will feel the pain 1-2x a week and it always disappears after 3-5 minutes.   
+
+Phrase: She
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: will
+
+Phrase: feel
+Meta Mapping (1000):
+  1000   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: the pain 1-2x
+Meta Mapping (660):
+   660   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: a week
+Meta Mapping (1000):
+  1000   C0439230:Week (week) [Temporal Concept]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: always
+Meta Mapping (1000):
+  1000   C2003902:Always (Always (frequency)) [Temporal Concept]
+
+Phrase: disappears after 3-5 minutes.
+Meta Mapping (806):
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 185_Cage.txt.tx.10: PMH:  Hypertension - reports typically well controlled and follows regularly with PCP   Meds:  Clorithiadone 25mg daily  Lisinopril 10 mg daily   Allergies  N/A  Social  Smokes 1 pack a day  ETOH 2-3 glasses on weekend nights  Recently purchased condo in west end  Works in Branding at Capital one  Denies exercise, but walks elderly dog 2x daily   Family history  Father - deceased at 40 2/2 MI. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Hypertension -
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: typically well controlled
+Meta Mapping (901):
+   901   C3853142:Well controlled [Functional Concept]
+
+Phrase: and
+
+Phrase: follows
+Meta Mapping (1000):
+  1000   C0332283:follows (Followed by) [Temporal Concept]
+
+Phrase: regularly with PCP   Meds
+Meta Mapping (722):
+   770   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+   770   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Clorithiadone 25mg daily  Lisinopril 10 mg daily   Allergies  N/A  Social  Smokes 1
+Meta Mapping (713):
+   786   C0332173:Daily [Temporal Concept]
+   809   C0987217:Lisinopril 10 MG [Clinical Drug]
+   786   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+   786   C0728831:Social [Functional Concept]
+   786   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: pack
+Meta Mapping (1000):
+  1000   C2825051:PACK (Pack unit) [Drug Delivery Device]
+
+Phrase: a day  ETOH 2-3 glasses on weekend nights  Recently purchased condo
+Meta Mapping (680):
+   584   C1825406:A-2 (GPR162 gene) [Gene or Genome]
+   570   C0439228:Day (day) [Temporal Concept]
+   570   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   736   C0015421:Glasses (Eyeglasses) [Medical Device]
+   570   C0680190:Weekend [Temporal Concept]
+   570   C0240526:nights (Night time) [Temporal Concept]
+   570   C0332185:Recently (Recent) [Temporal Concept]
+   570   C0870238:purchased (Purchase) [Activity]
+
+Phrase: in west end  Works in Branding
+Meta Mapping (740):
+   767   C0557351:In work (Employed) [Finding]
+   586   C1705493:West (West (direction)) [Spatial Concept]
+   586   C2746065:End (Stop (qualifier value)) [Temporal Concept]
+   553   C0592503:Brand (Proprietary Name) [Intellectual Product]
+
+Phrase: at Capital one
+Meta Mapping (888):
+   694   C0006909:Capital [Quantitative Concept]
+   861   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: exercise
+Meta Mapping (1000):
+  1000   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: ,
+
+Phrase: but
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: elderly dog 2x daily   Family history  Father -
+Meta Mapping (761):
+   629   C0001792:ELDERLY (Elderly (population group)) [Population Group]
+   629   C0012984:DOG (Canis familiaris) [Mammal]
+   629   C0332173:Daily [Temporal Concept]
+   651   C0241889:FAMILY HISTORY (Family history) [Finding]
+   795   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: deceased at 40 2/2 MI.
+Meta Mapping (712):
+   753   C0011065:Deceased (Cessation of life) [Organism Function]
+   753   C3842587:40% [Quantitative Concept]
+   783   C1440961:Mi-2 [Immunologic Factor]
+Processing 185_Cage.txt.tx.11: Had CAD and bypass surgery  Mother - deceased at 60 2/2 PE. 
+
+Phrase: Had
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: and
+
+Phrase: bypass surgery  Mother -
+Meta Mapping (901):
+   734   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+   827   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: deceased at 60 2/2 PE.
+Meta Mapping (716):
+   753   C0011065:Deceased (Cessation of life) [Organism Function]
+   783   C0071549:PE 60 (polyelectrolyte 60) [Organic Chemical]
+Processing 185_Cage.txt.tx.12: Hx of HTN, T2DM  2 Brothers - both healthy   Objective:  Vitals  T 98  P 85 R 14 BP 150/92  PE:  General - middle aged women, NAD HENT - normocephalic, atraumatic.  neck - No thyromegaly  Cardiology - normal rate, rhythm, no murmurs. 
+
+Phrase: Hx of HTN,
+Meta Mapping (746):
+   790   C0262926:Hx (Medical History) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM  2 Brothers -
+Meta Mapping (827):
+   827   C0337527:Brothers [Family Group]
+
+Phrase: both healthy   Objective
+Meta Mapping (964):
+   964   C3839803:Health objective [Intellectual Product]
+
+Phrase: :
+
+Phrase: Vitals  T 98  P 85 R 14 BP 150/92  PE
+Meta Mapping (699):
+   550   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   622   C4319627:98 [Quantitative Concept]
+   622   C4517892:85 [Quantitative Concept]
+   622   C0205090:R- (Right) [Spatial Concept]
+   622   C1415692:Bp (HP gene) [Gene or Genome]
+   788   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: General - middle aged women,
+Meta Mapping (916):
+   645   C0205246:General (Generalized) [Spatial Concept]
+   923   C3825962:Middle-aged women [Age Group]
+
+Phrase: NAD HENT - normocephalic, atraumatic.  neck -
+Meta Mapping (786):
+   637   C0338473:NAD (Neuroaxonal Dystrophies) [Disease or Syndrome]
+   804   C0027530:NECK (Neck) [Body Location or Region]
+
+Phrase: No thyromegaly  Cardiology - normal rate,
+Meta Mapping (833):
+   645 N C0018021:THYROMEGALY (Goiter) [Disease or Syndrome]
+   645   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+   645   C0205307:NORMAL (Normal) [Qualitative Concept]
+   812   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000 N C0871269:Rhythm [Finding]
+
+Phrase: no murmurs.
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+Processing 185_Cage.txt.tx.13: Peripheral pulses 2+. 
+
+Phrase: Peripheral pulses 2+.
+Meta Mapping (901):
+   901   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+Processing 185_Cage.txt.tx.14: No JVD. 
+
+Phrase: No JVD.
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+Processing 185_Cage.txt.tx.15: PMI normal. skin warm. no LE edema. nontender to palpation  Lungs - lungs clear to ascultation BL  Skin - warm, dry   A/P  ms. 
+
+Phrase: PMI normal. skin
+Meta Mapping (901):
+   660   C1823304:PMI (TMEM11 gene) [Gene or Genome]
+   901   C0558145:Normal Skin (Skin appearance normal (finding)) [Finding]
+
+Phrase: warm.
+Meta Mapping (1000):
+  1000   C0582051:Warm (Feels warm) [Finding]
+
+Phrase: no LE edema. nontender to palpation  Lungs - lungs
+Meta Mapping (718):
+   600   C0577599:No Edema (Swelling absent) [Finding]
+   578   C1423767:LE (HPS4 gene) [Gene or Genome]
+   744   C0520960:Nontender (Non-tender) [Qualitative Concept]
+   578   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   532   C0545747:Pulmonary-pulmonary (pulmonary artery and pulmonary artery) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to ascultation BL  Skin - warm,
+Meta Mapping (725):
+   753 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   753 N C0006413:BL (Burkitt Lymphoma) [Neoplastic Process]
+   783 N C0235218:Warm skin [Sign or Symptom]
+
+Phrase: dry
+Meta Mapping (1000):
+  1000   C0205222:Dry [Qualitative Concept]
+
+Phrase: A/P  ms.
+Meta Mapping (827):
+   827   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 185_Cage.txt.tx.16: Cage is a F with PMH of hypertension and an extensive family history of CAD. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a F with PMH of hypertension
+Meta Mapping (666):
+   753   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   586   C0262926:PMH (Medical History) [Finding]
+   586   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: an extensive family history of CAD.
+Meta Mapping (753):
+   586   C4321249:AN (DIAPH3 wt Allele) [Gene or Genome]
+   586   C0205231:Extensive [Qualitative Concept]
+   790   C0241889:FAMILY HISTORY (Family history) [Finding]
+   586   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+Processing 185_Cage.txt.tx.17: She presents 3d after chest pain with exertion. 
+
+Phrase: She
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: 3d after chest pain
+Meta Mapping (783):
+   770   C1442459:3D (3 Days) [Temporal Concept]
+   666   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: with exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 185_Cage.txt.tx.18: Her BP in the office was elevated and she reports smoking history. 
+
+Phrase: Her BP in the office
+Meta Mapping (696):
+   593   C0574443:HER (Herero language) [Language]
+   760   C1415692:Bp (HP gene) [Gene or Genome]
+   593   C0442603:Office [Manufactured Object]
+
+Phrase: was
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: she
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: smoking history.
+Meta Mapping (1000):
+  1000   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Processing 185_Cage.txt.tx.19: She should be evaluated for angina.  
+
+Phrase: She
+
+Phrase: should
+
+Phrase: be
+
+Phrase: evaluated for angina.
+Meta Mapping (746):
+   790   C0220825:Evaluated (Evaluation) [Health Care Activity]
+   790   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 185_Cage.txt.tx.20: - Echo - stress test  -better BP control
+
+Phrase: - Echo - stress test  -better BP control
+Meta Mapping (827):
+   632   C1655045:Echo (Echo (insect)) [Eukaryote]
+   876   C0150788:Stress control (Stress management) [Health Care Activity]
+   632   C0456984:Test (Test Result) [Laboratory or Test Result]
+   632   C0332272:Better [Qualitative Concept]
+   632   C1415692:Bp (HP gene) [Gene or Genome]
+Meta Mapping (827):
+   632   C1655045:Echo (Echo (insect)) [Eukaryote]
+   660   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   632   C0332272:Better [Qualitative Concept]
+   632   C1415692:Bp (HP gene) [Gene or Genome]
+   799   C1550141:Control (control substance) [Substance]
+Meta Mapping (827):
+   632   C1655045:Echo (Echo (insect)) [Eukaryote]
+   632   C0038435:Stress [Finding]
+   858   C1272570:Test control [Indicator, Reagent, or Diagnostic Aid]
+   632   C0332272:Better [Qualitative Concept]
+   632   C1415692:Bp (HP gene) [Gene or Genome]

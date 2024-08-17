@@ -1,0 +1,463 @@
+Processing 35_Cage.txt.tx.1: HPI 56 yo F presenting with acute onset chest pain. 
+
+Phrase: HPI 56 yo F presenting with acute onset chest pain.
+Meta Mapping (703):
+   573   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   573   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   739   C0449450:Presenting (Presentation) [Idea or Concept]
+   611   C0184567:Acute onset pain [Sign or Symptom]
+   573   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (703):
+   573   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   573   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   739   C0449450:Presenting (Presentation) [Idea or Concept]
+   611   C0522051:Acute chest pain [Sign or Symptom]
+   573   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+Processing 35_Cage.txt.tx.2: Patient was carrying heavy bottles when she felt a sharp pain and heavy pressure in the center of her chest that did not radiate, self resolved after 5-10 minutes, and was associated with a feeling like she could not get a deep breath. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy bottles
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C1633989:Bottles (bottle - unit dose) [Quantitative Concept]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a sharp pain
+Meta Mapping (1000):
+  1000   C0455270:Sharp Pain (Sharp pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heavy pressure in the center of her chest
+Meta Mapping (723):
+   578   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   793   C0438716:Pressure in chest (Chest pressure) [Sign or Symptom]
+   578   C0205099:Centre (Central) [Spatial Concept]
+   578   C0574443:HER (Herero language) [Language]
+
+Phrase: that
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: ,
+
+Phrase: self resolved after 5-10 minutes,
+Meta Mapping (741):
+   753   C0036588:Self [Idea or Concept]
+   753   C2699488:Resolved (Resolution) [Conceptual Entity]
+   783   C4517521:10.5 [Quantitative Concept]
+   753   C0439232:minutes (Minute of time) [Temporal Concept]
+Meta Mapping (741):
+   753   C0036588:Self [Idea or Concept]
+   753   C2699488:Resolved (Resolution) [Conceptual Entity]
+   753   C3842590:10% [Quantitative Concept]
+   783   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with a feeling
+Meta Mapping (783):
+   833   C0332281:Associated with [Qualitative Concept]
+   770 N C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: like she
+
+Phrase: could
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: get
+
+Phrase: a deep breath.
+Meta Mapping (1000):
+  1000 N C1321587:deep breath (Breathing abnormally deep) [Sign or Symptom]
+Processing 35_Cage.txt.tx.3: Denies nausea, sweating, fast heart rate, irregular heart rate. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: sweating
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+
+Phrase: ,
+
+Phrase: fast heart rate,
+Meta Mapping (1000):
+  1000 N C0039231:Fast heart rate (Tachycardia) [Finding]
+
+Phrase: irregular heart rate.
+Meta Mapping (1000):
+  1000 N C0237314:Irregular heart rate (Irregular heart beat) [Finding]
+Processing 35_Cage.txt.tx.4: She denies significant stressors and anxiety. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: significant stressors
+Meta Mapping (888):
+   694   C0750502:Significant [Idea or Concept]
+   861   C0597530:stressors (Stressor) [Idea or Concept]
+
+Phrase: and
+
+Phrase: anxiety.
+Meta Mapping (1000):
+  1000 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+Processing 35_Cage.txt.tx.5: Reports having 2-3 twinges similiar to the sharp central chest pain over the past 4 months that were provoked by physical activity as well. 
+
+Phrase: Reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: 2-3 twinges similiar to the sharp central chest pain
+Meta Mapping (541):
+   593   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   611   C0238995:CHEST PAIN, SHARP (sharp chest pain) [Sign or Symptom]
+   573   C0205099:CENTRAL (Central) [Spatial Concept]
+Meta Mapping (541):
+   593   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   573   C1444775:Sharp (Sharp sensation quality) [Finding]
+   615   C0423634:Central chest pain [Sign or Symptom]
+
+Phrase: over the past 4 months
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: that
+
+Phrase: were
+
+Phrase: provoked by physical activity
+Meta Mapping (783):
+   770   C1444748:Provoked (Triggered by) [Qualitative Concept]
+   833   C0015259:Physical Activity (Exercise) [Daily or Recreational Activity]
+
+Phrase: as well.
+Meta Mapping (1000):
+  1000   C0205170:Well (Good) [Qualitative Concept]
+Processing 35_Cage.txt.tx.6: She has heartburn but this feels different to her. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: heartburn
+Meta Mapping (1000):
+  1000   C0018834:HEARTBURN (Heartburn) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: this
+
+Phrase: feels
+Meta Mapping (1000):
+  1000   C1527305:feels (Feelings) [Mental Process]
+
+Phrase: different to her.
+Meta Mapping (746):
+   790   C1705242:Different [Qualitative Concept]
+   623   C0574443:HER (Herero language) [Language]
+Processing 35_Cage.txt.tx.7: Worried about heart attack.   
+
+Phrase: Worried about heart attack.
+Meta Mapping (783):
+   770   C0233481:Worried [Finding]
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 35_Cage.txt.tx.8: Allergies - none Meds - lisinopril, chlorthalidone PMHx - none Surgery - none FH - Dad: died from MI, CABG, CAD; Mom - pulmonary aneursym, HTN, DM SH - 1ppd cigarettes x30yrs, 1-2drinks on the weekend, denies drugs  Objective Vitals 150/92 BP 14 RR 85 HR 98F PE Heart - normal rate, rhythm, no murmurs, No JVD Lung - clear breath sounds BL Abd - no epigastric tenderness  Assessment  56yo F with PMH of smoking, HTN presenting with acute, non radiating chest pain with exertion that self resolved. 
+
+Phrase: Allergies -
+Meta Mapping (1000):
+  1000   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: none Meds - lisinopril,
+Meta Mapping (888):
+   694   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   861   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: chlorthalidone PMHx -
+Meta Mapping (694):
+   694   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: none Surgery -
+Meta Mapping (1000):
+  1000   C0038895:surgery (Surgical aspects) [Functional Concept]
+
+Phrase: none FH - Dad
+Meta Mapping (861):
+   861   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: :
+
+Phrase: died from MI,
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: ; Mom - pulmonary aneursym,
+Meta Mapping (623):
+   660   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   660   C0024109:pulmonary (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM SH - 1ppd cigarettes x30yrs,
+Meta Mapping (574):
+   637   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+   637   C0038108:SH (Saint Helena Islands) [Geographic Area]
+   637   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: 1-2drinks on the weekend,
+Meta Mapping (520):
+   593   C2827734:1+ (1+ Score) [Quantitative Concept]
+   593   C0680190:Weekend [Temporal Concept]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: drugs  Objective Vitals 150/92 BP 14 RR 85 HR 98F PE Heart - normal rate,
+Meta Mapping (709):
+   619   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+   619   C1571702:Objective (Objective observation) [Qualitative Concept]
+   547   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   619   C1708288:BP (HP wt Allele) [Gene or Genome]
+   619 N C4554402:RR (RR genotype) [Finding]
+   619   C4517892:85 [Quantitative Concept]
+   619   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   804   C2712143:heart normal rate (Normal heart rate) [Finding]
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: No JVD Lung - clear breath sounds BL Abd -
+Meta Mapping (818):
+   629 N C0425687:JVD (Jugular venous engorgement) [Finding]
+   629   C0024109:LUNG (Lung) [Body Part, Organ, or Organ Component]
+   629 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   651   C0035234:Breath sounds (Respiratory Sounds) [Clinical Attribute]
+   629 N C0006413:BL (Burkitt Lymphoma) [Neoplastic Process]
+   795   C0000726:abd (Abdomen) [Body Location or Region]
+
+Phrase: no epigastric tenderness  Assessment  56yo F with PMH of smoking,
+Meta Mapping (687):
+   591   C2826217:No Assessment [Finding]
+   593 N C0740433:epigastric tenderness [Sign or Symptom]
+   739   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   573 N C0262926:PMH (Medical History) [Finding]
+   573   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+Meta Mapping (687):
+   573   C1518422:No (Negation) [Functional Concept]
+   593 N C0740433:epigastric tenderness [Sign or Symptom]
+   739   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   573 N C0262926:PMH (Medical History) [Finding]
+   591   C3853073:Smoking assessment [Health Care Activity]
+
+Phrase: HTN presenting with acute, non radiating chest pain
+Meta Mapping (764):
+   578 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   744   C0449450:Presenting (Presentation) [Idea or Concept]
+   600   C1547228:Non-acute [Intellectual Product]
+   633 N C0232289:Chest pain, radiating (Radiating chest pain) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: self resolved.
+Meta Mapping (888):
+   861   C0036588:Self [Idea or Concept]
+   861   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 35_Cage.txt.tx.9: History significant for similiar episodes of chest pain with exertion and FH of CAD, CABG, and early MI. 
+
+Phrase: History
+Meta Mapping (1000):
+  1000   C0262926:History (Medical History) [Finding]
+
+Phrase: significant for similiar episodes of chest pain
+Meta Mapping (738):
+   748   C0750502:Significant [Idea or Concept]
+   581   C0332189:Episodes (Episode of) [Temporal Concept]
+   610   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: FH of CAD,
+Meta Mapping (623):
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: early MI.
+Meta Mapping (888):
+   694   C1279919:Early [Temporal Concept]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 35_Cage.txt.tx.10: No significant findings on physical exam. 
+
+Phrase: No significant findings on physical exam.
+Meta Mapping (776):
+   586   C1518422:No (Negation) [Functional Concept]
+   586   C0750502:Significant [Idea or Concept]
+   820   C0944980:Physical Exam findings (Physical findings:Finding:Point in time:^Patient:Nominal:Observed) [Clinical Attribute]
+Processing 35_Cage.txt.tx.11: Most likely stable Angina given symptoms of chest pain with exertion that resolve with rest, differential includes myocardial infarction, unstable angina, esophageal spasm.   
+
+Phrase: Most likely stable Angina given symptoms of chest pain
+Meta Mapping (744):
+   598   C0750501:most likely [Idea or Concept]
+   575   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+   762   C0858277:angina symptoms (angina symptom) [Sign or Symptom]
+   590   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: resolve with rest,
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: differential
+Meta Mapping (1000):
+  1000   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: myocardial infarction,
+Meta Mapping (1000):
+  1000   C2926063:Myocardial infarction (Myocardial infarction:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: esophageal spasm.
+Meta Mapping (1000):
+  1000   C0014863:ESOPHAGEAL SPASM (Esophageal spasm) [Disease or Syndrome]
+Processing 35_Cage.txt.tx.12: Plan - EKG, troponins, CBC, BMP today - ECHO and CXR if EKG is abnormal - check lipid panel and prescribe statin if elevated -check Hg A1c
+
+Phrase: Plan - EKG,
+Meta Mapping (888):
+   694   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: troponins,
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP today - ECHO
+Meta Mapping (851):
+   660   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   660   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   827   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: and
+
+Phrase: CXR
+Meta Mapping (1000):
+  1000   C0039985:cxr (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: if
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: abnormal - check lipid panel
+Meta Mapping (861):
+   645   C0205161:ABNORMAL (Abnormal) [Finding]
+   645   C1283174:Check (Checking (action)) [Activity]
+   861   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: prescribe
+
+Phrase: statin
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: elevated -
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: check Hg A1c
+Meta Mapping (851):
+   660   C1283174:Check (Checking (action)) [Activity]
+   660   C2348272:Hg (Dietary Mercury) [Element, Ion, or Isotope]
+   827   C4521595:A1C (US Military enlisted E3) [Classification]

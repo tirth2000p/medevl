@@ -1,0 +1,179 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,0,True,Ms. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,4,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,4,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0450382,55,55,-581,-496,a 55 YoF w/ PMx of HTN,18,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0020538,HTN,Hypertensive disease,-581,-496,a 55 YoF w/ PMx of HTN,18,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0150312,PRESENT,Present,-1000,-1000,presents,41,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0750526,Today,Today (temporal qualifier),-736,-671,today with concern of an episode of chest pain 3 days ago.,50,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C2699424,Concern,Concern,-570,-671,today with concern of an episode of chest pain 3 days ago.,50,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-584,-671,today with concern of an episode of chest pain 3 days ago.,50,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-586,-671,today with concern of an episode of chest pain 3 days ago.,50,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C3842675,Day 3,Day 3,-568,-671,today with concern of an episode of chest pain 3 days ago.,50,True,Gerry Cage is a 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,109,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C1709305,Happened,Occur (action),-1000,-1000,happened,118,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,140,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C0205392,Some,Some (qualifier value),-586,-524,some heavy groceries to her car,149,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-586,-524,some heavy groceries to her car,149,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C0574443,HER,Herero language,-586,-524,some heavy groceries to her car,149,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C0004381,Car,Automobiles,-586,-524,some heavy groceries to her car,149,True,The pain happened when she was carrying some heavy groceries to her car and it suddenly came on. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,206,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0230135,Sternal region,Structure of sternal region,-790,-790,located in the mid-sternal region,219,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C1527305,feel,Feelings,-966,-966,felt,260,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0458256,Heavy pain,Heavy pain,-783,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0205125,DEEP,Deep (qualifier value),-586,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0234238,Aching,Ache,-586,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-753,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0234229,Deep pain,Deep pain,-617,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0234238,Aching,Ache,-586,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-753,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0205125,DEEP,Deep (qualifier value),-586,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C0234238,Aching pain,Ache,-623,-725,heavy with a deep aching pain.,265,True,The pain was located in the mid-sternal region and it felt heavy with a deep aching pain. 
+C1522449,RADIATION,Therapeutic radiology procedure,-1000,-1000,No radiation,296,True,No radiation was reported. 
+C0700287,Reported,Reporting,-1000,-1000,reported.,313,True,No radiation was reported. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,The pain,323,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C1705827,SAT,SAT1 wt Allele,-833,-833,sat down,354,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C0035253,rested,Rest,-760,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C4517521,10.5,10.5,-797,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C0702093,/minute,Per Minute,-760,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C0035253,rested,Rest,-760,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C3842590,10%,10%,-760,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C0886384,minute 5,5 minutes Office visit,-797,-761,rested for 5-10 minutes.,367,True,The pain disappeared after she sat down and rested for 5-10 minutes. 
+C1527305,feel,Feelings,-966,-966,felt,396,True,"She felt faint and had some SOB associated, denies LOC. "
+C0039070,FAINT,Syncope,-1000,-1000,faint,401,True,"She felt faint and had some SOB associated, denies LOC. "
+C0013404,SOB,Dyspnea,-1000,-1000,some SOB,415,True,"She felt faint and had some SOB associated, denies LOC. "
+C0332281,Associated,Associated with,-1000,-1000,associated,424,True,"She felt faint and had some SOB associated, denies LOC. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,436,True,"She felt faint and had some SOB associated, denies LOC. "
+C0450429,LOC,Location,-1000,-1000,LOC.,443,True,"She felt faint and had some SOB associated, denies LOC. "
+C1518422,Not,Negation,-1000,-1000,not,456,True,She did not take any medications for it. 
+C1515187,Take,Take,-1000,-1000,take,460,True,She did not take any medications for it. 
+C1552551,ANY,Any,-604,-722,any medications for it.,465,True,She did not take any medications for it. 
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-770,-722,any medications for it.,465,True,She did not take any medications for it. 
+C1709305,Happened,Occur (action),-1000,-1000,happened,498,True,"This has happened 2-3 times previously, both times with exertion. "
+C3840669,2-3 times,2 to 3 times,-923,-923,"2-3 times previously,",507,True,"This has happened 2-3 times previously, both times with exertion. "
+C0238767,Both,Bilateral,-604,-733,both times with exertion.,529,True,"This has happened 2-3 times previously, both times with exertion. "
+C0040223,times,Time,-770,-733,both times with exertion.,529,True,"This has happened 2-3 times previously, both times with exertion. "
+C0015264,Exertion,Exertion,-604,-733,both times with exertion.,529,True,"This has happened 2-3 times previously, both times with exertion. "
+C0332189,Episodes,Episode of,-1000,-1000,those episodes,564,True,"However, those episodes were less prominent than this one. "
+C0439092,Less Than,Less Than,-631,-761,less prominent than this one.,584,True,"However, those episodes were less prominent than this one. "
+C0205402,Prominent,Prominent,-760,-761,less prominent than this one.,584,True,"However, those episodes were less prominent than this one. "
+C0205447,ONE,One,-593,-761,less prominent than this one.,584,True,"However, those episodes were less prominent than this one. "
+C0030705,*^patient,Patients,-1000,-1000,Patient,614,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0700287,reports,Reporting,-1000,-1000,reports,627,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C4086728,Past Year,Past Year,-806,-806,"that during the past year,",635,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0205392,Some,Some (qualifier value),-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0446470,Lower chest,Surface region of lower chest,-595,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0033095,Pressure,Pressure- physical agent,-742,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0549177,LARGE,Large,-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C1998602,Meal,Meal (occasion for eating),-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0205392,Some,Some (qualifier value),-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0441994,LOWER,Lower - spatial qualifier,-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0438716,Chest pressure,Chest pressure,-764,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0549177,LARGE,Large,-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C1998602,Meal,Meal (occasion for eating),-575,-676,"some lower mid chest pressure after a large meal,",674,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C2699488,Resolve,Resolution,-760,-745,resolves after 3-5 minutes.,730,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C0886384,minute 5,5 minutes Office visit,-797,-745,resolves after 3-5 minutes.,730,True,"Patient also reports that during the past year, she has had some lower mid chest pressure after a large meal, which resolves after 3-5 minutes. "
+C1709820,ROS,ROS1 wt Allele,-1000,-1000,ROS,758,True,ROS was otherwise negative. 
+C0205160,Negative,Negative,-861,-861,otherwise negative.,766,True,ROS was otherwise negative. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,786,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C2700401,Deny,Deny (action),-1000,-1000,denies,794,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0020517,Allergies,Hypersensitivity,-1000,-1000,"allergies,",801,False,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1515187,Take,Take,-1000,-1000,takes,812,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,chlorthalidone,818,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0065374,Lysinopril,lisinopril,-790,-746,"lisinopril for HTN,",837,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0020538,HTN,Hypertensive disease,-623,-746,"lisinopril for HTN,",837,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0455610,Past surgical history,H/O: surgery,-895,-895,no past surgeries. family history,857,False,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0015576,Family,Family,-812,-895,no past surgeries. family history,857,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0750502,Significant,Significant,-790,-746,significant for father,895,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0015671,FATHER,Father (person),-623,-746,significant for father,895,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1306577,Died,Death (finding),-770,-783,died of heart attack,922,False,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0027051,HEART ATTACK,Myocardial Infarction,-833,-783,died of heart attack,922,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1828181,Age at Diagnosis,Age at diagnosis,-789,-721,at age 40 s/p diagnosis of CAD,943,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0439509,/40,/40,-578,-721,at age 40 s/p diagnosis of CAD,943,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1707433,CAD,Collision-Induced Dissociation,-578,-721,at age 40 s/p diagnosis of CAD,943,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0741847,Bypass,Bypass,-694,-888,with bypass. mom,974,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1442163,MoM,Multiple of the median,-861,-888,with bypass. mom,974,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1306577,Died,Death (finding),-790,-746,died at 60,991,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C3842585,60%,60%,-790,-746,died at 60,991,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1880476,PE,Etoposide-Platinol Regimen,-1000,-1000,"from PE,",1002,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,HTN.,1027,True,"Patient denies allergies, takes chlorthalidone and lisinopril for HTN, no past surgeries. family history was significant for father who died of heart attack at age 40 s/p diagnosis of CAD with bypass. mom died at 60 from PE, PMx of T2DM and HTN. "
+C1273525,Maternal grand-mother,Maternal grandmother,-623,-623,Maternal grandmother PMx of breast cancer.,1032,True,Maternal grandmother PMx of breast cancer.  
+C0006142,Cancer of Breast,Malignant neoplasm of breast,-654,-623,Maternal grandmother PMx of breast cancer.,1032,True,Maternal grandmother PMx of breast cancer.  
+C0039476,TEMP,Temperature,-827,-790,"Objectively Temp 98,",1076,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C4319627,98,98,-827,-790,"Objectively Temp 98,",1076,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C2603361,P',P prime,-861,-888,"P 85,",1097,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C4517892,85,85,-861,-888,"P 85,",1097,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",1103,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C1708288,BP,HP wt Allele,-827,-827,BP 150/92.,1110,True,"Objectively Temp 98, P 85, RR 14, BP 150/92. "
+C1880476,PE,Etoposide-Platinol Regimen,-660,-873,PE normal chest,1121,True,PE normal chest and lung exam.  
+C0567498,Normal breast,Breast normal,-859,-873,PE normal chest,1121,True,PE normal chest and lung exam.  
+C0024109,LUNG,Lung,-694,-888,lung exam.,1141,True,PE normal chest and lung exam.  
+C0582103,Exam,Medical Examination,-861,-888,lung exam.,1141,True,PE normal chest and lung exam.  
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1153,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0450382,55,55,-586,-506,55 YoF w/ PMx of HTN,1165,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0020538,HTN,Hypertensive disease,-586,-506,55 YoF w/ PMx of HTN,1165,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0150312,PRESENT,Present,-1000,-1000,presents,1186,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0750526,Today,Today (temporal qualifier),-734,-659,today with concern of an episode of chest pain 3 days ago w/ exertion.,1195,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C2699424,Concern,Concern,-568,-659,today with concern of an episode of chest pain 3 days ago w/ exertion.,1195,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0332189,Episode of,Episode of,-580,-659,today with concern of an episode of chest pain 3 days ago w/ exertion.,1195,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C3842675,Day 3,Day 3,-563,-659,today with concern of an episode of chest pain 3 days ago w/ exertion.,1195,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0232288,"Chest pain, exertional",Chest pain on exertion,-558,-659,today with concern of an episode of chest pain 3 days ago w/ exertion.,1195,True,Assessment: 55 YoF w/ PMx of HTN presents today with concern of an episode of chest pain 3 days ago w/ exertion. 
+C0205183,BENIGN,Benign,-645,-861,Benign physical exam today.,1266,True,Benign physical exam today. 
+C0031809,"Exam, Physical",Physical Examination,-694,-861,Benign physical exam today.,1266,True,Benign physical exam today. 
+C0750526,Today,Today (temporal qualifier),-812,-861,Benign physical exam today.,1266,True,Benign physical exam today. 
+C0205231,Extensive,Extensive,-586,-888,Extensive family history of vascular disease.,1294,True,Extensive family history of vascular disease. 
+C0850707,family history of disease,history (of) disease family,-864,-888,Extensive family history of vascular disease.,1294,True,Extensive family history of vascular disease. 
+C1801960,Vascular,Vascular,-586,-888,Extensive family history of vascular disease.,1294,True,Extensive family history of vascular disease. 
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,Ddx,1340,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0332257,include,Including (qualifier),-1000,-1000,includes,1344,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0002962,ANGINA,Angina Pectoris,-1000,-1000,angina,1353,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0031046,PERICARDITIS,Pericarditis,-1000,-1000,pericarditis,1363,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0700031,ANXIETY ATTACK,Anxiety attack,-1000,-1000,anxiety attack,1379,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,heart attack,1397,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C1955473,Others,Others - Allergy,-1000,-1000,others,1413,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1421,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C1301820,Obtain,Obtain,-1000,-1000,obtain,1434,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0029921,Outpatient,Outpatients,-660,-851,outpatient EKG today,1441,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C1623258,EKG,Electrocardiography,-660,-851,outpatient EKG today,1441,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0750526,Today,Today (temporal qualifier),-827,-851,outpatient EKG today,1441,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1462,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0220825,Evaluate,Evaluation,-1000,-1000,evaluate.,1465,True,Ddx includes angina vs pericarditis vs anxiety attack vs heart attack vs others  Plan: - Will obtain outpatient EKG today to evaluate. 
+C0041199,Troponin,Troponin,-1000,-1000,Troponin,1475,True,Troponin and basic labs will also be drawn today. 
+C1527178,Basic,Basis - conceptual entity,-694,-888,basic labs,1488,True,Troponin and basic labs will also be drawn today. 
+C0587081,Labs,Laboratory test finding,-861,-888,basic labs,1488,True,Troponin and basic labs will also be drawn today. 
+C0750526,Today,Today (temporal qualifier),-861,-861,drawn today.,1512,True,Troponin and basic labs will also be drawn today. 
+C0420385,Cardiological referral,Referral to cardiology service,-822,-822,- Referral to cardiology,1525,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0015260,Exercise stress test,Exercise stress test,-717,-850,for exercise stress test - Advised patient,1550,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0030705,*^patient,Patients,-804,-850,for exercise stress test - Advised patient,1550,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1593,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0439659,Start,Beginning,-1000,-1000,start,1596,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C1515187,Take,Take,-612,-852,taking ASA 81 mg,1602,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0004057,ASA,aspirin,-645,-852,taking ASA 81 mg,1602,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C4699692,81 mg,81 mg,-861,-852,taking ASA 81 mg,1602,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0286651,ATORVASTATIN,atorvastatin,-632,-781,atorvastatin given presumed high ASCVD risk.,1623,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C4684849,Presumed,Presumed,-632,-781,atorvastatin given presumed high ASCVD risk.,1623,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0332167,HIGH RISK,High risk of,-839,-781,atorvastatin given presumed high ASCVD risk.,1623,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C3665365,ASCVD,"Arteriosclerotic cardiovascular disease, NOS",-632,-781,atorvastatin given presumed high ASCVD risk.,1623,True,- Referral to cardiology for exercise stress test - Advised patient to start taking ASA 81 mg and atorvastatin given presumed high ASCVD risk. 
+C0686904,need,Patient need for (contextual qualifier),-1000,-1000,need,1673,True,Will need LFT and more thorough social history to fully calculate.  
+C0023901,LFT,Liver Function Tests,-1000,-1000,LFT,1678,True,Will need LFT and more thorough social history to fully calculate.  
+C0205172,More,More,-593,-745,more thorough social history to,1686,True,Will need LFT and more thorough social history to fully calculate.  
+C0424945,Social history,Social and personal history,-806,-745,more thorough social history to,1686,True,Will need LFT and more thorough social history to fully calculate.  
+C1441506,Calculate,Calculation,-1000,-1000,calculate.,1724,True,Will need LFT and more thorough social history to fully calculate.  
+C2362652,Possible,Possible diagnosis,-694,-888,"- Possible GERD,",1736,True,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C0017168,GERD,Gastroesophageal reflux disease,-861,-888,"- Possible GERD,",1736,True,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C1518422,Not,Negation,-660,-901,"not primary complaint,",1753,True,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C0277786,Primary Complaint,Chief complaint (finding),-901,-901,"not primary complaint,",1753,False,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C0589121,Follow-up visit,Follow-up visit,-844,-807,follow-up at next visit.,1780,True,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C0332282,Next,Following,-593,-807,follow-up at next visit.,1780,True,"- Possible GERD, not primary complaint, can follow-up at next visit. "
+C0439659,Start,Beginning,-790,-746,start on PPI.,1809,True,Can start on PPI. 
+C0871125,PPI,prepulse inhibition activity,-790,-746,start on PPI.,1809,True,Can start on PPI. 
+C0497247,Elevated BP,Increase in blood pressure,-1000,-1000,"- Elevated BP,",1823,True,"- Elevated BP, not primary concern. "
+C1518422,Not,Negation,-660,-851,not primary concern.,1838,True,"- Elevated BP, not primary concern. "
+C0439631,Primary,Primary operation,-660,-851,not primary concern.,1838,True,"- Elevated BP, not primary concern. "
+C2699424,Concern,Concern,-827,-851,not primary concern.,1838,True,"- Elevated BP, not primary concern. "
+C0205087,Later,Late,-790,-746,later in visit.,1872,True,Will recheck later in visit. 
+C0545082,Visit,Visit,-790,-746,later in visit.,1872,True,Will recheck later in visit. 
+C0750591,consider,consider,-1000,-1000,consider,1892,True,Can consider adding amlodipine if remains elevated.
+C1883712,Add,Add - instruction imperative,-966,-966,adding,1901,True,Can consider adding amlodipine if remains elevated.
+C0051696,AMLODIPINE,amlodipine,-1000,-1000,amlodipine,1908,True,Can consider adding amlodipine if remains elevated.
+C0205250,Elevated,High,-1000,-1000,elevated.,1930,True,Can consider adding amlodipine if remains elevated.

@@ -1,0 +1,561 @@
+Processing 112_Cage.txt.tx.1: Subjective 55 yo female with hx of HTN presenting after 1 episode of deep achy chest pain lasting 5 minutes 3 days ago. 
+
+Phrase: Subjective 55 yo female with hx of HTN presenting
+Meta Mapping (690):
+   575   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   575   C0450382:55 [Intellectual Product]
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C0043210:female (Woman) [Population Group]
+   575   C0262926:Hx (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   575   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: after 1 episode of deep achy chest pain
+Meta Mapping (758):
+   600   C0423732:after pain (After pains) [Sign or Symptom]
+   770   C0332189:Episode of [Temporal Concept]
+   578   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   568   C0235715:ache chest (Chest aching of) [Finding]
+Meta Mapping (758):
+   578   C0231290:After (Status post) [Temporal Concept]
+   770   C0332189:Episode of [Temporal Concept]
+   600   C0234229:Deep pain [Sign or Symptom]
+   568   C0235715:ache chest (Chest aching of) [Finding]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5 minutes 3 days ago.
+Meta Mapping (790):
+   875   C1442466:5 Days [Temporal Concept]
+   637   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (790):
+   673   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   804   C0439228:DAYS (day) [Temporal Concept]
+Processing 112_Cage.txt.tx.2: The patient states that she was walking to her car from the store when she suddenly felt a heavy pressure on her chest and felt faint, causing her to sit down in her car and rest. 
+
+Phrase: The patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: was
+
+Phrase: walking to her car
+Meta Mapping (733):
+   770   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+   604   C0574443:HER (Herero language) [Language]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: from the store
+Meta Mapping (1000):
+  1000   C1698986:Store (Storage) [Functional Concept]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: suddenly
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a heavy pressure on her chest
+Meta Mapping (719):
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   783   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+   586   C0574443:HER (Herero language) [Language]
+
+Phrase: and
+
+Phrase: felt faint,
+Meta Mapping (1000):
+  1000   C0581879:Felt faint [Sign or Symptom]
+
+Phrase: causing
+Meta Mapping (1000):
+  1000   C0678227:Causing [Functional Concept]
+
+Phrase: her to sit down in her car
+Meta Mapping (650):
+   581   C0574443:HER (Herero language) [Language]
+   748   C0728713:sit (Does sit) [Finding]
+   692   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+   581   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: rest.
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+Processing 112_Cage.txt.tx.3: She states that the pain resolved on it's own after 5 minutes She reports some associated shortness of breath with her pain, but denies any fevers, chills, abdominal pain, headaches, nausea, vomiting. 
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: resolved on it's own after 5 minutes She reports
+Meta Mapping (678):
+   742   C2699488:Resolved (Resolution) [Conceptual Entity]
+   762   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   742   C1822717:SHE (SHE gene) [Gene or Genome]
+   742   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: some
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: shortness of breath with her pain,
+Meta Mapping (776):
+   833   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+   586   C0574443:HER (Herero language) [Language]
+   586   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: but
+Meta Mapping (1000):
+  1000   C0233535:but (Butting) [Mental or Behavioral Dysfunction]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any
+
+Phrase: fevers
+Meta Mapping (1000):
+  1000 N C0015967:Fevers (Fever) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000 N C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000 N C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting.
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+Processing 112_Cage.txt.tx.4: She denies ever having any similar symptoms in the past. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: ever
+
+Phrase: having
+
+Phrase: any similar symptoms in the past.
+Meta Mapping (697):
+   586   C1552551:ANY (Any) [Qualitative Concept]
+   586   C2348205:Similar (Similarity) [Qualitative Concept]
+   753 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   586   C1444637:Past (In the past) [Temporal Concept]
+Processing 112_Cage.txt.tx.5: She denies any recurrence of her symptoms since this episode 3 days ago.  
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any recurrence of her symptoms
+Meta Mapping (724):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   760   C0034897:Recurrence [Phenomenon or Process]
+   593   C0574443:HER (Herero language) [Language]
+   593 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: since
+
+Phrase: this episode 3 days ago.
+Meta Mapping (763):
+   645   C0332189:EPISODE (Episode of) [Temporal Concept]
+   812   C0439228:DAYS (day) [Temporal Concept]
+Processing 112_Cage.txt.tx.6: Meds: lisinopril, chlorthorazone? 
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: chlorthorazone?
+Processing 112_Cage.txt.tx.7: Allergies: none PMH: HTN Surgeries: none Social: drinks 2-3 glasses of wine on weekend evenings, smoked 1 ppd for 30 years, denies any recreational drug use  Objective Vitals: T 98, P 85, R 14, BP 150/92 General: anxious appearing and fidgety, but non-toxic and in no acute distress CV: heart rate an rhythm regular, no murmurs/rubs/gallops Pulm: Lungs CTAB  Labs: none  Assessment 55 yo female with history of HTN and 30 pack years presenting for one episode of unprovoked acute chest pain lasting 5 minutes that resolved on it's own. 
+
+Phrase: Allergies
+Meta Mapping (1000):
+  1000   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN Surgeries
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: none Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: drinks 2-3 glasses of wine
+Meta Mapping (716):
+   617   C0425332:Drinks wine [Finding]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+
+Phrase: on weekend evenings,
+Meta Mapping (872):
+   694   C0680190:Weekend [Temporal Concept]
+   827   C0587117:Evening [Temporal Concept]
+
+Phrase: smoked
+Meta Mapping (966):
+   966   C0439994:Smoke (Tobacco smoke) [Hazardous or Poisonous Substance]
+
+Phrase: 1 ppd for 30 years,
+Meta Mapping (724):
+   593   C2827734:1+ (1+ Score) [Quantitative Concept]
+   760   C1144026:PPD (EIF2C2 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   593   C3842588:30% [Quantitative Concept]
+   593   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any recreational drug use  Objective Vitals
+Meta Mapping (857):
+   717 N C0013146:Recreational Drug Use (Drug abuse) [Mental or Behavioral Dysfunction]
+   637   C1571702:Objective (Objective observation) [Qualitative Concept]
+   733   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: T 98,
+Meta Mapping (1000):
+  1000   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C0205090:R- (Right) [Spatial Concept]
+
+Phrase: BP 150/92 General
+Meta Mapping (791):
+   645   C1708288:BP (HP wt Allele) [Gene or Genome]
+   812   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: anxious appearing
+Meta Mapping (872):
+   694   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: fidgety,
+Meta Mapping (1000):
+  1000   C0424235:Fidgety (Fidgeting) [Finding]
+
+Phrase: but
+
+Phrase: non-toxic
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861 N C0600688:toxic (Toxic effect) [Injury or Poisoning]
+
+Phrase: and in no acute distress CV
+Meta Mapping (697):
+   753   C1515981:And [Idea or Concept]
+   753   C0205178:ACUTE (acute) [Temporal Concept]
+   753 N C0231303:Distress [Finding]
+   753   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: heart rate
+Meta Mapping (1000):
+  1000   C0018810:Heart Rate (heart rate) [Clinical Attribute]
+
+Phrase: an rhythm
+Meta Mapping (1000):
+  1000 N C0871269:Rhythm [Finding]
+
+Phrase: regular,
+Meta Mapping (1000):
+  1000   C0205272:Regular [Qualitative Concept]
+
+Phrase: no murmurs/
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: /gallops
+
+Phrase: Pulm
+Meta Mapping (1000):
+  1000   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Lungs CTAB  Labs
+Meta Mapping (851):
+   660   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   660   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   827 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: none  Assessment 55 yo female with history of HTN
+Meta Mapping (698):
+   575 N C0549184:NONE (None) [Finding]
+   575   C1516048:Assessment (Assessed) [Activity]
+   575   C0450382:55 [Intellectual Product]
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C0043210:female (Woman) [Population Group]
+   575   C0262926:History (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: 30 pack years
+Meta Mapping (901):
+   660   C3842588:30% [Quantitative Concept]
+   901   C1277691:Pack years [Intellectual Product]
+
+Phrase: presenting for one episode of unprovoked acute chest pain
+Meta Mapping (723):
+   742   C0449450:Presenting (Presentation) [Idea or Concept]
+   742   C0205447:ONE (One) [Quantitative Concept]
+   764   C0332189:Episode of [Temporal Concept]
+   790   C0522051:Acute chest pain [Sign or Symptom]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5 minutes
+Meta Mapping (1000):
+  1000   C0886384:5 minutes (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: that
+
+Phrase: resolved on it's
+Meta Mapping (790):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: own.
+Processing 112_Cage.txt.tx.8: Physical exam is reassuring with normal heart sounds, but consistent with uncontrolled hypertension. 
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: reassuring with normal heart sounds,
+Meta Mapping (816):
+   760   C0557055:Reassuring (Reassuring (procedure)) [Health Care Activity]
+   862   C0577821:Normal heart sounds (Heart sounds normal) [Finding]
+
+Phrase: but
+
+Phrase: consistent with uncontrolled hypertension.
+Meta Mapping (861):
+   833   C0332290:Consistent with [Idea or Concept]
+   604   C0205318:Uncontrolled [Qualitative Concept]
+   604   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Processing 112_Cage.txt.tx.9: Differential diagnosis includes likely acute coronary syndrome due to cardiac risk factors, age, and history vs unlikely musculoskeletal pain.  
+
+Phrase: Differential diagnosis
+Meta Mapping (1000):
+  1000   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: likely acute coronary syndrome due to cardiac risk factors,
+Meta Mapping (829):
+   575   C0750492:Likely (Probably) [Idea or Concept]
+   790 N C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+   598   C0678226:Due To (Due to) [Functional Concept]
+   575   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   598 N C0035648:Risk Factors (risk factors) [Finding]
+Meta Mapping (829):
+   575   C0750492:Likely (Probably) [Idea or Concept]
+   781 N C0948089:Acute Cardiac Syndrome (Acute Coronary Syndrome) [Disease or Syndrome]
+   742   C0018787:coronary (Heart) [Body Part, Organ, or Organ Component]
+   598   C0678226:Due To (Due to) [Functional Concept]
+   598 N C0035648:Risk Factors (risk factors) [Finding]
+
+Phrase: age,
+Meta Mapping (1000):
+  1000   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: and
+
+Phrase: history
+Meta Mapping (1000):
+  1000 N C0262926:History (Medical History) [Finding]
+
+Phrase: vs
+
+Phrase: unlikely musculoskeletal pain.
+Meta Mapping (901):
+   660   C0750558:Unlikely [Finding]
+   901   C0026858:MUSCULOSKELETAL PAIN (Musculoskeletal Pain) [Finding]
+Processing 112_Cage.txt.tx.10: Plan 1) EKG, serial troponin/BNP, lipid panel 2) Counseling on control of hypertension and smoking cessation as a modifiable risk factor for coronary disease 3) Pending lipid panel, can consider starting statin 4) Can consider beta blocker 5) Pending results of EKG and troponin, can consider further work up with revascularization
+
+Phrase: Plan 1
+Meta Mapping (861):
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: )
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: serial troponin/BNP,
+Meta Mapping (851):
+   660   C0031082:serial (Periodicals) [Intellectual Product]
+   660   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C0054015:BNP (nesiritide) [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+
+Phrase: lipid panel 2
+Meta Mapping (901):
+   901   C0200382:Lipid panel [Laboratory Procedure]
+Meta Mapping (901):
+   827   C0523744:LIPID (Lipids measurement) [Laboratory Procedure]
+   901   C0441865:Panel 2 (Group 2) [Intellectual Product]
+
+Phrase: )
+
+Phrase: Counseling on control of hypertension
+Meta Mapping (687):
+   760   C0740209:Counseling NOS (Encounter due to counseling) [Finding]
+   593   C2587213:Control (Control function) [Functional Concept]
+   593   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: smoking cessation as a modifiable risk factor
+Meta Mapping (724):
+   778   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   612   C0035648:Risk Factor (risk factors) [Finding]
+
+Phrase: for coronary disease 3
+Meta Mapping (901):
+   901   C0010068:CORONARY DISEASE (Coronary heart disease) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: Pending lipid panel,
+Meta Mapping (901):
+   901   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: starting
+Meta Mapping (966):
+   966   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: statin 4
+Meta Mapping (861):
+   861   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: )
+
+Phrase: Can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: beta blocker 5
+Meta Mapping (913):
+   913   C1540127:beta-5 (TUBB4A gene) [Gene or Genome]
+
+Phrase: )
+
+Phrase: Pending results of EKG
+Meta Mapping (691):
+   737   C1274040:Result [Functional Concept]
+   604   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: further work up with revascularization
+Meta Mapping (761):
+   593   C1517331:Further [Spatial Concept]
+   806   C0750430:Work-up [Diagnostic Procedure]
+   593   C0581603:Revascularization (Revascularization - action) [Therapeutic or Preventive Procedure]

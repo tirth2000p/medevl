@@ -1,0 +1,637 @@
+Processing 72_Cage.txt.tx.1: Subjective: CC: Chest pain HPI:  Ms. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: Chest pain HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 72_Cage.txt.tx.2: Cage is a 55-year-old female who presents 3 days after an episode of chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55-year-old female
+Meta Mapping (833):
+   645   C0450382:55 [Intellectual Product]
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: 3 days after an episode of chest pain.
+Meta Mapping (733):
+   770   C1442459:3 Days [Temporal Concept]
+   604   C0332189:Episode of [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 72_Cage.txt.tx.3: She reported that she was carrying groceries when she began to feel a deep squeezing midline pressure. 
+
+Phrase: She
+
+Phrase: reported
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: feel
+Meta Mapping (1000):
+  1000   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a deep squeezing midline pressure.
+Meta Mapping (825):
+   645   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   612   C0413258:Squeeze (Barotrauma of descent) [Injury or Poisoning]
+   645   C1660780:midline (midline cell component) [Cell Component]
+   812   C0460139:Pressure (Pressure (finding)) [Finding]
+Processing 72_Cage.txt.tx.4: She reported that the pain did not radiate and that she was able to get full relief after sitting in her car quietly for 5-10 minutes. 
+
+Phrase: She
+
+Phrase: reported
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: that
+
+Phrase: she
+
+Phrase: was
+
+Phrase: able
+Meta Mapping (1000):
+  1000 N C1299581:Able (Able (finding)) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: get
+
+Phrase: full relief after sitting
+Meta Mapping (733):
+   604   C0443225:Full [Qualitative Concept]
+   770 N C0564405:Relief (Feeling relief) [Finding]
+   604 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in her car quietly for 5-10 minutes.
+Meta Mapping (705):
+   578 N C0150312:In (Present) [Finding]
+   578   C0574443:HER (Herero language) [Language]
+   744   C0004381:Car (Automobiles) [Manufactured Object]
+   600   C4517521:10.5 [Quantitative Concept]
+   578   C0439232:minutes (Minute of time) [Temporal Concept]
+Meta Mapping (705):
+   578 N C0150312:In (Present) [Finding]
+   578   C0574443:HER (Herero language) [Language]
+   744   C0004381:Car (Automobiles) [Manufactured Object]
+   578   C3842590:10% [Quantitative Concept]
+   600   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 72_Cage.txt.tx.5: She also reported roughly a 4 month history of similar episodes that occurred during physical exertion and all of which resolved with rest. 
+
+Phrase: She
+
+Phrase: also
+
+Phrase: reported
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+
+Phrase: roughly
+
+Phrase: a 4 month history of similar episodes
+Meta Mapping (731):
+   581   C0439231:Month (month) [Temporal Concept]
+   748   C0262926:History (Medical History) [Finding]
+   581   C2348205:Similar (Similarity) [Qualitative Concept]
+   591   C0332189:Episode of [Temporal Concept]
+
+Phrase: that
+
+Phrase: occurred during physical exertion
+Meta Mapping (783):
+   770   C1709305:Occurred (Occur (action)) [Activity]
+   833   C0031807:Physical Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: all of which
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 72_Cage.txt.tx.6: This most recent episode was the worst, which prompted her visit today. 
+
+Phrase: This most recent episode
+Meta Mapping (1000):
+  1000   C1513491:Most Recent episode (Most Recent) [Temporal Concept]
+
+Phrase: was
+
+Phrase: the worst,
+Meta Mapping (1000):
+  1000   C1522166:Worst [Qualitative Concept]
+
+Phrase: which
+
+Phrase: prompted
+Meta Mapping (1000):
+  1000   C0871157:prompted (Prompting) [Functional Concept]
+
+Phrase: her visit today.
+Meta Mapping (888):
+   694   C2826704:VISIT (Visit Name) [Intellectual Product]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 72_Cage.txt.tx.7: She also endorsed feelings short of breath and faint during these episodes. 
+
+Phrase: She also endorsed feelings short of breath
+Meta Mapping (755):
+   581   C1822717:SHE (SHE gene) [Gene or Genome]
+   748   C1527305:Feelings [Mental Process]
+   647   C0013404:Short of breath (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: faint during these episodes.
+Meta Mapping (773):
+   773   C0751534:Syncopal Episodes (Syncopal Episode) [Sign or Symptom]
+Processing 72_Cage.txt.tx.8: She denied dizziness, heart palpitations or nausea during the episodes.  
+
+Phrase: She
+
+Phrase: denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: heart palpitations
+Meta Mapping (1000):
+  1000 N C0030252:Heart palpitations (Palpitations) [Finding]
+
+Phrase: or
+
+Phrase: nausea during the episodes.
+Meta Mapping (708):
+   770 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+   604   C0332189:Episodes (Episode of) [Temporal Concept]
+Processing 72_Cage.txt.tx.9: Allergies: None Medications: Chlorthalidone for HTN. 
+
+Phrase: Allergies
+Meta Mapping (1000):
+  1000   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: None Medications
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Chlorthalidone for HTN.
+Meta Mapping (746):
+   790   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 72_Cage.txt.tx.10: Lisinopril for HTN. 
+
+Phrase: Lisinopril for HTN.
+Meta Mapping (746):
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 72_Cage.txt.tx.11: PMHx: HTN FHx: Father - hx of CABG in 30s. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN FHx
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Father - hx of CABG
+Meta Mapping (916):
+   604   C0015671:FATHER (Father (person)) [Family Group]
+   909   C4695787:Hx of CABG (Coronary artery bypass graft surgery:Hx:Pt:^Patient:Ord) [Clinical Attribute]
+
+Phrase: in 30s.
+Meta Mapping (1000):
+  1000   C0227073:30s (Mandibular right first molar) [Body Part, Organ, or Organ Component]
+Processing 72_Cage.txt.tx.12: Died from MI at 40. 
+
+Phrase: Died from MI
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at 40.
+Meta Mapping (1000):
+  1000   C3842587:40% [Quantitative Concept]
+Processing 72_Cage.txt.tx.13: Mother - DM and died of PE at 60. 
+
+Phrase: Mother - DM
+Meta Mapping (888):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+   861   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: died of PE
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: at 60.
+Meta Mapping (1000):
+  1000   C3842585:60% [Quantitative Concept]
+Processing 72_Cage.txt.tx.14: SHx: EtOH: Wine on weekends. 
+
+Phrase: SHx
+
+Phrase: :
+
+Phrase: EtOH
+Meta Mapping (1000):
+  1000   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Wine on weekends.
+Meta Mapping (746):
+   790   C0043188:WINE (Wine) [Food]
+   623   C0680190:weekends (Weekend) [Temporal Concept]
+Processing 72_Cage.txt.tx.15: Tob: 1 PPD. 
+
+Phrase: Tob
+Meta Mapping (1000):
+  1000   C1420851:TOB (TOB1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 1 PPD.
+Meta Mapping (888):
+   694   C2827734:1+ (1+ Score) [Quantitative Concept]
+   861   C2827473:PPD (AGO2 wt Allele) [Gene or Genome]
+Processing 72_Cage.txt.tx.16: Drugs: Denies   Objective: BP= 150 /92 P = 85 RR = 14 T = 98F  Assessment: Ms. 
+
+Phrase: Drugs
+Meta Mapping (1000):
+  1000   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: = 150 /92 P = 85 RR
+Meta Mapping (728):
+   637   C4517892:85 [Quantitative Concept]
+   804 N C4554402:RR (RR genotype) [Finding]
+
+Phrase: = 14 T = 98F  Assessment
+Meta Mapping (812):
+   812   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 72_Cage.txt.tx.17: Cage is a 55-year-old female who presents 3 days after an acute episode of chest pain during exertion that resolved completely with rest after 5-10 mins. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55-year-old female
+Meta Mapping (833):
+   645   C0450382:55 [Intellectual Product]
+   645   C0439508:/Year (per year) [Temporal Concept]
+   645   C0580836:Old [Temporal Concept]
+   812   C1705498:FEMALE (Female Phenotype) [Qualitative Concept]
+
+Phrase: who
+
+Phrase: presents
+Meta Mapping (1000):
+  1000   C0150312:PRESENT (Present) [Finding]
+
+Phrase: 3 days after an acute episode of chest pain
+Meta Mapping (746):
+   764   C1442459:3 Days [Temporal Concept]
+   617   C0522051:Acute chest pain [Sign or Symptom]
+   598   C0332189:Episode of [Temporal Concept]
+
+Phrase: during exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: completely with rest
+Meta Mapping (746):
+   790   C0205197:Completely (Complete) [Qualitative Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: after 5-10 mins.
+Meta Mapping (890):
+   734 N C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   793   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (890):
+   660   C0439084:>5 [Quantitative Concept]
+   884   C0456692:/10 min [Temporal Concept]
+Processing 72_Cage.txt.tx.18: This is most likely stable angina given the patient's subjective report of typical chest pain symptoms with complete resolution with rest. 
+
+Phrase: This
+
+Phrase: is
+
+Phrase: most likely stable angina
+Meta Mapping (888):
+   694   C0750501:most likely [Idea or Concept]
+   861   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: the patient's subjective report of typical chest pain symptoms
+Meta Mapping (743):
+   575   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   742   C0700287:Report (Reporting) [Health Care Activity]
+   575   C3538928:Typical (Usual) [Qualitative Concept]
+   587   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   575   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: with complete resolution with rest.
+Meta Mapping (733):
+   593   C0332287:With (In addition to) [Functional Concept]
+   593   C0205197:COMPLETE (Complete) [Qualitative Concept]
+   760   C2699488:Resolution [Conceptual Entity]
+   593   C0035253:Rest [Daily or Recreational Activity]
+Processing 72_Cage.txt.tx.19: Significant concerns for progression given her reported history of the most recent episode being the worst. 
+
+Phrase: Significant concerns for progression
+Meta Mapping (733):
+   604   C0750502:Significant [Idea or Concept]
+   770   C2699424:Concerns (Concern) [Idea or Concept]
+   604   C0242656:Progression (Disease Progression) [Pathologic Function]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: her reported history of the most recent episode
+Meta Mapping (721):
+   578   C0574443:HER (Herero language) [Language]
+   770   C2133562:reported History [Finding]
+   578   C0332185:Recent [Temporal Concept]
+   600   C0332189:Episode of [Temporal Concept]
+
+Phrase: being
+
+Phrase: the worst.
+Meta Mapping (1000):
+  1000   C1522166:Worst [Qualitative Concept]
+Processing 72_Cage.txt.tx.20: Given her family history of heart disease in her father, there remains concerns for familial inherited dyslipidemia. 
+
+Phrase: Given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: her family history of heart disease
+Meta Mapping (938):
+   586   C0574443:HER (Herero language) [Language]
+   938   C2186266:Family history of heart disease [Finding]
+
+Phrase: in her father,
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: there
+
+Phrase: remains
+
+Phrase: concerns for familial inherited dyslipidemia.
+Meta Mapping (733):
+   760   C2699424:Concerns (Concern) [Idea or Concept]
+   760   C0015576:Familial (Family) [Family Group]
+   760   C0439660:INHERITED (Hereditary) [Functional Concept]
+   760   C0242339:Dyslipidemia (Dyslipidemias) [Disease or Syndrome]
+Processing 72_Cage.txt.tx.21: Her history of smoking is also concerning for contribution to the disease progression. 
+
+Phrase: Her history of smoking
+Meta Mapping (916):
+   604   C0574443:HER (Herero language) [Language]
+   909   C4721824:History of smoking (Smoking History) [Finding]
+
+Phrase: is
+
+Phrase: also
+
+Phrase: concerning for contribution
+Meta Mapping (730):
+   756   C2699424:Concern [Idea or Concept]
+   790   C1880177:Contribution [Activity]
+
+Phrase: to the disease progression.
+Meta Mapping (1000):
+  1000   C1947900:Disease progression NOS (Death Due to Disease Progression Not Associated with More Specific Term NOS, CTCAE) [Finding]
+Processing 72_Cage.txt.tx.22: Her hypertension also seems to be uncontrolled and will warrant further workup. 
+
+Phrase: Her hypertension
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: also
+
+Phrase: seems
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: uncontrolled
+Meta Mapping (1000):
+  1000   C0205318:Uncontrolled [Qualitative Concept]
+
+Phrase: and
+
+Phrase: will
+
+Phrase: warrant
+
+Phrase: further workup.
+Meta Mapping (901):
+   694   C1517331:Further [Spatial Concept]
+   861   C0750430:Work-up [Diagnostic Procedure]
+Processing 72_Cage.txt.tx.23: Will make contact with PCP for medication adjsutment. 
+
+Phrase: Will
+
+Phrase: make
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: contact with PCP
+Meta Mapping (901):
+   882   C0332158:Contact with [Functional Concept]
+   623   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: for medication adjsutment.
+Meta Mapping (694):
+   694   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+Processing 72_Cage.txt.tx.24: DDx includes: unstable angine, acute MI, PE, aortic dissection, esophageal spasm, hyperthyroidism Plan: -CBC with diff - CMP with hepatic panel  - Hgb A1c levels - TSH levels  - EKG to evaluate ischemic changes  - Isosorbide mononitrate today for symptomatic relief
+
+Phrase: DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: :
+
+Phrase: unstable angine,
+Meta Mapping (694):
+   694   C1883468:Unstable (Unstable Medical Device Problem) [Finding]
+
+Phrase: acute MI,
+Meta Mapping (1000):
+  1000   C0155626:Acute MI (Acute myocardial infarction) [Disease or Syndrome]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: aortic dissection,
+Meta Mapping (1000):
+  1000   C0340643:AORTIC DISSECTION (Dissection of aorta) [Disease or Syndrome]
+
+Phrase: esophageal spasm,
+Meta Mapping (1000):
+  1000   C0014863:ESOPHAGEAL SPASM (Esophageal spasm) [Disease or Syndrome]
+
+Phrase: hyperthyroidism Plan
+Meta Mapping (888):
+   694   C0020550:HYPERTHYROIDISM (Hyperthyroidism) [Disease or Syndrome]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: CBC with diff - CMP
+Meta Mapping (916):
+   909   C0545131:CBC with Diff (Blood Cell Count with Differential) [Laboratory Procedure]
+   604   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: with hepatic panel  - Hgb A1c levels - TSH levels  - EKG
+Meta Mapping (807):
+   626   C0205054:Hepatic [Body Location or Region]
+   626   C1706365:Panel (Device Panel) [Manufactured Object]
+   626   C0518015:HGB (Hemoglobin measurement) [Laboratory Procedure]
+   626   C4521595:A1C (US Military enlisted E3) [Classification]
+   626   C0441889:Levels (Levels (qualifier value)) [Qualitative Concept]
+   612   C0202230:TSH level (Thyroid stimulating hormone measurement) [Laboratory Procedure]
+   793   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate
+Meta Mapping (1000):
+  1000   C0220825:Evaluate (Evaluation) [Health Care Activity]
+
+Phrase: ischemic changes  - Isosorbide mononitrate today for symptomatic relief
+Meta Mapping (749):
+   587   C2826576:Ischemic Change [Finding]
+   604   C0064079:ISOSORBIDE MONONITRATE (isosorbide mononitrate) [Organic Chemical,Pharmacologic Substance]
+   744   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+   604   C3242309:symptomatic relief [Idea or Concept]

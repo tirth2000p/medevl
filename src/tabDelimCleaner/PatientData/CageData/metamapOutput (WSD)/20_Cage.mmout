@@ -1,0 +1,895 @@
+Processing 20_Cage.txt.tx.1: HPI Gerry Cage is a female with PMHx of HTN presenting to clinic for x3 days of chest pain with exertion and associated symptoms of SOB. 
+
+Phrase: HPI Gerry Cage
+Meta Mapping (790):
+   660   C1019207:gerry (Gerris) [Eukaryote]
+   827   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a female with PMHx of HTN presenting
+Meta Mapping (656):
+   748   C0043210:female (Woman) [Population Group]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   581   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: to clinic for x3 days of chest pain
+Meta Mapping (743):
+   578   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   744   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   578   C1421546:X3 (XPR1 gene) [Gene or Genome]
+   578   C0439228:DAYS (day) [Temporal Concept]
+   598   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: with exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: associated symptoms of SOB.
+Meta Mapping (783):
+   833   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+   604   C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 20_Cage.txt.tx.2: Characterizes pain as a deep achy sensation that improves with rest, does not radiate. 
+
+Phrase: Characterizes
+Meta Mapping (1000):
+  1000   C3875152:Characterizes [Idea or Concept]
+
+Phrase: pain as a deep achy sensation
+Meta Mapping (707):
+   783   C0234229:Deep pain [Sign or Symptom]
+   514   C0234238:Aches (Ache) [Sign or Symptom]
+   586   C0542538:Sensation, NOS (Observation of Sensation) [Finding]
+Meta Mapping (707):
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   514   C0234238:Aches (Ache) [Sign or Symptom]
+   783   C3714605:sensation pain (Pain Perception) [Organism Function]
+
+Phrase: that
+
+Phrase: improves with rest,
+Meta Mapping (746):
+   790   C0184511:Improves (Improved) [Finding]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 20_Cage.txt.tx.3: Notes she has not had anything like this type of pain in the past but notes that x4 months ago she has had x2 episodes of â€œtwingesâ€ where she gets a chest â€œtwingeâ€ that is not painful but she notices it with exertion and improves with rest. 
+
+Phrase: Notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: she
+
+Phrase: has
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: had
+
+Phrase: anything like this type of pain
+Meta Mapping (672):
+   753   C0332307:TYPE (Type - attribute) [Qualitative Concept]
+   753 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: in the past
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: but
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that x4 months ago
+Meta Mapping (790):
+   660   C1321095:X4 (Drop Dosing Unit) [Quantitative Concept]
+   827   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: she
+
+Phrase: has
+
+Phrase: had
+
+Phrase: x2 episodes of â€œtwingesâ€ where
+Meta Mapping (773):
+   773   C0332189:Episode of [Temporal Concept]
+
+Phrase: she
+
+Phrase: gets
+Meta Mapping (1000):
+  1000   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: a chest â€œtwingeâ
+Meta Mapping (660):
+   660   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: not painful
+Meta Mapping (888):
+   694   C1518422:Not (Negation) [Functional Concept]
+   861 N C0030193:Painful (Pain) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: she
+
+Phrase: notices
+
+Phrase: it with exertion
+Meta Mapping (790):
+   790   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: improves with rest.
+Meta Mapping (746):
+   790   C0184511:Improves (Improved) [Finding]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 20_Cage.txt.tx.4: Her last episode x3 days ago was when she was carrying groceries from her car to home. 
+
+Phrase: Her last episode x3 days
+Meta Mapping (833):
+   645   C1517741:Last [Qualitative Concept]
+   645   C0332189:EPISODE (Episode of) [Temporal Concept]
+   645   C1421546:X3 (XPR1 gene) [Gene or Genome]
+   812   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: ago
+
+Phrase: was
+
+Phrase: when
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying groceries from her car
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: to home.
+Meta Mapping (1000):
+  1000   C0442519:HOME (Home environment) [Spatial Concept]
+Processing 20_Cage.txt.tx.5: She states that during this action, she became very winded and had that deep achy pain. 
+
+Phrase: She
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that during this action,
+Meta Mapping (770):
+   770   C0441472:Action (Clinical action) [Functional Concept]
+
+Phrase: she
+
+Phrase: became
+
+Phrase: very
+Meta Mapping (1000):
+  1000   C0442824:Very [Qualitative Concept]
+
+Phrase: winded
+Meta Mapping (1000):
+  1000   C3241964:Winded [Finding]
+
+Phrase: and
+
+Phrase: had
+
+Phrase: that deep achy pain.
+Meta Mapping (877):
+   913   C0234229:Deep pain [Sign or Symptom]
+   589   C0234238:Aches (Ache) [Sign or Symptom]
+Processing 20_Cage.txt.tx.6: Endorses associated symptoms of lightheadedness, stating she thought she would pass out with most recent episode. 
+
+Phrase: Endorses
+
+Phrase: associated symptoms of lightheadedness,
+Meta Mapping (783):
+   833   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+   604   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: stating
+Meta Mapping (966):
+   966   C1442792:State [Functional Concept]
+
+Phrase: she
+
+Phrase: thought
+Meta Mapping (1000):
+  1000   C0039869:Thought (Thinking, function) [Mental Process]
+
+Phrase: she
+
+Phrase: would
+
+Phrase: pass
+Meta Mapping (1000):
+  1000   C2828386:Pass (Pass (indicator)) [Finding]
+
+Phrase: out with most recent episode.
+Meta Mapping (745):
+   760   C0439787:Out (Out (direction)) [Spatial Concept]
+   806   C0332185:Recent episode (Recent) [Temporal Concept]
+Processing 20_Cage.txt.tx.7: Has not taken any medications for her pain. 
+
+Phrase: Has
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: taken
+Meta Mapping (1000):
+  1000   C1883727:Taken [Conceptual Entity]
+
+Phrase: any medications for her pain.
+Meta Mapping (724):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   760   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   593   C0574443:HER (Herero language) [Language]
+   593 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Processing 20_Cage.txt.tx.8: Voices that she also has an epigastric pressure pain that is exacerbated with food. 
+
+Phrase: Voices
+Meta Mapping (1000):
+  1000   C0042939:Voices (Voice) [Organism Function]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: also
+
+Phrase: has
+
+Phrase: an epigastric pressure pain
+Meta Mapping (901):
+   913   C0232493:Epigastric pain [Sign or Symptom]
+   827   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: exacerbated with food.
+Meta Mapping (746):
+   790   C1444749:Exacerbated [Qualitative Concept]
+   790   C0016452:Food [Food]
+Processing 20_Cage.txt.tx.9: The epigastric pain does not radiates and improves with rest. 
+
+Phrase: The epigastric pain
+Meta Mapping (1000):
+  1000   C0232493:Epigastric pain [Sign or Symptom]
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiates
+Meta Mapping (1000):
+  1000   C0332301:radiates (Radiating to) [Functional Concept]
+
+Phrase: and
+
+Phrase: improves with rest.
+Meta Mapping (746):
+   790 N C0184511:Improves (Improved) [Finding]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 20_Cage.txt.tx.10: Notes the pain feels different from her chest pain. 
+
+Phrase: Notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: feels
+Meta Mapping (1000):
+  1000   C1527305:feels (Feelings) [Mental Process]
+
+Phrase: different from her chest pain.
+Meta Mapping (761):
+   760   C1705242:Different [Qualitative Concept]
+   593   C0574443:HER (Herero language) [Language]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 20_Cage.txt.tx.11: Voices that she is concerned she had a heart attack. 
+
+Phrase: Voices
+Meta Mapping (1000):
+  1000   C0042939:Voices (Voice) [Organism Function]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: she
+
+Phrase: had
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 20_Cage.txt.tx.12: Has no other complaints at this time. 
+
+Phrase: Has
+
+Phrase: no other complaints at this time.
+Meta Mapping (716):
+   783   C0424577:No complaints [Finding]
+   586   C0040223:TIME (Time) [Temporal Concept]
+Processing 20_Cage.txt.tx.13: PMHx  HTN Social history: Tobacco: 1PPD EtOH: 2-3/week  Drugs: denies Surgical history: denies FMHx: Father: MI s/p CABG (passed at age 40), Mother: DM, pulmonary embolism; brothers (2) health   Meds: Lisinopril 10mg daily, chlorthalidone 25mg daily Allergies (reaction): denies   Objective: General: sitting upright at edge of exam table; no acute distress, well groomed VS: BP: 150/92 HR: 85 RR: 14 T: 98  Cardio: RRR, no gallops, clicks or rubs, no BLE edema, PT and DP pules; no JVD,  Abdomen: No tenderness to palpation of epigastric region, no guarding, rebound; no hepatomegaly Assessment and plan: -GERD v. stable angina -will obtain EKG to assess for ST changes -will obtain CBC, CMP and lipid panel to assess for hypercholesterolemia -will start statin if LDL is elevated -will obtain troponin to rule out STEM and NTESMI -will get exercise stress test to assess for angina and start nitroglycerin if angina present -will start monotherapy for CAD to lower risk of ischemic event  -will obtain left heart catheterization based on exercise stress test and will consider PCI v. 
+
+Phrase: PMHx  HTN Social history
+Meta Mapping (824):
+   645   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: :
+
+Phrase: Tobacco
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1PPD EtOH
+Meta Mapping (861):
+   861   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3/week  Drugs
+Meta Mapping (861):
+   694   C1519042:2-3 (Phase II/III Trial) [Research Activity]
+   645   C0332174:/week (Weekly) [Temporal Concept]
+   812   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Surgical history
+Meta Mapping (1000):
+  1000 N C0744961:surgical history [Finding]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: FMHx
+
+Phrase: :
+
+Phrase: Father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: :
+
+Phrase: MI s/p CABG
+Meta Mapping (791):
+   645   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   812   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: (
+
+Phrase: passed at age 40
+Meta Mapping (733):
+   770 N C2828386:Passed (Pass (indicator)) [Finding]
+   770   C0001779:AGE (Age) [Organism Attribute]
+   770   C0439509:/40 [Quantitative Concept]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: :
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pulmonary embolism
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: ; brothers
+Meta Mapping (1000):
+  1000   C0337527:Brothers [Family Group]
+
+Phrase: (2
+Meta Mapping (1000):
+  1000   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+
+Phrase: )
+
+Phrase: health   Meds
+Meta Mapping (888):
+   694   C0018684:Health [Idea or Concept]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Lisinopril 10mg daily,
+Meta Mapping (635):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   660   C0332173:Daily [Temporal Concept]
+
+Phrase: chlorthalidone 25mg daily Allergies
+Meta Mapping (813):
+   886   C0571926:Chlorthalidone allergy (Allergy to chlorthalidone) [Disease or Syndrome]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: (reaction
+Meta Mapping (1000):
+  1000   C0443286:Reaction [Functional Concept]
+
+Phrase: )
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C0018017:Objective (objective (goal)) [Intellectual Product]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: sitting
+Meta Mapping (1000):
+  1000 N C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: upright at edge of exam table
+Meta Mapping (685):
+   753   C0522015:Upright [Spatial Concept]
+   586   C0205154:Edge (Along edge (qualifier value)) [Spatial Concept]
+   586   C0582103:Exam (Medical Examination) [Health Care Activity]
+   586   C0039224:Table (Table - furniture) [Manufactured Object]
+
+Phrase: ;
+
+Phrase: no acute distress,
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: well groomed
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0018249:groom (Grooming) [Individual Behavior]
+
+Phrase: VS
+
+Phrase: :
+
+Phrase: BP
+Meta Mapping (1000):
+  1000   C1708288:BP (HP wt Allele) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 HR
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 T
+
+Phrase: :
+
+Phrase: 98  Cardio
+Meta Mapping (888):
+   694   C4319627:98 [Quantitative Concept]
+   861   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no gallops,
+
+Phrase: clicks
+Meta Mapping (1000):
+  1000 N C3842106:Clicks [Finding]
+
+Phrase: or
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: no BLE edema,
+Meta Mapping (861):
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+
+Phrase: PT
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: and
+
+Phrase: DP
+Meta Mapping (1000):
+  1000   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: pules
+
+Phrase: ;
+
+Phrase: no JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: Abdomen
+Meta Mapping (1000):
+  1000   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+
+Phrase: :
+
+Phrase: No tenderness to palpation of epigastric region,
+Meta Mapping (701):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   748 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   612   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+Meta Mapping (701):
+   581   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   581   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   774 N C0740433:epigastric tenderness [Sign or Symptom]
+   581   C0205147:Region (regional) [Spatial Concept]
+
+Phrase: no guarding,
+Meta Mapping (1000):
+  1000 N C0427198:Guarding (Protective muscle spasm) [Finding]
+
+Phrase: rebound
+
+Phrase: ;
+
+Phrase: no hepatomegaly Assessment
+Meta Mapping (888):
+   694 N C0019209:HEPATOMEGALY (Hepatomegaly) [Finding]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: and
+
+Phrase: plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: GERD v. stable angina -
+Meta Mapping (824):
+   645 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   861 N C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: will
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for ST changes -
+Meta Mapping (733):
+   770   C1516048:Assess (Assessed) [Activity]
+   770   C3272372:ST (Character String Data Type) [Intellectual Product]
+   770   C0392747:changes (Changing) [Functional Concept]
+
+Phrase: will
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: CMP
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: lipid panel
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for hypercholesterolemia -
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0020443:HYPERCHOLESTEROLEMIA (Hypercholesterolemia) [Disease or Syndrome]
+
+Phrase: will
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: statin
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: LDL
+
+Phrase: is
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: -
+
+Phrase: will
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: troponin
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out STEM
+Meta Mapping (888):
+   694   C0439787:Out (Out (direction)) [Spatial Concept]
+   861   C0242767:Stem (Stem of plant) [Plant]
+
+Phrase: and
+
+Phrase: NTESMI -
+
+Phrase: will
+
+Phrase: get
+
+Phrase: exercise stress test
+Meta Mapping (1000):
+  1000   C0015260:Exercise stress test [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for angina
+Meta Mapping (746):
+   790   C1516048:Assess (Assessed) [Activity]
+   790   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: start nitroglycerin
+Meta Mapping (888):
+   694   C0439659:Start (Beginning) [Temporal Concept]
+   861   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: angina present -
+Meta Mapping (888):
+   694   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   861   C0150312:PRESENT (Present) [Finding]
+
+Phrase: will
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: monotherapy for CAD
+Meta Mapping (746):
+   790   C4763675:Monotherapy (Single Agent Therapy) [Therapeutic or Preventive Procedure]
+   623   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: to lower risk of ischemic event  -
+Meta Mapping (770):
+   586   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+   803   C3275105:Low Ischemic Risk [Quantitative Concept]
+   586   C0441471:Event [Event]
+
+Phrase: will
+
+Phrase: obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: left heart catheterization
+Meta Mapping (1000):
+  1000   C0189897:Left Heart Catheterization (Catheterization of left heart) [Diagnostic Procedure]
+
+Phrase: based on exercise stress test
+Meta Mapping (816):
+   760   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   862   C0015260:Exercise stress test [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: will
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: PCI v.
+Meta Mapping (694):
+   694   C2713669:PCI (SERPINA5 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 20_Cage.txt.tx.14: CABG if indicated per left heart catheterization and stress test -will increase Lisinopril to 20mg for cardio-renal protective properties and improve blood pressure goals with systolic <140 -return to care if chest pain persists even at rest and with no improvement with nitroglycerin -follow-up with PCP or cardiology for further care based on results of stress test
+
+Phrase: CABG
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: if
+
+Phrase: indicated per left heart catheterization
+Meta Mapping (816):
+   760   C1444656:Indicated [Finding]
+   862   C0189897:Left Heart Catheterization (Catheterization of left heart) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: stress test -
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: will
+
+Phrase: increase
+Meta Mapping (1000):
+  1000   C0442805:Increase [Functional Concept]
+
+Phrase: Lisinopril to 20mg
+Meta Mapping (790):
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: for cardio-renal protective properties
+Meta Mapping (775):
+   645   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+   645   C0022646:Renal (Kidney) [Body Part, Organ, or Organ Component]
+   812   C0871161:properties (Property (attribute)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: improve
+
+Phrase: blood pressure goals with systolic
+Meta Mapping (888):
+   888   C4531908:Systolic blood pressure goal (Intravascular systolic goal:Pres:Pt:Arterial system:Qn) [Clinical Attribute]
+
+Phrase: <140 -return
+Meta Mapping (861):
+   861   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: care
+Meta Mapping (1000):
+  1000   C1947933:Care (care activity) [Activity]
+
+Phrase: if
+
+Phrase: chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: persists
+
+Phrase: even at rest
+Meta Mapping (790):
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: and with no improvement
+Meta Mapping (708):
+   770   C1515981:And [Idea or Concept]
+   770   C2986411:Improvement [Conceptual Entity]
+
+Phrase: with nitroglycerin -follow-up with PCP
+Meta Mapping (753):
+   586   C0332287:With (In addition to) [Functional Concept]
+   586   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   790   C1522577:Followup (follow-up) [Health Care Activity]
+   586 N C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+Meta Mapping (753):
+   586   C0332287:With (In addition to) [Functional Concept]
+   586   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+   790   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   586 N C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: cardiology for further care
+Meta Mapping (733):
+   770   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+   604   C1517331:Further [Spatial Concept]
+   604   C1947933:Care (care activity) [Activity]
+
+Phrase: based on results of stress test
+Meta Mapping (712):
+   753   C1705938:Based (Base - General Qualifier) [Idea or Concept]
+   753   C1718621:Stress (W stress) [Clinical Attribute]
+   783 N C0456984:test results (Test Result) [Laboratory or Test Result]

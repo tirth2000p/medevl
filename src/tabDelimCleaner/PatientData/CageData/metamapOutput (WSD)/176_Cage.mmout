@@ -1,0 +1,479 @@
+Processing 176_Cage.txt.tx.1: cc: "concerned about some chest pain I had three days ago"  Gerry Cage is a 55 yo F with HTN presenting for evaluation of chest pain on exertion she had three days ago. 
+
+Phrase: cc
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: "
+
+Phrase: concerned about some chest pain I
+Meta Mapping (714):
+   719   C2699424:Concern [Idea or Concept]
+   790   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   753   C0021966:I- (Iodides) [Inorganic Chemical]
+
+Phrase: had
+
+Phrase: three days ago"  Gerry Cage
+Meta Mapping (757):
+   637   C0205449:Three [Quantitative Concept]
+   637   C0439228:DAYS (day) [Temporal Concept]
+   637   C1019207:gerry (Gerris) [Eukaryote]
+   804   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo F with HTN presenting
+Meta Mapping (692):
+   581   C0450382:55 [Intellectual Product]
+   581   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   748   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   581   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   581   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: for evaluation of chest pain
+Meta Mapping (858):
+   593   C0521125:For (Preposition For) [Qualitative Concept]
+   760   C1261322:Evaluation (Evaluation procedure) [Health Care Activity]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: she
+
+Phrase: had
+
+Phrase: three days ago.
+Meta Mapping (790):
+   660   C0205449:Three [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+Processing 176_Cage.txt.tx.2: Pain was midsternal, described as a deep ache, was 7/10 severity, happened while she was carrying heavy groceries to the car. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: midsternal,
+
+Phrase: described as a deep ache,
+Meta Mapping (696):
+   760   C1552738:described [Idea or Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   760   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: 7/10 severity,
+Meta Mapping (865):
+   865   C3843616:10 - severe [Finding]
+
+Phrase: happened
+Meta Mapping (1000):
+  1000   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: while
+
+Phrase: she
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to the car.
+Meta Mapping (520):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 176_Cage.txt.tx.3: Was able to make it to the car and sit down to rest. 
+
+Phrase: Was
+
+Phrase: able
+Meta Mapping (1000):
+  1000   C1299581:Able (Able (finding)) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: make
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: it to the car
+Meta Mapping (770):
+   770   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: sit down
+Meta Mapping (861):
+   861   C0728713:sit (Does sit) [Finding]
+   805   C0423866:Lanugo [Body Part, Organ, or Organ Component]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: rest.
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+Processing 176_Cage.txt.tx.4: Chest pain ceased after 5-10 minutes of rest. 
+
+Phrase: Chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: ceased after 5-10 minutes of rest.
+Meta Mapping (706):
+   748   C1272693:Ceased (Ended - status) [Qualitative Concept]
+   774   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Meta Mapping (706):
+   748   C1272693:Ceased (Ended - status) [Qualitative Concept]
+   748   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   748   C0035253:Rest [Daily or Recreational Activity]
+Processing 176_Cage.txt.tx.5: At the time, she states the chest pain "took her breath away". 
+
+Phrase: At the time,
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: she
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: the chest pain "
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away".
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 176_Cage.txt.tx.6: She has had brief twinges of pain within the past four months, only  2/10 severity, also associated with exertion. 
+
+Phrase: She
+
+Phrase: has
+
+Phrase: had
+
+Phrase: brief twinges of pain
+Meta Mapping (541):
+   604   C1879313:Brief [Temporal Concept]
+   604   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: within the past four months,
+Meta Mapping (890):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   660   C0205450:Four [Quantitative Concept]
+
+Phrase: only  2/10 severity,
+Meta Mapping (801):
+   645   C0205171:Only (Singular) [Quantitative Concept]
+   825   C3843616:10 - severe [Finding]
+
+Phrase: also
+
+Phrase: associated with exertion.
+Meta Mapping (901):
+   882   C0332281:Associated with [Qualitative Concept]
+   790   C0015264:Exertion [Organism Function]
+Processing 176_Cage.txt.tx.7: No associated jaw pain, sweating. 
+
+Phrase: No associated jaw pain,
+Meta Mapping (901):
+   660   C0332281:Associated (Associated with) [Qualitative Concept]
+   901 N C0236000:JAW PAIN (Jaw pain) [Sign or Symptom]
+
+Phrase: sweating.
+Meta Mapping (1000):
+  1000 N C0038990:SWEATING (Sweating) [Finding]
+Processing 176_Cage.txt.tx.8: Denies hx of anxiety.   pmhx- HTN for five years, no surgical hx fhx- father died from MI at 40 soc hx- 30 pack-years tobacco, contemplative  meds: chlorthalidone and lisinopril allergies: none  PE T- 98 HR-85 RR-14 BP-150/92 general- well-appearing white woman in no acute distress heart- normal S1 and S2, no S3 or S4, no murmur, no friction rub lungs- normal vesicular sounds throughout MSK chest- no tenderness to palpation ext- no swelling in legs    A- 55-year-old woman with hypertension and family history of father who died at 40 from MI with chest pain on exertion three days ago highly suspicious for angina episode. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: hx of anxiety.   pmhx- HTN
+Meta Mapping (687):
+   760 N C0262926:Hx (Medical History) [Finding]
+   593 N C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+   593 N C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: for five years,
+Meta Mapping (888):
+   694   C0205451:Five [Quantitative Concept]
+   861   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: no surgical hx fhx- father
+Meta Mapping (833):
+   645   C0543467:Surgical (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   645 N C0262926:Hx (Medical History) [Finding]
+   645   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   812   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: died from MI
+Meta Mapping (746):
+   790 N C1306577:Died (Death (finding)) [Finding]
+   790   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: at 40 soc hx- 30 pack-years tobacco,
+Meta Mapping (775):
+   710 N C4699619:>40 years [Finding]
+   629   C0262926:Hx (Medical History) [Finding]
+   629   C3842588:30% [Quantitative Concept]
+   629   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   795   C0740009:Tobacco (Nicotiana tabacum) [Plant]
+Meta Mapping (775):
+   629   C0439509:/40 [Quantitative Concept]
+   629   C0262926:Hx (Medical History) [Finding]
+   629   C3842588:30% [Quantitative Concept]
+   651   C1277691:Pack years [Intellectual Product]
+   795   C0740009:Tobacco (Nicotiana tabacum) [Plant]
+
+Phrase: contemplative  meds
+Meta Mapping (861):
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none  PE T- 98 HR-85 RR-14 BP-150/92 general- well-appearing white woman
+Meta Mapping (704):
+   619   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+   619   C4319627:98 [Quantitative Concept]
+   619   C4517892:85 [Quantitative Concept]
+   641   C0140925:RR 150 [Organic Chemical]
+   619   C1415692:Bp (HP gene) [Gene or Genome]
+   619   C0205246:General (Generalized) [Spatial Concept]
+   619   C0205170:Well (Good) [Qualitative Concept]
+   585   C0700364:APPEAR (Appearance) [Qualitative Concept]
+   619   C0220938:WHITE (White color) [Qualitative Concept]
+   785   C0043210:WOMAN (Woman) [Population Group]
+
+Phrase: in no acute distress heart- normal S1
+Meta Mapping (822):
+   637   C0205178:ACUTE (acute) [Temporal Concept]
+   637 N C0231303:Distress [Finding]
+   637   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   637   C0205307:NORMAL (Normal) [Qualitative Concept]
+   804 N C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no S3
+Meta Mapping (1000):
+  1000 N C0232237:S3 (S3 - Third heart sound) [Finding]
+
+Phrase: or
+
+Phrase: S4,
+Meta Mapping (1000):
+  1000   C2349970:S4+ [Element, Ion, or Isotope]
+
+Phrase: no murmur,
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: no friction rub lungs- normal vesicular sounds throughout MSK chest-
+Meta Mapping (751):
+   573   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   573   C4283816:RUB (Rubricyte Count) [Laboratory Procedure]
+   574 N C5231182:Normal lung [Finding]
+   573   C0205378:Vesicular [Qualitative Concept]
+   573   C1420279:msk (SIK1 gene) [Gene or Genome]
+   775 N C0476284:Friction sounds, chest (Friction sounds in chest) [Finding]
+
+Phrase: no tenderness to palpation ext-
+Meta Mapping (696):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   760 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   593   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: no swelling in legs
+Meta Mapping (783):
+   833   C0577599:No swelling (Swelling absent) [Finding]
+   604   C1140621:Legs (Leg) [Body Part, Organ, or Organ Component]
+
+Phrase: A- 55-year-old woman with hypertension
+Meta Mapping (702):
+   581   C0450382:55 [Intellectual Product]
+   581   C0439508:/Year (per year) [Temporal Concept]
+   581   C0580836:Old [Temporal Concept]
+   748   C0043210:WOMAN (Woman) [Population Group]
+   581 N C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: family history of father
+Meta Mapping (783):
+   833   C0241889:FAMILY HISTORY (Family history) [Finding]
+   604   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: who
+
+Phrase: died at 40
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0439509:/40 [Quantitative Concept]
+
+Phrase: from MI with chest pain
+Meta Mapping (752):
+   593   C1517320:From [Qualitative Concept]
+   760   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: on exertion three days ago highly suspicious for angina episode.
+Meta Mapping (694):
+   573   C1720176:On (Upon - dosing instruction fragment) [Functional Concept]
+   591   C0577698:Exertion angina (Exercise-induced angina) [Sign or Symptom]
+   573   C0205449:Three [Quantitative Concept]
+   573   C0439228:DAYS (day) [Temporal Concept]
+   573   C0205250:Highly (High) [Qualitative Concept]
+   739   C0750493:Suspicious [Qualitative Concept]
+   573   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 176_Cage.txt.tx.9: Will need cardiac work-up and management.   
+
+Phrase: Will
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: cardiac work-
+Meta Mapping (888):
+   861   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   861   C0043227:Work [Occupational Activity]
+
+Phrase: up
+
+Phrase: and
+
+Phrase: management.
+Meta Mapping (1000):
+  1000   C1273870:Management (Management procedure) [Occupational Activity]
+Processing 176_Cage.txt.tx.10: P- EKG in office with option to schedule cath if there are ischemic changes schedule for stress test outpatient go to ED if chest pain returns and is sustained resources for quitting smoking (did not have time to address-- next visit)
+
+Phrase: P- EKG
+Meta Mapping (888):
+   694   C2603361:P' (P prime) [Clinical Attribute]
+   861   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: in office with option
+Meta Mapping (708):
+   770   C0442603:Office [Manufactured Object]
+   604   C1518601:Option (Options) [Functional Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: schedule
+Meta Mapping (1000):
+  1000   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+
+Phrase: cath
+
+Phrase: if
+
+Phrase: there
+
+Phrase: are
+
+Phrase: ischemic changes
+Meta Mapping (983):
+   983   C2826576:Ischemic Change [Finding]
+
+Phrase: schedule for stress test outpatient
+Meta Mapping (761):
+   760   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+   806   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   760   C0029921:Outpatient (Outpatients) [Patient or Disabled Group]
+
+Phrase: go to ED
+Meta Mapping (746):
+   790   C1822658:GO (GORAB gene) [Gene or Genome]
+   790   C3538926:ED (Endocrine System Findings Domain) [Intellectual Product]
+
+Phrase: if
+
+Phrase: chest pain returns
+Meta Mapping (884):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   793   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: sustained
+Meta Mapping (1000):
+  1000   C0443318:Sustained [Functional Concept]
+
+Phrase: resources for quitting smoking
+Meta Mapping (733):
+   770   C0035201:Resources [Idea or Concept]
+   604   C0748223:quitting (QUIT) [Idea or Concept]
+   604   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: (
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: have
+
+Phrase: time
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: address
+Meta Mapping (1000):
+  1000   C1442065:Address [Intellectual Product]
+
+Phrase: --
+
+Phrase: next visit
+Meta Mapping (888):
+   694   C1883708:Next (Then) [Temporal Concept]
+   861   C2826704:VISIT (Visit Name) [Intellectual Product]
+
+Phrase: )

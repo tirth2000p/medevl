@@ -1,0 +1,444 @@
+Processing 206_Cage.txt.tx.1: S: Mr. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C2603362:S' (S prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 206_Cage.txt.tx.2: GC is a middle aged Caucasian male with a 5 year history of hypertension, on Lisinopril and Chlorthalidone, with a 20 pack year history presenting with several days of intermittent chest pain during exertion. 
+
+Phrase: GC
+Meta Mapping (1000):
+  1000   C4281799:Gc (GC, vitamin D binding protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: is
+
+Phrase: a middle aged Caucasian male with a 5 year history of hypertension,
+Meta Mapping (691):
+   586   C0205847:Middle Aged [Age Group]
+   570   C0007457:Caucasian (Caucasoid Race) [Population Group]
+   736   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   570   C0439508:/Year (per year) [Temporal Concept]
+   604   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: on Lisinopril
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: with a 20 pack year history presenting with several days of intermittent chest pain
+Meta Mapping (705):
+   568   C0332287:With (In addition to) [Functional Concept]
+   581   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   568   C0439508:/Year (per year) [Temporal Concept]
+   606   C4512001:History of chest pain [Finding]
+   734   C0449450:Presenting (Presentation) [Idea or Concept]
+   568   C0439228:DAYS (day) [Temporal Concept]
+   568   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+Meta Mapping (705):
+   568   C0332287:With (In addition to) [Functional Concept]
+   568   C3842589:20% [Quantitative Concept]
+   581   C1277691:Pack Year (Pack years) [Intellectual Product]
+   606   C4512001:History of chest pain [Finding]
+   734   C0449450:Presenting (Presentation) [Idea or Concept]
+   568   C0439228:DAYS (day) [Temporal Concept]
+   568   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+
+Phrase: during exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 206_Cage.txt.tx.3: He has had episodes of chest pain in the past that were less severe, but more recently, he had 7/10 central chest pain, described as pressure, while carrying groceries that improved with rest. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: had
+
+Phrase: episodes of chest pain
+Meta Mapping (895):
+   770   C0332189:Episodes (Episode of) [Temporal Concept]
+   687   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: in the past
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: that
+
+Phrase: were
+
+Phrase: less severe,
+Meta Mapping (888):
+   694   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0205082:Severe (Severe (severity modifier)) [Finding]
+
+Phrase: but
+
+Phrase: more recently,
+Meta Mapping (888):
+   861   C0205172:More [Quantitative Concept]
+   861   C0332185:Recently (Recent) [Temporal Concept]
+
+Phrase: he
+
+Phrase: had
+
+Phrase: 7/10 central chest pain,
+Meta Mapping (854):
+   637   C3842590:10% [Quantitative Concept]
+   884   C0423634:Central chest pain [Sign or Symptom]
+
+Phrase: described as pressure,
+Meta Mapping (746):
+   790   C1552738:described [Idea or Concept]
+   790   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: while
+
+Phrase: carrying groceries
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: that
+
+Phrase: improved with rest.
+Meta Mapping (746):
+   790   C0184511:Improved [Finding]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 206_Cage.txt.tx.4: The pain is localized to the center of his chest and lasts for 5-10 minutes. family history significant for father with coronary artery disease required bypass surgery, mother who died from a PE and Type 2 DM.  
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: is
+
+Phrase: localized to the center of his chest
+Meta Mapping (664):
+   748   C0392752:LOCALIZED (Localized) [Spatial Concept]
+   748   C0205099:Centre (Central) [Spatial Concept]
+   748   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   748   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: and
+
+Phrase: lasts for 5-10 minutes. family history
+Meta Mapping (756):
+   714   C1517741:Last [Qualitative Concept]
+   607   C4517521:10.5 [Quantitative Concept]
+   581   C0702093:/minute (Per Minute) [Temporal Concept]
+   612   C0241889:FAMILY HISTORY (Family history) [Finding]
+Meta Mapping (756):
+   714   C1517741:Last [Qualitative Concept]
+   581   C3842590:10% [Quantitative Concept]
+   607   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   612   C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: significant for father
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: with coronary artery disease
+Meta Mapping (1000):
+  1000   C1956346:CORONARY ARTERY DISEASE (Coronary Artery Disease) [Disease or Syndrome]
+
+Phrase: required
+Meta Mapping (1000):
+  1000   C1514873:Required (Requirement) [Functional Concept]
+
+Phrase: bypass surgery,
+Meta Mapping (1000):
+  1000   C1536078:Bypass Surgery [Therapeutic or Preventive Procedure]
+
+Phrase: mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: who
+
+Phrase: died from a PE
+Meta Mapping (708):
+   770   C1546956:Died (Patient Outcome - Died) [Finding]
+   770   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: Type 2 DM.
+Meta Mapping (901):
+   734   C0441730:Type 2 [Classification]
+   827   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+Processing 206_Cage.txt.tx.5: O: All vital signs are within normal limits PE:  Gen: Awake, alert, well groomed, in no acute distress CV Exam: Bilateral upper and lower extremities are warm, well perfused. 
+
+Phrase: O
+Meta Mapping (1000):
+  1000   C0483204:O NOS (O NOS Ab) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: :
+
+Phrase: All vital signs
+Meta Mapping (1000):
+  1000   C0150404:Vital signs (Taking vital signs) [Health Care Activity]
+
+Phrase: are within normal limits PE
+Meta Mapping (761):
+   760   C1551058:Are (are unit of measure) [Quantitative Concept]
+   806   C0442816:Normal limits [Finding]
+   760   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Gen
+Meta Mapping (1000):
+  1000   C2239486:Gen (GEN1 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: Awake, alert,
+Meta Mapping (888):
+   694   C0234422:Awake [Finding]
+   861   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: well groomed,
+Meta Mapping (872):
+   861   C0205170:Well (Good) [Qualitative Concept]
+   827   C0018249:groom (Grooming) [Individual Behavior]
+
+Phrase: in no acute distress CV Exam
+Meta Mapping (833):
+   645   C0205178:ACUTE (acute) [Temporal Concept]
+   645 N C0231303:Distress [Finding]
+   645   C4318503:CV (ciliary vesicle) [Cell Component]
+   812   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Bilateral upper
+Meta Mapping (888):
+   694   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+   861   C1282910:UPPER (Upper) [Spatial Concept]
+
+Phrase: and
+
+Phrase: lower extremities
+Meta Mapping (1000):
+  1000   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+
+Phrase: are
+
+Phrase: warm,
+Meta Mapping (1000):
+  1000   C0687712:warm (warming process) [Natural Phenomenon or Process]
+
+Phrase: well
+Meta Mapping (1000):
+  1000   C0205170:Well (Good) [Qualitative Concept]
+
+Phrase: perfused.
+Meta Mapping (966):
+   966   C1549542:Perfuse [Functional Concept]
+Processing 206_Cage.txt.tx.6: No LE edema. 
+
+Phrase: No LE edema.
+Meta Mapping (888):
+   694   C2697858:LE (LE, Rat Strain) [Mammal]
+   861 N C0013604:OEDEMA (Edema) [Pathologic Function]
+Processing 206_Cage.txt.tx.7: Radial pulses are 2+ BL. 
+
+Phrase: Radial pulses
+Meta Mapping (1000):
+  1000   C0518831:radial PULSES [Finding]
+
+Phrase: are
+
+Phrase: 2+ BL.
+Meta Mapping (888):
+   694   C0740116:+2 [Quantitative Concept]
+   861   C1552663:BL (Boolean) [Intellectual Product]
+Processing 206_Cage.txt.tx.8: DP Pulses are 2+ BL. 
+
+Phrase: DP Pulses
+Meta Mapping (888):
+   694   C1531217:DP (DSP protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: are
+
+Phrase: 2+ BL.
+Meta Mapping (888):
+   694   C0740116:+2 [Quantitative Concept]
+   861   C1552663:BL (Boolean) [Intellectual Product]
+Processing 206_Cage.txt.tx.9: No appreciable physical deformities or scars. 
+
+Phrase: No appreciable physical deformities
+Meta Mapping (790):
+   660   C0031809:Physical (Physical Examination) [Health Care Activity]
+   827 N C0000768:Deformities (Congenital Abnormality) [Congenital Abnormality]
+
+Phrase: or
+
+Phrase: scars.
+Meta Mapping (1000):
+  1000 N C2004491:Scars (Cicatrix) [Pathologic Function]
+Processing 206_Cage.txt.tx.10: No murmurs, rubs or gallops on auscultation while seated or supine. 
+
+Phrase: No murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops on auscultation
+Meta Mapping (623):
+   623   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: while
+
+Phrase: seated
+Meta Mapping (1000):
+  1000 N C0277814:Seated (Sitting position) [Finding]
+
+Phrase: or
+
+Phrase: supine.
+Meta Mapping (1000):
+  1000   C0038846:Supine (Supine Position) [Spatial Concept]
+Processing 206_Cage.txt.tx.11: Normal S1 nd S2, no S3 or S4.  
+
+Phrase: Normal S1 nd S2,
+Meta Mapping (824):
+   902   C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   645   C3715215:S1 [Finding]
+
+Phrase: no S3
+Meta Mapping (1000):
+  1000 N C0232237:S3 (S3 - Third heart sound) [Finding]
+
+Phrase: or
+
+Phrase: S4.
+Meta Mapping (1000):
+  1000   C2349970:S4+ [Element, Ion, or Isotope]
+Processing 206_Cage.txt.tx.12: Lungs clear to auscultation with no wheezing, no friction rubs  A: This is a middle aged male with a history of hypertension, smoker wiho presents with episodic chest pressure, likely related to stable angina. 
+
+Phrase: Lungs
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: clear to auscultation
+Meta Mapping (746):
+   790   C1709157:Clear (Negative Surgical Margin) [Finding]
+   790   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: with no wheezing,
+Meta Mapping (1000):
+  1000 N C0043144:WHEEZING (Wheezing) [Sign or Symptom]
+
+Phrase: no friction rubs
+Meta Mapping (1000):
+  1000 N C0744221:friction rubs (Friction rub) [Pathologic Function]
+
+Phrase: A
+
+Phrase: :
+
+Phrase: This
+
+Phrase: is
+
+Phrase: a middle aged male with a history of hypertension,
+Meta Mapping (722):
+   598   C0205847:Middle Aged [Age Group]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: smoker wiho
+Meta Mapping (694):
+   694   C0337664:Smoker [Finding]
+
+Phrase: presents with episodic chest pressure,
+Meta Mapping (761):
+   760   C0150312:PRESENT (Present) [Finding]
+   760   C1455761:Episodic [Temporal Concept]
+   806   C0438716:Chest pressure [Sign or Symptom]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: related to stable angina.
+Meta Mapping (783):
+   770   C0445223:Related (Related personal status) [Finding]
+   833   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 206_Cage.txt.tx.13: Other differentials include unstable angina, pulmonary embolism, GERD, anxiety.   
+
+Phrase: Other differentials
+Meta Mapping (966):
+   966   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: unstable angina,
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: pulmonary embolism,
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: GERD,
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: anxiety.
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+Processing 206_Cage.txt.tx.14: Plan:  Obtain EKG, echo and troponins Counsel on healthy ligestyle choices Start on beta blocker
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: echo
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: and
+
+Phrase: troponins Counsel on healthy ligestyle choices
+Meta Mapping (685):
+   586   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   753   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   586   C3898900:Healthy [Qualitative Concept]
+   586   C0008300:choices (Choice Behavior) [Individual Behavior]
+
+Phrase: Start on beta blocker
+Meta Mapping (783):
+   770   C0439659:Start (Beginning) [Temporal Concept]
+   833   C0001645:Beta Blocker (Adrenergic beta-Antagonists) [Pharmacologic Substance]

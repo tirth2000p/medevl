@@ -1,0 +1,166 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,12,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,12,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C1706180,Male,"Male Gender, Self Report",-744,-641,a 46yo male with a history of HTN,26,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0262926,History,Medical History,-578,-641,a 46yo male with a history of HTN,26,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0020538,HTN,Hypertensive disease,-578,-641,a 46yo male with a history of HTN,26,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0150312,PRESENT,Present,-770,-783,presents with chest pain,64,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0008031,CHEST PAIN,Chest Pain,-833,-783,presents with chest pain,64,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0015264,Exertion,Exertion,-1000,-1000,on exertion.,89,True,Subjective: Gerry Cage is a 46yo male with a history of HTN who presents with chest pain on exertion. 
+C0700287,reports,Reporting,-1000,-1000,reports,105,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0206243,Carrying,Carrying,-1000,-1000,carrying,139,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-593,-529,"heavy groceries to his car,",148,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0523697,HIS,Histidine measurement,-593,-529,"heavy groceries to his car,",148,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0004381,Car,Automobiles,-593,-529,"heavy groceries to his car,",148,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0596545,Experience,Experience,-966,-966,experienced,179,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0234229,Deep pain,Deep pain,-913,-901,"deep chest pain,",191,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C1527391,Chest,Anterior thoracic region,-827,-901,"deep chest pain,",191,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0205125,DEEP,Deep (qualifier value),-660,-901,"deep chest pain,",191,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0008031,CHEST PAIN,Chest Pain,-901,-901,"deep chest pain,",191,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C3842590,10%,10%,-861,-861,"7/10,",208,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0332307,Kind,Type - attribute,-790,-746,"""kind of heavy,""",214,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-623,-746,"""kind of heavy,""",214,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0702093,/minute,Per Minute,-748,-663,subsided after a few minutes of rest,236,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C1622890,ResT,site-specific telomere resolvase activity,-748,-663,subsided after a few minutes of rest,236,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0004381,Car,Automobiles,-1000,-1000,in his car.,273,True,"He reports that yesterday, as he was carrying heavy groceries to his car, he experienced deep chest pain, 7/10, ""kind of heavy,"" that subsided after a few minutes of rest in his car. "
+C0700287,reports,Reporting,-1000,-1000,reports,288,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1709305,Happened,Occur (action),-1000,-1000,happened,310,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1948050,TWICE,Twice (Numerical Qualifier),-624,-730,"at least twice before ove rthe past four months,",319,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C4331910,Past Month,Past 30 days,-800,-730,"at least twice before ove rthe past four months,",319,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0205450,Four,Four,-624,-730,"at least twice before ove rthe past four months,",319,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C4329247,Stairs,Ability to Use Stairs,-790,-790,"going up stairs,",379,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0035953,Running,Running (physical activity),-1000,-1000,running,411,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,419,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0231617,Catch,Catch - Finding of sensory dimension of pain,-1000,-1000,catch,422,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0079382,FRIEND,friend,-1000,-1000,"a friend,",428,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0332189,Episodes,Episode of,-1000,-1000,these episodes,447,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C4316743,Not severe,Not severe,-797,-761,not as severe pain-wise.,467,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-760,-761,not as severe pain-wise.,467,False,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1427738,WISE,SOSTDC1 gene,-760,-761,not as severe pain-wise.,467,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1518422,Not,Negation,-760,-761,not as severe pain-wise.,467,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C0278140,Severe pain,Severe pain,-806,-761,not as severe pain-wise.,467,False,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C1427738,WISE,SOSTDC1 gene,-760,-761,not as severe pain-wise.,467,True,"He reports that this has happened at least twice before ove rthe past four months, once while going up stairs, and once while running to catch a friend, although these episodes were not as severe pain-wise. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,492,True,Denies pain at rest. 
+C0234253,Pain at rest,Rest pain,-1000,-1000,pain at rest.,499,False,Denies pain at rest. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,513,True,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C0262926,History,Medical History,-770,-783,history of acid reflux,520,False,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C0018834,Acid reflux,Heartburn,-666,-783,history of acid reflux,520,False,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C0376674,Postprandial,Postprandial Period,-753,-719,nonburning postprandial pain in epigastric area.,561,True,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C0232493,Epigastric pain,Epigastric pain,-783,-719,nonburning postprandial pain in epigastric area.,561,True,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C0205146,AREA,Area,-586,-719,nonburning postprandial pain in epigastric area.,561,True,Denies history of acid reflux although endorses nonburning postprandial pain in epigastric area. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,610,True,"Denies history of stomach ulcers, recent chest trauma. "
+C0559165,History of - gastric ulcer,H/O: gastric ulcer,-977,-977,"history of stomach ulcers,",617,False,"Denies history of stomach ulcers, recent chest trauma. "
+C0332665,Recent trauma,Recent injury,-913,-901,recent chest trauma.,644,False,"Denies history of stomach ulcers, recent chest trauma. "
+C1527391,Chest,Anterior thoracic region,-660,-901,recent chest trauma.,644,True,"Denies history of stomach ulcers, recent chest trauma. "
+C0332185,Recent,Recent,-660,-901,recent chest trauma.,644,True,"Denies history of stomach ulcers, recent chest trauma. "
+C0039980,chest trauma,Thoracic Injuries,-901,-901,recent chest trauma.,644,False,"Denies history of stomach ulcers, recent chest trauma. "
+C2700401,Deny,Deny (action),-1000,-1000,Denies,665,True,Denies pain in arms or legs with exertion. 
+C0239377,pain in arm,Arm Pain,-1000,-1000,pain in arms,672,False,Denies pain in arms or legs with exertion. 
+C1140621,Legs,Leg,-790,-746,legs with exertion.,688,True,Denies pain in arms or legs with exertion. 
+C0015264,Exertion,Exertion,-623,-746,legs with exertion.,688,True,Denies pain in arms or legs with exertion. 
+C1515187,Take,Take,-966,-966,Takes,708,True,Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+C0008294,Chlortalidone,chlorthalidone,-1000,-1000,chlorthalidone,714,True,Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+C0065374,Lysinopril,lisinopril,-770,-708,lisinopril for HTN otherwise,733,True,Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+C0020538,HTN,Hypertensive disease,-604,-708,lisinopril for HTN otherwise,733,True,Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,no other meds.,762,False,Takes chlorthalidone and lisinopril for HTN otherwise no other meds. 
+C0015671,FATHER,Father (person),-1000,-1000,Father,777,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C0683474,MI,Motivational Interviewing,-694,-694,an MI 40s,788,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C0741847,Bypass,Bypass,-1000,-1000,"bypass,",812,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C1442163,MoM,Multiple of the median,-1000,-1000,mom,820,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C0020538,HTN,Hypertensive disease,-790,-746,HTN as well.,828,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C0205170,Well,Good,-623,-746,HTN as well.,828,True,"Father had an MI 40s and underwent bypass, mom has HTN as well. "
+C1519384,Smoking History,Tobacco Smoking History,-901,-901,"20PY smoking history,",841,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C0549178,Continue,Continuous,-1000,-1000,continues,863,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C0041260,TO,Tryptophanase,-1000,-1000,to,873,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C0439994,Smoke,Tobacco smoke,-1000,-1000,smoke,876,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C3900053,Amenable,Amenable,-790,-790,amenable to trying,883,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C0748223,QUIT,QUIT,-1000,-1000,to quit.,902,True,"20PY smoking history, continues to smoke, amenable to trying to quit. "
+C0043188,WINE,Wine,-593,-579,2-3glasses of wine/week.,911,True,2-3glasses of wine/week. 
+C4484139,week 2,week 2,-631,-579,2-3glasses of wine/week.,911,True,2-3glasses of wine/week. 
+C0043227,works,Work,-790,-790,Works in IT,936,True,Works in IT at Capital One. 
+C0006909,Capital,Capital,-694,-888,at Capital One.,948,True,Works in IT at Capital One. 
+C0205447,ONE,One,-861,-888,at Capital One.,948,True,Works in IT at Capital One. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,964,True,Denies regular exercise regimen.  
+C0582191,Regular exercise,Regular exercise (observable entity),-734,-901,regular exercise regimen.,971,True,Denies regular exercise regimen.  
+C0040808,Regimen,Treatment Protocols,-827,-901,regular exercise regimen.,971,True,Denies regular exercise regimen.  
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-770,-708,"meds as above, immunizations",1004,True,"NKMA, meds as above, immunizations UTD.  "
+C0020971,Immunizations,Immunization,-604,-708,"meds as above, immunizations",1004,True,"NKMA, meds as above, immunizations UTD.  "
+C3845665,UTD,UTD,-1000,-1000,UTD.,1033,True,"NKMA, meds as above, immunizations UTD.  "
+C1571702,Objective,Objective observation,-1000,-1000,Objective,1039,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C2603360,T',T prime,-694,-694,"T 98f,",1050,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C1415692,Bp,HP gene,-827,-827,"BP 150/92,",1057,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C4517892,85,85,-861,-861,"HR 85,",1068,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C4554402,RR,RR genotype,-645,-775,RR 14 PE CV,1075,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C0070939,PE,phosphoethanolamine,-645,-775,RR 14 PE CV,1075,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C4318503,CV,ciliary vesicle,-812,-775,RR 14 PE CV,1075,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C0456715,m g,g.m,-913,-901,no m/r/g.,1093,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C0205090,R-,Right,-660,-901,no m/r/g.,1093,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C0457610,M/R,Measles-rubella vaccine (live),-734,-901,no m/r/g.,1093,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C0439267,g%,Gram per Deciliter,-827,-901,no m/r/g.,1093,True,"Objective: T 98f, BP 150/92, HR 85, RR 14 PE CV: RRR, no m/r/g. "
+C1315068,PULM,Pulmonary ventilator management,-1000,-1000,Pulm,1103,True,"Pulm: CTAB, NLB. "
+C0951233,CTAB,cetrimonium bromide,-1000,-1000,"CTAB,",1109,True,"Pulm: CTAB, NLB. "
+C4235248,NLB,nucleolus-like body,-1000,-1000,NLB.,1115,True,"Pulm: CTAB, NLB. "
+C0000726,abd,Abdomen,-1000,-1000,Abd,1120,True,"Abd: Soft, nontender, nondistended. "
+C0205358,Soft,Soft,-660,-623,"Soft, nontender, nondistended.",1125,True,"Abd: Soft, nontender, nondistended. "
+C0520960,Nontender,Non-tender,-660,-623,"Soft, nontender, nondistended.",1125,True,"Abd: Soft, nontender, nondistended. "
+C0205160,Negative,Negative,-660,-901,Negative murphy's sign.,1156,True,Negative murphy's sign. 
+C0277977,Murphy's sign,Murphy's sign,-901,-901,Negative murphy's sign.,1156,True,Negative murphy's sign. 
+C1420279,msk,SIK1 gene,-1000,-1000,MSK,1180,True,"MSK: Ribs, sternum nontender to palpation throughout.  "
+C0035561,RIBS,Bone structure of rib,-1000,-1000,"Ribs,",1185,True,"MSK: Ribs, sternum nontender to palpation throughout.  "
+C0038293,STERNUM,Sternum,-1000,-1000,sternum,1191,True,"MSK: Ribs, sternum nontender to palpation throughout.  "
+C0520960,Nontender,Non-tender,-770,-708,nontender to palpation throughout.,1199,True,"MSK: Ribs, sternum nontender to palpation throughout.  "
+C0030247,PALPATION,Palpation,-604,-708,nontender to palpation throughout.,1199,True,"MSK: Ribs, sternum nontender to palpation throughout.  "
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1235,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C1706180,Male,"Male Gender, Self Report",-645,-763,46yo male w/ HTN,1247,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0020538,HTN,Hypertensive disease,-812,-763,46yo male w/ HTN,1247,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0150312,PRESENT,Present,-1000,-1000,presents,1268,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C4700205,W pain,W pain,-617,-833,w/ multiple episodes of chest pain,1277,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0439064,MULTIPLE,Numerous,-586,-833,w/ multiple episodes of chest pain,1277,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0332189,Episode of,Episode of,-773,-833,w/ multiple episodes of chest pain,1277,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C1527391,Chest,Anterior thoracic region,-586,-833,w/ multiple episodes of chest pain,1277,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0015264,Exertion,Exertion,-1000,-1000,on exertion.,1312,True,Assessment: 46yo male w/ HTN who presents w/ multiple episodes of chest pain on exertion. 
+C0241889,FAMILY HISTORY,Family history,-1000,-1000,Family history,1325,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0750502,Significant,Significant,-770,-733,"significant for early MI,",1340,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C1279919,Early,Early,-604,-733,"significant for early MI,",1340,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0683474,MI,Motivational Interviewing,-604,-733,"significant for early MI,",1340,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0424945,Social history,Social and personal history,-1000,-1000,social history,1366,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0750502,Significant,Significant,-760,-761,"significant for current tobacco use,",1381,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0521116,CURRENT,Current (present time),-593,-761,"significant for current tobacco use,",1381,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0841002,Tobacco use,History of tobacco use,-640,-761,"significant for current tobacco use,",1381,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0582103,Exam,Medical Examination,-581,-763,"exam otherwise unremarkable, suggestive of stable angina.",1422,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0205307,UNREMARKABLE,Normal,-581,-763,"exam otherwise unremarkable, suggestive of stable angina.",1422,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0332299,Suggestive of,Suggestive of,-778,-763,"exam otherwise unremarkable, suggestive of stable angina.",1422,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0340288,STABLE ANGINA,Stable angina,-612,-763,"exam otherwise unremarkable, suggestive of stable angina.",1422,True,"Family history significant for early MI, social history significant for current tobacco use, and exam otherwise unremarkable, suggestive of stable angina. "
+C0011038,DDX,Dichlorodiphenyl Dichloroethylene,-1000,-1000,DDx,1480,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0332257,include,Including (qualifier),-1000,-1000,includes,1484,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-1000,-1000,costochondritis,1493,False,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0018834,Acid reflux,Heartburn,-1000,-1000,"acid reflux,",1513,False,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0750558,Unlikely,Unlikely,-1000,-1000,unlikely,1545,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C1705938,Based,Base - General Qualifier,-760,-761,based on H&P findings,1554,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0150618,H&P,History and physical examination,-806,-761,based on H&P findings,1554,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C2926606,Findings,Procedure findings:Finding:Point in time:^Patient:Narrative,-760,-761,based on H&P findings,1554,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0332268,lack,Lacking,-790,-746,(lack of tenderness,1576,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0234233,TENDERNESS (NOS),Sore to touch,-623,-746,(lack of tenderness,1576,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0041260,TO,Tryptophanase,-604,-733,"to palpation of chest,",1596,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0030247,PALPATION,Palpation,-770,-733,"to palpation of chest,",1596,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C1527391,Chest,Anterior thoracic region,-604,-733,"to palpation of chest,",1596,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0004083,Association,Mental association,-760,-736,association of pain w/ eating,1619,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0242030,pain eating,pain with eating,-631,-736,association of pain w/ eating,1619,True,"DDx includes costochondritis and acid reflux, although these are unlikely based on H&P findings (lack of tenderness to palpation of chest, association of pain w/ eating).  "
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1652,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0205543,Refer,Referring,-790,-746,Refer to cardiology,1660,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0007189,Cardiology,Cardiology discipline,-790,-746,Refer to cardiology,1660,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0521125,For,Preposition For,-604,-743,for workup of angina,1680,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0750430,Work-up,Work-up,-770,-743,for workup of angina,1680,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0002962,ANGINA,Angina Pectoris,-604,-743,for workup of angina,1680,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0015260,stress test,Exercise stress test,-1000,-1000,"stress test,",1702,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C1705910,Possible,Possibly Related to Intervention,-578,-712,possible imaging - Discussed lifestyle changes such as exercise,1715,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0011923,Imaging,Diagnostic Imaging,-578,-712,possible imaging - Discussed lifestyle changes such as exercise,1715,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C2584313,Discuss,Discussion (communication),-544,-712,possible imaging - Discussed lifestyle changes such as exercise,1715,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0870811,Lifestyle changes,Lifestyle changes,-770,-712,possible imaging - Discussed lifestyle changes such as exercise,1715,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C1522704,Exercise,Exercise Pain Management,-578,-712,possible imaging - Discussed lifestyle changes such as exercise,1715,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0600549,Tobacco Cessation,Tobacco Use Cessation,-1000,-1000,"tobacco cessation,",1783,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0030705,*^patient,Patients,-1000,-1000,patient,1802,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C3900053,Amenable,Amenable,-1000,-1000,"amenable,",1810,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C1999230,Provide,Providing (action),-1000,-1000,provide,1828,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"
+C0035201,Resources,Resources,-1000,-1000,resources,1836,True,"Plan: - Refer to cardiology for workup of angina: stress test, possible imaging - Discussed lifestyle changes such as exercise and tobacco cessation, patient amenable, so will provide resources"

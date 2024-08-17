@@ -1,0 +1,196 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439267,g%,Gram per Deciliter,-694,-694,G.C.,5,True,HPI: G.C. is a 46 y.o. 
+C0441923,M+,M+ (tumor staging),-760,-686,M with a PMHx HTN,23,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0020538,HTN,Hypertensive disease,-593,-686,M with a PMHx HTN,23,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0150312,PRESENT,Present,-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0205178,Acute onset,acute,-749,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C5201090,Sudden,Sudden (qualifier value),-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C1527391,Chest,Anterior thoracic region,-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0575503,Pain of sternum,Pain of sternum,-738,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C3842676,Day 2,Day 2,-732,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0150312,PRESENT,Present,-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0205178,ACUTE,acute,-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C1276802,Sudden onset,Sudden onset (attribute),-750,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C1527391,Chest,Anterior thoracic region,-735,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0575503,Pain of sternum,Pain of sternum,-738,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C3842676,Day 2,Day 2,-732,-689,presents with acute sudden onset of mid-sternal chest pain 2 days ago.,45,True,M with a PMHx HTN who presents with acute sudden onset of mid-sternal chest pain 2 days ago. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,116,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C1442792,State,State,-1000,-1000,states,124,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0206243,Carrying,Carrying,-1000,-1000,carrying,138,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-694,-694,heavy groceries,147,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C4288581,Noted,Notable,-1000,-1000,noted,171,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0205082,Severe,Severe (severity modifier),-827,-802,"severe, 7/10,",177,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C3842590,10%,10%,-827,-802,"severe, 7/10,",177,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0205125,DEEP,Deep (qualifier value),-1000,-1000,"deep,",191,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0235715,ache chest,Chest aching of,-839,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0038293,Sternal,Sternum,-637,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-804,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0234238,Aches,Ache,-566,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C0241243,STERNAL PAIN,sternal pain,-853,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C1527391,Chest,Anterior thoracic region,-804,-776,achy mid-sternal chest pain.,197,True,"Patient states he was carrying heavy groceries when he noted severe, 7/10, deep, achy mid-sternal chest pain. "
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,Pain,226,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C1948059,Constant,Constant (qualifier),-760,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C4517521,10.5,10.5,-631,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0702093,/minute,Per Minute,-593,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C1948059,Constant,Constant (qualifier),-760,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C3842590,10%,10%,-593,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0886384,minute 5,5 minutes Office visit,-631,-761,constant for 5-10 minutes,235,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0036588,Self,Self,-861,-888,self-resolved,265,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C2699488,Resolved,Resolution,-861,-888,self-resolved,265,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0035253,Resting,Rest,-770,-708,resting for some time.,285,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0040223,TIME,Time,-770,-708,resting for some time.,285,True,Pain was constant for 5-10 minutes and self-resolved after resting for some time. 
+C0521989,associated symptoms,Associated symptom,-1000,-1000,Associated symptoms,308,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0332257,included,Including (qualifier),-1000,-1000,included,328,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0012833,Lightheadedness,Dizziness,-1000,-1000,lightheadedness,337,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C1527305,Feeling,Feelings,-1000,-1000,"feeling """,357,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0016204,Wind NOS,Flatulence,-1000,-1000,the wind,372,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C1883727,Taken,Taken,-760,-724,"taken out of my chest.""",385,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0849355,Out,Removed,-760,-724,"taken out of my chest.""",385,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0024552,MY,Malaysia,-760,-724,"taken out of my chest.""",385,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C1527391,Chest,Anterior thoracic region,-760,-724,"taken out of my chest.""",385,True,"Associated symptoms included lightheadedness and feeling ""as if the wind was taken out of my chest."" "
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,Chest pain,409,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C1518422,Not,Negation,-1000,-1000,not,424,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C0332301,radiate,Radiating to,-770,-708,"radiate into the neck,",428,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C0027530,NECK,Neck,-770,-708,"radiate into the neck,",428,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C0022359,Jaw,Jaw,-1000,-1000,jaw,451,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C0446516,ARM,Upper arm,-1000,-1000,arm.,458,True,"Chest pain did not radiate into the neck, jaw or arm. "
+C1317574,Note,Note (document),-1000,-1000,"Of note,",463,True,"Of note, he has had a few episodes of similar chest pain over the past 4 months. "
+C0332189,Episodes,Episode of,-748,-756,a few episodes of similar chest pain,483,True,"Of note, he has had a few episodes of similar chest pain over the past 4 months. "
+C2348205,Similar,Similarity,-581,-756,a few episodes of similar chest pain,483,True,"Of note, he has had a few episodes of similar chest pain over the past 4 months. "
+C0024902,Pain of breast,Mastodynia,-606,-756,a few episodes of similar chest pain,483,True,"Of note, he has had a few episodes of similar chest pain over the past 4 months. "
+C4331910,Past Month,Past 30 days,-896,-896,over the past 4 months.,520,True,"Of note, he has had a few episodes of similar chest pain over the past 4 months. "
+C0332189,Episodes,Episode of,-1000,-1000,Episodes,544,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C2745955,OCCUR,Occurrence,-1000,-1000,occur,563,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0015264,exerts,Exertion,-1000,-1000,exerts,577,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0549184,NONE,None,-760,-743,none of the previous episodes,597,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0205156,Previous,Previous,-760,-743,none of the previous episodes,597,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0332189,Episode of,Episode of,-781,-743,none of the previous episodes,597,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0205082,Severe,Severe (severity modifier),-790,-790,been as severe,632,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0439591,Long duration,Long duration,-858,-858,long in duration.,650,True,"Episodes typically occur when he exerts himself, but none of the previous episodes have been as severe or long in duration. "
+C0455483,h o,history of - * (non-specific),-673,-794,a h/o intermittent mid-epigastric,680,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C0205267,INTERMITTENT,Intermittent,-637,-794,a h/o intermittent mid-epigastric,680,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C0521440,Epigastric,Epigastric,-804,-794,a h/o intermittent mid-epigastric,680,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C0460139,Pressure,Pressure (finding),-1000,-1000,pressure,714,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C0087130,Unsure,Uncertainty,-1000,-1000,unsure,734,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C0018834,Acid reflux,Heartburn,-1000,-1000,acid reflux.,750,True,He also has a h/o intermittent mid-epigastric pressure that he is unsure if it is acid reflux.  
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-1000,-1000,Meds,764,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0984827,Chlorthalidone 25 MG,Chlorthalidone 25 MG,-756,-916,"chlorthalidone 25 mg QD,",770,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0332173,QD,Daily,-812,-916,"chlorthalidone 25 mg QD,",770,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0987217,Lisinopril 10 MG,Lisinopril 10 MG,-717,-875,lisinopril 10 mg QD Allergies,795,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0332173,QD,Daily,-637,-875,lisinopril 10 mg QD Allergies,795,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0020517,Allergies,Hypersensitivity,-804,-875,lisinopril 10 mg QD Allergies,795,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0020538,HTN,Hypertensive disease,-694,-694,HTN PSHx,837,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0015671,FATHER,Father (person),-790,-746,Father with MI,858,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0683474,MI,Motivational Interviewing,-623,-746,Father with MI,858,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C1536078,Bypass Surgery,Bypass Surgery,-1000,-1000,bypass surgery.,890,True,"Meds: chlorthalidone 25 mg QD, lisinopril 10 mg QD Allergies: none PMHx: HTN PSHx: none FMHx: Father with MI in 40s requiring bypass surgery. "
+C0026591,MOTHER,Mother (person),-790,-746,Mother with HTN.,906,True,Mother with HTN. 
+C0020538,HTN,Hypertensive disease,-623,-746,Mother with HTN.,906,True,Mother with HTN. 
+C0337667,Cigarette Smoker,Cigarette smoker (finding),-651,-767,+Cigarette smoker 1 ppd x 20 years.,928,True,SHx: +Cigarette smoker 1 ppd x 20 years. 
+C0048678,PPD,4-phenylenediamine,-629,-767,+Cigarette smoker 1 ppd x 20 years.,928,True,SHx: +Cigarette smoker 1 ppd x 20 years. 
+C4084911,> 20 years,Life Expectancy Greater than Twenty Years,-818,-767,+Cigarette smoker 1 ppd x 20 years.,928,True,SHx: +Cigarette smoker 1 ppd x 20 years. 
+C0001962,ALCOHOL,ethanol,-637,-762,Alcohol 2-3 glasses wine,964,True,Alcohol 2-3 glasses wine once/week. 
+C0015421,Glasses,Eyeglasses,-637,-762,Alcohol 2-3 glasses wine,964,True,Alcohol 2-3 glasses wine once/week. 
+C0043188,WINE,Wine,-804,-762,Alcohol 2-3 glasses wine,964,True,Alcohol 2-3 glasses wine once/week. 
+C0332174,/week,Weekly,-1000,-1000,/week.,993,True,Alcohol 2-3 glasses wine once/week. 
+C0086190,Illicit Drugs,Illicit Drugs,-1000,-1000,No illicit drugs.,1000,True,No illicit drugs. 
+C1532253,Sedentary Lifestyle,Sedentary lifestyle,-1000,-1000,Sedentary lifestyle,1018,True,Sedentary lifestyle as IT programmer. 
+C1707714,Programmer,Programmer Device,-1000,-1000,IT programmer.,1041,True,Sedentary lifestyle as IT programmer. 
+C0600108,Walks,Does walk,-1000,-1000,Walks,1056,True,Walks dog 0.5 miles twice a day. 
+C0012984,DOG,Canis familiaris,-645,-861,dog 0.5 miles,1062,True,Walks dog 0.5 miles twice a day. 
+C0444500,0.5,0.5,-694,-861,dog 0.5 miles,1062,True,Walks dog 0.5 miles twice a day. 
+C0331865,Miles,Miles,-812,-861,dog 0.5 miles,1062,True,Walks dog 0.5 miles twice a day. 
+C0585361,Twice a day,Twice a day,-1000,-1000,twice a day.,1076,True,Walks dog 0.5 miles twice a day. 
+C0012155,Diet,Diet,-1000,-1000,Diet,1089,True,Diet consists of cafeteria food for breakfast and lunch.  
+C0332529,CONSIST,Consistency,-770,-733,consists of cafeteria food,1094,True,Diet consists of cafeteria food for breakfast and lunch.  
+C1004632,Cafeteria,Cafeteria,-770,-733,consists of cafeteria food,1094,True,Diet consists of cafeteria food for breakfast and lunch.  
+C0016452,Food,Food,-770,-733,consists of cafeteria food,1094,True,Diet consists of cafeteria food for breakfast and lunch.  
+C2698559,Breakfast,Breakfast,-1000,-1000,for breakfast,1121,True,Diet consists of cafeteria food for breakfast and lunch.  
+C2697949,Lunch,Lunch,-1000,-1000,lunch.,1139,True,Diet consists of cafeteria food for breakfast and lunch.  
+C0582103,Exam,Medical Examination,-1000,-1000,Exam,1147,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C2603361,P',P prime,-1000,-1000,P,1165,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C4517892,85,85,-1000,-1000,"85,",1168,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C2603360,T',T prime,-1000,-1000,T,1180,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0205246,General,Generalized,-1000,-1000,General,1187,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C2004580,Alert,Alert note,-1000,-1000,"Alert,",1196,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0205178,ACUTE,acute,-660,-851,no acute distress CV,1203,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0231303,Distress,Distress,-660,-851,no acute distress CV,1203,False,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C4318503,CV,ciliary vesicle,-827,-851,no acute distress CV,1203,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0205307,NORMAL,Normal,-694,-888,Normal S1,1225,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C3715215,S1,S1,-861,-888,Normal S1,1225,False,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C1419718,S2,RPS2 gene,-770,-733,S2 without physiological splitting.,1239,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0205463,Physiological,Physiological,-604,-733,S2 without physiological splitting.,1239,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C1534709,Splitting,Splitting,-604,-733,S2 without physiological splitting.,1239,True,"Exam: VS: 150/92, P: 85, RR: 14: T: 98F General: Alert, no acute distress CV: Normal S1 and S2 without physiological splitting. "
+C0018808,murmurs,Heart murmur,-1000,-1000,No murmurs,1275,False,No murmurs rubs or gallops. 
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1286,False,No murmurs rubs or gallops. 
+C0085649,Peripheral oedema,Peripheral edema,-1000,-1000,No peripheral edema.,1303,False,No peripheral edema. 
+C1823304,PMI,TMEM11 gene,-1000,-1000,PMI,1324,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C1527305,feels,Feelings,-928,-928,palpated,1331,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C2981700,2+,"2+ Score, WHO",-694,-694,"2 cm,",1340,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C0443162,Brisk,Brisk,-1000,-1000,"brisk,",1346,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C0450414,Lateral to the left,Lateral to the left,-853,-799,lateral to the left mid-clavicular line.,1362,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C0008913,Clavicular,Bone structure of clavicle,-581,-799,lateral to the left mid-clavicular line.,1362,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C0700221,Line,Intravascular line,-581,-799,lateral to the left mid-clavicular line.,1362,True,"PMI is palpated 2 cm, brisk, tapping, lateral to the left mid-clavicular line. "
+C0425687,JVD,Jugular venous engorgement,-1000,-1000,JVD,1403,True,JVD is 2cm above the sternal notch. 
+C0038293,Sternal,Sternum,-593,-528,2cm above the sternal notch.,1410,True,JVD is 2cm above the sternal notch. 
+C1235660,Notch,Notch,-593,-528,2cm above the sternal notch.,1410,True,JVD is 2cm above the sternal notch. 
+C0024109,LUNGS,Lung,-1000,-1000,Lungs,1439,True,"Lungs: CTAB without wheezing, rhonchi or rales. "
+C0951233,CTAB,cetrimonium bromide,-790,-746,"CTAB without wheezing,",1446,True,"Lungs: CTAB without wheezing, rhonchi or rales. "
+C0043144,WHEEZING,Wheezing,-623,-746,"CTAB without wheezing,",1446,False,"Lungs: CTAB without wheezing, rhonchi or rales. "
+C0035508,RHONCHI,Rhonchi,-1000,-1000,rhonchi,1469,False,"Lungs: CTAB without wheezing, rhonchi or rales. "
+C0034642,RALES,Rales,-1000,-1000,rales.,1480,False,"Lungs: CTAB without wheezing, rhonchi or rales. "
+C0205170,Good,Good,-660,-901,Good air movement.,1487,True,Good air movement. 
+C0001868,"Movement, Air",Air Movements,-901,-901,Good air movement.,1487,True,Good air movement. 
+C0000726,abd,Abdomen,-1000,-1000,Abd,1506,True,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C0205358,Soft,Soft,-632,-769,"soft, non-tender, non-distended  Assessment",1511,True,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C0520960,Non-tender,Non-tender,-660,-769,"soft, non-tender, non-distended  Assessment",1511,True,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C0700124,Distended,Dilated,-632,-769,"soft, non-tender, non-distended  Assessment",1511,False,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C1516048,Assessment,Assessed,-799,-769,"soft, non-tender, non-distended  Assessment",1511,True,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C0439267,g%,Gram per Deciliter,-694,-694,G.C.,1556,True,"Abd: soft, non-tender, non-distended  Assessment: G.C. is a 46 y.o. "
+C0441923,M+,M+ (tumor staging),-760,-733,M with multiple CVD RF,1574,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0439064,MULTIPLE,Numerous,-593,-733,M with multiple CVD RF,1574,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0007222,"CVD, NOS",Cardiovascular Diseases,-593,-733,M with multiple CVD RF,1574,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0035448,RF,Rheumatoid Factor,-593,-733,M with multiple CVD RF,1574,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0020538,HTN,Hypertensive disease,-1000,-1000,"(HTN,",1597,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0683474,MI,Motivational Interviewing,-623,-623,FMHx of MI,1603,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0015671,FATHER,Father (person),-1000,-1000,in father,1614,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C3843766,<50,<50,-660,-660,<50 y.o.),1624,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0150312,PRESENT,Present,-744,-721,presents with acute onset of midsternal chest pain,1638,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0205178,Acute onset,acute,-770,-721,presents with acute onset of midsternal chest pain,1638,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0024902,Pain of breast,Mastodynia,-762,-721,presents with acute onset of midsternal chest pain,1638,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C1720176,Upon,Upon - dosing instruction fragment,-575,-753,upon exertion in the setting of intermittent chest pain,1689,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0015264,Exertion,Exertion,-742,-753,upon exertion in the setting of intermittent chest pain,1689,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C1318139,{Setting},{Setting},-575,-753,upon exertion in the setting of intermittent chest pain,1689,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0205267,INTERMITTENT,Intermittent,-575,-753,upon exertion in the setting of intermittent chest pain,1689,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0024902,Pain in the breast,Mastodynia,-617,-753,upon exertion in the setting of intermittent chest pain,1689,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C4331910,Past Month,Past 30 days,-896,-896,for the past 4 months.,1745,True,"M with multiple CVD RF (HTN, FMHx of MI in father <50 y.o.) who presents with acute onset of midsternal chest pain upon exertion in the setting of intermittent chest pain for the past 4 months. "
+C0750501,most likely,most likely,-694,-888,Most likely differential diagnosis,1768,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0011906,"Diagnosis, Differential",Differential Diagnosis,-861,-888,Most likely differential diagnosis,1768,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C1547311,Stable,Patient Condition Code - Stable,-586,-759,stable anginal pain as chest pain,1806,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0002962,ANGINAL PAIN,Angina Pectoris,-790,-759,stable anginal pain as chest pain,1806,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0008031,CHEST PAIN,Chest Pain,-623,-759,stable anginal pain as chest pain,1806,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C2745955,OCCUR,Occurrence,-790,-746,occurs with exertion,1840,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0015264,Exertion,Exertion,-790,-746,occurs with exertion,1840,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C1518422,Not,Negation,-790,-746,not at rest.,1865,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0035253,Rest,Rest,-790,-746,not at rest.,1865,True,Most likely differential diagnosis is stable anginal pain as chest pain occurs with exertion and not at rest. 
+C0443199,Differential,Differential quality,-966,-966,Other differentials,1878,True,Other differentials include heartburn and musculoskeletal pain.  
+C0332257,include,Including (qualifier),-1000,-1000,include,1898,True,Other differentials include heartburn and musculoskeletal pain.  
+C0018834,HEARTBURN,Heartburn,-1000,-1000,heartburn,1906,True,Other differentials include heartburn and musculoskeletal pain.  
+C0026858,MUSCULOSKELETAL PAIN,Musculoskeletal Pain,-1000,-1000,musculoskeletal pain.,1920,True,Other differentials include heartburn and musculoskeletal pain.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1943,True,Plan: 1. 
+C2981698,1+,"1+ Score, WHO",-1000,-1000,1.,1949,True,Plan: 1. 
+C1623258,EKG,Electrocardiography,-1000,-1000,EKG,1952,True,EKG to check for arrhythmias 2. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,1956,True,EKG to check for arrhythmias 2. 
+C1283174,Check,Checking (action),-770,-708,check for arrhythmias 2.,1959,True,EKG to check for arrhythmias 2. 
+C0003811,Arrhythmias,Cardiac Arrhythmia,-770,-708,check for arrhythmias 2.,1959,True,EKG to check for arrhythmias 2. 
+C0027552,Need,Needs,-1000,-1000,Need,1984,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0332272,Better,Better,-660,-851,better BP control -,1989,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C1708288,BP,HP wt Allele,-660,-851,better BP control -,1989,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C2587213,Control,Control function,-827,-851,better BP control -,1989,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0034866,recommend,Recommendation,-1000,-1000,recommend,2009,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0442808,Increasing,Increasing,-660,-851,increasing lisinopril dosage,2019,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0065374,Lysinopril,lisinopril,-660,-851,increasing lisinopril dosage,2019,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0178602,Dosage,Dosage,-827,-851,increasing lisinopril dosage,2019,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0418846,Low salt diet education,Low salt diet education,-900,-900,education on low salt diet,2052,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0231299,Reduced stress,Decreased stress,-901,-901,reduced stress 3.,2083,True,Need better BP control - recommend increasing lisinopril dosage and education on low salt diet and reduced stress 3. 
+C0420385,Cardiological referral,Referral to cardiology service,-822,-822,Referral to cardiology,2101,True,Referral to cardiology for exercise stress test
+C0015260,Exercise stress test,Exercise stress test,-1000,-1000,for exercise stress test,2124,True,Referral to cardiology for exercise stress test

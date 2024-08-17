@@ -1,0 +1,409 @@
+Processing 61_Cage.txt.tx.1: Subjective HPI - Ms. 
+
+Phrase: Subjective HPI - Ms.
+Meta Mapping (802):
+   660   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   827   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 61_Cage.txt.tx.2: Cage is a 55 yo female with HTN and current smoker who presents for concerns of substernal chest pain that she experienced 3 days ago while carrying groceries to her car. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with HTN
+Meta Mapping (697):
+   586   C0450382:55 [Intellectual Product]
+   586   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   753   C0086287:FEMALE (Females) [Organism Attribute]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: current smoker
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: who
+
+Phrase: presents for concerns of substernal chest pain
+Meta Mapping (741):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C2699424:Concerns (Concern) [Idea or Concept]
+   814   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying groceries to her car.
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 61_Cage.txt.tx.3: She describes the pain as a deep ache and heavy pressure that "took her breath away." 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: the pain as a deep ache
+Meta Mapping (722):
+   783   C0234229:Deep pain [Sign or Symptom]
+   586   C0234238:ACHE (Ache) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heavy
+Meta Mapping (1000):
+  1000   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: pressure
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: that "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: her breath away."
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 61_Cage.txt.tx.4: She also felt faint during the episode. 
+
+Phrase: She also felt faint during the episode.
+Meta Mapping (692):
+   581   C1822717:SHE (SHE gene) [Gene or Genome]
+   778   C0581879:Felt faint [Sign or Symptom]
+   581   C0332189:EPISODE (Episode of) [Temporal Concept]
+Processing 61_Cage.txt.tx.5: This resolved after 5 minutes of rest. 
+
+Phrase: This
+
+Phrase: resolved after 5 minutes of rest.
+Meta Mapping (712):
+   753   C2699488:Resolved (Resolution) [Conceptual Entity]
+   783   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   753   C0035253:Rest [Daily or Recreational Activity]
+Processing 61_Cage.txt.tx.6: She had 2-3 episodes of twinges of chest pain in the last couple of months, but not as painful as this last episode. 
+
+Phrase: She
+
+Phrase: had
+
+Phrase: 2-3 episodes of twinges of chest pain
+Meta Mapping (746):
+   623   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: in the last couple of months,
+Meta Mapping (835):
+   689   C4331910:In the last month (Past 30 days) [Temporal Concept]
+   753   C0010222:couple (Couples (persons)) [Family Group]
+
+Phrase: but
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: as
+
+Phrase: painful as this last episode.
+Meta Mapping (726):
+   726 N C3808668:Episodic pain [Sign or Symptom]
+Processing 61_Cage.txt.tx.7: She denies any radiation of the pain, SOB, or extremity edema. 
+
+Phrase: She
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any radiation of the pain,
+Meta Mapping (745):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   797   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: SOB,
+Meta Mapping (1000):
+  1000 N C0013404:SOB (Dyspnea) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: extremity edema.
+Meta Mapping (1000):
+  1000 N C0085649:EXTREMITY EDEMA (Peripheral edema) [Pathologic Function]
+Processing 61_Cage.txt.tx.8: She is not currently experiencing any sxs. 
+
+Phrase: She
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966 N C0596545:Experience [Mental Process]
+
+Phrase: any sxs.
+Processing 61_Cage.txt.tx.9: She is worried that she might have suffered a heart attack.  
+
+Phrase: She
+
+Phrase: is
+
+Phrase: worried
+Meta Mapping (1000):
+  1000   C0233481:Worried [Finding]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: might
+
+Phrase: have
+
+Phrase: suffered
+Meta Mapping (1000):
+  1000   C0683278:suffered (Mental Suffering) [Mental or Behavioral Dysfunction]
+
+Phrase: a heart attack.
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 61_Cage.txt.tx.10: Medications Chlorthalidone Lisinopril    NKDA  PMHx  HTN - well controlled on medications  FHx Father - CAD, MI at age 40s  Mother - DM, HTN, pulmonary aneurysm  SHx Tobacco - 1 ppd, 30 years EtOH - 2-3 glasses of wine on weekends Drugs - Denies Exercise - short walks with dog Diet - eats balanced diet  Objective VS BP 150/92 HR 85 RR 14 T 98F  PE Gen - Alert and oriented, no acute distress HEENT - NC/AT, moist mucous membranes  Cardiac - RRR, no peripheral edema b/l, no carotid bruits b/l  Pulm - CTAB, breathing on room air   Assessment Ms. 
+
+Phrase: Medications Chlorthalidone Lisinopril    NKDA  PMHx  HTN - well controlled on medications  FHx Father - CAD,
+Meta Mapping (663):
+   569   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   569   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   569   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   735   C0205170:Well (Good) [Qualitative Concept]
+   749   C0742801:controlled medications (controlled with medications) [Qualitative Concept]
+   569   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   569   C0015671:FATHER (Father (person)) [Family Group]
+   569   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+Meta Mapping (663):
+   569   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+   569   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   569   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   569   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   750   C3853142:Well controlled [Functional Concept]
+   569   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   569   C0015671:FATHER (Father (person)) [Family Group]
+   569   C1707433:CAD (Collision-Induced Dissociation) [Research Activity]
+
+Phrase: MI at age 40s  Mother - DM,
+Meta Mapping (699):
+   753   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   589   C0024915:Maternal Age [Temporal Concept]
+   586   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: pulmonary aneurysm  SHx Tobacco - 1 ppd,
+Meta Mapping (740):
+   632   C2709248:Pulmonary (Pulmonary (qualifier value)) [Qualitative Concept]
+   632   C0002940:ANEURYSM (Aneurysm) [Pathologic Function]
+   632   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+   799   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: 30 years EtOH - 2-3 glasses of wine
+Meta Mapping (667):
+   578   C3842588:30% [Quantitative Concept]
+   578   C0439234:YEARS (year) [Temporal Concept]
+   578   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   744   C0015421:Glasses (Eyeglasses) [Medical Device]
+   578   C0043188:WINE (Wine) [Food]
+
+Phrase: on weekends Drugs -
+Meta Mapping (888):
+   694   C0680190:weekends (Weekend) [Temporal Concept]
+   861   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: Exercise - short walks with dog Diet - eats balanced diet  Objective
+Meta Mapping (726):
+   573   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+   573   C1282927:short (Shortened) [Qualitative Concept]
+   739 N C0600108:Walks (Does walk) [Finding]
+   573   C0012984:DOG (Canis familiaris) [Mammal]
+   573   C0012155:Diet [Food]
+   540   C0013470:Eat (Eating) [Organism Function]
+   593   C0452410:Balanced diet [Therapeutic or Preventive Procedure]
+   573   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: VS
+
+Phrase: BP 150/92 HR 85 RR 14 T 98F  PE Gen - Alert
+Meta Mapping (714):
+   621   C1708288:BP (HP wt Allele) [Gene or Genome]
+   621   C4517892:85 [Quantitative Concept]
+   621   C4554402:RR (RR genotype) [Finding]
+   621   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   621   C2239486:Gen (GEN1 gene) [Gene or Genome]
+   787   C2004580:Alert (Alert note) [Intellectual Product]
+
+Phrase: and
+
+Phrase: oriented,
+Meta Mapping (1000):
+  1000   C1961028:Oriented (Oriented to place) [Finding]
+
+Phrase: no acute distress HEENT - NC/
+Meta Mapping (833):
+   645   C0205178:ACUTE (acute) [Temporal Concept]
+   645 N C0231303:Distress [Finding]
+   645   C1512338:HEENT [Body Location or Region]
+   812   C0027964:NC (New Caledonia) [Geographic Area]
+
+Phrase: AT,
+
+Phrase: moist mucous membranes  Cardiac - RRR,
+Meta Mapping (632):
+   637   C0205381:Moist [Qualitative Concept]
+   673   C0026724:Mucous Membranes (Mucous Membrane) [Tissue]
+   637   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: no peripheral edema b/l,
+Meta Mapping (694):
+   694 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+
+Phrase: no carotid bruits b/l  Pulm - CTAB,
+Meta Mapping (774):
+   660 N C0007280:carotid bruits (Carotid bruit) [Finding]
+   632   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   799   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: breathing on room air   Assessment Ms.
+Meta Mapping (789):
+   820 N C4302321:Breathing room air [Finding]
+   753   C1516048:Assessment (Assessed) [Activity]
+   753   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 61_Cage.txt.tx.11: Cage is a 55 yo female with a history of HTN and current smoker who presents after an episode of chest pain and pressure 3 days ago while carrying groceries to her car that resolved with rest. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 55 yo female with a history of HTN
+Meta Mapping (652):
+   575   C0450382:55 [Intellectual Product]
+   575   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   742   C0086287:FEMALE (Females) [Organism Attribute]
+   575   C0262926:History (Medical History) [Finding]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: current smoker
+Meta Mapping (1000):
+  1000   C3241966:Current Smoker [Finding]
+
+Phrase: who
+
+Phrase: presents after an episode of chest pain
+Meta Mapping (738):
+   748   C0150312:PRESENT (Present) [Finding]
+   748   C0332189:EPISODE (Episode of) [Temporal Concept]
+   777   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: pressure 3 days ago
+Meta Mapping (763):
+   645   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+   812   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: while
+
+Phrase: carrying groceries to her car
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: that
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C0035253:Rest [Daily or Recreational Activity]
+Processing 61_Cage.txt.tx.12: She is not experiencing any sxs today.   
+
+Phrase: She
+
+Phrase: is
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: experiencing
+Meta Mapping (966):
+   966 N C0596545:Experience [Mental Process]
+
+Phrase: any sxs today.
+Meta Mapping (861):
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 61_Cage.txt.tx.13: Plan Chest pain - Obtain an EKG to evaluate for cardiac changes and MI - Counsel pt on smoking cessation
+
+Phrase: Plan Chest pain -
+Meta Mapping (901):
+   660   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: an EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: evaluate for cardiac changes
+Meta Mapping (733):
+   770   C0220825:Evaluate (Evaluation) [Health Care Activity]
+   770   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   770   C0392747:changes (Changing) [Functional Concept]
+
+Phrase: and
+
+Phrase: MI - Counsel pt on smoking cessation
+Meta Mapping (741):
+   586   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   586   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   753   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+   623   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]

@@ -1,0 +1,489 @@
+Processing 151_Cage.txt.tx.1: S: Mr. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C0565930:/s (per second) [Temporal Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 151_Cage.txt.tx.2: Cage is a 46 yo M w htn presenting to the clinic because of an episode of intense chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 yo M w htn presenting to the clinic
+Meta Mapping (660):
+   591   C4331833:a.m. [Qualitative Concept]
+   573   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   739   C0449450:Presenting (Presentation) [Idea or Concept]
+   573   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: because of an episode of intense chest pain.
+Meta Mapping (704):
+   744   C0332189:EPISODE (Episode of) [Temporal Concept]
+   578   C0522510:Intense (With intensity) [Qualitative Concept]
+   595   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 151_Cage.txt.tx.3: On Friday he was carrying groceries to his car when he had a sudden onset of nonradiating, substernal chest pain. 
+
+Phrase: On Friday
+Meta Mapping (1000):
+  1000   C0585029:Friday [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries to his car
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a sudden onset of nonradiating, substernal chest pain.
+Meta Mapping (742):
+   770   C1272517:Sudden onset (Sudden onset (contextual qualifier) (qualifier value)) [Intellectual Product]
+   633   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+Processing 151_Cage.txt.tx.4: It caused him to drop his groceries, and he sat down leaning on his car. 
+
+Phrase: It
+
+Phrase: caused
+Meta Mapping (966):
+   966   C1524003:Cause (Science of Etiology) [Conceptual Entity]
+
+Phrase: him
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C2348338:Drop (Drop British) [Quantitative Concept]
+
+Phrase: his groceries,
+
+Phrase: and
+
+Phrase: he
+
+Phrase: sat down leaning
+Meta Mapping (790):
+   790   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: on his car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 151_Cage.txt.tx.5: He endorsed lightheadedness and dyspnea, w/o diaphoresis. 
+
+Phrase: He
+
+Phrase: endorsed
+
+Phrase: lightheadedness
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: dyspnea,
+Meta Mapping (1000):
+  1000   C1963100:Dyspnea (Dyspnea, CTCAE) [Finding]
+
+Phrase: w/o diaphoresis.
+Meta Mapping (827):
+   827   C0700590:DIAPHORESIS (Increased sweating) [Finding]
+Processing 151_Cage.txt.tx.6: The CP resolved w rest. 
+
+Phrase: The CP
+Meta Mapping (1000):
+  1000   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: w rest.
+Meta Mapping (861):
+   861   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 151_Cage.txt.tx.7: Over the past 4 mo, he says he has had other episodes where he described chest "tightness" but nothing like the recent one.   
+
+Phrase: Over the past 4 mo,
+Meta Mapping (802):
+   660   C1444637:Past (In the past) [Temporal Concept]
+   827   C0332177:/mo (Monthly (qualifier value)) [Temporal Concept]
+
+Phrase: he
+
+Phrase: says
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: other episodes where
+Meta Mapping (861):
+   861   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: he
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: chest "tightness"
+Meta Mapping (1000):
+  1000   C0232292:Chest tightness [Sign or Symptom]
+
+Phrase: but
+
+Phrase: nothing like the recent one.
+Meta Mapping (696):
+   760   C0442735:Nothing [Finding]
+   760   C0332185:Recent [Temporal Concept]
+   760   C0205447:ONE (One) [Quantitative Concept]
+Processing 151_Cage.txt.tx.8: PMH: HTN Meds: chlorthalidone, lisinopril NKDA FMH:  dad had MI in 40s mom HTN and DB II, died of PE Social:  Does IT at Capital One No identifiable life stressors 2-3 drinks on weekends pack per day smoker 20 yrs  O: VS - bp 150/92, HR 85, resp 14, T 98F PE:  Heart sounds normal S1/S2 w/o murmur. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN Meds
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril NKDA FMH
+Meta Mapping (660):
+   660   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: dad
+Meta Mapping (1000):
+  1000   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+
+Phrase: had
+
+Phrase: MI in 40s mom HTN
+Meta Mapping (696):
+   760   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   593   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: DB II,
+Meta Mapping (888):
+   694   C1418892:Db (PRH1 gene) [Gene or Genome]
+   861   C1710602:II (VIPR1 wt Allele) [Gene or Genome]
+
+Phrase: died of PE
+Meta Mapping (746):
+   790   C1546956:Died (Patient Outcome - Died) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: Does
+
+Phrase: IT at Capital One
+Meta Mapping (722):
+   770   C0006909:Capital [Quantitative Concept]
+   770   C0205447:ONE (One) [Quantitative Concept]
+
+Phrase: No identifiable life stressors 2-3 drinks on weekends
+Meta Mapping (685):
+   575   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   575   C0205396:Identifiable (Identified) [Qualitative Concept]
+   598   C0683574:life stressors [Qualitative Concept]
+   742   C0452428:Drinks (Drink (dietary substance)) [Food]
+   575   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: pack per day smoker 20 yrs  O
+Meta Mapping (701):
+   774   C4524862:Pack/Day (Packs per Day) [Quantitative Concept]
+   748   C0337664:Smoker [Finding]
+   748   C3842589:20% [Quantitative Concept]
+Meta Mapping (701):
+   748   C0439228:Day (day) [Temporal Concept]
+   748   C0337664:Smoker [Finding]
+   774   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+
+Phrase: :
+
+Phrase: VS -
+
+Phrase: bp 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: HR 85,
+Meta Mapping (861):
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: resp 14,
+Meta Mapping (861):
+   861   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: T 98F PE
+Meta Mapping (802):
+   660   C2603360:T' (T prime) [Clinical Attribute]
+   827   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: Heart sounds normal S1/S2 w/o murmur.
+Meta Mapping (791):
+   880   C0232222:heart sound murmur (heart sounds and murmurs) [Classification]
+   656   C0232231:Normal S2 (Normal second heart sound, S>2<) [Finding]
+   626   C3715215:S1 [Finding]
+Processing 151_Cage.txt.tx.9: Normal rate regular rhythm Breath sounds clear b/l no pedal edema no jugular venous distention present Radial pulse 2+  A: 46 yo M w episode of substernal CP on exertion with dyspnea and lightheadedness, with a number of cardiac risk factors (fam hx, cigarette use, htn). 
+
+Phrase: Normal rate regular rhythm Breath sounds clear b/l
+Meta Mapping (601):
+   692   C0231855:Breath sounds, normal (Normal breath sounds) [Finding]
+   624   C1521828:Rate [Quantitative Concept]
+   624   C0205272:Regular [Qualitative Concept]
+   624   C0871269:Rhythm [Finding]
+   624   C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: no pedal edema
+Meta Mapping (1000):
+  1000 N C0239340:Pedal edema (Edema of lower extremity) [Finding]
+
+Phrase: no jugular venous distention
+Meta Mapping (1000):
+  1000 N C0425687:Jugular venous distension (Jugular venous engorgement) [Finding]
+
+Phrase: present
+Meta Mapping (1000):
+  1000 N C0150312:PRESENT (Present) [Finding]
+
+Phrase: Radial pulse 2+  A
+Meta Mapping (694):
+   694   C0232142:Pulse, radial (Radial pulse, function) [Organ or Tissue Function]
+
+Phrase: :
+
+Phrase: 46 yo M w episode of substernal CP
+Meta Mapping (682):
+   578   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   578   C0369637:M NOS (M NOS ANTIBODY) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   770   C0332189:Episode of [Temporal Concept]
+   578   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: on exertion with dyspnea
+Meta Mapping (881):
+   881   C0231807:Dyspnoea on exertion (Dyspnea on exertion) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: lightheadedness,
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: with a number of cardiac risk factors
+Meta Mapping (727):
+   581   C0332287:With (In addition to) [Functional Concept]
+   748   C0237753:*Number (Numbers) [Quantitative Concept]
+   581   C0018787:Cardiac (Heart) [Body Part, Organ, or Organ Component]
+   581   C0035647:Risk [Idea or Concept]
+   591   C0960756:factor A [Organic Chemical]
+
+Phrase: (fam hx,
+Meta Mapping (888):
+   694   C3541878:FAM (USP9X wt Allele) [Gene or Genome]
+   861   C0262926:Hx (Medical History) [Finding]
+
+Phrase: cigarette use,
+Meta Mapping (1000):
+  1000   C0694535:cigarette use [Individual Behavior]
+
+Phrase: htn
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: ).
+Processing 151_Cage.txt.tx.10: Diff dx most likely is stable angina, but need to consider ACS as can't miss dx. 
+
+Phrase: Diff dx most
+Meta Mapping (827):
+   827   C4761408:DX (Dongxiang Chinese) [Population Group]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: is
+
+Phrase: stable angina,
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: but
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0027552:Need (Needs) [Qualitative Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: ACS
+Meta Mapping (1000):
+  1000   C0742343:ACS (Acute Chest Syndrome) [Disease or Syndrome]
+
+Phrase: as
+
+Phrase: can't miss dx.
+Meta Mapping (790):
+   660   C2349206:Miss (Miss - Title) [Conceptual Entity]
+   827   C4761408:DX (Dongxiang Chinese) [Population Group]
+Processing 151_Cage.txt.tx.11: Others could be deconditioning or panic attacks, but less likely given no external stressors or mood changes.   
+
+Phrase: Others
+Meta Mapping (1000):
+  1000   C1955473:Others (Others - Allergy) [Finding]
+
+Phrase: could
+
+Phrase: be
+
+Phrase: deconditioning
+
+Phrase: or
+
+Phrase: panic attacks,
+Meta Mapping (1000):
+  1000   C0086769:PANIC ATTACKS (Panic Attacks) [Mental or Behavioral Dysfunction]
+
+Phrase: but
+
+Phrase: less
+Meta Mapping (1000):
+  1000   C0547044:Less (Smaller) [Qualitative Concept]
+
+Phrase: likely
+Meta Mapping (1000):
+  1000   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: no external stressors
+Meta Mapping (888):
+   694   C0205101:External (Extrinsic) [Spatial Concept]
+   861   C0597530:stressors (Stressor) [Idea or Concept]
+
+Phrase: or
+
+Phrase: mood changes.
+Meta Mapping (1000):
+  1000 N C0085633:Mood changes (Mood swings) [Mental or Behavioral Dysfunction]
+Processing 151_Cage.txt.tx.12: P: -Get ECG in clinic -Blood work: BMP, CBC, troponin, BNP -Refer for cardiac stress test -consider cardiac echo -Counsel about cardiac risk factors and try to work on modifiable risk factors i.e. smoking and HTN management.
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C0369773:P NOS (P Blood group antibodies) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: :
+
+Phrase: -
+
+Phrase: Get
+
+Phrase: ECG in clinic -Blood work
+Meta Mapping (766):
+   637   C1623258:ECG NOS (Electrocardiography) [Diagnostic Procedure]
+   637   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   637   C0005768:BLOOD (In Blood) [Body Substance]
+   804   C0043227:Work [Occupational Activity]
+
+Phrase: :
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: BNP -
+Meta Mapping (1000):
+  1000   C1095989:BNP (Brain natriuretic peptide measurement) [Laboratory Procedure]
+
+Phrase: Refer for cardiac stress test -
+Meta Mapping (816):
+   760   C0205543:Refer (Referring) [Functional Concept]
+   862   C0015260:cardiac stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: cardiac echo -Counsel about cardiac risk factors
+Meta Mapping (728):
+   612   C0013516:Cardiac echo (Echocardiography) [Diagnostic Procedure]
+   748   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   612   C1553898:risk factors (risk factors - observation list) [Intellectual Product]
+
+Phrase: and
+
+Phrase: try
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: work on modifiable risk factors i.e. smoking
+Meta Mapping (731):
+   744   C0043227:Work [Occupational Activity]
+   770   C1553898:risk factors (risk factors - observation list) [Intellectual Product]
+   770   C0683454:I-E (internal-external locus of control scale) [Diagnostic Procedure,Intellectual Product]
+   744   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: and
+
+Phrase: HTN management.
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C1273870:Management (Management procedure) [Occupational Activity]

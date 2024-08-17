@@ -1,0 +1,544 @@
+Processing 193_Cage.txt.tx.1: Subjective: Ms. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 193_Cage.txt.tx.2: Cage says she began having severe chest pain and tightness 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: says
+
+Phrase: she
+
+Phrase: began
+Meta Mapping (966):
+   966   C0439659:Begin (Beginning) [Temporal Concept]
+
+Phrase: having
+
+Phrase: severe chest pain
+Meta Mapping (901):
+   913   C0278140:Severe pain [Finding]
+   827   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+Meta Mapping (901):
+   660   C0205082:Severe (Severe (severity modifier)) [Finding]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: tightness 3 days ago.
+Meta Mapping (763):
+   645   C0439816:Tightness (Tightness sensation quality) [Qualitative Concept]
+   812   C0439228:DAYS (day) [Temporal Concept]
+Processing 193_Cage.txt.tx.3: It was after walking and carrying heavy jugs of liquid. 
+
+Phrase: It
+
+Phrase: was after walking
+Meta Mapping (746):
+   790   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+   790   C0080331:Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: and
+
+Phrase: carrying heavy jugs of liquid.
+Meta Mapping (725):
+   593   C0206243:Carrying [Activity]
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   726   C1881295:JUG (Jug Dosing Unit) [Quantitative Concept]
+   593   C1304698:Liquid (Liquid (finding)) [Finding]
+Processing 193_Cage.txt.tx.4: It lasted 5-10 minutes and was 7/10 in severity. 
+
+Phrase: It
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes
+Meta Mapping (1000):
+  1000   C3845579:5-10 minutes [Temporal Concept]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: 7/10 in severity.
+Meta Mapping (783):
+   819   C5191365:10.7 [Quantitative Concept]
+   770   C0439793:Severity (Severities) [Qualitative Concept]
+Meta Mapping (783):
+   783   C3843616:10 - severe [Finding]
+Processing 193_Cage.txt.tx.5: The pain did not radiate down her left arm and was not accompanied by upper or lower back pain, dizziness, or neck pain. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate down her left arm
+Meta Mapping (761):
+   760   C0332301:radiate (Radiating to) [Functional Concept]
+   760   C0574443:HER (Herero language) [Language]
+   806   C0230347:Left Arm (Left upper arm structure) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: accompanied by upper
+Meta Mapping (790):
+   790   C1282910:UPPER (Upper) [Spatial Concept]
+
+Phrase: or
+
+Phrase: lower back pain,
+Meta Mapping (1000):
+  1000 N C0024031:lower backpain (Low Back Pain) [Sign or Symptom]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: neck pain.
+Meta Mapping (1000):
+  1000 N C0007859:NECK PAIN (Neck Pain) [Sign or Symptom]
+Processing 193_Cage.txt.tx.6: She feels completely fine now.  
+
+Phrase: She
+
+Phrase: feels
+Meta Mapping (1000):
+  1000   C1527305:feels (Feelings) [Mental Process]
+
+Phrase: completely fine now.
+Meta Mapping (851):
+   827   C0205197:Completely (Complete) [Qualitative Concept]
+   827   C0205232:Fine (Fine - adjective) [Qualitative Concept]
+   827   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+Processing 193_Cage.txt.tx.7: Patient says her BP readings at work, which is almost daily, are usually normal. 
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: says
+
+Phrase: her BP readings at work,
+Meta Mapping (725):
+   593   C0574443:HER (Herero language) [Language]
+   593   C1415692:Bp (HP gene) [Gene or Genome]
+   726   C0034754:Reading (Reading (activity)) [Daily or Recreational Activity]
+   593   C0043227:Work [Occupational Activity]
+
+Phrase: which
+
+Phrase: is
+
+Phrase: almost daily,
+Meta Mapping (1000):
+  1000   C3845713:Almost daily (Nearly every day) [Temporal Concept]
+
+Phrase: are
+
+Phrase: usually normal.
+Meta Mapping (888):
+   694   C3538928:Usually (Usual) [Qualitative Concept]
+   861   C0205307:NORMAL (Normal) [Qualitative Concept]
+Processing 193_Cage.txt.tx.8: She is unsure why her BP is elevated today.  
+
+Phrase: She
+
+Phrase: is
+
+Phrase: unsure why
+Meta Mapping (861):
+   861   C0087130:Unsure (Uncertainty) [Finding]
+
+Phrase: her BP is
+Meta Mapping (861):
+   861   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: elevated
+Meta Mapping (1000):
+  1000   C0205250:Elevated (High) [Qualitative Concept]
+
+Phrase: today.
+Meta Mapping (1000):
+  1000   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 193_Cage.txt.tx.9: Objective vitals: BP 150/92 HR:85 RR:14 Temp 98F  PE: General: No acute distress.  
+
+Phrase: Objective vitals
+Meta Mapping (853):
+   694   C1571702:Objective (Objective observation) [Qualitative Concept]
+   789   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: BP 150/92 HR
+Meta Mapping (645):
+   645   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 85 RR
+Meta Mapping (888):
+   694   C4517892:85 [Quantitative Concept]
+   861   C4554402:RR (RR genotype) [Finding]
+
+Phrase: :
+
+Phrase: 14 Temp 98F  PE
+Meta Mapping (763):
+   645   C0039476:TEMP (Temperature) [Quantitative Concept]
+   812   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: No acute distress.
+Meta Mapping (888):
+   694   C1551345:ACUTE (acute inpatient encounter) [Health Care Activity]
+   861 N C0231303:Distress [Finding]
+Processing 193_Cage.txt.tx.10: Heart: RRR at all 4 locations Lungs: CTA Extremities: No edema  Assessment: Ms. 
+
+Phrase: Heart
+Meta Mapping (1000):
+  1000   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: RRR at all 4 locations Lungs
+Meta Mapping (512):
+   586   C0450429:locations (Location) [Spatial Concept]
+   586   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: CTA Extremities
+Meta Mapping (888):
+   694   C3540513:CTA (PCYT1A wt Allele) [Gene or Genome]
+   861   C0015385:Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: :
+
+Phrase: No edema  Assessment
+Meta Mapping (888):
+   694 N C0013604:OEDEMA (Edema) [Pathologic Function]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 193_Cage.txt.tx.11: Cage, with FHx significant for HTN, DM, and heart attack in her father at a young age of 40 years old, has signs in her history 3 days ago consistent with a heart attack.  
+
+Phrase: Cage,
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: with FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: significant for HTN,
+Meta Mapping (746):
+   790   C0750502:Significant [Idea or Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM,
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: heart attack in her father
+Meta Mapping (752):
+   806   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   593   C0574443:HER (Herero language) [Language]
+   593   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: at a young age of 40 years old,
+Meta Mapping (711):
+   578   C1516077:At [Spatial Concept]
+   578   C0332239:Young [Temporal Concept]
+   604   C4699619:>40 years [Finding]
+   767   C0231337:Old age (Senility) [Finding]
+
+Phrase: has
+
+Phrase: signs in her history 3 days
+Meta Mapping (746):
+   753   C0311392:SIGNS (Physical findings) [Finding]
+   586   C0574443:HER (Herero language) [Language]
+   586   C0262926:History (Medical History) [Finding]
+   600   C3842675:Day 3 [Finding]
+
+Phrase: ago consistent with a heart attack.
+Meta Mapping (746):
+   790   C0332290:Consistent with [Idea or Concept]
+   623   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+Processing 193_Cage.txt.tx.12: Further workup is required to determine next steps in management. 
+
+Phrase: Further workup
+Meta Mapping (901):
+   694   C1517331:Further [Spatial Concept]
+   861   C0750430:Work-up [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: required
+Meta Mapping (1000):
+  1000   C1514873:Required (Requirement) [Functional Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: determine
+
+Phrase: next steps in management.
+Meta Mapping (733):
+   604   C1883708:Next (Then) [Temporal Concept]
+   770   C1261552:steps (Step (specific stage)) [Conceptual Entity]
+   604   C1273870:Management (Management procedure) [Occupational Activity]
+Processing 193_Cage.txt.tx.13: She is at a high risk for heart attack given her HTN, FHx, and recent symtoms of chest pain.  
+
+Phrase: She
+
+Phrase: is at a high risk
+Meta Mapping (745):
+   760   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   806   C0332167:HIGH RISK (High risk of) [Finding]
+
+Phrase: for heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1947971:Given (Give - dosing instruction imperative) [Functional Concept]
+
+Phrase: her HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: FHx,
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: and
+
+Phrase: recent symtoms of chest pain.
+Meta Mapping (629):
+   593   C0332185:Recent [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 193_Cage.txt.tx.14: Less likely diagnoses: Stable angina: Heart attack like symptoms make this a less likely diagnosis. 
+
+Phrase: Less likely diagnoses
+Meta Mapping (866):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   848   C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+
+Phrase: :
+
+Phrase: Stable angina
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Heart attack like symptoms
+Meta Mapping (783):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   604   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (783):
+   770   C0277793:Attack (Onset of illness) [Temporal Concept]
+   819   C0476270:symptoms heart (Cardiovascular symptoms) [Sign or Symptom]
+
+Phrase: make
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: this a less likely diagnosis.
+Meta Mapping (877):
+   660   C0547044:Less (Smaller) [Qualitative Concept]
+   865   C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+Processing 193_Cage.txt.tx.15: However, pain only with exertion (not at rest) is consistent with this. 
+
+Phrase: However,
+
+Phrase: pain only with exertion
+Meta Mapping (733):
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   604   C0205171:Only (Singular) [Quantitative Concept]
+   604   C0015264:Exertion [Organism Function]
+
+Phrase: (
+
+Phrase: not at rest
+Meta Mapping (746):
+   790   C1518422:Not (Negation) [Functional Concept]
+   790   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: )
+
+Phrase: is
+
+Phrase: consistent with this.
+Meta Mapping (882):
+   882   C0332290:Consistent with [Idea or Concept]
+Processing 193_Cage.txt.tx.16: GERD: Less likely, although on differential because of her heavy meals giving her heaviness in her chest. 
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Less likely,
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: although on differential
+Meta Mapping (790):
+   790   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: because of her heavy meals
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: giving
+Meta Mapping (966):
+   966   C1947971:Give (Give - dosing instruction imperative) [Functional Concept]
+
+Phrase: her heaviness in her chest.
+Meta Mapping (745):
+   593   C0574443:HER (Herero language) [Language]
+   797   C0742339:chest heaviness [Sign or Symptom]
+Processing 193_Cage.txt.tx.17: You would expect to see burning also, however.    
+
+Phrase: You
+
+Phrase: would
+
+Phrase: expect
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+
+Phrase: see
+Meta Mapping (1000):
+  1000   C0042789:see (Vision) [Organism Function]
+
+Phrase: burning also,
+Meta Mapping (861):
+   861   C0085624:Burning (Burning sensation) [Sign or Symptom]
+
+Phrase: however.
+Processing 193_Cage.txt.tx.18: Plan 1. 
+
+Phrase: Plan 1.
+Meta Mapping (861):
+   861   C1301732:Plan (Planned) [Functional Concept]
+Processing 193_Cage.txt.tx.19: EKG, Troponins 2. 
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Troponins 2.
+Meta Mapping (861):
+   861   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+Processing 193_Cage.txt.tx.20: If Troponins are positive or EKG is consistent with a STEMI, cardiology consult needed 3. 
+
+Phrase: If
+
+Phrase: Troponins
+Meta Mapping (1000):
+  1000   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: are
+
+Phrase: positive
+Meta Mapping (1000):
+  1000   C1514241:POSITIVE (Positive Finding) [Finding]
+
+Phrase: or
+
+Phrase: EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: consistent with a STEMI,
+Meta Mapping (783):
+   833   C0332290:Consistent with [Idea or Concept]
+   604   C1536220:STEMI (ST segment elevation myocardial infarction) [Disease or Syndrome]
+
+Phrase: cardiology
+Meta Mapping (1000):
+  1000   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: needed
+Meta Mapping (1000):
+  1000   C0027552:Needed (Needs) [Qualitative Concept]
+
+Phrase: 3.
+Meta Mapping (1000):
+  1000   C0439086:<3 (<3 (qualifier value)) [Quantitative Concept]
+Processing 193_Cage.txt.tx.21: Aspirin 81mg QD 4. 
+
+Phrase: Aspirin 81mg QD 4.
+Meta Mapping (824):
+   812   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+   861   C0309985:QD-4 [Pharmacologic Substance]
+Processing 193_Cage.txt.tx.22: Echo if #1 is positive
+
+Phrase: Echo
+Meta Mapping (1000):
+  1000   C1655045:Echo (Echo (insect)) [Eukaryote]
+
+Phrase: if #1
+Meta Mapping (861):
+   861   C0750557:If [Qualitative Concept]
+
+Phrase: is
+
+Phrase: positive
+Meta Mapping (1000):
+  1000   C1514241:POSITIVE (Positive Finding) [Finding]

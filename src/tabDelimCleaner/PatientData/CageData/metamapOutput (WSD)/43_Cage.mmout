@@ -1,0 +1,438 @@
+Processing 43_Cage.txt.tx.1: S Mr. 
+
+Phrase: S Mr.
+Meta Mapping (888):
+   694   C0565930:/s (per second) [Temporal Concept]
+   861   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 43_Cage.txt.tx.2: Cage is a __ year old male with HTN who complains of a single episode of substernal chest pain. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a __ year old male with HTN
+Meta Mapping (697):
+   586   C0439508:/Year (per year) [Temporal Concept]
+   586   C0580836:Old [Temporal Concept]
+   753   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: complains of a single episode of substernal chest pain.
+Meta Mapping (725):
+   764   C0556986:Single episode [Temporal Concept]
+   790   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+Processing 43_Cage.txt.tx.3: He reports that the pain was in the center of his chest, was severe, dull, aching, and heavy. 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: the pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was in the center of his chest,
+Meta Mapping (664):
+   748   C0043194:WAS (Wiskott-Aldrich Syndrome) [Disease or Syndrome]
+   748   C0205099:Centre (Central) [Spatial Concept]
+   748   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   748   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: was
+
+Phrase: severe, dull,
+Meta Mapping (888):
+   694   C0205082:Severe (Severe (severity modifier)) [Finding]
+   861   C0278144:Dull (Dull pain) [Sign or Symptom]
+
+Phrase: aching
+Meta Mapping (1000):
+  1000   C0234238:Aching (Ache) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: heavy.
+Meta Mapping (1000):
+  1000   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Processing 43_Cage.txt.tx.4: It occure din the setting of carrying grocereis to his car and it lasted 15 seconds, but resolved when he sat down and rested. 
+
+Phrase: It occure din
+Meta Mapping (861):
+   861   C1334631:DIN (Intraductal Proliferative Lesion of the Breast) [Neoplastic Process]
+
+Phrase: the setting of carrying grocereis
+Meta Mapping (686):
+   760   C1318139:{Setting} [Quantitative Concept]
+   593   C0206243:Carrying [Activity]
+
+Phrase: to his car
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: and
+
+Phrase: it
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 15 seconds,
+Meta Mapping (861):
+   861   C0457385:Seconds (seconds) [Temporal Concept]
+
+Phrase: but
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: sat down
+Meta Mapping (833):
+   833   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: and
+
+Phrase: rested.
+Meta Mapping (1000):
+  1000   C0035253:rested (Rest) [Daily or Recreational Activity]
+Processing 43_Cage.txt.tx.5: He reports that nothing like this has happened before but that he has had some minor "twinges" of pain in his chest over the past 4 months.  
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: nothing like this
+Meta Mapping (790):
+   790   C0442735:Nothing [Finding]
+
+Phrase: has
+
+Phrase: happened before
+Meta Mapping (833):
+   833   C1709305:Happened (Occur (action)) [Activity]
+
+Phrase: but
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: some minor "twinges"
+Meta Mapping (694):
+   694   C0205165:Minor (Minor (value)) [Qualitative Concept]
+
+Phrase: of pain in his chest
+Meta Mapping (875):
+   593   C1704913:OF (TAF1 wt Allele) [Gene or Genome]
+   844   C0008031:Pain In Chest (Chest Pain) [Sign or Symptom]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: over the past 4 months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 43_Cage.txt.tx.6: PMH HTN - diagnosed 5 years ago  SHX EtOH: 2-3 glasses of win on weekend 1 pack of cigarettes /day 4-5 cups of coffee per day No other illicit drug use Exercise: walks 1 mile per day Diet: Eats whatever is at the cafeteria. 
+
+Phrase: PMH HTN -
+Meta Mapping (888):
+   694   C0262926:PMH (Medical History) [Finding]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: diagnosed
+Meta Mapping (1000):
+  1000   C0011900:Diagnosed (Diagnosis) [Diagnostic Procedure]
+
+Phrase: 5 years ago  SHX EtOH
+Meta Mapping (812):
+   673   C4086543:< 5 years (Life Expectancy Less than Five Years) [Intellectual Product]
+   804   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3 glasses of win
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C3538717:WIN (FOXM1 wt Allele) [Gene or Genome]
+
+Phrase: on weekend 1 pack of cigarettes /day 4-5 cups of coffee
+Meta Mapping (662):
+   570   C1720294:On (On (qualifier value)) [Intellectual Product]
+   570   C0680190:Weekend [Temporal Concept]
+   736   C2825051:PACK (Pack unit) [Drug Delivery Device]
+   570   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+   584   C1442449:Day 1 (1 Day) [Temporal Concept]
+   570   C0180231:Cups (Cup Device) [Medical Device]
+   570   C0009237:Coffee [Food]
+
+Phrase: per day
+Meta Mapping (1000):
+  1000   C0439228:Day (day) [Temporal Concept]
+
+Phrase: No other illicit drug use Exercise
+Meta Mapping (916):
+   756 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+   812   C0015259:Exercise [Daily or Recreational Activity]
+
+Phrase: :
+
+Phrase: walks 1 mile per day Diet
+Meta Mapping (741):
+   586 N C0600108:Walks (Does walk) [Finding]
+   753   C2347127:mile (British Mile) [Quantitative Concept]
+   617   C1442449:Day 1 (1 Day) [Temporal Concept]
+   586   C0012155:Diet [Food]
+
+Phrase: :
+
+Phrase: Eats
+Meta Mapping (966):
+   966   C0013470:Eat (Eating) [Organism Function]
+
+Phrase: whatever
+
+Phrase: is at the cafeteria.
+Meta Mapping (708):
+   770   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   770   C1004632:Cafeteria [Eukaryote]
+Processing 43_Cage.txt.tx.7: Does not pay attention to diet.   
+
+Phrase: Does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: pay
+Meta Mapping (1000):
+  1000   C0871051:pay [Quantitative Concept]
+
+Phrase: attention to diet.
+Meta Mapping (746):
+   790 N C0004268:Attention [Mental Process]
+   623   C0012155:Diet [Food]
+Processing 43_Cage.txt.tx.8: FHx Father: MI age 40. 
+
+Phrase: FHx Father
+Meta Mapping (888):
+   694   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   861   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: :
+
+Phrase: MI age 40.
+Meta Mapping (851):
+   827   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   827   C0001779:AGE (Age) [Organism Attribute]
+   827   C3842587:40% [Quantitative Concept]
+Processing 43_Cage.txt.tx.9: CABG Mother: HTN, T2DM, died from PE  Meds Chlorthalidone 25mg daily Lisinopril 10mg daily    O T: 98.0 P 85 R: 14 BP: 150/92 CV: Regular rate and rhythm. 
+
+Phrase: CABG Mother
+Meta Mapping (888):
+   694   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   861   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: died from PE  Meds Chlorthalidone 25mg daily Lisinopril 10mg daily    O T
+Meta Mapping (631):
+   736   C1306577:Died (Death (finding)) [Finding]
+   736   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+   736   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   736   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   736   C0332173:Daily [Temporal Concept]
+   736   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 98.0 P 85 R
+Meta Mapping (785):
+   637   C4319627:98 [Quantitative Concept]
+   686   C4517483:0.85 [Quantitative Concept]
+   804   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: 14 BP
+Meta Mapping (861):
+   861   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: 150/92 CV
+Meta Mapping (827):
+   827   C4318503:CV (ciliary vesicle) [Cell Component]
+
+Phrase: :
+
+Phrase: Regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C1521828:Rate [Quantitative Concept]
+
+Phrase: and
+
+Phrase: rhythm.
+Meta Mapping (1000):
+  1000   C1523018:rhythm (rhythmic process (biological)) [Physiologic Function]
+Processing 43_Cage.txt.tx.10: No mummers, rubs or gallops. 
+
+Phrase: No mummers,
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops.
+Processing 43_Cage.txt.tx.11: 2+ pulses in bilateral upper and lower extremities. 
+
+Phrase: 2+ pulses in bilateral upper
+Meta Mapping (724):
+   593   C2827735:2+ (2+ Score) [Quantitative Concept]
+   760   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+   593   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+   593   C1282910:UPPER (Upper) [Spatial Concept]
+
+Phrase: and
+
+Phrase: lower extremities.
+Meta Mapping (1000):
+  1000   C0023216:Extremities, Lower (Lower Extremity) [Body Part, Organ, or Organ Component]
+Processing 43_Cage.txt.tx.12: No pedal edema. 
+
+Phrase: No pedal edema.
+Meta Mapping (1000):
+  1000 N C0239340:Pedal edema (Edema of lower extremity) [Finding]
+Processing 43_Cage.txt.tx.13: Neck veins non-distended.  
+
+Phrase: Neck veins
+Meta Mapping (1000):
+  1000   C0226542:Neck veins (Structure of vein of neck) [Body Part, Organ, or Organ Component]
+
+Phrase: non-distended.
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861 N C0700124:Distended (Dilated) [Finding]
+Processing 43_Cage.txt.tx.14: Chest: No obvious deformities on visualization. 
+
+Phrase: Chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: :
+
+Phrase: No obvious deformities on visualization.
+Meta Mapping (725):
+   781   C3809765:No Deformity (No abnormalities) [Finding]
+   593 N C0175631:Visualization (Imagery) [Mental Process]
+Processing 43_Cage.txt.tx.15: No tenderness or malformations of chest wall on palpation. 
+
+Phrase: No tenderness
+Meta Mapping (1000):
+  1000 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: malformations of chest wall
+Meta Mapping (783):
+   819 N C0238983:Chest malformations (Chest deformity) [Finding]
+   604   C0458421:Wall, NOS (Wall of bladder) [Body Part, Organ, or Organ Component]
+Meta Mapping (783):
+   770 N C0000768:malformations (Congenital Abnormality) [Congenital Abnormality]
+   666   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+
+Phrase: on palpation.
+Meta Mapping (1000):
+  1000   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+Processing 43_Cage.txt.tx.16: Breath sounds equal bilat  A Mr. 
+
+Phrase: Breath sounds equal bilat
+Meta Mapping (658):
+   694   C0035234:Breath sounds (Respiratory Sounds) [Clinical Attribute]
+   645   C1549782:Equal (Relational Operator - Equal) [Intellectual Product]
+
+Phrase: A Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 43_Cage.txt.tx.17: Cage  is a __yo male with HTN who presents with a single episode of substernal chestpain concerning for stable angina.   
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a __yo male with HTN
+Meta Mapping (696):
+   593   C1413296:Yo (CDR2 gene) [Gene or Genome]
+   760   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   593   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presents with a single episode of substernal chestpain concerning
+Meta Mapping (663):
+   742   C0150312:PRESENT (Present) [Finding]
+   742   C0087136:single (Unmarried) [Finding]
+   764   C0332189:Episode of [Temporal Concept]
+   708   C2699424:Concern [Idea or Concept]
+
+Phrase: for stable angina.
+Meta Mapping (1000):
+  1000   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+Processing 43_Cage.txt.tx.18: P - EKG - Lipid Panel - Increase lisinopril 20mg daily  - consider B-blocke initiation - discussed coffee and smoking cessation
+
+Phrase: P - EKG - Lipid Panel - Increase lisinopril 20mg daily  -
+Meta Mapping (605):
+   626   C2603361:P' (P prime) [Clinical Attribute]
+   626   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   645   C0200382:Lipid panel [Laboratory Procedure]
+   626   C0442805:Increase [Functional Concept]
+   626   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   626   C0332173:Daily [Temporal Concept]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: B-blocke initiation - discussed coffee
+Meta Mapping (725):
+   637   C1704686:Initiation [Functional Concept]
+   604   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+   804   C0009237:Coffee [Food]
+
+Phrase: and
+
+Phrase: smoking cessation
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]

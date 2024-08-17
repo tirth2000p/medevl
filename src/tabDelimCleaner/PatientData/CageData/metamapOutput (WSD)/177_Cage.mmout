@@ -1,0 +1,368 @@
+Processing 177_Cage.txt.tx.1: Pt is a male w/ history of HTN on lisinopril and chlorthalidone p/w CP associated w/ exertion. 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: a male w/ history of HTN
+Meta Mapping (666):
+   586   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   753   C2004062:History (History of previous events) [Finding]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on lisinopril
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone p/w CP
+Meta Mapping (791):
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   812   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: w/ exertion.
+Meta Mapping (861):
+   861   C0015264:Exertion [Organism Function]
+Processing 177_Cage.txt.tx.2: States CP occurred 3 days ago after carrying groceries to car from store. 
+
+Phrase: States
+Meta Mapping (1000):
+  1000   C1301808:states (Geographic state) [Geographic Area]
+
+Phrase: CP
+Meta Mapping (1000):
+  1000   C0006938:CP (captopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: after
+
+Phrase: carrying groceries to car
+Meta Mapping (541):
+   604   C0206243:Carrying [Activity]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: from store.
+Meta Mapping (1000):
+  1000   C1698986:Store (Storage) [Functional Concept]
+Processing 177_Cage.txt.tx.3: Described as deep heavy pain localized to epigastrium lasting ~10 minutes. 
+
+Phrase: Described as deep heavy pain
+Meta Mapping (761):
+   760   C1552738:described [Idea or Concept]
+   797   C0234229:Deep pain [Sign or Symptom]
+   760   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+Meta Mapping (761):
+   760   C1552738:described [Idea or Concept]
+   760   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   806   C0458256:Heavy pain [Finding]
+
+Phrase: localized to epigastrium lasting ~10 minutes.
+Meta Mapping (712):
+   753   C0392752:LOCALIZED (Localized) [Spatial Concept]
+   753   C0230185:Epigastrium [Body Location or Region]
+   790   C0456692:/10 minutes (/10 min) [Temporal Concept]
+Processing 177_Cage.txt.tx.4: Pain was relieved upon sitting in car for 5-10 minutes. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: relieved upon sitting
+Meta Mapping (746):
+   790   C1301771:Relieved (Relieved (qualifier value)) [Qualitative Concept]
+   790   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: in car for 5-10 minutes.
+Meta Mapping (741):
+   753   C0150312:In (Present) [Finding]
+   753   C0004381:Car (Automobiles) [Manufactured Object]
+   617   C4517521:10.5 [Quantitative Concept]
+   586   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (741):
+   753   C0150312:In (Present) [Finding]
+   753   C0004381:Car (Automobiles) [Manufactured Object]
+   586   C3842590:10% [Quantitative Concept]
+   617   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+Processing 177_Cage.txt.tx.5: Of note pt states 4 month history of intermittent chest "twinge" during exertion (using stairs) lasting seconds at a time.   
+
+Phrase: Of note pt
+Meta Mapping (888):
+   694   C1317574:Note (Note (document)) [Intellectual Product]
+   861   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: 4 month history of intermittent chest "twinge"
+Meta Mapping (692):
+   581   C3838679:4+ (4+ Answer to question) [Finding]
+   581   C0332177:/month (Monthly (qualifier value)) [Temporal Concept]
+   748   C2004062:History (History of previous events) [Finding]
+   581   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   581   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: during exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: (
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: stairs
+Meta Mapping (1000):
+  1000   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+
+Phrase: )
+
+Phrase: lasting seconds at a time.
+Meta Mapping (686):
+   760   C0457385:Seconds (seconds) [Temporal Concept]
+   593   C0040223:TIME (Time) [Temporal Concept]
+Processing 177_Cage.txt.tx.6: Meds- Chlorthalidone, lisinopril Allergies- NKDA PMHX- Chlorthalidone, lisinopril FMHx- Mother- TIIDM, HTN, died of PE, Father- Heart attck in 40s requiring bypass SHX-21 pack year history, drinks 4-6 drinks per week, diet of fast food, coffee, rare homemade meals, walks 1/2 mile-1 mile per day  PE General- No acute distress, odd odors, alert oriented Cardio- no murmurs, rubs, regular rate/ryhthm, no pitting edema Pul- CTAB   Assessment- Pt is a male w/ history significant for HTN, 21 pack years of smoking, and family history of HTN, TIIDM and heart attck p/w likely angina vs. 
+
+Phrase: Meds- Chlorthalidone,
+Meta Mapping (888):
+   694   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   861   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril Allergies- NKDA PMHX- Chlorthalidone,
+Meta Mapping (801):
+   656   C0571941:Lisinopril allergy [Disease or Syndrome]
+   804   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril FMHx- Mother- TIIDM,
+Meta Mapping (597):
+   645   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   645   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: died of PE,
+Meta Mapping (746):
+   790   C1306577:Died (Death (finding)) [Finding]
+   790   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: Father- Heart attck in 40s
+Meta Mapping (528):
+   593   C0015671:FATHER (Father (person)) [Family Group]
+   593   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: requiring
+
+Phrase: bypass SHX-21 pack year history,
+Meta Mapping (780):
+   632   C0741847:Bypass [Therapeutic or Preventive Procedure]
+   660   C1277691:Pack Year (Pack years) [Intellectual Product]
+   799   C2004062:History (History of previous events) [Finding]
+
+Phrase: drinks
+Meta Mapping (1000):
+  1000   C0452428:Drinks (Drink (dietary substance)) [Food]
+
+Phrase: 4-6 drinks per week,
+Meta Mapping (761):
+   640   C3843788:4 - 6 [Quantitative Concept]
+   760   C0452428:Drinks (Drink (dietary substance)) [Food]
+   593   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: diet of fast food, coffee,
+Meta Mapping (761):
+   760   C0012155:Diet [Food]
+   640   C0344355:Fast food (Fast Foods) [Food]
+   593   C0009237:Coffee [Food]
+Meta Mapping (761):
+   593   C0015663:Fast (Fasting) [Finding]
+   797   C0311118:food diet (Foods and Diets - category) [Classification]
+   593   C0009237:Coffee [Food]
+
+Phrase: rare homemade meals,
+Meta Mapping (802):
+   660   C0521114:Rare (Infrequent) [Temporal Concept]
+   827   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: 1/2 mile-1 mile per day  PE
+Meta Mapping (567):
+   623   C4699479:1-1-2 [Finding]
+   578   C2347127:mile (British Mile) [Quantitative Concept]
+   578   C0439228:Day (day) [Temporal Concept]
+   578   C0070939:PE (phosphoethanolamine) [Biologically Active Substance,Organic Chemical]
+
+Phrase: General-
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: No acute distress,
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861 N C0231303:Distress [Finding]
+
+Phrase: odd odors,
+Meta Mapping (888):
+   694   C1415068:ODD (GJA1 gene) [Gene or Genome]
+   861   C0028884:Odors [Natural Phenomenon or Process]
+
+Phrase: alert oriented Cardio-
+Meta Mapping (851):
+   660   C2004580:Alert (Alert note) [Intellectual Product]
+   660 N C1961028:Oriented (Oriented to place) [Finding]
+   827   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: regular rate/ryhthm,
+Meta Mapping (623):
+   660   C0205272:Regular [Qualitative Concept]
+   660   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: no pitting edema Pul- CTAB   Assessment- Pt
+Meta Mapping (827):
+   660 N C0333243:Pitting oedema (Pitting edema) [Sign or Symptom]
+   632   C0449197:PUL (PUL anatomical site notation for tumour staging) [Body Location or Region]
+   632   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+   632   C1261322:Assessment (Evaluation procedure) [Health Care Activity]
+   799   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: a male w/ history
+Meta Mapping (802):
+   660   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   827   C2004062:History (History of previous events) [Finding]
+
+Phrase: significant for HTN,
+Meta Mapping (746):
+   790   C0237881:significant (Statistical Significance) [Quantitative Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: 21 pack years of smoking,
+Meta Mapping (745):
+   806   C1277691:Pack years [Intellectual Product]
+   593   C0037369:SMOKING (Smoking) [Individual Behavior]
+
+Phrase: and
+
+Phrase: family history of HTN,
+Meta Mapping (783):
+   833   C0241889:FAMILY HISTORY (Family history) [Finding]
+   604   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: TIIDM
+
+Phrase: and
+
+Phrase: heart attck p/w likely angina
+Meta Mapping (756):
+   632   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+   632   C0750492:Likely (Probably) [Idea or Concept]
+   799   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: vs.
+Processing 177_Cage.txt.tx.7: MI vs.   
+
+Phrase: MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: vs.
+Processing 177_Cage.txt.tx.8: Plan- 1.
+
+Phrase: Plan- 1.
+Meta Mapping (861):
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+Processing 177_Cage.txt.tx.9: Schedule exercise stress test 2. 
+
+Phrase: Schedule exercise stress test 2.
+Meta Mapping (854):
+   804   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+   884   C0015260:Exercise stress test [Diagnostic Procedure]
+Processing 177_Cage.txt.tx.10: Contact PCP regarding HTN management  3. 
+
+Phrase: Contact PCP regarding HTN management  3.
+Meta Mapping (728):
+   799   C0332158:contact (Contact with) [Functional Concept]
+   799   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+   799   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   799   C1273870:Management (Management procedure) [Occupational Activity]
+Processing 177_Cage.txt.tx.11: Dependent on stress test consider echo 4. 
+
+Phrase: Dependent on stress test
+Meta Mapping (783):
+   770   C0851827:Dependent (Dependent - ability) [Qualitative Concept]
+   666   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: echo 4.
+Meta Mapping (861):
+   861   C1655045:Echo (Echo (insect)) [Eukaryote]
+Processing 177_Cage.txt.tx.12: Consider lipid panel, BMP to r/o DMII, HLD 5. 
+
+Phrase: Consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: BMP to r/o DMII,
+Meta Mapping (686):
+   760   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   593   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: HLD 5.
+Processing 177_Cage.txt.tx.13: Dependent on lab results consider statin, beta blocker,
+
+Phrase: Dependent on lab results
+Meta Mapping (722):
+   770   C0851827:Dependent (Dependent - ability) [Qualitative Concept]
+   604   C0022877:Lab (Laboratory) [Health Care Related Organization,Manufactured Object]
+   570   C1274040:Result [Functional Concept]
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: statin,
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: beta blocker,
+Meta Mapping (1000):
+  1000   C0001645:Beta Blocker (Adrenergic beta-Antagonists) [Pharmacologic Substance]

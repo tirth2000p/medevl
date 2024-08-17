@@ -1,0 +1,648 @@
+Processing 94_Cage.txt.tx.1: Subjective HPI: Mr. 
+
+Phrase: Subjective HPI
+Meta Mapping (694):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 94_Cage.txt.tx.2: Gerry Cage is a male with a past medical history of hypertension who presents to clinic with chest pain. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a male with a past medical history of hypertension
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   617   C0332119:Past history of [Finding]
+   575   C0199168:Medical (Medical service) [Health Care Activity]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   617   C0262926:History of MEDICAL (Medical History) [Finding]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   575   C0199168:Medical (Medical service) [Health Care Activity]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with chest pain.
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 94_Cage.txt.tx.3: For the past four months, he has experienced 2-3 episodes of sharp, brief chest pain upon exertion that spontaneously resolve with rest. 
+
+Phrase: For the past four months,
+Meta Mapping (890):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   660   C0205450:Four [Quantitative Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: 2-3 episodes of sharp, brief chest pain
+Meta Mapping (847):
+   623   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   626   C0238995:CHEST PAIN, SHARP (sharp chest pain) [Sign or Symptom]
+   578   C1282927:brief (Shortened) [Qualitative Concept]
+
+Phrase: upon exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: spontaneously
+
+Phrase: resolve with rest.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 94_Cage.txt.tx.4: His last chest pain was three days ago where he felt a deep, heavy ache of 7/10 intensity while carrying heavy grocery bags. 
+
+Phrase: His last chest pain
+Meta Mapping (901):
+   660   C1517741:Last [Qualitative Concept]
+   901   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: was
+
+Phrase: three days ago where
+Meta Mapping (750):
+   812   C0205449:Three [Quantitative Concept]
+   812   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: he
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a deep, heavy ache of 7/10 intensity
+Meta Mapping (730):
+   600   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   578   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   578   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   744   C0234238:ACHE (Ache) [Sign or Symptom]
+   578   C3842590:10% [Quantitative Concept]
+   578   C0522510:Intensity (With intensity) [Qualitative Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy grocery bags.
+Meta Mapping (802):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   827   C0179196:Bags (Bag, device) [Manufactured Object]
+Processing 94_Cage.txt.tx.5: This episode was different and worse than the previous episodes as it lasted for 5-10 minutes and was associated with light-headedness and shortness of breath. 
+
+Phrase: This episode
+Meta Mapping (1000):
+  1000   C0332189:EPISODE (Episode of) [Temporal Concept]
+
+Phrase: was
+
+Phrase: different
+Meta Mapping (1000):
+  1000   C1705242:Different [Qualitative Concept]
+
+Phrase: and
+
+Phrase: worse than the previous episodes
+Meta Mapping (696):
+   760   C1279889:Worse (Deterioration of status) [Finding]
+   593   C0205156:Previous [Temporal Concept]
+   593   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: as
+
+Phrase: it
+
+Phrase: lasted for 5-10 minutes
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (752):
+   726   C1517741:Last [Qualitative Concept]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: was
+
+Phrase: associated with light-headedness
+Meta Mapping (901):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 94_Cage.txt.tx.6: Additionally, he occasionally experiences chest pressure 2-3 days a week after eating a big meal that is different from the chest pain. 
+
+Phrase: Additionally,
+
+Phrase: he
+
+Phrase: occasionally
+Meta Mapping (1000):
+  1000   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: experiences
+Meta Mapping (1000):
+  1000   C0237607:experience (Practice Experience) [Mental Process]
+
+Phrase: chest pressure 2-3 days
+Meta Mapping (812):
+   673   C0438716:Chest pressure [Sign or Symptom]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: a week after eating
+Meta Mapping (708):
+   770   C0332174:/week (Weekly) [Temporal Concept]
+   604   C0013470:Eating [Organism Function]
+
+Phrase: a big meal
+Meta Mapping (888):
+   694   C0549177:Big (Large) [Quantitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: different from the chest pain.
+Meta Mapping (745):
+   760   C1705242:Different [Qualitative Concept]
+   640   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 94_Cage.txt.tx.7: Nothing makes it better or worse. 
+
+Phrase: Nothing
+
+Phrase: makes
+Meta Mapping (1000):
+  1000   C1881534:Make (Make - Instruction Imperative) [Functional Concept]
+
+Phrase: it better
+Meta Mapping (1000):
+  1000   C0332272:Better [Qualitative Concept]
+
+Phrase: or
+
+Phrase: worse.
+Meta Mapping (1000):
+  1000   C1279889:Worse (Deterioration of status) [Finding]
+Processing 94_Cage.txt.tx.8: He is concerned that he had a heart attack or will have one.  
+
+Phrase: He
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: had
+
+Phrase: a heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: will
+
+Phrase: have
+
+Phrase: one.
+Meta Mapping (1000):
+  1000   C0205447:ONE (One) [Quantitative Concept]
+Processing 94_Cage.txt.tx.9: Medications: chlorthalidone, lisinopril Allergies: none PMHx/PSHx: none FHx: father (heart attack in 40s, CABG, passed away at age 72 due to cardiac complications), mother (HTN, diabetes, passed away at age 60 due to pulmonary embolism), no family history of stroke/CAD/HLD SHx: drinks 2-3 glasses of wine per week, smokes 1ppd of cigarettes for 20+ years, denies illicit drug uses, eats 2 meals a day from the cafeteria at his work which are "not healthy," walks the dog 0.5 miles twice a day but doesn't consider that his exercise  Objective Vitals: BP 150/92  HR 85  RR 14  T 98F General: not in acute distress, sitting on bed HEENT: atraumatic, PERRLA Cardiovascular: RRR, no murmurs Pulmonary: CTAB  Imagine: none Labs: none  Assessment/Plan: Mr. 
+
+Phrase: Medications
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril Allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none PMHx/PSHx
+
+Phrase: :
+
+Phrase: none FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: (heart attack in 40s,
+Meta Mapping (833):
+   833   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: passed
+Meta Mapping (1000):
+  1000   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: away at age 72
+Meta Mapping (722):
+   770   C0001779:AGE (Age) [Organism Attribute]
+   770   C4319632:72 [Quantitative Concept]
+
+Phrase: due to cardiac complications
+Meta Mapping (1000):
+  1000   C0161816:Cardiac complications (Cardiac complication) [Pathologic Function]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: (HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: diabetes,
+Meta Mapping (1000):
+  1000   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: passed
+Meta Mapping (1000):
+  1000   C2828386:Passed (Pass (indicator)) [Finding]
+
+Phrase: away at age 60
+Meta Mapping (722):
+   770   C0001779:AGE (Age) [Organism Attribute]
+   770   C3842585:60% [Quantitative Concept]
+
+Phrase: due to pulmonary embolism
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: no family history of stroke/CAD/HLD SHx
+Meta Mapping (847):
+   869   C1261207:No family history of stroke [Finding]
+   578   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: :
+
+Phrase: drinks 2-3 glasses of wine
+Meta Mapping (716):
+   617 N C0425332:Drinks wine [Finding]
+   753   C0015421:Glasses (Eyeglasses) [Medical Device]
+
+Phrase: per week,
+Meta Mapping (1000):
+  1000   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: smokes
+Meta Mapping (1000):
+  1000   C0037369:smokes (Smoking) [Individual Behavior]
+
+Phrase: 1ppd of cigarettes
+Meta Mapping (623):
+   623   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: for 20+ years,
+Meta Mapping (1000):
+  1000   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: illicit drug uses,
+Meta Mapping (983):
+   983 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+
+Phrase: eats 2 meals
+Meta Mapping (890):
+   717   C1447490:EAT-2 (SH2D1B protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   827   C1998602:Meals (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: a day from the cafeteria
+Meta Mapping (686):
+   760   C0439228:Day (day) [Temporal Concept]
+   593   C1004632:Cafeteria [Eukaryote]
+
+Phrase: at his work
+Meta Mapping (1000):
+  1000   C0043227:Work [Occupational Activity]
+
+Phrase: which
+
+Phrase: are
+
+Phrase: "
+
+Phrase: not healthy,"
+Meta Mapping (888):
+   694   C1518422:Not (Negation) [Functional Concept]
+   861   C3898900:Healthy [Qualitative Concept]
+
+Phrase: walks
+Meta Mapping (1000):
+  1000   C0080331:Walk (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: the dog 0.5 miles
+Meta Mapping (861):
+   645   C0012984:DOG (Canis familiaris) [Mammal]
+   694   C0444500:0.5 [Quantitative Concept]
+   812   C0331865:Miles [Quantitative Concept]
+
+Phrase: twice a day
+Meta Mapping (1000):
+  1000   C0585361:Twice a day [Temporal Concept]
+
+Phrase: but
+
+Phrase: doesn't
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: that
+
+Phrase: his exercise  Objective Vitals
+Meta Mapping (828):
+   660   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+   660   C1571702:Objective (Objective observation) [Qualitative Concept]
+   755   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: BP 150/92  HR 85  RR 14  T 98F
+Meta Mapping (543):
+   624   C1415692:Bp (HP gene) [Gene or Genome]
+   624   C4517892:85 [Quantitative Concept]
+   624   C4554402:RR (RR genotype) [Finding]
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: not in acute distress,
+Meta Mapping (733):
+   770   C1518422:Not (Negation) [Functional Concept]
+   770   C0205178:ACUTE (acute) [Temporal Concept]
+   770 N C0231303:Distress [Finding]
+
+Phrase: sitting on bed HEENT
+Meta Mapping (733):
+   770 N C0277814:SITTING (Sitting position) [Finding]
+   770   C0004916:Bed (Beds) [Manufactured Object]
+   770   C1512338:HEENT [Body Location or Region]
+
+Phrase: :
+
+Phrase: atraumatic, PERRLA
+Meta Mapping (861):
+   861 N C2143306:PERRLA (Pupils Equal Round and Reactive to Light and Accommodation) [Finding]
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: RRR,
+
+Phrase: no murmurs
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: Pulmonary
+Meta Mapping (1000):
+  1000   C2709248:Pulmonary (Pulmonary (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: CTAB
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+
+Phrase: Imagine
+
+Phrase: :
+
+Phrase: none Labs
+Meta Mapping (1000):
+  1000 N C0587081:Labs (Laboratory test finding) [Laboratory or Test Result]
+
+Phrase: :
+
+Phrase: none  Assessment/Plan
+Meta Mapping (888):
+   694   C1516048:Assessment (Assessed) [Activity]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 94_Cage.txt.tx.10: Gerry Cage is a male with a past medical history of hypertension who presents to clinic with chest pain upon exertion associated with light-headedness and shortness of breath that is relieved upon rest. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a male with a past medical history of hypertension
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   617   C0332119:Past history of [Finding]
+   575   C0199168:Medical (Medical service) [Health Care Activity]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   617   C0262926:History of MEDICAL (Medical History) [Finding]
+   575   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (720):
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C1444637:Past (In the past) [Temporal Concept]
+   575   C0199168:Medical (Medical service) [Health Care Activity]
+   623   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with chest pain upon exertion
+Meta Mapping (792):
+   593   C0332287:With (In addition to) [Functional Concept]
+   808   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+
+Phrase: associated with light-headedness
+Meta Mapping (901):
+   833   C0332281:Associated with [Qualitative Concept]
+   833   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: shortness of breath
+Meta Mapping (1000):
+  1000   C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: relieved upon rest.
+Meta Mapping (746):
+   790   C1301771:Relieved (Relieved (qualifier value)) [Qualitative Concept]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 94_Cage.txt.tx.11: He has a strong family history of heart disease, diabetes, and HTN and poor diet and exercise regimen. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: a strong family history of heart disease,
+Meta Mapping (884):
+   581   C0442821:Strong [Qualitative Concept]
+   897   C2186266:Family history of heart disease [Finding]
+
+Phrase: diabetes,
+Meta Mapping (1000):
+  1000   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: poor diet
+Meta Mapping (1000):
+  1000   C0588012:poor diet (Diet poor) [Finding]
+
+Phrase: and
+
+Phrase: exercise regimen.
+Meta Mapping (888):
+   694   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+   861   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+Processing 94_Cage.txt.tx.12: This is most likely exertional angina, possible due to an underlying metabolic syndrome. 
+
+Phrase: This
+
+Phrase: is
+
+Phrase: most likely exertional angina,
+Meta Mapping (888):
+   694   C0750501:most likely [Idea or Concept]
+   861   C0577698:Exertional angina (Exercise-induced angina) [Sign or Symptom]
+
+Phrase: possible due to an underlying metabolic syndrome.
+Meta Mapping (745):
+   748   C0332149:Possible [Finding]
+   612   C0678226:Due To (Due to) [Functional Concept]
+   581   C4722602:Underlying [Finding]
+   612   C0524620:Metabolic Syndrome (Metabolic Syndrome X) [Disease or Syndrome]
+Processing 94_Cage.txt.tx.13: - Schedule stress test - Order CBC, BNP, lipid panel, and Hgb A1c - Provide guidance on appropriate diet and exercise regimen
+
+Phrase: - Schedule stress test - Order CBC,
+Meta Mapping (840):
+   637   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+   673   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   637   C1705178:Order (Order (action)) [Activity]
+   804   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BNP,
+Meta Mapping (1000):
+  1000   C0054015:BNP (nesiritide) [Amino Acid, Peptide, or Protein,Hormone,Pharmacologic Substance]
+
+Phrase: lipid panel,
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: Hgb A1c -
+Meta Mapping (888):
+   694   C0518015:HGB (Hemoglobin measurement) [Laboratory Procedure]
+   861   C4521595:A1C (US Military enlisted E3) [Classification]
+
+Phrase: Provide
+Meta Mapping (1000):
+  1000   C1999230:Provide (Providing (action)) [Activity]
+
+Phrase: guidance on appropriate diet
+Meta Mapping (783):
+   604   C1548787:Appropriate [Qualitative Concept]
+   819   C0204932:diet Guidance (Diet education) [Educational Activity]
+
+Phrase: and
+
+Phrase: exercise regimen
+Meta Mapping (888):
+   694   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+   861   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]

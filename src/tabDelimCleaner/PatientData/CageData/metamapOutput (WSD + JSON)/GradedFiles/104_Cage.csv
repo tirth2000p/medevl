@@ -1,0 +1,154 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,12,True,Subjective: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,16,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0016327,F-,Fluorides,-753,-672,a F with pmhx of HTN,24,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0020538,HTN,Hypertensive disease,-586,-672,a F with pmhx of HTN,24,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0150312,PRESENT,Present,-790,-746,presents to clinic,49,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0002424,Clinic,Ambulatory Care Facilities,-790,-746,presents to clinic,49,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0678226,Due To,Due to,-593,-727,due to an episode of chest pain 3 days ago.,68,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0332189,Episode of,Episode of,-760,-727,due to an episode of chest pain 3 days ago.,68,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0008031,CHEST PAIN,Chest Pain,-593,-727,due to an episode of chest pain 3 days ago.,68,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C3842675,Day 3,Day 3,-574,-727,due to an episode of chest pain 3 days ago.,68,True,Cage is a F with pmhx of HTN who presents to clinic due to an episode of chest pain 3 days ago. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,120,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C1272689,Started,Started,-694,-694,started noticing,147,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0234229,Deep pain,Deep pain,-762,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0234238,Aching,Ache,-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0438716,Chest pressure,Chest pressure,-598,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0205125,DEEP,Deep (qualifier value),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0234238,Aching pain,Ache,-764,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0439539,Heavy,Heavy (weight) (qualifier value),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0438716,Chest pressure,Chest pressure,-598,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0205125,DEEP,Deep (qualifier value),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0235715,aching chest,Chest aching of,-595,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0458256,Heavy pain,Heavy pain,-762,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0460139,Pressure,Pressure (finding),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0205125,DEEP,Deep (qualifier value),-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0234238,Aching,Ache,-575,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0458256,Heavy pain,Heavy pain,-762,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C0438716,Chest pressure,Chest pressure,-598,-697,a deep aching pain along with heavy chest pressure.,164,True,She was carrying her groceries and started noticing a deep aching pain along with heavy chest pressure. 
+C1527305,feel,Feelings,-966,-966,felt,220,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0039070,FAINT,Syncope,-1000,-1000,faint,225,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0750482,Slightly,Slightly (qualifier value),-770,-916,slightly out of breath,235,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0848168,out (of) breath,out (of) breath,-909,-916,slightly out of breath,235,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0035253,rested,Rest,-1000,-1000,rested,262,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0574443,HER,Herero language,-770,-722,"briefly in her car,",269,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0004381,Car,Automobiles,-770,-722,"briefly in her car,",269,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C1457887,SYMPTOMS,Symptoms,-1000,-1000,her symptoms,302,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C2699488,Resolved,Resolution,-1000,-1000,resolved.,315,True,"She felt faint and slightly out of breath and rested briefly in her car, after which, her symptoms resolved. "
+C0030705,*^patient,Patients,-1000,-1000,"Per patient,",325,True,"Per patient, this is the first time she has had an episode like this. "
+C1279901,First,Firstly,-861,-888,the first time,346,True,"Per patient, this is the first time she has had an episode like this. "
+C0040223,TIME,Time,-861,-888,the first time,346,True,"Per patient, this is the first time she has had an episode like this. "
+C4321249,AN,DIAPH3 wt Allele,-604,-722,an episode like this.,373,True,"Per patient, this is the first time she has had an episode like this. "
+C0332189,EPISODE,Episode of,-770,-722,an episode like this.,373,True,"Per patient, this is the first time she has had an episode like this. "
+C2348205,Similar,Similarity,-694,-888,similar episodes,412,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0332189,Episodes,Episode of,-861,-888,similar episodes,412,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0549178,ONGOING,Continuous,-753,-672,ongoing for the last 4 months,444,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0439231,MONTHS,month,-586,-672,ongoing for the last 4 months,444,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0205172,More,More,-586,-685,"more ""twinge"" sensations in her chest.",497,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0036658,Sensations,Esthesia,-753,-685,"more ""twinge"" sensations in her chest.",497,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0574443,HER,Herero language,-586,-685,"more ""twinge"" sensations in her chest.",497,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C1527391,Chest,Anterior thoracic region,-586,-685,"more ""twinge"" sensations in her chest.",497,True,"She does endorse similar episodes that have been ongoing for the last 4 months but describes those as more ""twinge"" sensations in her chest. "
+C0332189,Episodes,Episode of,-1000,-1000,These episodes,536,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C0700364,APPEAR,Appearance,-1000,-1000,appear,551,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C0041260,TO,Tryptophanase,-1000,-1000,to,558,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C2745955,OCCUR,Occurrence,-1000,-1000,occur,561,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C4329247,Stairs,Ability to Use Stairs,-1000,-1000,down the stairs,588,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C0035953,Running,Running (physical activity),-770,-708,running across the street,607,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C1301826,STREET,Street address,-604,-708,running across the street,607,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C0007450,CAT,Felis catus,-1000,-1000,her cat.,642,True,These episodes appear to occur when she is going up/down the stairs or running across the street to chase her cat. 
+C2700401,Deny,Deny (action),-1000,-1000,Denies,651,True,Denies any chest pain or SOB at rest or during sleep. 
+C0008031,CHEST PAIN,Chest Pain,-1000,-1000,any chest pain,658,False,Denies any chest pain or SOB at rest or during sleep. 
+C0013404,SOB,Dyspnea,-790,-746,SOB at rest,676,False,Denies any chest pain or SOB at rest or during sleep. 
+C1622890,ResT,site-specific telomere resolvase activity,-623,-746,SOB at rest,676,True,Denies any chest pain or SOB at rest or during sleep. 
+C4761403,OR,Oroqen Chinese,-790,-746,or during sleep.,688,True,Denies any chest pain or SOB at rest or during sleep. 
+C0037313,Sleep,Sleep,-790,-746,or during sleep.,688,True,Denies any chest pain or SOB at rest or during sleep. 
+C2699424,Concern,Concern,-966,-966,concerned,712,True,She is concerned she may be having a heart attack.   
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,a heart attack.,740,True,She is concerned she may be having a heart attack.   
+C0455483,h o,history of - * (non-specific),-734,-901,H/o HTN.,769,True,PMHx/PSHx: H/o HTN. 
+C0020538,HTN,Hypertensive disease,-827,-901,H/o HTN.,769,True,PMHx/PSHx: H/o HTN. 
+C0241311,"SURGERY, PAST",post operative (finding),-983,-983,No past surgeries.,778,False,No past surgeries. 
+C2598133,Medications,Medications:-:Point in time:^Patient:-,-1000,-1000,Medications,797,True,Medications: Lisinopril 10mg once daily. 
+C0065374,Lysinopril,lisinopril,-812,-791,Lisinopril 10mg once daily.,810,True,Medications: Lisinopril 10mg once daily. 
+C0332173,Daily,Daily,-812,-791,Lisinopril 10mg once daily.,810,True,Medications: Lisinopril 10mg once daily. 
+C0008294,Chlortalidone,chlorthalidone,-812,-791,Chlorthalidone 25mg once daily.,838,True,Chlorthalidone 25mg once daily. 
+C0332173,Daily,Daily,-812,-791,Chlorthalidone 25mg once daily.,838,True,Chlorthalidone 25mg once daily. 
+C0020517,Allergies,Hypersensitivity,-1000,-1000,Allergies,870,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C1705924,NKA,TAC1 wt Allele,-660,-851,NKA Family Hx,881,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0015576,Family,Family,-660,-851,NKA Family Hx,881,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0262926,Hx,Medical History,-827,-851,NKA Family Hx,881,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0015671,FATHER,Father (person),-1000,-1000,Father,896,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C1413086,H-CAD,CALD1 gene,-913,-913,h/o CAD,907,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0683474,MI,Motivational Interviewing,-760,-696,a MI at age 40,919,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0001779,AGE,Age,-593,-696,a MI at age 40,919,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0439509,/40,/40,-593,-696,a MI at age 40,919,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C1514873,Required,Requirement,-660,-901,that required bypass surgery.,934,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C1536078,Bypass Surgery,Bypass Surgery,-901,-901,that required bypass surgery.,934,True,Allergies: NKA Family Hx: Father has h/o CAD and a MI at age 40 that required bypass surgery. 
+C0728831,Social,Social,-1000,-1000,Social,964,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0012155,Diet,Diet,-637,-815,Diet - eats well balanced meals,972,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0013470,Eat,Eating,-604,-815,Diet - eats well balanced meals,972,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0205170,Well,Good,-637,-815,Diet - eats well balanced meals,972,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0205415,Balanced,Balanced - adjective,-637,-815,Diet - eats well balanced meals,972,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C1998602,Meals,Meal (occasion for eating),-804,-815,Diet - eats well balanced meals,972,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0332173,Every Day,Daily,-1000,-1000,every day,1004,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0015259,Exercise,Exercise,-1000,-1000,; Exercise -,1013,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0080331,Walk,Walking (activity),-1000,-1000,walks,1026,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0012984,DOG,Canis familiaris,-1000,-1000,her dog,1032,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C0332173,everyday,Daily,-1000,-1000,everyday.,1040,True,Social: Diet - eats well balanced meals every day; Exercise - walks her dog everyday.  
+C1571702,Objective,Objective observation,-1000,-1000,Objective,1051,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C4517892,85,85,-861,-861,"HR 85,",1074,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C4554402,RR,RR genotype,-861,-861,"RR 14,",1081,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0215604,T 98,T 98,-694,-824,T 98.0F PE,1088,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0070939,PE,phosphoethanolamine,-812,-824,T 98.0F PE,1088,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C1148438,General Appearance,general appearance (physical finding),-1000,-1000,General Appearance,1100,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0205168,THIN,Thin (qualifier value),-645,-825,"Thin, well groomed female",1120,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0205170,Well,Good,-645,-825,"Thin, well groomed female",1120,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0018249,groom,Grooming,-612,-825,"Thin, well groomed female",1120,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0043210,female,Woman,-812,-825,"Thin, well groomed female",1120,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0750532,MILDLY,MILDLY,-694,-888,mildly anxious.,1153,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0003467,Anxious,Anxiety,-861,-888,mildly anxious.,1153,True,"Objective: VS: 150/92, HR 85, RR 14, T 98.0F PE: General Appearance: Thin, well groomed female who is mildly anxious. "
+C0018787,Cardiac,Heart,-1000,-1000,Cardiac,1169,True,Cardiac: RRR. 
+C0018808,murmurs,Heart murmur,-1000,-1000,No murmurs,1183,False,No murmurs or rubs heard on auscultation. 
+C3842105,Rubs,Rubs,-1000,-1000,rubs,1197,False,No murmurs or rubs heard on auscultation. 
+C0018767,hear,Hearing,-756,-730,heard on auscultation.,1202,False,No murmurs or rubs heard on auscultation. 
+C0004339,AUSCULTATION,Auscultation,-623,-730,heard on auscultation.,1202,True,No murmurs or rubs heard on auscultation. 
+C1962977,Pain NOS,"Pain NOS, CTCAE",-1000,-1000,Pain,1225,True,Pain not reproducible with palpation of chest wall. 
+C1518422,Not,Negation,-581,-683,not reproducible with palpation of chest wall.,1230,True,Pain not reproducible with palpation of chest wall. 
+C1514863,Reproducibility,Reproducibility,-676,-683,not reproducible with palpation of chest wall.,1230,True,Pain not reproducible with palpation of chest wall. 
+C0030247,PALPATION,Palpation,-581,-683,not reproducible with palpation of chest wall.,1230,True,Pain not reproducible with palpation of chest wall. 
+C0205076,Chest Wall,Chest wall structure,-612,-683,not reproducible with palpation of chest wall.,1230,True,Pain not reproducible with palpation of chest wall. 
+C1315068,PULM,Pulmonary ventilator management,-1000,-1000,Pulm,1277,True,Pulm: CTA bilaterally.  
+C3540513,CTA,PCYT1A wt Allele,-861,-861,CTA bilaterally.,1283,True,Pulm: CTA bilaterally.  
+C1516048,Assessment,Assessed,-1000,-1000,Assessment,1301,True,Assessment: Ms. 
+C2349943,Ms.,Ms. - Title,-1000,-1000,Ms.,1313,True,Assessment: Ms. 
+C0337189,Cage,Cage device,-1000,-1000,Cage,1317,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0016327,F-,Fluorides,-753,-672,a F with pmhx of HTN,1325,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0020538,HTN,Hypertensive disease,-586,-672,a F with pmhx of HTN,1325,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0150312,PRESENT,Present,-748,-738,presents with an episode of chest pain,1350,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0332189,EPISODE,Episode of,-748,-738,presents with an episode of chest pain,1350,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0024902,Pain of breast,Mastodynia,-777,-738,presents with an episode of chest pain,1350,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0439849,Related,Relationships,-770,-733,related to exertional activity.,1389,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0239313,EXERTIONAL,exercise induced,-770,-733,related to exertional activity.,1389,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0441655,ACTIVITY,Activities,-770,-733,related to exertional activity.,1389,True,Cage is a F with pmhx of HTN who presents with an episode of chest pain related to exertional activity. 
+C0070939,PE,phosphoethanolamine,-1000,-1000,PE,1421,True,PE show no significant findings. 
+C1547282,Show,Show,-1000,-1000,show,1424,True,PE show no significant findings. 
+C0750502,Significant,Significant,-694,-888,no significant findings.,1429,True,PE show no significant findings. 
+C2926606,Findings,Procedure findings:Finding:Point in time:^Patient:Narrative,-861,-888,no significant findings.,1429,True,PE show no significant findings. 
+C0750501,most likely,most likely,-734,-901,Most likely differential,1454,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C0443199,Differential,Differential quality,-827,-901,Most likely differential,1454,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C1547311,Stable,Patient Condition Code - Stable,-578,-752,stable angina given exertional nature of chest pain.,1482,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C0577698,Exertional angina,Exercise-induced angina,-600,-752,stable angina given exertional nature of chest pain.,1482,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C1262865,Nature,Natures,-744,-752,stable angina given exertional nature of chest pain.,1482,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C0024902,Pain of breast,Mastodynia,-598,-752,stable angina given exertional nature of chest pain.,1482,True,Most likely differential is stable angina given exertional nature of chest pain. 
+C0443199,Differential,Differential quality,-966,-966,Other differentials,1535,True,Other differentials include MI and asthma.  
+C0332257,include,Including (qualifier),-1000,-1000,include,1555,True,Other differentials include MI and asthma.  
+C0683474,MI,Motivational Interviewing,-1000,-1000,MI,1563,True,Other differentials include MI and asthma.  
+C0004096,ASTHMA,Asthma,-1000,-1000,asthma.,1570,True,Other differentials include MI and asthma.  
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1579,True,Plan:  - Will obtain EKG to r/o MI. 
+C1301820,Obtain,Obtain,-1000,-1000,obtain,1593,True,Plan:  - Will obtain EKG to r/o MI. 
+C1623258,EKG,Electrocardiography,-760,-687,EKG to r/o MI.,1600,True,Plan:  - Will obtain EKG to r/o MI. 
+C2603358,R',R prime,-593,-687,EKG to r/o MI.,1600,True,Plan:  - Will obtain EKG to r/o MI. 
+C0683474,MI,Motivational Interviewing,-593,-687,EKG to r/o MI.,1600,True,Plan:  - Will obtain EKG to r/o MI. 
+C0340288,STABLE ANGINA,Stable angina,-1000,-1000,stable angina,1620,True,"- As stable angina is most likely, will also prescribe nitro prn"
+C0750501,most likely,most likely,-1000,-1000,"most likely,",1637,True,"- As stable angina is most likely, will also prescribe nitro prn"

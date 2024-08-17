@@ -1,0 +1,167 @@
+Cui,CandidateMatched,CandidatePreferred,CuiScore,MappingScore,Phrase,StartPosition,IsPositive,Line
+C0439655,Subjective,Subjective observation (qualifier value),-1000,-1000,Subjective,0,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C1019207,gerry,Gerris,-694,-888,Gerry Cage,18,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0337189,Cage,Cage device,-861,-888,Gerry Cage,18,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0439508,/Year,per year,-645,-775,a 46 year old male,32,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0580836,Old,Old,-645,-775,a 46 year old male,32,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C1706180,Male,"Male Gender, Self Report",-812,-775,a 46 year old male,32,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0150312,PRESENT,Present,-1000,-1000,presents,56,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C1442455,2 Days,2 Days,-764,-725,2 days after an acute event of chest pain.,65,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0205178,ACUTE,acute,-575,-725,2 days after an acute event of chest pain.,65,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0441471,Event,Event,-575,-725,2 days after an acute event of chest pain.,65,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0024902,Pain of breast,Mastodynia,-590,-725,2 days after an acute event of chest pain.,65,True,Subjective:  HPI: Gerry Cage is a 46 year old male that presents 2 days after an acute event of chest pain. 
+C0030705,*^patient,Patients,-1000,-1000,Patient,108,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0557778,Grocery Store,Supermarket,-1000,-1000,the grocery store,128,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0206243,Carrying,Carrying,-1000,-1000,carrying,146,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0011745,Heavy Water,Deuterium Oxide,-623,-725,heavy water containers in each hand,155,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0180098,Containers,Containers,-753,-725,heavy water containers in each hand,155,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0018563,HAND,Hand,-586,-725,heavy water containers in each hand,155,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0205125,DEEP,Deep (qualifier value),-586,-719,a deep ache in his chest.,209,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0235715,ache chest,Chest aching of,-783,-719,a deep ache in his chest.,209,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C0523697,HIS,Histidine measurement,-586,-719,a deep ache in his chest.,209,True,Patient was leaving the grocery store carrying heavy water containers in each hand when he developed a deep ache in his chest. 
+C1552738,described,described,-1000,-1000,described,238,True,He described the pain as heavy and felt like his chest was under pressure. 
+C0458256,Heavy pain,Heavy pain,-819,-819,the pain as heavy,248,True,He described the pain as heavy and felt like his chest was under pressure. 
+C1527305,feel,Feelings,-827,-827,felt like,270,True,He described the pain as heavy and felt like his chest was under pressure. 
+C1527391,Chest,Anterior thoracic region,-1000,-1000,his chest,280,True,He described the pain as heavy and felt like his chest was under pressure. 
+C0542339,Under,Inferior,-861,-888,under pressure.,294,True,He described the pain as heavy and felt like his chest was under pressure. 
+C0033095,Pressure,Pressure- physical agent,-861,-888,under pressure.,294,True,He described the pain as heavy and felt like his chest was under pressure. 
+C0392752,localize,Localized,-1000,-1000,localizes,313,True,He localizes the pain to his sternum. 
+C0523697,HIS,Histidine measurement,-593,-745,the pain to his sternum.,323,True,He localizes the pain to his sternum. 
+C0575503,sternum pain,Pain of sternum,-797,-745,the pain to his sternum.,323,True,He localizes the pain to his sternum. 
+C0332287,Addition,In addition to,-861,-861,"In addition,",348,True,"In addition, he felt light headed during this event. "
+C1527305,feel,Feelings,-966,-966,felt,364,True,"In addition, he felt light headed during this event. "
+C0220870,Lightheaded,Lightheadedness,-806,-733,light headed during this event.,369,True,"In addition, he felt light headed during this event. "
+C0441471,Event,Event,-593,-733,light headed during this event.,369,True,"In addition, he felt light headed during this event. "
+C4331910,Last Month,Past 30 days,-896,-896,"Over the last 4 months,",401,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C1527305,feel,Feelings,-966,-966,felt,432,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C1080058,This,This (eukaryote),-586,-691,this pressure to a lesser extent,437,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0033095,Pressure,Pressure- physical agent,-753,-691,this pressure to a lesser extent,437,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0547044,Lesser,Smaller,-586,-691,this pressure to a lesser extent,437,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0439792,Extent,Extent,-586,-691,this pressure to a lesser extent,437,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C1527391,Chest,Anterior thoracic region,-1000,-1000,in his chest,470,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C3843272,A Few Times,A Few Times,-800,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0441889,Levels,Levels (qualifier value),-578,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C4699623,High activity,High activity,-604,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C3843272,A Few Times,A Few Times,-800,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C1299351,High,Abnormally high,-578,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0683317,activity levels,activity level,-600,-735,"a few times during levels of high activity,",483,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C0035953,Running,Running (physical activity),-1000,-1000,such as running.,527,True,"Over the last 4 months, he has felt this pressure to a lesser extent in his chest a few times during levels of high activity, such as running. "
+C2699424,Concern,Concern,-966,-966,concerned,550,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,a heart attack,572,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C0041260,TO,Tryptophanase,-1000,-1000,to,596,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C1881534,Make,Make - Instruction Imperative,-1000,-1000,make,599,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C0205423,Sure,Certain (qualifier value),-1000,-1000,sure,604,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C3898900,Healthy,Healthy,-1000,-1000,healthy,615,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C1518422,Not,Negation,-1000,-1000,not,640,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C1709305,Happen,Occur (action),-1000,-1000,happen,644,True,He is concerned that he had a heart attack and want to make sure he is healthy and that it will not happen again.   
+C1709820,ROS,ROS1 wt Allele,-1000,-1000,ROS,660,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0205160,Negative,Negative,-760,-760,Negative except for above  PMHx,665,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0020538,High Blood Pressure,Hypertensive disease,-756,-916,High blood pressure  Meds,698,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C3280240,MEDS,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",-812,-916,High blood pressure  Meds,698,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0008294,Chlortalidone,chlorthalidone,-604,-541,Chlorthalidone 25mg per day,725,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0439228,Day,day,-604,-541,Chlorthalidone 25mg per day,725,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0065374,Lysinopril,lisinopril,-604,-541,lisinopril 10mg per day.,757,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C0439228,Day,day,-604,-541,lisinopril 10mg per day.,757,True,ROS: Negative except for above  PMHx: High blood pressure  Meds: Chlorthalidone 25mg per day and lisinopril 10mg per day.   
+C3641946,DAD,Disability Assessment for Dementia Questionnaire,-1000,-1000,Dad,790,True,FMHx: Dad passed away from a heart attack in his 40s. 
+C2828386,Passed,Pass (indicator),-753,-722,passed away from a heart attack,794,True,FMHx: Dad passed away from a heart attack in his 40s. 
+C0027051,HEART ATTACK,Myocardial Infarction,-790,-722,passed away from a heart attack,794,True,FMHx: Dad passed away from a heart attack in his 40s. 
+C1442163,MoM,Multiple of the median,-1000,-1000,Mom,838,True,Mom passed away from a pulmonary embolism. 
+C2828386,Passed,Pass (indicator),-753,-722,passed away from a pulmonary embolism.,842,True,Mom passed away from a pulmonary embolism. 
+C0034065,PULMONARY EMBOLISM,Pulmonary Embolism,-790,-722,passed away from a pulmonary embolism.,842,True,Mom passed away from a pulmonary embolism. 
+C3539897,Has,Have,-660,-802,He has 2 brothers,881,True,He has 2 brothers who are healthy. 
+C0337527,Brothers,Brothers,-827,-802,He has 2 brothers,881,True,He has 2 brothers who are healthy. 
+C3898900,Healthy,Healthy,-1000,-1000,healthy.,907,True,He has 2 brothers who are healthy. 
+C0680063,Children,Offspring,-1000,-1000,No children.,916,True,No children.  
+C2827734,1+,1+ Score,-604,-733,1 pack of cigarettes,935,True,SHx: 1 pack of cigarettes per day. 
+C2825051,PACK,Pack unit,-770,-733,1 pack of cigarettes,935,True,SHx: 1 pack of cigarettes per day. 
+C0677453,Cigarettes,Cigarette,-604,-733,1 pack of cigarettes,935,True,SHx: 1 pack of cigarettes per day. 
+C0439228,Day,day,-1000,-1000,per day.,956,True,SHx: 1 pack of cigarettes per day. 
+C1519042,2-3,Phase II/III Trial,-1000,-1000,2-3,965,True,2-3 drinks every Friday and Saturday. 
+C0394996,DRINK,Acute alcoholic intoxication,-1000,-1000,drinks,969,True,2-3 drinks every Friday and Saturday. 
+C0585029,Friday,Friday,-1000,-1000,every Friday,976,True,2-3 drinks every Friday and Saturday. 
+C0585030,Saturday,Saturday,-1000,-1000,Saturday.,993,True,2-3 drinks every Friday and Saturday. 
+C0449265,elicit,Elicited by,-1000,-1000,elicit,1006,True,No elicit drug use.  
+C0242510,Drug use,Drug usage,-1000,-1000,drug use.,1013,False,No elicit drug use.  
+C0018017,Objective,objective (goal),-1000,-1000,Objective,1024,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C2603360,T',T prime,-694,-694,"T 98F,",1035,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C2603361,P',P prime,-861,-888,"P 85,",1042,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C4517892,85,85,-861,-888,"P 85,",1042,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C2603358,R',R prime,-861,-861,"R 14,",1048,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C1415692,Bp,HP gene,-637,-812,BP 150/92  Physical Exam,1054,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C0031809,"Exam, Physical",Physical Examination,-840,-812,BP 150/92  Physical Exam,1054,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C0018787,Cardio-,Heart,-1000,-1000,Cardio,1080,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C0205272,Regular,Regular,-694,-888,Regular rate,1088,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C1521828,Rate,Rate,-861,-888,Regular rate,1088,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C0871269,Rhythm,Rhythm,-660,-851,rhythm normal S1,1105,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C0205307,NORMAL,Normal,-660,-851,rhythm normal S1,1105,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C3715215,S1,S1,-827,-851,rhythm normal S1,1105,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C1419718,S2,RPS2 gene,-1000,-1000,S2,1126,True,"Objective: T 98F, P 85, R 14, BP 150/92  Physical Exam: Cardio: Regular rate and rhythm normal S1 and S2 appreciated. "
+C1550269,"Jugular, Internal","Jugular, Internal",-1000,-1000,Internal jugular,1142,True,Internal jugular appreciated 2.3cm above the sternal notch. 
+C0038293,Sternal,Sternum,-586,-555,2.3cm above the sternal notch.,1171,True,Internal jugular appreciated 2.3cm above the sternal notch. 
+C1566695,Notch 2,"NOTCH2 protein, human",-617,-555,2.3cm above the sternal notch.,1171,True,Internal jugular appreciated 2.3cm above the sternal notch. 
+C0231832,RESP,Respiratory rate,-1000,-1000,Resp,1202,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0231855,"Breath sounds, normal",Normal breath sounds,-756,-916,Normal breath sounds  Assessment,1208,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C1516048,Assessment,Assessed,-812,-916,Normal breath sounds  Assessment,1208,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0439508,/Year,per year,-578,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0580836,Old,Old,-744,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0184567,Acute onset pain,Acute onset pain,-626,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C1527391,Chest,Anterior thoracic region,-578,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0439508,/Year,per year,-578,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0580836,Old,Old,-744,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0522051,Acute chest pain,Acute chest pain,-626,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0332162,Onset,Onset of (contextual qualifier),-578,-733,46 year old with acute onset chest pain,1242,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0206243,Carrying,Carrying,-1000,-1000,carrying,1288,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0439539,Heavy,Heavy (weight) (qualifier value),-637,-850,heavy groceries. past medical history,1297,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0455458,Past medical history,PMH - past medical history,-884,-850,heavy groceries. past medical history,1297,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C1546944,Significant,Event Seriousness - Significant,-760,-816,"significant for high blood pressure,",1335,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0020538,High Blood Pressure,Hypertensive disease,-695,-816,"significant for high blood pressure,",1335,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0015671,FATHER,Father (person),-1000,-1000,father,1376,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C2828386,Passed,Pass (indicator),-1000,-1000,passed,1383,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0027051,HEART ATTACK,Myocardial Infarction,-1000,-1000,from heart attack.,1402,True,"Resp: Normal breath sounds  Assessment: 46 year old with acute onset chest pain while carrying heavy groceries. past medical history significant for high blood pressure, and father passed away in 40s from heart attack. "
+C0750501,most likely,most likely,-734,-901,Most likely diagnosis,1421,True,Most likely diagnosis is stable angina. 
+C1704338,diagnosis,diagnosis aspect,-827,-901,Most likely diagnosis,1421,True,Most likely diagnosis is stable angina. 
+C0340288,STABLE ANGINA,Stable angina,-1000,-1000,stable angina.,1446,True,Most likely diagnosis is stable angina. 
+C1523987,Alternative,Alternative,-694,-888,Alternative diagnoses,1461,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C0011900,Diagnoses,Diagnosis,-861,-888,Alternative diagnoses,1461,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C0332257,include,Including (qualifier),-1000,-1000,include,1483,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C1536220,STEMI,ST segment elevation myocardial infarction,-694,-888,"STEMI/NSTEMI,",1491,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C4255010,NSTEMI,Non-ST Elevated Myocardial Infarction,-861,-888,"STEMI/NSTEMI,",1491,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-1000,-1000,"costochondritis,",1505,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C0002965,"Angina, Unstable","Angina, Unstable",-1000,-1000,unstable angina.,1525,True,"Alternative diagnoses include STEMI/NSTEMI, costochondritis, or unstable angina.  "
+C0599880,Plan,Treatment Plan,-1000,-1000,Plan,1543,True,Plan: EKG followed by stress EKG if normal. 
+C1623258,EKG,Electrocardiography,-1000,-1000,EKG,1549,True,Plan: EKG followed by stress EKG if normal. 
+C0332283,Followed by,Followed by,-833,-861,followed by stress EKG,1553,True,Plan: EKG followed by stress EKG if normal. 
+C1718621,Stress,W stress,-770,-861,followed by stress EKG,1553,True,Plan: EKG followed by stress EKG if normal. 
+C1623258,EKG,Electrocardiography,-770,-861,followed by stress EKG,1553,True,Plan: EKG followed by stress EKG if normal. 
+C0205307,NORMAL,Normal,-1000,-1000,normal.,1579,True,Plan: EKG followed by stress EKG if normal. 
+C0005768,BLOOD,In Blood,-645,-833,- Blood work CBC/CMP,1587,True,- Blood work CBC/CMP and troponins. 
+C0043227,Work,Work,-645,-833,- Blood work CBC/CMP,1587,True,- Blood work CBC/CMP and troponins. 
+C0009555,CBC,Complete Blood Count,-645,-833,- Blood work CBC/CMP,1587,True,- Blood work CBC/CMP and troponins. 
+C0519825,CMP,Comprehensive Metabolic Panel,-812,-833,- Blood work CBC/CMP,1587,True,- Blood work CBC/CMP and troponins. 
+C0041199,Troponins,Troponin,-1000,-1000,troponins.,1612,True,- Blood work CBC/CMP and troponins. 
+C0009818,Consult,Consultation,-1000,-1000,Consult,1625,True,- Consult cardiology. 
+C0007189,Cardiology,Cardiology discipline,-1000,-1000,cardiology.,1633,True,- Consult cardiology. 
+C1442162,GIVEN,GIVEN,-581,-745,"Given family history of early heart attack,",1645,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0241889,FAMILY HISTORY,Family history,-778,-745,"Given family history of early heart attack,",1645,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C1279919,Early,Early,-581,-745,"Given family history of early heart attack,",1645,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0027051,HEART ATTACK,Myocardial Infarction,-612,-745,"Given family history of early heart attack,",1645,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0027552,Need,Needs,-1000,-1000,need,1689,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0041260,TO,Tryptophanase,-1000,-1000,to,1694,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0019247,Genetic Condition,Hereditary Diseases,-631,-745,a genetic reason for condition,1719,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0392360,Reason,Indication of (contextual qualifier),-760,-745,a genetic reason for condition,1719,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C0007194,hocm,Hypertrophic Cardiomyopathy,-694,-888,(HOCM. etc.,1750,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C1548556,Etc.,Etc.,-861,-888,(HOCM. etc.,1750,True,"Given family history of early heart attack, need to determine if there is a genetic reason for condition (HOCM. etc.) "
+C1623258,EKG,Electrocardiography,-861,-861,- Pending EKG,1763,True,"- Pending EKG and troponins, possible echo, cath. "
+C0041199,Troponins,Troponin,-1000,-1000,"troponins,",1781,True,"- Pending EKG and troponins, possible echo, cath. "
+C1705910,Possible,Possibly Related to Intervention,-694,-888,"possible echo,",1792,True,"- Pending EKG and troponins, possible echo, cath. "
+C1655045,Echo,Echo (insect),-861,-888,"possible echo,",1792,True,"- Pending EKG and troponins, possible echo, cath. "
+C1415692,Bp,HP gene,-694,-888,BP control.,1823,True,- Improve BP control. 
+C1882979,Control,Scientific Control,-861,-888,BP control.,1823,True,- Improve BP control. 
+C0205160,Negative,Negative,-1000,-1000,"all negative,",1840,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C1704338,diagnosis,diagnosis aspect,-1000,-1000,diagnosis,1854,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C0040213,COSTOCHONDRITIS,Tietze's Syndrome,-1000,-1000,costochondritis,1867,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C1519246,Send,Send (transmission),-1000,-1000,send,1891,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C0442519,HOME,Home environment,-790,-746,home with reasons,1896,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C0392360,reasons,Indication of (contextual qualifier),-623,-746,home with reasons,1896,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C0041260,TO,Tryptophanase,-1000,-1000,to,1914,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"
+C0332156,Return,Return to (contextual qualifier) (qualifier value),-1000,-1000,return,1917,True,"- If all negative, diagnosis is costochondritis and can send home with reasons to return"

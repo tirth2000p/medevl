@@ -1,0 +1,620 @@
+Processing 22_Cage.txt.tx.1: Subjective: Ms Cage presents with recent episode of chest pain that occurred 3 days ago while patient was carrying two 5lb bags of groceries to her car. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Ms Cage
+Meta Mapping (888):
+   694   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: presents with recent episode of chest pain
+Meta Mapping (774):
+   748   C0150312:PRESENT (Present) [Finding]
+   778   C0332185:Recent episode (Recent) [Temporal Concept]
+   777   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: while
+
+Phrase: patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: was
+
+Phrase: carrying two 5lb bags of groceries
+Meta Mapping (672):
+   586   C0206243:Carrying [Activity]
+   586   C0205448:Two [Quantitative Concept]
+   753   C0179196:Bags (Bag, device) [Manufactured Object]
+
+Phrase: to her car.
+Meta Mapping (1000):
+  1000   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 22_Cage.txt.tx.2: Pt describes the pain as 7/10 and a "deep ache in my chest" that "took my breath away". 
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: describes
+
+Phrase: the pain as 7/10
+Meta Mapping (745):
+   760   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   631   C5191365:10.7 [Quantitative Concept]
+
+Phrase: and
+
+Phrase: a "deep ache in my chest"
+Meta Mapping (719):
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   783   C0235715:ache chest (Chest aching of) [Finding]
+   586   C0024552:MY (Malaysia) [Geographic Area]
+
+Phrase: that "
+
+Phrase: took
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: my breath away".
+Meta Mapping (1000):
+  1000   C3154057:Breath-Away [Organic Chemical,Pharmacologic Substance]
+Processing 22_Cage.txt.tx.3: The pain lasted 5-10 min and resolved while pt sat still in her car. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 min
+Meta Mapping (901):
+   734   C4086718:5-10 (PSA Level Five to Ten) [Laboratory or Test Result]
+   827   C0702093:/min (Per Minute) [Temporal Concept]
+Meta Mapping (901):
+   660   C0439084:>5 [Quantitative Concept]
+   901   C0456692:/10 min [Temporal Concept]
+
+Phrase: and
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: while
+
+Phrase: pt sat still in her car.
+Meta Mapping (691):
+   586   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+   753   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   586   C0574443:HER (Herero language) [Language]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 22_Cage.txt.tx.4: No nausea, vomiting, radiation of pain, inciting factors, numbness, tingling, diaphoresis. 
+
+Phrase: No nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: radiation of pain,
+Meta Mapping (858):
+   858   C1507012:Pain radiation [Qualitative Concept]
+
+Phrase: inciting
+
+Phrase: factors,
+Meta Mapping (966):
+   966   C1521761:Factor [Functional Concept]
+
+Phrase: numbness,
+Meta Mapping (1000):
+  1000 N C0020580:Numbness (Hypesthesia) [Finding]
+
+Phrase: tingling,
+Meta Mapping (1000):
+  1000 N C2242996:TINGLING (Has tingling sensation) [Sign or Symptom]
+
+Phrase: diaphoresis.
+Meta Mapping (1000):
+  1000 N C0700590:DIAPHORESIS (Increased sweating) [Finding]
+Processing 22_Cage.txt.tx.5: This has never occurred before. 
+
+Phrase: This
+
+Phrase: has
+
+Phrase: never
+Meta Mapping (1000):
+  1000   C2003901:NEVER (Never (frequency)) [Temporal Concept]
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: before.
+Meta Mapping (1000):
+  1000   C0332152:BEFORE (Before) [Temporal Concept]
+Processing 22_Cage.txt.tx.6: Pt is concerned she had a heart attack and is concerned it will happen again.   
+
+Phrase: Pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: she
+
+Phrase: had
+
+Phrase: a heart attack
+Meta Mapping (1000):
+  1000   C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: is
+
+Phrase: concerned
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+
+Phrase: it
+
+Phrase: will
+
+Phrase: happen
+Meta Mapping (1000):
+  1000   C1709305:Happen (Occur (action)) [Activity]
+
+Phrase: again.
+Processing 22_Cage.txt.tx.7: Objective: Vitals = T 98.0F, P 85, R 14, BP 150/92 Gen- Mild distress, nervous appearing, well groomed  cardio- 2+ pulses (brachial and pedal bilateral), regular rate and rhythm, no murmurs, NL JVD, no carotid bruits  Resp- non labored breathing, no wheezes, rhonchi on auscultation MSK - no chest wall tenderness   Assessment: Ms Cage presents with hx of HTN (150/92 today) on medication and recent episode of chest pain described 7/10 lasting 5-10 minutes 3 days ago. 
+
+Phrase: Objective
+Meta Mapping (1000):
+  1000   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Vitals
+Meta Mapping (928):
+   928   C0518766:VITAL (Vital signs) [Clinical Attribute]
+
+Phrase: = T 98.0F,
+Meta Mapping (734):
+   734   C0215604:T 98 [Organic Chemical,Pharmacologic Substance]
+
+Phrase: P 85,
+Meta Mapping (888):
+   861   C2603361:P' (P prime) [Clinical Attribute]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: R 14,
+Meta Mapping (861):
+   861   C2603358:R' (R prime) [Clinical Attribute]
+
+Phrase: BP 150/92 Gen- Mild distress,
+Meta Mapping (753):
+   632   C1708288:BP (HP wt Allele) [Gene or Genome]
+   632   C2239486:Gen (GEN1 gene) [Gene or Genome]
+   632   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   799   C0231303:Distress [Finding]
+
+Phrase: nervous appearing,
+Meta Mapping (872):
+   694   C0027769:Nervous (Nervousness) [Sign or Symptom]
+   827   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: well groomed  cardio- 2+ pulses
+Meta Mapping (758):
+   637   C0205170:Well (Good) [Qualitative Concept]
+   604   C0018249:groom (Grooming) [Individual Behavior]
+   637   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+   804   C0391850:PULSES (Physiologic pulse) [Physiologic Function]
+
+Phrase: (brachial
+Meta Mapping (1000):
+  1000   C0445456:Brachial [Spatial Concept]
+
+Phrase: and
+
+Phrase: pedal bilateral
+Meta Mapping (888):
+   694   C0016504:Pedal (Foot) [Body Part, Organ, or Organ Component]
+   861   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: regular rate
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: and
+
+Phrase: rhythm,
+Meta Mapping (1000):
+  1000   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: NL JVD,
+Meta Mapping (888):
+   694   C0027778:NL (Netherlands) [Geographic Area]
+   861 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no carotid bruits  Resp- non labored breathing,
+Meta Mapping (839):
+   660 N C0007280:carotid bruits (Carotid bruit) [Finding]
+   632   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+   632   C1518422:Non (Negation) [Functional Concept]
+   827 N C0553668:Labored breathing [Sign or Symptom]
+
+Phrase: no wheezes,
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: rhonchi on auscultation MSK -
+Meta Mapping (733):
+   770 N C0035508:RHONCHI (Rhonchi) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   604   C1420279:msk (SIK1 gene) [Gene or Genome]
+
+Phrase: no chest wall tenderness   Assessment
+Meta Mapping (916):
+   756 N C0239008:CHEST WALL TENDERNESS (Chest wall tenderness) [Finding]
+   812   C1261322:Assessment (Evaluation procedure) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Ms Cage
+Meta Mapping (888):
+   694   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: presents with hx of HTN
+Meta Mapping (687):
+   760 N C0150312:PRESENT (Present) [Finding]
+   760 N C0262926:Hx (Medical History) [Finding]
+   760   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: (150/92 today
+Meta Mapping (827):
+   827   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: )
+
+Phrase: on medication
+Meta Mapping (888):
+   861   C1720176:On (Upon - dosing instruction fragment) [Functional Concept]
+   861   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: recent episode of chest pain
+Meta Mapping (876):
+   806   C0332185:Recent episode (Recent) [Temporal Concept]
+   650   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: 7/10
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: lasting
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: 5-10 minutes 3 days ago.
+Meta Mapping (817):
+   694   C3845579:5-10 minutes [Temporal Concept]
+   799   C0439228:DAYS (day) [Temporal Concept]
+Processing 22_Cage.txt.tx.8: Normal physical exam. 
+
+Phrase: Normal physical exam.
+Meta Mapping (901):
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   901   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+Processing 22_Cage.txt.tx.9: DD includes anxiety, chest wall strain, angina, and MI. 
+
+Phrase: DD
+Meta Mapping (1000):
+  1000   C3814791:DD (ATP2A2 wt Allele) [Gene or Genome]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: anxiety,
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: chest wall strain,
+Meta Mapping (901):
+   734   C0205076:Chest Wall (Chest wall structure) [Body Part, Organ, or Organ Component]
+   827   C1518614:STRAIN (Organism Strain) [Organism]
+
+Phrase: angina,
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: MI.
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 22_Cage.txt.tx.10: Most likely angina due to hx of HTN and quality of sxs. 
+
+Phrase: Most likely angina due to hx of HTN
+Meta Mapping (759):
+   604   C0750501:most likely [Idea or Concept]
+   744   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   604   C0678226:Due To (Due to) [Functional Concept]
+   578   C0262926:Hx (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: quality of sxs.
+Meta Mapping (790):
+   790   C0332306:QUALITY (Quality) [Qualitative Concept]
+Processing 22_Cage.txt.tx.11: Less likely chest wall strain due to non reproducibility of pain. 
+
+Phrase: Less likely chest wall strain due to non reproducibility of pain.
+Meta Mapping (804):
+   571   C0547044:Less (Smaller) [Qualitative Concept]
+   571   C0750492:Likely (Probably) [Idea or Concept]
+   571   C0677535:Wall (Walls of a building) [Manufactured Object]
+   738   C1518614:STRAIN (Organism Strain) [Organism]
+   589   C0678226:Due To (Due to) [Functional Concept]
+   571   C1518422:Non (Negation) [Functional Concept]
+   571   C1514863:Reproducibility [Qualitative Concept]
+   575   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+Processing 22_Cage.txt.tx.12: Anxiety is a diagnosis of exclusion in this case but pt denied inciting factors for sxs so less likely.   
+
+Phrase: Anxiety
+Meta Mapping (1000):
+  1000   C0003467:ANXIETY (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: is
+
+Phrase: a diagnosis of exclusion
+Meta Mapping (909):
+   909   C4518809:Diagnosis of exclusion [Qualitative Concept]
+
+Phrase: in this case
+Meta Mapping (1000):
+  1000   C0868928:Case (Case (situation)) [Functional Concept]
+
+Phrase: but
+
+Phrase: pt
+Meta Mapping (1000):
+  1000   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: denied
+Meta Mapping (1000):
+  1000   C0332319:Denied (Denied (qualifier)) [Qualitative Concept]
+
+Phrase: inciting factors for sxs
+Meta Mapping (737):
+   737   C1521761:Factor [Functional Concept]
+
+Phrase: so
+
+Phrase: less likely.
+Meta Mapping (888):
+   861   C0547044:Less (Smaller) [Qualitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+Processing 22_Cage.txt.tx.13: Plan: - EKG in office today. 
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: : -
+
+Phrase: EKG in office today.
+Meta Mapping (775):
+   645   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   645   C0442603:Office [Manufactured Object]
+   812   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+Processing 22_Cage.txt.tx.14: Blood draw for BNP and troponin today, also lipid panel  - schedule a stress test  - follow- up with results - pt counseled on possibility of this being angina (lack of blood flow to the heart when it is under extrra strain or activity) and how depending on the test results, she may benefit from nitroglycerin when she experiences these sxs. she may need to start an aspirin and a statin if her lipid panel is concerning. 
+
+Phrase: Blood
+Meta Mapping (1000):
+  1000   C0005768:BLOOD (In Blood) [Body Substance]
+
+Phrase: draw for BNP
+Meta Mapping (746):
+   790   C0013113:Draw (Drawings (art)) [Intellectual Product]
+   790   C1095989:BNP (Brain natriuretic peptide measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: troponin today,
+Meta Mapping (888):
+   694   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   861   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: also lipid panel  -
+Meta Mapping (901):
+   901   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: schedule
+Meta Mapping (1000):
+  1000   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+
+Phrase: a stress test  - follow- up with results - pt
+Meta Mapping (721):
+   578   C1718621:Stress (W stress) [Clinical Attribute]
+   600   C0456984:test results (Test Result) [Laboratory or Test Result]
+   770   C0589120:Follow-up (Follow-up status) [Finding]
+   578   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+Meta Mapping (721):
+   578   C1718621:Stress (W stress) [Clinical Attribute]
+   600   C0456984:test results (Test Result) [Laboratory or Test Result]
+   770   C1522577:Followup (follow-up) [Health Care Activity]
+   578   C0699718:PT (Physical therapy (field)) [Biomedical Occupation or Discipline]
+
+Phrase: counseled on possibility of this
+Meta Mapping (634):
+   726   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   688   C1705910:Possible (Possibly Related to Intervention) [Qualitative Concept]
+
+Phrase: being
+
+Phrase: angina
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: (lack of blood flow
+Meta Mapping (783):
+   770   C0332268:lack (Lacking) [Qualitative Concept]
+   666   C0232338:Blood Flow (Blood flow) [Physiologic Function]
+
+Phrase: to the heart
+Meta Mapping (1000):
+  1000   C0018787:HEART (Heart) [Body Part, Organ, or Organ Component]
+
+Phrase: when
+
+Phrase: it
+
+Phrase: is under extrra strain
+Meta Mapping (708):
+   770   C3812801:IS (Immunogenicity Specimen Assessments Domain) [Intellectual Product]
+   770   C1518614:STRAIN (Organism Strain) [Organism]
+
+Phrase: or
+
+Phrase: activity
+Meta Mapping (1000):
+  1000   C0441655:ACTIVITY (Activities) [Activity]
+
+Phrase: )
+
+Phrase: and
+
+Phrase: how
+
+Phrase: depending on the test results,
+Meta Mapping (734):
+   726   C0725813:depend [Medical Device]
+   806   C0456984:test results (Test Result) [Laboratory or Test Result]
+
+Phrase: she
+
+Phrase: may
+
+Phrase: benefit from nitroglycerin
+Meta Mapping (746):
+   790   C0814225:Benefit [Quantitative Concept]
+   790   C0017887:Nitroglycerine (nitroglycerin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: when
+
+Phrase: she
+
+Phrase: experiences
+Meta Mapping (1000):
+  1000   C0596545:experiences (Experience) [Mental Process]
+
+Phrase: these sxs.
+
+Phrase: she
+
+Phrase: may
+
+Phrase: need
+Meta Mapping (1000):
+  1000   C0686904:need (Patient need for (contextual qualifier)) [Functional Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: an aspirin
+Meta Mapping (1000):
+  1000   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: a statin
+Meta Mapping (1000):
+  1000   C0360714:Statin (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: if
+
+Phrase: her lipid panel
+Meta Mapping (1000):
+  1000   C0200382:Lipid panel [Laboratory Procedure]
+
+Phrase: is
+
+Phrase: concerning.
+Meta Mapping (966):
+   966   C2699424:Concern [Idea or Concept]
+Processing 22_Cage.txt.tx.15: We may need to counsel life tsyle mod or adjust bp med
+
+Phrase: We
+
+Phrase: may
+
+Phrase: need to
+Meta Mapping (833):
+   833   C0686904:need (Patient need for (contextual qualifier)) [Functional Concept]
+
+Phrase: counsel
+Meta Mapping (1000):
+  1000   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+
+Phrase: life tsyle mod
+Meta Mapping (802):
+   660   C0376558:Life [Idea or Concept]
+   827   C0011860:MOD (Diabetes Mellitus, Non-Insulin-Dependent) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: adjust
+
+Phrase: bp med
+Meta Mapping (888):
+   694   C1708288:BP (HP wt Allele) [Gene or Genome]
+   861   C4321267:MED (COMP wt Allele) [Gene or Genome]

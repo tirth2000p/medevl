@@ -1,0 +1,623 @@
+Processing 42_Cage.txt.tx.1: CC: chest pain  HPI: Mr. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: chest pain  HPI
+Meta Mapping (734):
+   734   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 42_Cage.txt.tx.2: Cage is a 41 year old male with PMHx of HTN presenting with complaint of acute onset chest pain 3 days ago. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 41 year old male with PMHx of HTN presenting
+Meta Mapping (642):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with complaint of acute onset chest pain 3 days ago.
+Meta Mapping (779):
+   573   C0332287:With (In addition to) [Functional Concept]
+   739   C0277786:Complaint (Chief complaint (finding)) [Finding]
+   593   C0205178:Acute onset (acute) [Temporal Concept]
+   581   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+   574   C3842675:Day 3 [Finding]
+Processing 42_Cage.txt.tx.3: He reports that he was carrying heavy groceries to the car when he had sudden severe, substernal chest pain that "knocked the wind out of him". 
+
+Phrase: He
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries to the car
+Meta Mapping (520):
+   593   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: had
+
+Phrase: sudden severe, substernal chest pain
+Meta Mapping (875):
+   637   C5201090:Sudden (Sudden (qualifier value)) [Qualitative Concept]
+   637   C0205082:Severe (Severe (severity modifier)) [Finding]
+   884   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: that "
+
+Phrase: knocked
+
+Phrase: the wind out of him".
+Meta Mapping (695):
+   760   C0016204:Wind NOS (Flatulence) [Sign or Symptom]
+   593   C0439787:Out (Out (direction)) [Spatial Concept]
+Processing 42_Cage.txt.tx.4: He sat on the ground for 5-10 minutes until the pain self resolved. 
+
+Phrase: He
+
+Phrase: sat on the ground
+Meta Mapping (770):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+
+Phrase: for 5-10 minutes until the pain
+Meta Mapping (719):
+   581   C0521125:For (Preposition For) [Qualitative Concept]
+   607   C4517521:10.5 [Quantitative Concept]
+   748   C0702093:/minute (Per Minute) [Temporal Concept]
+   581   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Meta Mapping (719):
+   581   C0521125:For (Preposition For) [Qualitative Concept]
+   581   C3842590:10% [Quantitative Concept]
+   774   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   581   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: self resolved.
+Meta Mapping (888):
+   861   C0036588:Self [Idea or Concept]
+   861   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 42_Cage.txt.tx.5: He also described feeling light headed. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: described
+Meta Mapping (1000):
+  1000   C1552738:described [Idea or Concept]
+
+Phrase: feeling
+Meta Mapping (1000):
+  1000   C1527305:Feeling (Feelings) [Mental Process]
+
+Phrase: light headed.
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+Processing 42_Cage.txt.tx.6: Denies all other symptoms at the time. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: all other symptoms at the time.
+Meta Mapping (666):
+   586   C0444868:ALL (All) [Quantitative Concept]
+   753 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   586   C0040223:TIME (Time) [Temporal Concept]
+Processing 42_Cage.txt.tx.7: He notes that he has had "twinges" in his chest in the past 3-4 months with exertion, such as running to catch the bus or taking a lot of stairs. 
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: "twinges"
+
+Phrase: in his chest in the past 3-4 months
+Meta Mapping (704):
+   617   C1444637:In the past [Temporal Concept]
+   575   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   742   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   575   C0439231:MONTHS (month) [Temporal Concept]
+Meta Mapping (704):
+   575   C0150312:In (Present) [Finding]
+   575   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   742   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   617   C4086725:Past 3 Months [Temporal Concept]
+
+Phrase: with exertion,
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: such as running
+Meta Mapping (1000):
+  1000   C0035953:Running (Running (physical activity)) [Daily or Recreational Activity]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: catch
+Meta Mapping (1000):
+  1000   C0231617:Catch (Catch - Finding of sensory dimension of pain) [Sign or Symptom]
+
+Phrase: the bus
+Meta Mapping (1000):
+  1000   C0336815:Bus (Motor bus) [Manufactured Object]
+
+Phrase: or
+
+Phrase: taking
+
+Phrase: a lot of stairs.
+Meta Mapping (783):
+   833   C3900172:A lot (A Lot of the Time) [Finding]
+   604   C4329247:Stairs (Ability to Use Stairs) [Intellectual Product]
+Processing 42_Cage.txt.tx.8: He also notes that he sometimes notices a substernal pressure after eating a large lunch, but is unsure whether that is related to his exertional chest pain.   
+
+Phrase: He
+
+Phrase: also
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: sometimes
+Meta Mapping (1000):
+  1000   C1998882:Sometimes [Temporal Concept]
+
+Phrase: notices
+
+Phrase: a substernal pressure after eating
+Meta Mapping (686):
+   760   C0460139:Pressure (Pressure (finding)) [Finding]
+   593   C0013470:Eating [Organism Function]
+
+Phrase: a large lunch,
+Meta Mapping (888):
+   694   C0549177:LARGE (Large) [Quantitative Concept]
+   861   C2697949:Lunch [Daily or Recreational Activity]
+
+Phrase: but
+
+Phrase: is
+
+Phrase: unsure
+Meta Mapping (1000):
+  1000   C0087130:Unsure (Uncertainty) [Finding]
+
+Phrase: whether
+
+Phrase: that
+
+Phrase: is
+
+Phrase: related to his exertional chest pain.
+Meta Mapping (789):
+   753   C0445223:Related (Related personal status) [Finding]
+   753   C1412323:HIS (AKR1B10 gene) [Gene or Genome]
+   833   C0232288:Chest pain, exertional (Chest pain on exertion) [Sign or Symptom]
+Processing 42_Cage.txt.tx.9: PMHx: HTN Rx: chlorthalidone, lisinopril  Allergies: none   FHx: - Mother: HTN, T2DM, died from pullmonary embolism - Father: MI age 40's s/p CABG - Maternal grandmother: breast cancer  SHX: - Tobacco: 1 ppd for 20+ years - EtOH: 2-3 glasses of wine per weekend - Drugs: denies use of illicit drugs - Occupation: IT specialist at Capital One - Exercise: walks 1/2 mile twice a day with dog   Assessment:  Mr. 
+
+Phrase: PMHx
+
+Phrase: :
+
+Phrase: HTN Rx
+Meta Mapping (888):
+   694   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   861   C2709207:Rx (Rx therapy) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: lisinopril  Allergies
+Meta Mapping (983):
+   983   C0571941:Lisinopril allergy [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: none   FHx
+Meta Mapping (1000):
+  1000   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+
+Phrase: : -
+
+Phrase: Mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: :
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: T2DM,
+
+Phrase: died from pullmonary embolism - Father
+Meta Mapping (696):
+   760   C1306577:Died (Death (finding)) [Finding]
+   760   C1704212:Embolism, NOS (Embolus) [Finding]
+   760   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: :
+
+Phrase: MI age 40's s/p CABG - Maternal grandmother
+Meta Mapping (751):
+   626   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+   626   C0001779:AGE (Age) [Organism Attribute]
+   626   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   812   C1273525:Maternal Grandmother (Maternal grandmother) [Family Group]
+
+Phrase: :
+
+Phrase: breast cancer  SHX
+Meta Mapping (734):
+   734   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+
+Phrase: : -
+
+Phrase: Tobacco
+Meta Mapping (1000):
+  1000   C0040329:TOBACCO (Tobacco) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1 ppd
+Meta Mapping (888):
+   694   C2827734:1+ (1+ Score) [Quantitative Concept]
+   861   C1144026:PPD (EIF2C2 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: for
+
+Phrase: 20+ years - EtOH
+Meta Mapping (901):
+   734   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+   827   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine per weekend - Drugs
+Meta Mapping (755):
+   623   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   578   C0015421:Glasses (Eyeglasses) [Medical Device]
+   744   C0043188:WINE (Wine) [Food]
+   578   C0680190:Weekend [Temporal Concept]
+   578   C0013227:Drugs (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: :
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: use of illicit drugs - Occupation
+Meta Mapping (857):
+   673   C1524063:Use of [Functional Concept]
+   673   C0086190:Illicit Drugs [Hazardous or Poisonous Substance]
+   804   C0028811:OCCUPATION (Occupations) [Occupation or Discipline]
+
+Phrase: :
+
+Phrase: IT specialist at Capital One - Exercise
+Meta Mapping (734):
+   632   C0087009:Specialist (Hospital specialist) [Professional or Occupational Group]
+   632   C0006909:Capital [Quantitative Concept]
+   632   C0205447:ONE (One) [Quantitative Concept]
+   799   C1522704:Exercise (Exercise Pain Management) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: walks 1/2 mile
+Meta Mapping (791):
+   645   C0600108:Walks (Does walk) [Finding]
+   812   C2347127:mile (British Mile) [Quantitative Concept]
+
+Phrase: twice a day
+Meta Mapping (1000):
+  1000   C0585361:Twice a day [Temporal Concept]
+
+Phrase: with
+
+Phrase: dog   Assessment
+Meta Mapping (888):
+   694   C0012984:DOG (Canis familiaris) [Mammal]
+   861   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C2347167:Mr. (Mr. - Title) [Conceptual Entity]
+Processing 42_Cage.txt.tx.10: Cage is a 41 year old male with PMHx of HTN presenting with acute onset substernal chest pain with exertion 3 days ago with associated light headedness. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 41 year old male with PMHx of HTN presenting
+Meta Mapping (642):
+   573   C0439508:/Year (per year) [Temporal Concept]
+   573   C0580836:Old [Temporal Concept]
+   739   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   573   C0449450:Presenting (Presentation) [Idea or Concept]
+
+Phrase: with acute onset substernal chest pain with exertion 3 days ago
+Meta Mapping (725):
+   587   C0332162:With onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   571   C0205178:ACUTE (acute) [Temporal Concept]
+   775   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+   571   C0015264:Exertion [Organism Function]
+   571   C3842675:Day 3 [Finding]
+Meta Mapping (725):
+   571   C0332287:With (In addition to) [Functional Concept]
+   589   C0205178:Acute onset (acute) [Temporal Concept]
+   775   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+   571   C0015264:Exertion [Organism Function]
+   571   C3842675:Day 3 [Finding]
+
+Phrase: with associated light headedness.
+Meta Mapping (888):
+   660   C0332281:Associated (Associated with) [Qualitative Concept]
+   901   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 42_Cage.txt.tx.11: Vital signs and physical exam today are within normal limits, social history notable for smoking 1 ppd for 20+ years.   
+
+Phrase: Vital signs
+Meta Mapping (1000):
+  1000   C0150404:Vital signs (Taking vital signs) [Health Care Activity]
+
+Phrase: and
+
+Phrase: physical exam today
+Meta Mapping (901):
+   734   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+   827   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: are within normal limits,
+Meta Mapping (783):
+   770   C1551058:Are (are unit of measure) [Quantitative Concept]
+   833   C0442816:Normal limits [Finding]
+
+Phrase: social history
+Meta Mapping (1000):
+  1000   C0424945:Social history (Social and personal history) [Finding]
+
+Phrase: notable for smoking 1 ppd
+Meta Mapping (687):
+   760   C4288581:Notable [Qualitative Concept]
+   593   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+   593   C1144026:PPD (EIF2C2 protein, human) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: for 20+ years.
+Meta Mapping (1000):
+  1000   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+Processing 42_Cage.txt.tx.12: DDx:  1) Unstable angina  2) GERD  Plan: 1) Unstable angina: most likely diagnosis due to the patient's history of exertional chest pain and lightheadedness. 
+
+Phrase: DDx
+Meta Mapping (1000):
+  1000   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+
+Phrase: :
+
+Phrase: 1
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Unstable angina  2
+Meta Mapping (901):
+   901   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: GERD  Plan
+Meta Mapping (888):
+   694   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+   861   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: 1
+Meta Mapping (1000):
+  1000   C2827734:1+ (1+ Score) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: most likely diagnosis due to the patient's history of exertional chest pain
+Meta Mapping (735):
+   586   C0750501:most likely [Idea or Concept]
+   736   C1704338:diagnosis (diagnosis aspect) [Functional Concept]
+   586   C0678226:Due To (Due to) [Functional Concept]
+   617   C4512001:History of chest pain [Finding]
+   570   C0239313:EXERTIONAL (exercise induced) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: lightheadedness.
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+Processing 42_Cage.txt.tx.13: HTN and smoking history are risk factors. 
+
+Phrase: HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: smoking history
+Meta Mapping (1000):
+  1000   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: are
+
+Phrase: risk factors.
+Meta Mapping (1000):
+  1000   C0035648:Risk Factors (risk factors) [Finding]
+Processing 42_Cage.txt.tx.14: Patient also has family history of cardiovascular disease.  
+
+Phrase: Patient
+Meta Mapping (1000):
+  1000   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: also
+
+Phrase: has
+
+Phrase: family history of cardiovascular disease.
+Meta Mapping (1000):
+  1000   C0455404:Family history of cardiovascular disease (FH: Cardiovascular disease) [Finding]
+Processing 42_Cage.txt.tx.15: - Obtain EKG  - Draw BMP, CBC to rule out electrolyte abnormalities  - Refer to cardiology for further follow up  - Advised patient to keep log of all episodes of chest pain   2) GERD: likely with postprandial pain pattern, but likely  unassociated with angina as describe above - Start trial of omeprazole 20mg QD  - Monitor   Christine Shieh
+
+Phrase: -
+
+Phrase: Obtain
+Meta Mapping (1000):
+  1000   C1301820:Obtain [Functional Concept]
+
+Phrase: EKG  -
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: Draw
+Meta Mapping (1000):
+  1000   C0013113:Draw (Drawings (art)) [Intellectual Product]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CBC
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rule
+Meta Mapping (1000):
+  1000   C0870077:Rule (Rule (guideline)) [Intellectual Product]
+
+Phrase: out electrolyte abnormalities  -
+Meta Mapping (890):
+   660   C0439787:Out (Out (direction)) [Spatial Concept]
+   884 N C0151613:ELECTROLYTE ABNORMALITY (Electrolytes abnormal) [Finding]
+
+Phrase: Refer to cardiology
+Meta Mapping (746):
+   790   C0205543:Refer (Referring) [Functional Concept]
+   790   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: for further follow up  - Advised patient
+Meta Mapping (794):
+   637   C1517331:Further [Spatial Concept]
+   673   C1522577:Followup (follow-up) [Health Care Activity]
+   804   C0030705:*^patient (Patients) [Patient or Disabled Group]
+Meta Mapping (794):
+   637   C1517331:Further [Spatial Concept]
+   673   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   804   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: keep
+Meta Mapping (1000):
+  1000   C0333118:Keep (Retained) [Functional Concept]
+
+Phrase: log of all episodes of chest pain   2
+Meta Mapping (700):
+   744   C1708728:Log (Event Log) [Intellectual Product]
+   578   C0332189:Episodes (Episode of) [Temporal Concept]
+   595   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: )
+
+Phrase: GERD
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: likely with postprandial pain pattern,
+Meta Mapping (761):
+   760   C0750492:Likely (Probably) [Idea or Concept]
+   760   C0376674:Postprandial (Postprandial Period) [Temporal Concept]
+   806   C1286321:pain pattern (Pattern of pain) [Clinical Attribute]
+
+Phrase: but
+
+Phrase: likely  unassociated with angina
+Meta Mapping (541):
+   604   C0750492:Likely (Probably) [Idea or Concept]
+   604   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+
+Phrase: as
+
+Phrase: describe
+
+Phrase: above - Start trial of omeprazole 20mg QD  - Monitor   Christine Shieh
+Meta Mapping (664):
+   573   C1282910:Above (Upper) [Spatial Concept]
+   573   C0439659:Start (Beginning) [Temporal Concept]
+   757   C1521743:Trial Monitor (Monitor, occupation) [Professional or Occupational Group]
+   573   C0028978:OMEPRAZOLE (omeprazole) [Organic Chemical,Pharmacologic Substance]
+   573   C0332173:QD (Daily) [Temporal Concept]

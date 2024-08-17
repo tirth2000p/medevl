@@ -1,0 +1,215 @@
+Cui,Concept Matched,Concept Preferred,Phrase
+C2603362, S, S prime,True
+C3825962, Middle-aged women, Middle-aged women,True
+C0449450, Presenting, Presentation,True
+C0205082, Severe, Severe (severity modifier),True
+C1442445, 10 Hours, 10 Hours,True
+C3825962, Middle-aged women, Middle-aged women,True
+C0449450, Presenting, Presentation,True
+C0439227, HOURS, Hour,True
+C3843616, 10 - severe, 10 - severe,True
+C1444775, Sharp, Sharp sensation quality,True
+C1960160, Constant pain, Constant pain,True
+C0000726, Abdominal, Abdomen,True
+C1948059, Constant, Constant (qualifier),True
+C0000737, ABDOMINAL PAIN, Abdominal Pain,True
+C1272689, Started, Started,True
+C0230185, EPIGASTRIC REGION, Epigastrium,True
+C0332301, radiating, Radiating to,True
+C0004600, BACK, Back,True
+C1947932, Spread, Smear - instruction imperative,True
+C0574443, HER, Herero language,True
+C1281594, Entire abdomen, Entire abdomen,True
+C0042963, vomited, Vomiting,True
+C1948045, ONCE, Once (schedule frequency),True
+C0332172, Midnight, Midnight,True
+C0332152, BEFORE, Before,True
+C3538926, ED, Endocrine System Findings Domain,True
+C1518422, Not, Negation,True
+C0013470, Eat, Eating,True
+C1711239, Since, Since,True
+C0723950, Tums, Tums,True
+C0564405, Relief, Feeling relief,True
+C0262926, PMH, Medical History,True
+C0750502, Significant, Significant,True
+C0020538, HTN, Hypertensive disease,True
+C1277691, Pack Year, Pack years,True
+C1519384, Smoking History, Tobacco Smoking History,True
+C0394996, DRINK, Acute alcoholic intoxication,True
+C0001962, ALCOHOL, ethanol,True
+C0332173, Daily, Daily,True
+C0232427, Sweaty, sweaty,True
+C0085593, CHILLS, Chills,True
+C0015967, FEVER, Fever,True
+C0221423, Sick, Illness (finding),True
+C4036459, Contacts, Contacts,True
+C0488564, Review of systems, Review of systems:Finding:Point in time:^Patient:Narrative:Reported,True
+C1513916, NEGATIVE, Negative Finding,True
+C0008031, CHEST PAIN, Chest Pain,True
+C0018681, HEADACHE, Headache,True
+C0018965, HEMATURIA, Hematuria,True
+C0018932, Haematochezia, Hematochezia,True
+C0011991, DIARRHOEA, Diarrhea,True
+C0009806, CONSTIPATION, Constipation,True
+C0151786, MUSCLE WEAKNESS, Muscle Weakness,True
+C1262477, WEIGHTLOSS, Weight decreased,True
+C2911645, Weight loss, Weight Loss,True
+C1517378, Gain, Gain,True
+C0013428, DYSURIA, Dysuria,True
+C1443354, Lives with husband, Lives with husband,True
+C0574443, HER, Herero language,True
+C0332302, brought, Brought on by,True
+C0574443, HER, Herero language,True
+C3538926, ED, Endocrine System Findings Domain,True
+C0483204, O NOS, O NOS Ab,True
+C0015967, Febrile, Fever,True
+C0020649, HYPOTENSION, Hypotension,True
+C0039231, TACHYCARDIA, Tachycardia,True
+C1880476, PE, Etoposide-Platinol Regimen,True
+C0205246, General, Generalized,True
+C0030705, *^patient, Patients,True
+C0234422, Awake, Awake,True
+C0239110, ALERT, Consciousness clear,True
+C0038846, Supine, Supine Position,True
+C0582103, Exam, Medical Examination,True
+C0039224, Table, Table - furniture,True
+C0700364, APPEAR, Appearance,True
+C3887804, Distressed, Feeling upset,True
+C1515981, And, And,True
+C1962977, Pain NOS, Pain NOS,True
+C0000726, Abdominal, Abdomen,True
+C0582103, Exam, Medical Examination,True
+C0205379, Visible, Visible,True
+C2004491, Scars, Cicatrix,True
+C0015230, Rashes, Exanthema,True
+C0000768, Deformities, Congenital Abnormality,True
+C0238532, Scaphoid abdomen, Scaphoid abdomen,True
+C0232693, Bowel sounds, Bowel sounds,True
+C0230168, Abdomen, Abdominal Cavity,True
+C0205358, Soft, Soft,True
+C0234234, Tender, Tender,True
+C0278327, Light palpation, Superficial palpation,True
+C0439738, Four quadrants, Four quadrants,True
+C0427198, Guarding, Protective muscle spasm,True
+C1527391, Chest, Anterior thoracic region,True
+C0024109, LUNG, Lung,True
+C0018808, murmurs, Heart murmur,True
+C3842105, Rubs, Rubs,True
+C0024109, LUNGS, Lung,True
+C1709157, Clear, Negative Surgical Margin,True
+C0004339, AUSCULTATION, Auscultation,True
+C0006413, BL, Burkitt Lymphoma,True
+C0015385, Extremities, Limb structure,True
+C0582051, Warm, Feels warm,True
+C0205170, Well, Good,True
+C1549542, Perfuse, Perfuse,True
+C0518831, radial PULSES, radial PULSES,True
+C1552826, middle, Table Cell Vertical Align - middle,True
+C0206132, Age of Onset, Age of Onset,True
+C0043210, WOMAN, Woman,True
+C0449450, Presenting, Presentation,True
+C0205178, ACUTE, acute,True
+C0278140, Severe pain, Severe pain,True
+C0521440, Epigastric, Epigastric,True
+C0332301, radiating, Radiating to,True
+C1552826, middle, Table Cell Vertical Align - middle,True
+C0206132, Age of Onset, Age of Onset,True
+C0043210, WOMAN, Woman,True
+C0449450, Presenting, Presentation,True
+C0205178, ACUTE, acute,True
+C0205082, Severe, Severe (severity modifier),True
+C0232493, Epigastric pain, Epigastric pain,True
+C0332301, radiating, Radiating to,True
+C1552826, middle, Table Cell Vertical Align - middle,True
+C0206132, Age of Onset, Age of Onset,True
+C0043210, WOMAN, Woman,True
+C0449450, Presenting, Presentation,True
+C0205178, ACUTE, acute,True
+C0205082, Severe, Severe (severity modifier),True
+C0521440, Epigastric, Epigastric,True
+C0234254, pain radiating, Radiating pain,True
+C0004600, BACK, Back,True
+C0015967, FEVER, Fever,True
+C1971624, Anorexia, Loss of appetite (finding),True
+C0332290, Consistent with, Consistent with,True
+C0232597, Acute vomiting, Acute vomiting,True
+C0030305, PANCREATITIS, Pancreatitis,True
+C0042963, VOMITING, Vomiting,True
+C0332290, Consistent with, Consistent with,True
+C0001339, Acute Pancreatitis, Pancreatitis,True
+C0262926, PMH, Medical History,True
+C0750502, Significant, Significant,True
+C0020538, HTN, Hypertensive disease,True
+C0037369, SMOKING, Smoking,True
+C0262926, History, Medical History,True
+C0332173, Daily, Daily,True
+C0001948, ALCOHOL USE, Alcohol consumption,True
+C0031809, Exam,UNAVAILABLE,True
+C4288581, Notable, Notable,True
+C0520963, Diffuse pain, Diffuse pain,True
+C0000726, Abdominal, Abdomen,True
+C4288581, Notable, Notable,True
+C0205219, DIFFUSE, Diffuse,True
+C0000737, ABDOMINAL PAIN, Abdominal Pain,True
+C0443199, Differential, Differential quality,True
+C0041260, TO, Tryptophanase,True
+C0870077, Rule, Rule (guideline),True
+C0439787, Out, Out (direction),True
+C0017160, GASTROENTERITIS, Gastroenteritis,True
+C0003615, APPENDICITIS, Appendicitis,True
+C0012813, DIVERTICULITIS, Diverticulitis,True
+C0030920, PEPTIC ULCER, Peptic Ulcer,True
+C0599880, Plan, Treatment Plan,True
+C0184666, Admit, Hospital admission,True
+C0016249, Floor, floor (object),True
+C0439659, Start, Beginning,True
+C1336445, IV, Stage IV Uveal Melanoma AJCC v7,True
+C0026549, MORPHINE, morphine,True
+C1301820, Obtain, Obtain,True
+C0230177, RUQ, Structure of right upper quadrant of abdomen,True
+C1456803, Ultrasound, Ultrasonics (sound),True
+C1301820, Obtain, Obtain,True
+C0009555, CBC, Complete Blood Count,True
+C0053932, BMP, Bone Morphogenetic Proteins,True
+C0023764, LIPASE, lipase,True
+C0002712, AMYLASE, amylase,True
+C1415053, GGT, GGT1 gene,True
+C0333118, Keep, Retained,True
+C0030705, *^patient, Patients,True
+C0419179, NPO, NPO - Nothing by mouth,True
+C1947971, Give, Give - dosing instruction imperative,True
+C0206046, Zofran, Zofran,True
+C1720688, As needed, As needed for (qualifier value),True
+C0027497, NAUSEA, Nausea,True
+C0564405, Relief,NULL,False
+C0221423, Sick,NULL,False
+C0008031, CHEST PAIN,NULL,False
+C1963087, Constipation,NULL,False
+C0009806, CONSTIPATION,NULL,False
+C1963091, Diarrhea,NULL,False
+C0011991, DIARRHOEA,NULL,False
+C4553955, Dysuria,NULL,False
+C0013428, DYSURIA,NULL,False
+C4553197, Headache,NULL,False
+C0018681, HEADACHE,NULL,False
+C4554630, Hematuria,NULL,False
+C0018965, HEMATURIA,NULL,False
+C1321898, hematochezia,NULL,False
+C0018932, Haematochezia,NULL,False
+C0030552, muscle weakness,NULL,False
+C0151786, MUSCLE WEAKNESS,NULL,False
+C2911645, Weight loss,NULL,False
+C1262477, WEIGHTLOSS,NULL,False
+C0000768, Deformities,NULL,False
+C0015230, Rashes,NULL,False
+C2004491, Scars,NULL,False
+C0241158, Scars,NULL,False
+C0427198, Guarding,NULL,False
+C3842105, Rubs,NULL,False
+C0018808, murmurs,NULL,False
+C4553526, Appendicitis,NULL,False
+C0003615, APPENDICITIS,NULL,False
+C0012813, DIVERTICULITIS,NULL,False
+C0017160, GASTROENTERITIS,NULL,False
+C0030920, PEPTIC ULCER,NULL,False
+C0270724, PLAN,NULL,False

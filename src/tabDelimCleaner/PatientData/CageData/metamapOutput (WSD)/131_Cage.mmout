@@ -1,0 +1,261 @@
+Processing 131_Cage.txt.tx.1: S - chest pain 3 days ago, it was a dull ache in the middle of the chest and didnt radiate anywhere. it started when carrying groceries. it resolved on its within 5-10min with rest. also felt a little short of breath at the time. no headache, fall, vision changes or weakness in extremities. 
+
+Phrase: S -
+
+Phrase: chest pain 3 days ago,
+Meta Mapping (790):
+   673   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: it
+
+Phrase: was
+
+Phrase: a dull ache in the middle of the chest
+Meta Mapping (665):
+   575   C0278144:Dull (Dull pain) [Sign or Symptom]
+   762   C0235715:ache chest (Chest aching of) [Finding]
+   575   C1552826:middle (Table Cell Vertical Align - middle) [Intellectual Product]
+Meta Mapping (665):
+   575   C0278144:Dull (Dull pain) [Sign or Symptom]
+   742   C0234238:ACHE (Ache) [Sign or Symptom]
+   595   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+
+Phrase: and
+
+Phrase: didnt
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: anywhere.
+
+Phrase: it
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: when
+
+Phrase: carrying groceries.
+Meta Mapping (694):
+   694   C0206243:Carrying [Activity]
+
+Phrase: it
+
+Phrase: resolved on its
+Meta Mapping (790):
+   790   C1514893:Resolved (physiologic resolution) [Pathologic Function]
+
+Phrase: within 5-10min with rest.
+Meta Mapping (520):
+   593   C0332285:Within [Spatial Concept]
+   593   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+
+Phrase: also
+
+Phrase: felt
+Meta Mapping (966):
+   966 N C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a little short of breath
+Meta Mapping (1000):
+  1000 N C4290027:A Little Short of Breath [Finding]
+
+Phrase: at the time.
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+
+Phrase: no headache,
+Meta Mapping (1000):
+  1000 N C0018681:HEADACHE (Headache) [Sign or Symptom]
+
+Phrase: fall,
+Meta Mapping (1000):
+  1000 N C0085639:FALL (Falls) [Finding]
+
+Phrase: vision changes
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: or
+
+Phrase: weakness in extremities.
+Meta Mapping (858):
+   858 N C0587246:extremities weakness (Muscle weakness of limb) [Finding]
+Processing 131_Cage.txt.tx.2: Has been adequately hydrated. 
+
+Phrase: Has
+
+Phrase: been
+
+Phrase: adequately
+
+Phrase: hydrated.
+Meta Mapping (1000):
+  1000   C0720930:hydrated (Hyrex Brand of Dimenhydrinate) [Organic Chemical,Pharmacologic Substance]
+Processing 131_Cage.txt.tx.3: No GERD. 
+
+Phrase: No GERD.
+Meta Mapping (1000):
+  1000 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 131_Cage.txt.tx.4: History of HTN and taking 2 meds as prescribed.  
+
+Phrase: History of HTN
+Meta Mapping (746):
+   790   C0262926:History (Medical History) [Finding]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: taking 2 meds
+Meta Mapping (785):
+   627   C1515187:Take [Health Care Activity]
+   827   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: as
+
+Phrase: prescribed.
+Meta Mapping (1000):
+  1000   C0278329:Prescribed [Health Care Activity]
+Processing 131_Cage.txt.tx.5: O - High blood pressure documented. 
+
+Phrase: O - High blood pressure
+Meta Mapping (916):
+   645   C0483204:O NOS (O NOS Ab) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   923   C0020538:High Blood Pressure (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: documented.
+Meta Mapping (1000):
+  1000   C1301725:Documented [Health Care Activity]
+Processing 131_Cage.txt.tx.6: On exam: Non-labored breathing. 
+
+Phrase: On exam
+Meta Mapping (1000):
+  1000   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: :
+
+Phrase: Non-labored breathing.
+Meta Mapping (901):
+   660   C1518422:Non (Negation) [Functional Concept]
+   901 N C0553668:Labored breathing [Sign or Symptom]
+Processing 131_Cage.txt.tx.7: No tenderness to palpation of the sternum. normal heart sounds. 
+
+Phrase: No tenderness to palpation of the sternum. normal heart sounds.
+Meta Mapping (698):
+   573   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   739 N C0234233:TENDERNESS (NOS) (Sore to touch) [Sign or Symptom]
+   573   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+   573   C0038293:STERNUM (Sternum) [Body Part, Organ, or Organ Component]
+   615 N C0577821:Normal heart sounds (Heart sounds normal) [Finding]
+Processing 131_Cage.txt.tx.8: CTAB. 
+
+Phrase: CTAB.
+Meta Mapping (1000):
+  1000   C0951233:CTAB (cetrimonium bromide) [Organic Chemical]
+Processing 131_Cage.txt.tx.9: No abdominal tenderness. 
+
+Phrase: No abdominal tenderness.
+Meta Mapping (1000):
+  1000 N C0232498:ABDOMINAL TENDERNESS (Abdominal tenderness) [Sign or Symptom]
+Processing 131_Cage.txt.tx.10: No back tenderness.   
+
+Phrase: No back tenderness.
+Meta Mapping (1000):
+  1000 N C0238745:BACK TENDERNESS (back tenderness) [Sign or Symptom]
+Processing 131_Cage.txt.tx.11: A - Middle aged woman with history of HTN who presented a 10min episode of chest pain that self-resolved, concerning for angina.    
+
+Phrase: A - Middle aged woman with history of HTN
+Meta Mapping (700):
+   758   C3825962:Middle-aged women [Age Group]
+   578   C0262926:History (Medical History) [Finding]
+   578   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: who
+
+Phrase: presented
+Meta Mapping (1000):
+  1000   C0449450:Presented (Presentation) [Idea or Concept]
+
+Phrase: a 10min episode of chest pain
+Meta Mapping (778):
+   753   C0332189:EPISODE (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: self-resolved
+Meta Mapping (888):
+   861   C0036588:Self [Idea or Concept]
+   861   C1514893:Resolved (physiologic resolution) [Pathologic Function]
+
+Phrase: ,
+
+Phrase: concerning for angina.
+Meta Mapping (730):
+   756   C2699424:Concern [Idea or Concept]
+   790 N C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 131_Cage.txt.tx.12: P - Will schedule appointment with patient for EKG and stress test. 
+
+Phrase: P -
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: Will
+
+Phrase: schedule
+Meta Mapping (1000):
+  1000   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+
+Phrase: appointment with patient
+Meta Mapping (858):
+   858   C0030675:Patient Appointment (Patient Appointments) [Health Care Activity]
+
+Phrase: for EKG
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: stress test.
+Meta Mapping (1000):
+  1000   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+Processing 131_Cage.txt.tx.13: Will consider starting patient on aspirin. 
+
+Phrase: Will
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: starting
+Meta Mapping (966):
+   966   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: patient on aspirin.
+Meta Mapping (746):
+   790   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   623   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+Processing 131_Cage.txt.tx.14: Educate patient on alarm symptoms. 
+
+Phrase: Educate
+Meta Mapping (1000):
+  1000   C0039401:educate (Educational process of instructing) [Educational Activity]
+
+Phrase: patient on alarm symptoms.
+Meta Mapping (783):
+   819   C1317600:Patient symptoms (patient symptoms) [Finding]
+   604   C0336648:Alarm (Alarm device) [Medical Device]
+Meta Mapping (783):
+   819   C3873728:Patient alarm [Medical Device]
+   604   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 131_Cage.txt.tx.15: Emphasized good blood pressure control.
+
+Phrase: Emphasized good blood pressure control.
+Meta Mapping (798):
+   637   C0205170:Good [Qualitative Concept]
+   840   C0005823:BLOOD PRESSURE (Blood Pressure) [Organism Function]
+   804   C1882979:Control (Scientific Control) [Conceptual Entity]

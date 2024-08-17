@@ -1,0 +1,662 @@
+Processing 122_Cage.txt.tx.1: S: Gerry cage is a 48 year old male with PMHx of HTN that is presenting with intermittent chest pains on exertion. 
+
+Phrase: S
+Meta Mapping (1000):
+  1000   C0565930:/s (per second) [Temporal Concept]
+
+Phrase: :
+
+Phrase: Gerry cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 48 year old male with PMHx of HTN
+Meta Mapping (660):
+   575   C4319608:48 [Quantitative Concept]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: that
+
+Phrase: is
+
+Phrase: presenting with intermittent chest pains
+Meta Mapping (761):
+   760   C0449450:Presenting (Presentation) [Idea or Concept]
+   760   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   806   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 122_Cage.txt.tx.2: 3 days ago he was carrying a heavy load and felt a heavy deep ache in the middle of his chest that persisted for 5-10min even with rest. 
+
+Phrase: 3 days ago
+Meta Mapping (901):
+   901   C1442459:3 Days [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: a heavy load
+Meta Mapping (888):
+   694   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   861   C1708715:Load (Loading Technique) [Activity]
+
+Phrase: and
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a heavy deep ache in the middle of his chest
+Meta Mapping (664):
+   573   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   573   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   757   C0235715:ache chest (Chest aching of) [Finding]
+   573   C0549183:middle (Midline (qualifier value)) [Spatial Concept]
+   573   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+Meta Mapping (664):
+   573   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   573   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   739   C0234238:ACHE (Ache) [Sign or Symptom]
+   573   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   591   C1183734:chest middle (Intrathoracic part of chest) [Body Location or Region]
+
+Phrase: that
+
+Phrase: persisted for 5-10min even
+
+Phrase: with rest.
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+Processing 122_Cage.txt.tx.3: He also experienced a milder version of this 2-3time sin the past 4 months. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: a milder version of this 2-3time
+Meta Mapping (692):
+   607   C1825406:A-2 (GPR162 gene) [Gene or Genome]
+   548   C2945599:Mild (Mild (qualifier value)) [Qualitative Concept]
+   748   C0333052:Version [Intellectual Product]
+
+Phrase: sin
+Meta Mapping (1000):
+  1000   C0815304:sin (Religious sin) [Idea or Concept]
+
+Phrase: the past 4 months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 122_Cage.txt.tx.4: He also felt lightheaded and faint during this episode. 
+
+Phrase: He
+
+Phrase: also
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: lightheaded
+Meta Mapping (1000):
+  1000   C0220870:Lightheaded (Lightheadedness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: faint during this episode.
+Meta Mapping (773):
+   773   C0751534:Syncopal Episode [Sign or Symptom]
+Processing 122_Cage.txt.tx.5: The pain did not radiate any where. 
+
+Phrase: The pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+
+Phrase: any where.
+Processing 122_Cage.txt.tx.6: He denies any shortness of breath, and fever, chills, nausea, vomiting, abdominal pain and no dizziness. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any shortness of breath,
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: fever,
+Meta Mapping (1000):
+  1000   C0015967:FEVER (Fever) [Sign or Symptom]
+
+Phrase: chills,
+Meta Mapping (1000):
+  1000   C0085593:CHILLS (Chills) [Sign or Symptom]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000   C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: abdominal pain
+Meta Mapping (1000):
+  1000   C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: no dizziness.
+Meta Mapping (1000):
+  1000 N C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Processing 122_Cage.txt.tx.7: He has also experienced a pressure feeling in his chest for about one year 2-3/week after a eating a big meal. 
+
+Phrase: He
+
+Phrase: has
+
+Phrase: also
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: a pressure feeling in his chest
+Meta Mapping (813):
+   648   C0438716:Pressure in chest (Chest pressure) [Sign or Symptom]
+   753   C1527305:Feeling (Feelings) [Mental Process]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: for about one year 2-3/week after a eating
+Meta Mapping (675):
+   573   C0521125:For (Preposition For) [Qualitative Concept]
+   593   C4082117:One year [Temporal Concept]
+   757   C4484139:week 2 [Temporal Concept]
+   573   C0013470:Eating [Organism Function]
+
+Phrase: a big meal.
+Meta Mapping (888):
+   694   C0549177:Big (Large) [Quantitative Concept]
+   861   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+Processing 122_Cage.txt.tx.8: He denies any feelings of heartburn or GERD. 
+
+Phrase: He
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any feelings of heartburn
+Meta Mapping (733):
+   604   C1552551:ANY (Any) [Qualitative Concept]
+   770 N C1527305:Feelings [Mental Process]
+   604 N C0018834:HEARTBURN (Heartburn) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: GERD.
+Meta Mapping (1000):
+  1000 N C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+Processing 122_Cage.txt.tx.9: He does not choke, or have problems swallowing.   
+
+Phrase: He
+
+Phrase: does
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: choke
+Meta Mapping (1000):
+  1000 N C0008301:choke (Choking) [Pathologic Function]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: have
+
+Phrase: problems
+Meta Mapping (1000):
+  1000   C1546466:Problems (Problems - What subject filter) [Idea or Concept]
+
+Phrase: swallowing.
+Meta Mapping (1000):
+  1000   C0011167:Swallowing (Deglutition) [Organism Function]
+Processing 122_Cage.txt.tx.10: PMH: HTN on chlorthalidone and lisinopril, per patient usually around 130/80 at home SocHx: 2-3 glasses of wine on the weekends, 1 ppd of cigarettes for 21 years, no drug use Famhx: father had a heart attack in his 40s, had a bypass, mother has HTN, DM and PE  O: VS Temp 98F P 85 R 14 BP 150/92 PE General: Alert, not in acute distress Cardiovascular: regular rhythm and normal rate, S1 and S2, no murmurs, no gallops (S3 or S4), no rubs, JVP at 3cm above sternal angle at 30 degrees, no murmurs on leaning forward on exhalation, noon tender to palpation, 2+ pulses radial, 2+ posterior tibialis, bilateral no lower extremity edema Resp: Clear to ascultation in all lung fields, no abnormal breath sounds   A: Gerry cage is a 48 year old male with PMHx of HTN and family history of early myocardial infarction, presenting with intermittent chest pains on exertion. 
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: HTN on chlorthalidone
+Meta Mapping (746):
+   790   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   623   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: lisinopril,
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: per patient usually around 130/80 at home SocHx
+Meta Mapping (652):
+   575   C4281991:Per (Follow) [Functional Concept]
+   742   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   575   C3538928:Usually (Usual) [Qualitative Concept]
+   575   C3842583:80% [Quantitative Concept]
+   575   C0442519:HOME (Home environment) [Spatial Concept]
+
+Phrase: :
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on the weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: 1 ppd of cigarettes
+Meta Mapping (733):
+   604   C2827734:1+ (1+ Score) [Quantitative Concept]
+   770   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+   604   C0677453:Cigarettes (Cigarette) [Manufactured Object]
+
+Phrase: for 21 years,
+Meta Mapping (861):
+   861   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: no drug use Famhx
+Meta Mapping (734):
+   734 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+
+Phrase: :
+
+Phrase: father
+Meta Mapping (1000):
+  1000   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: had
+
+Phrase: a heart attack in his 40s,
+Meta Mapping (722):
+   790 N C0027051:HEART ATTACK (Myocardial Infarction) [Disease or Syndrome]
+   586   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+
+Phrase: had
+
+Phrase: a bypass,
+Meta Mapping (1000):
+  1000   C0741847:Bypass [Therapeutic or Preventive Procedure]
+
+Phrase: mother
+Meta Mapping (1000):
+  1000   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: has
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: PE  O
+Meta Mapping (694):
+   694   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: VS
+
+Phrase: Temp 98F P 85 R 14 BP 150/92 PE
+Meta Mapping (718):
+   623   C0039476:TEMP (Temperature) [Quantitative Concept]
+   623   C4517892:85 [Quantitative Concept]
+   623   C0205090:R- (Right) [Spatial Concept]
+   623   C1415692:Bp (HP gene) [Gene or Genome]
+   790   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: General
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+
+Phrase: :
+
+Phrase: Alert,
+Meta Mapping (1000):
+  1000   C0239110:ALERT (Consciousness clear) [Finding]
+
+Phrase: not in acute distress
+Meta Mapping (733):
+   770   C1518422:Not (Negation) [Functional Concept]
+   770   C0205178:ACUTE (acute) [Temporal Concept]
+   770 N C0231303:Distress [Finding]
+
+Phrase: Cardiovascular
+Meta Mapping (1000):
+  1000   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+
+Phrase: :
+
+Phrase: regular rhythm
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861 N C0871269:Rhythm [Finding]
+
+Phrase: and
+
+Phrase: normal rate,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: S1
+Meta Mapping (1000):
+  1000 N C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: no gallops
+
+Phrase: (S3
+Meta Mapping (1000):
+  1000 N C0232237:S3 (S3 - Third heart sound) [Finding]
+
+Phrase: or
+
+Phrase: S4
+Meta Mapping (1000):
+  1000   C2349970:S4+ [Element, Ion, or Isotope]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: no
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: JVP at 3cm
+
+Phrase: above sternal angle at 30 degrees,
+Meta Mapping (741):
+   586   C1282910:Above (Upper) [Spatial Concept]
+   790   C0222772:Sternal angle (Structure of sternal angle) [Body Part, Organ, or Organ Component]
+   586   C3842588:30% [Quantitative Concept]
+   586   C0449286:degrees (Degree or extent) [Quantitative Concept]
+
+Phrase: no murmurs on leaning
+Meta Mapping (722):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: forward on exhalation,
+Meta Mapping (746):
+   790   C0439780:Forward [Spatial Concept]
+   790   C0231800:Exhalation (Expiration, function) [Organism Function]
+
+Phrase: noon tender to palpation,
+Meta Mapping (733):
+   604   C0585020:Noon [Temporal Concept]
+   770   C0234234:Tender [Qualitative Concept]
+   604   C0030247:PALPATION (Palpation) [Diagnostic Procedure]
+
+Phrase: 2+
+Meta Mapping (1000):
+  1000   C2827735:2+ (2+ Score) [Quantitative Concept]
+
+Phrase: pulses
+Meta Mapping (1000):
+  1000   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+
+Phrase: radial, 2+ posterior tibialis,
+Meta Mapping (824):
+   645   C0920847:Radial (Circumpennate) [Conceptual Entity]
+   861   C0224463:posterior tibialis (Tibialis posterior muscle structure) [Body Part, Organ, or Organ Component]
+
+Phrase: bilateral
+Meta Mapping (1000):
+  1000   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+
+Phrase: no lower extremity edema Resp
+Meta Mapping (916):
+   756 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+   812   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Clear to ascultation
+Meta Mapping (790):
+   790 N C1709157:Clear (Negative Surgical Margin) [Finding]
+
+Phrase: in all lung fields,
+Meta Mapping (983):
+   983   C0225759:Lung field [Body Location or Region]
+
+Phrase: no abnormal breath sounds
+Meta Mapping (1000):
+  1000   C0231856:Abnormal breath sounds [Finding]
+
+Phrase: A
+
+Phrase: :
+
+Phrase: Gerry cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 48 year old male with PMHx of HTN
+Meta Mapping (660):
+   575   C4319608:48 [Quantitative Concept]
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   742   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   575   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: family history of early myocardial infarction,
+Meta Mapping (938):
+   901   C0455406:Family history of myocardial infarction (Family history: Myocardial infarction) [Finding]
+   586   C1279919:Early [Temporal Concept]
+
+Phrase: presenting with intermittent chest pains
+Meta Mapping (761):
+   760   C0449450:Presenting (Presentation) [Idea or Concept]
+   760   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   806   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+
+Phrase: on exertion.
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+Processing 122_Cage.txt.tx.11: Physical exam is significant for elevated blood pressure on todays visit clinic, but non significant cardiovascular exam,   P: Most likely this is stable angina due to the presentation of chest pains on exertion, less likely this is acute coronary syndrome or GERD,  - EKG at this visit - Chest x ray to assess for possible cardiomegaly with onset of pressure in chest while eating - Stress testing outpatient to assess ischemic burden - start statins at this visit
+
+Phrase: Physical exam
+Meta Mapping (1000):
+  1000   C0031809:Exam, Physical (Physical Examination) [Health Care Activity]
+
+Phrase: is
+
+Phrase: significant for elevated blood pressure
+Meta Mapping (816):
+   760   C0750502:Significant [Idea or Concept]
+   695   C0020538:Elevated blood pressure (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on todays
+Meta Mapping (966):
+   966   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: visit
+Meta Mapping (1000):
+  1000   C2826704:VISIT (Visit Name) [Intellectual Product]
+
+Phrase: clinic,
+Meta Mapping (1000):
+  1000   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: but
+
+Phrase: non significant cardiovascular exam,
+Meta Mapping (833):
+   645   C1518422:Non (Negation) [Functional Concept]
+   645   C0750502:Significant [Idea or Concept]
+   645   C0007226:Cardiovascular (Cardiovascular system) [Body System]
+   812   C0582103:Exam (Medical Examination) [Health Care Activity]
+
+Phrase: P
+Meta Mapping (1000):
+  1000   C2603361:P' (P prime) [Clinical Attribute]
+
+Phrase: :
+
+Phrase: Most likely
+Meta Mapping (1000):
+  1000   C0750501:most likely [Idea or Concept]
+
+Phrase: this
+
+Phrase: is
+
+Phrase: stable angina due to the presentation of chest pains
+Meta Mapping (735):
+   764 N C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+   598   C0678226:Due To (Due to) [Functional Concept]
+   575   C0449450:Presentation [Idea or Concept]
+   579   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: on exertion,
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: less likely
+Meta Mapping (888):
+   861   C0439092:Less (Less Than) [Quantitative Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: this
+
+Phrase: is
+
+Phrase: acute coronary syndrome
+Meta Mapping (1000):
+  1000   C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: GERD,  -
+Meta Mapping (1000):
+  1000   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: EKG at this visit - Chest x ray
+Meta Mapping (755):
+   748   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   581   C2826704:VISIT (Visit Name) [Intellectual Product]
+   647   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess for possible cardiomegaly
+Meta Mapping (733):
+   770   C1516048:Assess (Assessed) [Activity]
+   770   C0332149:Possible [Finding]
+   770   C0018800:CARDIOMEGALY (Cardiomegaly) [Finding]
+
+Phrase: with onset of pressure
+Meta Mapping (783):
+   833   C0332162:With onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   604   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: in chest
+Meta Mapping (1000):
+  1000   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: while
+
+Phrase: eating - Stress
+Meta Mapping (888):
+   694   C0013470:Eating [Organism Function]
+   861   C0038435:Stress [Finding]
+
+Phrase: testing
+Meta Mapping (1000):
+  1000   C0039593:Testing [Functional Concept]
+
+Phrase: outpatient
+Meta Mapping (1000):
+  1000   C0029921:Outpatient (Outpatients) [Patient or Disabled Group]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: assess
+Meta Mapping (1000):
+  1000   C1516048:Assess (Assessed) [Activity]
+
+Phrase: ischemic burden - start statins at this visit
+Meta Mapping (702):
+   581   C0475224:Ischemic [Functional Concept]
+   581   C2828008:Burden [Idea or Concept]
+   581   C0439659:Start (Beginning) [Temporal Concept]
+   748   C0360714:Statins (Hydroxymethylglutaryl-CoA Reductase Inhibitors) [Organic Chemical,Pharmacologic Substance]
+   581   C2826704:VISIT (Visit Name) [Intellectual Product]

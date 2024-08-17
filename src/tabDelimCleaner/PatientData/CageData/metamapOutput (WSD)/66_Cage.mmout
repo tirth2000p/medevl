@@ -1,0 +1,381 @@
+Processing 66_Cage.txt.tx.1: S- Ms. 
+
+Phrase: S-
+
+Phrase: Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 66_Cage.txt.tx.2: Smith is a late middle age woman with a history of HTN and smoking that comes to clinic today for chest pain that started while carrying a heavy load yesterday. 
+
+Phrase: Smith
+Meta Mapping (1000):
+  1000   C0554249:Smith (Smith (occupation)) [Professional or Occupational Group]
+
+Phrase: is
+
+Phrase: a late middle age woman with a history of HTN
+Meta Mapping (669):
+   573   C0205087:Late [Temporal Concept]
+   593   C0205847:Middle Age (Middle Aged) [Age Group]
+   739   C0043210:WOMAN (Woman) [Population Group]
+   573   C0262512:History, NOS (History of present illness) [Finding]
+   573   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: smoking
+Meta Mapping (1000):
+  1000   C0453996:Smoking (Tobacco smoking behavior) [Individual Behavior]
+
+Phrase: that
+
+Phrase: comes to clinic today
+Meta Mapping (722):
+   770   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+   770   C0750526:Today (Today (temporal qualifier)) [Temporal Concept]
+
+Phrase: for chest pain
+Meta Mapping (1000):
+  1000   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: started
+Meta Mapping (1000):
+  1000   C1272689:Started [Qualitative Concept]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: a heavy load yesterday.
+Meta Mapping (623):
+   660   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   660   C1708715:Load (Loading Technique) [Activity]
+Processing 66_Cage.txt.tx.3: Multiple, less severe episodes have been present with exertion over the past few months. 
+
+Phrase: Multiple, less severe episodes
+Meta Mapping (813):
+   886   C0565960:Multiple episode [Temporal Concept]
+   645   C0205082:Severe (Severe (severity modifier)) [Finding]
+
+Phrase: have
+
+Phrase: been
+
+Phrase: present with exertion
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   623   C0015264:Exertion [Organism Function]
+
+Phrase: over the past few months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 66_Cage.txt.tx.4: She felt an 8/10 pain substernal with deep pressure as well as feeling unable to catch her breath. 
+
+Phrase: She
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: an 8/10 pain
+Meta Mapping (790):
+   660   C3842590:10% [Quantitative Concept]
+   827   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: substernal with deep pressure
+Meta Mapping (555):
+   604   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   604   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: as well as
+
+Phrase: feeling unable
+Meta Mapping (888):
+   694   C1527305:Feeling (Feelings) [Mental Process]
+   861   C0566415:unable (Unable to feed self) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: catch
+Meta Mapping (1000):
+  1000   C0231617:Catch (Catch - Finding of sensory dimension of pain) [Sign or Symptom]
+
+Phrase: her breath.
+Meta Mapping (1000):
+  1000   C0225386:Breath [Body Substance]
+Processing 66_Cage.txt.tx.5: These symptoms resolved with rest. 
+
+Phrase: These symptoms
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: resolved with rest.
+Meta Mapping (746):
+   790   C2699488:Resolved (Resolution) [Conceptual Entity]
+   790   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+Processing 66_Cage.txt.tx.6: She describes the more minor episodes as twinges that she was able to work through without rest. family history significant for fatal MI in father at 40 s/p CABG. 
+
+Phrase: She
+
+Phrase: describes
+
+Phrase: the more minor episodes as twinges
+Meta Mapping (679):
+   586   C0026193:Minor (Minor (person)) [Population Group]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+
+Phrase: that
+
+Phrase: she
+
+Phrase: was
+
+Phrase: able
+Meta Mapping (1000):
+  1000   C1299581:Able (Able (finding)) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: work through
+Meta Mapping (833):
+   833   C0043227:Work [Occupational Activity]
+
+Phrase: without rest. family history
+Meta Mapping (901):
+   660   C1622890:ResT (site-specific telomere resolvase activity) [Molecular Function]
+   901 N C0241889:FAMILY HISTORY (Family history) [Finding]
+
+Phrase: significant for fatal MI
+Meta Mapping (733):
+   770   C0237881:significant (Statistical Significance) [Quantitative Concept]
+   604 N C1705232:FATAL (Death Related to Adverse Event) [Finding]
+   604   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: in father at 40 s/p CABG.
+Meta Mapping (701):
+   607   C0560033:in s (inches per second) [Quantitative Concept]
+   748   C0015671:FATHER (Father (person)) [Family Group]
+   581   C3842587:40% [Quantitative Concept]
+   581   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+Processing 66_Cage.txt.tx.7: Mother- T2DM, HTN.  
+
+Phrase: Mother- T2DM,
+Meta Mapping (694):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+
+Phrase: HTN.
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 66_Cage.txt.tx.8: Current smoker 1ppd, 2-3 glasses of wine on the weekends, no drug use. 
+
+Phrase: Current smoker 1ppd,
+Meta Mapping (734):
+   734   C3241966:Current Smoker [Finding]
+
+Phrase: 2-3 glasses of wine
+Meta Mapping (875):
+   668   C4687960:2 OF 3 (Severity Two Out of Three) [Finding]
+   760   C0015421:Glasses (Eyeglasses) [Medical Device]
+   593   C0043188:WINE (Wine) [Food]
+
+Phrase: on the weekends,
+Meta Mapping (1000):
+  1000   C0680190:weekends (Weekend) [Temporal Concept]
+
+Phrase: no drug use.
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+Processing 66_Cage.txt.tx.9: No surgeries.  
+
+Phrase: No surgeries.
+Meta Mapping (1000):
+  1000   C0543467:surgeries (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+Processing 66_Cage.txt.tx.10: No allergies.  
+
+Phrase: No allergies.
+Meta Mapping (1000):
+  1000 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+Processing 66_Cage.txt.tx.11: Current medication includes Chlorthalidone and Lisinopril for HTN.   
+
+Phrase: Current medication
+Meta Mapping (1000):
+  1000   C0746467:Current Medication [Finding]
+
+Phrase: includes
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+
+Phrase: Chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril for HTN.
+Meta Mapping (746):
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Processing 66_Cage.txt.tx.12: O- Temp- 98f, Pulse 85, resp 14, BP 150/92.  
+
+Phrase: O- Temp- 98f,
+Meta Mapping (623):
+   660   C0483204:O NOS (O NOS Ab) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   660   C0039476:TEMP (Temperature) [Quantitative Concept]
+
+Phrase: Pulse 85,
+Meta Mapping (888):
+   861   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: resp 14,
+Meta Mapping (861):
+   861   C0231832:RESP (Respiratory rate) [Clinical Attribute]
+
+Phrase: BP 150/92.
+Meta Mapping (827):
+   827   C1708288:BP (HP wt Allele) [Gene or Genome]
+Processing 66_Cage.txt.tx.13: A- Ms. 
+
+Phrase: A- Ms.
+Meta Mapping (1000):
+  1000   C2349943:Ms. (Ms. - Title) [Conceptual Entity]
+Processing 66_Cage.txt.tx.14: Cage is a middle aged woman who presents to clinic with substernal chest pain and pressure with exertion that occurred yesterday. 
+
+Phrase: Cage
+Meta Mapping (1000):
+  1000   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a middle aged woman
+Meta Mapping (958):
+   958   C3825962:Middle-aged women [Age Group]
+
+Phrase: who
+
+Phrase: presents to clinic
+Meta Mapping (746):
+   790   C0150312:PRESENT (Present) [Finding]
+   790   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with substernal chest pain
+Meta Mapping (1000):
+  1000   C0151826:Chest pain, substernal (Retrosternal pain) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: pressure with exertion
+Meta Mapping (746):
+   790   C0460139:Pressure (Pressure (finding)) [Finding]
+   623   C0015264:Exertion [Organism Function]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: yesterday.
+Processing 66_Cage.txt.tx.15: Associated with deep heaviness and shortness of breath, multiple, less severe episodes in the past 4 months with strenuous activity, most concerning for Acute Coronary Syndrome. 
+
+Phrase: Associated with deep heaviness
+Meta Mapping (843):
+   833   C0332281:Associated with [Qualitative Concept]
+   770   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   699   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+
+Phrase: and
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000   C2707305:Shortness of breath (Shortness of breath:-:Point in time:^Patient:-) [Clinical Attribute]
+
+Phrase: multiple,
+Meta Mapping (1000):
+  1000   C0439064:MULTIPLE (Numerous) [Quantitative Concept]
+
+Phrase: less severe episodes in the past 4 months
+Meta Mapping (678):
+   578   C0439092:Less (Less Than) [Quantitative Concept]
+   578   C0205082:Severe (Severe (severity modifier)) [Finding]
+   744   C0332189:Episodes (Episode of) [Temporal Concept]
+   584   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: with strenuous activity,
+Meta Mapping (1000):
+  1000   C1514989:Strenuous Activity (Strenuous Exercise) [Daily or Recreational Activity]
+
+Phrase: most
+Meta Mapping (1000):
+  1000   C0205393:Most [Quantitative Concept]
+
+Phrase: concerning for Acute Coronary Syndrome.
+Meta Mapping (799):
+   726   C2699424:Concern [Idea or Concept]
+   862   C0948089:Acute Coronary Syndrome [Disease or Syndrome]
+Processing 66_Cage.txt.tx.16: Also on the differential are pulmonary embolism, and MI.   
+
+Phrase: Also on the differential
+Meta Mapping (770):
+   770   C0443199:Differential (Differential quality) [Qualitative Concept]
+
+Phrase: are
+
+Phrase: pulmonary embolism,
+Meta Mapping (1000):
+  1000   C0034065:PULMONARY EMBOLISM (Pulmonary Embolism) [Pathologic Function]
+
+Phrase: and
+
+Phrase: MI.
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+Processing 66_Cage.txt.tx.17: P-  Draw blood for CBC, troponin, CMP.  
+
+Phrase: P-
+Meta Mapping (1000):
+  1000   C0369773:P NOS (P Blood group antibodies) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: Draw
+Meta Mapping (1000):
+  1000   C0013113:Draw (Drawings (art)) [Intellectual Product]
+
+Phrase: blood for CBC,
+Meta Mapping (746):
+   790   C0005768:BLOOD (In Blood) [Body Substance]
+   623   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: troponin,
+Meta Mapping (1000):
+  1000   C0041199:Troponin [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: CMP.
+Meta Mapping (1000):
+  1000   C0519825:CMP (Comprehensive Metabolic Panel) [Laboratory Procedure]
+Processing 66_Cage.txt.tx.18: EKG, schedule stress test asap  Left heart cath pending stress test results.  
+
+Phrase: EKG,
+Meta Mapping (1000):
+  1000   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: schedule stress test asap  Left heart cath pending stress test results.
+Meta Mapping (741):
+   622   C0086960:Schedule (Schedule (document type)) [Intellectual Product]
+   622   C1718621:Stress (W stress) [Clinical Attribute]
+   870   C0456984:test results (Test Result) [Laboratory or Test Result]
+   634   C0225809:left heart (Left side of heart) [Body Location or Region]
+Processing 66_Cage.txt.tx.19: Start aspirin 325mg Daily.
+
+Phrase: Start aspirin 325mg Daily.
+Meta Mapping (608):
+   645   C0439659:Start (Beginning) [Temporal Concept]
+   645   C0004057:ASPIRIN (aspirin) [Organic Chemical,Pharmacologic Substance]
+   645   C0332173:Daily [Temporal Concept]

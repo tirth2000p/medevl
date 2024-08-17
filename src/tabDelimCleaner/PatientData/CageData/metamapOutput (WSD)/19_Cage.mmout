@@ -1,0 +1,514 @@
+Processing 19_Cage.txt.tx.1: Subjective  Pt is a 46 y/o male presenting for evaluation of acute onset chest pain that occurred this past Sunday while he was carrying some heavy items to his car. 
+
+Phrase: Subjective  Pt
+Meta Mapping (888):
+   694   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+   861   C0032743:PT (Positron-Emission Tomography) [Diagnostic Procedure]
+
+Phrase: is
+
+Phrase: a 46 y/o male presenting for evaluation of acute onset chest pain
+Meta Mapping (694):
+   582   C0029408:a o (Degenerative polyarthritis) [Disease or Syndrome]
+   569   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   735   C0449450:Presenting (Presentation) [Idea or Concept]
+   569   C0220825:Evaluation [Health Care Activity]
+   583   C1276802:ACUTE ONSET (Sudden onset (attribute)) [Temporal Concept]
+   568   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that
+
+Phrase: occurred
+Meta Mapping (1000):
+  1000   C1709305:Occurred (Occur (action)) [Activity]
+
+Phrase: this past Sunday
+Meta Mapping (888):
+   694   C1444637:Past (In the past) [Temporal Concept]
+   861   C0585025:Sunday [Temporal Concept]
+
+Phrase: while
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: some heavy items to his car.
+Meta Mapping (716):
+   586   C0205392:Some (Some (qualifier value)) [Quantitative Concept]
+   586   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   719   C1551338:Item (Entity) [Entity]
+   586   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   586   C0004381:Car (Automobiles) [Manufactured Object]
+Processing 19_Cage.txt.tx.2: Pain was central in his chest, did not radiates, was a 7/10 in severity. 
+
+Phrase: Pain
+Meta Mapping (1000):
+  1000   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: was
+
+Phrase: central in his chest,
+Meta Mapping (733):
+   770   C0205099:CENTRAL (Central) [Spatial Concept]
+   604   C0019602:HIS (histidine) [Amino Acid, Peptide, or Protein,Biologically Active Substance,Pharmacologic Substance]
+   604   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiates
+Meta Mapping (1000):
+  1000   C0332301:radiates (Radiating to) [Functional Concept]
+
+Phrase: ,
+
+Phrase: was
+
+Phrase: a 7/10 in severity.
+Meta Mapping (771):
+   806   C0163299:A 7 [Organic Chemical,Pharmacologic Substance]
+   762 N C3843616:10 - severe [Finding]
+Processing 19_Cage.txt.tx.3: Had associated light headedness and sob. 
+
+Phrase: Had
+
+Phrase: associated light headedness
+Meta Mapping (888):
+   660   C0332281:Associated (Associated with) [Qualitative Concept]
+   901   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: sob.
+Meta Mapping (1000):
+  1000   C0013404:SOB (Dyspnea) [Sign or Symptom]
+Processing 19_Cage.txt.tx.4: Resolved within 5-10 minutes with rest. 
+
+Phrase: Resolved within 5-10 minutes
+Meta Mapping (761):
+   760   C2699488:Resolved (Resolution) [Conceptual Entity]
+   797   C4517521:10.5 [Quantitative Concept]
+   760   C0702093:/minute (Per Minute) [Temporal Concept]
+Meta Mapping (761):
+   760   C2699488:Resolved (Resolution) [Conceptual Entity]
+   760   C3842590:10% [Quantitative Concept]
+   797   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+
+Phrase: with rest.
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+Processing 19_Cage.txt.tx.5: Currently asymptomatic. 
+
+Phrase: Currently asymptomatic.
+Meta Mapping (888):
+   694   C0521116:Currently (Current (present time)) [Temporal Concept]
+   861   C0231221:Asymptomatic [Finding]
+Processing 19_Cage.txt.tx.6: Had previous "twinges" of pain with exertion in the past, but did not think much of them at the time. 
+
+Phrase: Had
+
+Phrase: previous "twinges"
+Meta Mapping (694):
+   694   C1552607:previous (Act Relationship Subset - previous) [Temporal Concept]
+
+Phrase: of pain with exertion
+Meta Mapping (733):
+   604   C1704913:OF (TAF1 wt Allele) [Gene or Genome]
+   770   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   604   C0015264:Exertion [Organism Function]
+
+Phrase: in the past,
+Meta Mapping (1000):
+  1000   C1444637:Past (In the past) [Temporal Concept]
+
+Phrase: but
+
+Phrase: did
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: think
+Meta Mapping (1000):
+  1000 N C0039869:think (Thinking, function) [Mental Process]
+
+Phrase: much of them
+Meta Mapping (790):
+   790   C4281574:Much [Finding]
+
+Phrase: at the time.
+Meta Mapping (1000):
+  1000   C0040223:TIME (Time) [Temporal Concept]
+Processing 19_Cage.txt.tx.7: Also has some" pressure" in the epigastric region after a large meal which occurs 2-3 times a week and has ben ongoing for the past year. 
+
+Phrase: Also
+
+Phrase: has
+
+Phrase: some" pressure"
+Meta Mapping (1000):
+  1000   C0033095:Pressure (Pressure- physical agent) [Phenomenon or Process]
+
+Phrase: in the epigastric region after a large meal
+Meta Mapping (682):
+   578   C0150312:In (Present) [Finding]
+   770   C0230185:EPIGASTRIC REGION (Epigastrium) [Body Location or Region]
+   578   C0549177:LARGE (Large) [Quantitative Concept]
+   578   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+
+Phrase: which
+
+Phrase: occurs
+Meta Mapping (1000):
+  1000   C2745955:OCCUR (Occurrence) [Temporal Concept]
+
+Phrase: 2-3 times
+Meta Mapping (1000):
+  1000   C3840669:2-3 times (2 to 3 times) [Finding]
+
+Phrase: a week
+Meta Mapping (1000):
+  1000   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: and
+
+Phrase: has
+
+Phrase: ben
+Meta Mapping (1000):
+  1000   C3811762:BEN (Benzaldehyde Dimethane Sulfonate) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: ongoing for the past year.
+Meta Mapping (745):
+   760   C0549178:ONGOING (Continuous) [Idea or Concept]
+   640   C4086728:Past Year [Temporal Concept]
+Processing 19_Cage.txt.tx.8: No trial of antacid. 
+
+Phrase: No trial of antacid.
+Meta Mapping (733):
+   604   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   770   C0008976:Trial (Clinical Trials) [Research Activity]
+   604   C0003138:Antacid (Antacids) [Pharmacologic Substance]
+Processing 19_Cage.txt.tx.9: Denies reflux. 
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: reflux.
+Meta Mapping (1000):
+  1000 N C0232483:Reflux [Pathologic Function]
+Processing 19_Cage.txt.tx.10: Denies palpitations, abd pain, n/v/d/constipation, headaches, vision changes, focal weakness.   
+
+Phrase: Denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: palpitations,
+Meta Mapping (1000):
+  1000 N C0030252:PALPITATIONS (Palpitations) [Finding]
+
+Phrase: abd pain,
+Meta Mapping (888):
+   694   C0000726:abd (Abdomen) [Body Location or Region]
+   861 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+
+Phrase: n/v/d/constipation,
+Meta Mapping (861):
+   645   C0369718:N NOS (N not otherwise specified Antibody) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   694 N C0231965:V D (Dead space gas volume) [Laboratory or Test Result]
+   812 N C0009806:CONSTIPATION (Constipation) [Sign or Symptom]
+
+Phrase: headaches,
+Meta Mapping (1000):
+  1000 N C0018681:Headaches (Headache) [Sign or Symptom]
+
+Phrase: vision changes,
+Meta Mapping (964):
+   964 N C0750280:Visual Changes (Visual changes) [Finding]
+
+Phrase: focal weakness.
+Meta Mapping (888):
+   694   C0205234:FOCAL (Focal) [Spatial Concept]
+   861 N C3714552:WEAKNESS (Weakness) [Sign or Symptom]
+Processing 19_Cage.txt.tx.11: PMHx of HTN on Chlorthalidone 25 mg once daily, Lisinopril 10mg once daily  No other meds, no allergies FHx with father who had MI and CABG at 40 y/o, mom with HTN No surg hx  Soc: lives alone in apartment, safe, 20 pack year smoking history, ETOH 2-3 drinks on frid/ sat, no drug use.     
+
+Phrase: PMHx of HTN
+Meta Mapping (623):
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: on Chlorthalidone 25 mg
+Meta Mapping (1000):
+  1000   C0984827:Chlorthalidone 25 MG [Clinical Drug]
+
+Phrase: once
+
+Phrase: daily,
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: Lisinopril 10mg
+Meta Mapping (694):
+   694   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: once
+
+Phrase: daily
+Meta Mapping (1000):
+  1000   C0332173:Daily [Temporal Concept]
+
+Phrase: No other meds,
+Meta Mapping (1000):
+  1000 N C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: no allergies FHx with father
+Meta Mapping (733):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   593 N C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+   760   C1428412:FHX (FOXJ2 gene) [Gene or Genome]
+   593   C0015671:FATHER (Father (person)) [Family Group]
+
+Phrase: who
+
+Phrase: had
+
+Phrase: MI
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: and
+
+Phrase: CABG at 40 y/o,
+Meta Mapping (686):
+   760   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+   593   C0439509:/40 [Quantitative Concept]
+
+Phrase: mom with HTN
+Meta Mapping (746):
+   790   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   623   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: No surg hx  Soc
+Meta Mapping (623):
+   660   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   660 N C0262926:Hx (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: lives
+Meta Mapping (1000):
+  1000 N C0595998:lives (Household composition) [Finding]
+
+Phrase: alone in apartment,
+Meta Mapping (746):
+   790   C0679994:alone (alone - group size) [Group Attribute]
+   623   C0457933:Apartment (Residential flat) [Manufactured Object]
+
+Phrase: safe,
+Meta Mapping (1000):
+  1000   C4684764:SAFE (SAFE-Biopharma Standard) [Intellectual Product]
+
+Phrase: 20 pack year smoking history,
+Meta Mapping (857):
+   673   C2700095:20 Pack (Twenty Pack) [Quantitative Concept]
+   637   C0439508:/Year (per year) [Temporal Concept]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+Meta Mapping (857):
+   637   C3842589:20% [Quantitative Concept]
+   673   C1277691:Pack Year (Pack years) [Intellectual Product]
+   840   C1519384:Smoking History (Tobacco Smoking History) [Finding]
+
+Phrase: ETOH 2-3 drinks on frid/ sat,
+Meta Mapping (692):
+   581   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   748   C0452428:Drinks (Drink (dietary substance)) [Food]
+   607   C1152173:SAT-2 (alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity) [Molecular Function]
+Meta Mapping (692):
+   581   C0001962:ETOH (ethanol) [Organic Chemical,Pharmacologic Substance]
+   748   C0452428:Drinks (Drink (dietary substance)) [Food]
+   607   C1152177:SAT-3 (neolactotetraosylceramide alpha-2,3-sialyltransferase activity) [Molecular Function]
+
+Phrase: no drug use.
+Meta Mapping (1000):
+  1000 N C0242510:Drug use (Drug usage) [Mental or Behavioral Dysfunction]
+Processing 19_Cage.txt.tx.12: Objective 98F  85 BPM  R14  150/92mmHG  Good peripheral perfusion, RRR no murmurs, abdomen soft non tender no distension, good peripheral pulses, no carotid bruits, no JVD, no hepatomegaly, no lower extremity edema   Assessment  46 y/o male with high ASCVD risk factors  presenting with typical angina that has been progressively worsening. 
+
+Phrase: Objective 98F  85 BPM  R14  150/92mmHG  Good peripheral perfusion,
+Meta Mapping (741):
+   623   C1571702:Objective (Objective observation) [Qualitative Concept]
+   623   C4517892:85 [Quantitative Concept]
+   623   C0205170:Good [Qualitative Concept]
+   804   C0425710:Peripheral perfusion [Finding]
+
+Phrase: RRR
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: abdomen soft non tender
+Meta Mapping (861):
+   902 N C0573980:abdomen tender (Abdominal tenderness absent) [Finding]
+   645   C0205358:Soft [Qualitative Concept]
+   812   C1518422:Non (Negation) [Functional Concept]
+Meta Mapping (861):
+   645   C0000726:ABDOMEN (Abdomen) [Body Location or Region]
+   645   C0205358:Soft [Qualitative Concept]
+   861   C0520960:Non-tender [Qualitative Concept]
+
+Phrase: no distension,
+Meta Mapping (1000):
+  1000 N C0012359:Distention, NOS (Pathological Dilatation) [Pathologic Function]
+
+Phrase: good peripheral pulses,
+Meta Mapping (901):
+   660   C0205170:Good [Qualitative Concept]
+   901   C0232139:peripheral pulses (Peripheral pulse) [Organ or Tissue Function]
+
+Phrase: no carotid bruits,
+Meta Mapping (1000):
+  1000 N C0007280:carotid bruits (Carotid bruit) [Finding]
+
+Phrase: no JVD,
+Meta Mapping (1000):
+  1000 N C0425687:JVD (Jugular venous engorgement) [Finding]
+
+Phrase: no hepatomegaly,
+Meta Mapping (1000):
+  1000 N C0019209:HEPATOMEGALY (Hepatomegaly) [Finding]
+
+Phrase: no lower extremity edema   Assessment  46 y/o male with high ASCVD risk factors
+Meta Mapping (696):
+   580   C2826217:No Assessment [Finding]
+   596 N C0239340:Lower Extremity oedema (Edema of lower extremity) [Finding]
+   734   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   594 N C1830377:High risk factors [Finding]
+   568   C3665365:ASCVD (Arteriosclerotic cardiovascular disease, NOS) [Disease or Syndrome]
+
+Phrase: presenting with typical angina
+Meta Mapping (783):
+   770   C0449450:Presenting (Presentation) [Idea or Concept]
+   833   C1998435:Typical angina [Sign or Symptom]
+
+Phrase: that
+
+Phrase: has
+
+Phrase: been
+
+Phrase: progressively worsening.
+Meta Mapping (861):
+   861   C1457868:Worsening (Worse) [Finding]
+Processing 19_Cage.txt.tx.13: Currently asymptomatic, euvolemic.   
+
+Phrase: Currently asymptomatic, euvolemic.
+Meta Mapping (828):
+   660   C0521116:Currently (Current (present time)) [Temporal Concept]
+   660   C0231221:Asymptomatic [Finding]
+   755   C1845208:Euvolemia [Finding]
+Processing 19_Cage.txt.tx.14: Plan - EKG now in office, Troponins. will send to ED if positive  - CBC to eval for anemia as cause of angina  - BMP to check for electrolyte abnormalities  - With acute HTN, likely in setting of stress. 
+
+Phrase: Plan - EKG now in office, Troponins.
+Meta Mapping (751):
+   632   C0599880:Plan (Treatment Plan) [Intellectual Product]
+   632   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   632   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+   632   C0442603:Office [Manufactured Object]
+   799   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: will
+
+Phrase: send to ED
+Meta Mapping (746):
+   790   C1519246:Send (Send (transmission)) [Functional Concept]
+   790   C3538926:ED (Endocrine System Findings Domain) [Intellectual Product]
+
+Phrase: if
+
+Phrase: positive  - CBC to eval
+Meta Mapping (733):
+   604   C1514241:POSITIVE (Positive Finding) [Finding]
+   770   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+   604   C1707957:EVAL (Evaluator - personnel) [Professional or Occupational Group]
+
+Phrase: for anemia as cause of angina  - BMP
+Meta Mapping (683):
+   581   C0521125:For (Preposition For) [Qualitative Concept]
+   748   C0002871:ANEMIA (Anemia) [Disease or Syndrome]
+   581   C0015127:cause (Etiology aspects) [Functional Concept]
+   581   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+   581   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: check for electrolyte abnormalities  -
+Meta Mapping (783):
+   770   C1283174:Check (Checking (action)) [Activity]
+   819   C0151613:abnormalities electrolyte (Electrolytes abnormal) [Finding]
+
+Phrase: With acute HTN,
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: likely in setting of stress.
+Meta Mapping (687):
+   760   C0750492:Likely (Probably) [Idea or Concept]
+   760   C1318139:{Setting} [Quantitative Concept]
+   760   C1718621:Stress (W stress) [Clinical Attribute]
+Processing 19_Cage.txt.tx.15: Will address at later visit, acute problem is the angina.  
+
+Phrase: Will
+
+Phrase: address at later visit,
+Meta Mapping (733):
+   770   C1442065:Address [Intellectual Product]
+   770   C0205087:Later (Late) [Temporal Concept]
+   770   C2826704:VISIT (Visit Name) [Intellectual Product]
+
+Phrase: acute problem
+Meta Mapping (888):
+   694   C0205178:ACUTE (acute) [Temporal Concept]
+   861   C0033213:Problem [Finding]
+
+Phrase: is
+
+Phrase: the angina.
+Meta Mapping (1000):
+  1000   C0002962:ANGINA (Angina Pectoris) [Sign or Symptom]
+Processing 19_Cage.txt.tx.16: - Likely with some GERD or PUD. 
+
+Phrase: - Likely with some GERD
+Meta Mapping (708):
+   770   C0750492:Likely (Probably) [Idea or Concept]
+   770   C0017168:GERD (Gastroesophageal reflux disease) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: PUD.
+Processing 19_Cage.txt.tx.17: Will trial on famotidine. 
+
+Phrase: Will
+
+Phrase: trial on famotidine.
+Meta Mapping (746):
+   790   C0008976:Trial (Clinical Trials) [Research Activity]
+   623   C0015620:FAMOTIDINE (famotidine) [Organic Chemical,Pharmacologic Substance]
+Processing 19_Cage.txt.tx.18: - Pre contemplative re smoking cessation
+
+Phrase: - Pre contemplative re smoking cessation
+Meta Mapping (794):
+   637   C0740175:Pre (Before values) [Qualitative Concept]
+   637   C0556581:{RE} (Retinol equivalents) [Quantitative Concept]
+   840   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]

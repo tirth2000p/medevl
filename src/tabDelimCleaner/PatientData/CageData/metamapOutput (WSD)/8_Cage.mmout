@@ -1,0 +1,621 @@
+Processing 8_Cage.txt.tx.1: Subjective: Gerry Cage is a 50something year old male patient presenting to clinic with several episodes of chest pain over the past 4 months. 
+
+Phrase: Subjective
+Meta Mapping (1000):
+  1000   C0439655:Subjective (Subjective observation (qualifier value)) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 50something year old male patient presenting to clinic
+Meta Mapping (696):
+   575   C0439508:/Year (per year) [Temporal Concept]
+   575   C0580836:Old [Temporal Concept]
+   598   C0150904:male patient (patient is male) [Organism Attribute]
+   742   C0449450:Presenting (Presentation) [Idea or Concept]
+   575   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+
+Phrase: with several episodes of chest pain
+Meta Mapping (772):
+   586   C0332287:With (In addition to) [Functional Concept]
+   753   C0332189:Episodes (Episode of) [Temporal Concept]
+   626   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: over the past 4 months.
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+Processing 8_Cage.txt.tx.2: He states that he has experienced about 2-3 episodes of momentary midsternal chest pains over the past few months, noting that they have lasted only a few seconds, resolved spontaneously, and felt like a "deep, heavy ache" sensation. 
+
+Phrase: He
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: has
+
+Phrase: experienced about 2-3 episodes of momentary midsternal chest pains
+Meta Mapping (661):
+   706   C0596545:Experience [Mental Process]
+   739   C0332189:Episodes (Episode of) [Temporal Concept]
+   736   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: over the past few months,
+Meta Mapping (896):
+   896   C4331910:Past Month (Past 30 days) [Temporal Concept]
+
+Phrase: noting
+Meta Mapping (966):
+   966   C1317574:Note (Note (document)) [Intellectual Product]
+
+Phrase: that
+
+Phrase: they
+
+Phrase: have
+
+Phrase: lasted
+Meta Mapping (966):
+   966   C1517741:Last [Qualitative Concept]
+
+Phrase: only
+Meta Mapping (1000):
+  1000   C0205171:Only (Singular) [Quantitative Concept]
+
+Phrase: a few seconds,
+Meta Mapping (1000):
+  1000   C4036225:Few seconds [Temporal Concept]
+
+Phrase: resolved
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+
+Phrase: spontaneously,
+
+Phrase: and
+
+Phrase: felt like
+Meta Mapping (827):
+   827 N C1527305:feel (Feelings) [Mental Process]
+
+Phrase: a "deep, heavy ache" sensation.
+Meta Mapping (861):
+   645   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   875   C0439539:Heavy Sensation (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   645 N C0234238:ACHE (Ache) [Sign or Symptom]
+Processing 8_Cage.txt.tx.3: Several days ago while carrying heavy groceries outside, Gerry reports that he experienced sudden onset of a similar chest pain that caused him to drop his groceries, and had to rest sitting down for 5-10 minutes before the chest pain resolved. 
+
+Phrase: Several days ago
+Meta Mapping (901):
+   901   C3845714:Several Days (Several days) [Finding]
+
+Phrase: while
+
+Phrase: carrying
+Meta Mapping (1000):
+  1000   C0206243:Carrying [Activity]
+
+Phrase: heavy groceries outside, Gerry
+Meta Mapping (775):
+   645   C0439539:Heavy (Heavy (weight) (qualifier value)) [Qualitative Concept]
+   645   C0205101:Outside (Extrinsic) [Spatial Concept]
+   812   C1019207:gerry (Gerris) [Eukaryote]
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: that
+
+Phrase: he
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: sudden onset of a similar chest pain
+Meta Mapping (756):
+   778   C1276802:Sudden onset (Sudden onset (attribute)) [Temporal Concept]
+   581   C2348205:Similar (Similarity) [Qualitative Concept]
+   606   C0024902:Pain of breast (Mastodynia) [Sign or Symptom]
+
+Phrase: that caused
+Meta Mapping (966):
+   966   C0015127:cause (Etiology aspects) [Functional Concept]
+
+Phrase: him
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: drop
+Meta Mapping (1000):
+  1000   C1321095:Drop (Drop Dosing Unit) [Quantitative Concept]
+
+Phrase: his groceries,
+
+Phrase: and
+
+Phrase: had
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: rest
+Meta Mapping (1000):
+  1000   C0035253:Rest [Daily or Recreational Activity]
+
+Phrase: sitting down
+Meta Mapping (833):
+   833   C0277814:SITTING (Sitting position) [Finding]
+
+Phrase: for 5-10 minutes before the chest pain
+Meta Mapping (721):
+   578   C0521125:For (Preposition For) [Qualitative Concept]
+   600   C4517521:10.5 [Quantitative Concept]
+   744   C0702093:/minute (Per Minute) [Temporal Concept]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Meta Mapping (721):
+   578   C0521125:For (Preposition For) [Qualitative Concept]
+   578   C3842590:10% [Quantitative Concept]
+   767   C0886384:minute 5 (5 minutes Office visit) [Therapeutic or Preventive Procedure]
+   604   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: resolved.
+Meta Mapping (1000):
+  1000   C2699488:Resolved (Resolution) [Conceptual Entity]
+Processing 8_Cage.txt.tx.4: Endorses associated lightheadedness, but denies loss of consciousness, falls, shortness of breath. 
+
+Phrase: Endorses
+
+Phrase: associated
+Meta Mapping (1000):
+  1000   C0332281:Associated (Associated with) [Qualitative Concept]
+
+Phrase: lightheadedness,
+Meta Mapping (1000):
+  1000   C0012833:Lightheadedness (Dizziness) [Sign or Symptom]
+
+Phrase: but
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: loss of consciousness,
+Meta Mapping (1000):
+  1000 N C0041657:LOSS OF CONSCIOUSNESS (Unconscious State) [Finding]
+
+Phrase: falls,
+Meta Mapping (1000):
+  1000 N C0085639:FALLS (Falls) [Finding]
+
+Phrase: shortness of breath.
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+Processing 8_Cage.txt.tx.5: Notes that the chest pains do not radiate. 
+
+Phrase: Notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that
+
+Phrase: the chest pains
+Meta Mapping (1000):
+  1000   C0008031:Pains, Chest (Chest Pain) [Sign or Symptom]
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: radiate.
+Meta Mapping (1000):
+  1000   C0332301:radiate (Radiating to) [Functional Concept]
+Processing 8_Cage.txt.tx.6: He also reports having intermittent episodes of nonpainful pressure-like sensations after eating a big meal at lunchtime, states that this happens 2-3 times per week and the pressure sensation is located in the same midsternal location.   
+
+Phrase: He
+
+Phrase: also
+
+Phrase: reports
+Meta Mapping (1000):
+  1000   C0700287:reports (Reporting) [Health Care Activity]
+
+Phrase: having
+
+Phrase: intermittent episodes of nonpainful pressure-
+Meta Mapping (752):
+   593   C0205267:INTERMITTENT (Intermittent) [Temporal Concept]
+   790   C0332189:Episode of [Temporal Concept]
+   593   C0460139:Pressure (Pressure (finding)) [Finding]
+
+Phrase: like sensations after eating
+Meta Mapping (733):
+   604   C0870814:Like [Mental Process]
+   770   C0036658:Sensations (Esthesia) [Organ or Tissue Function]
+   604   C0013470:Eating [Organism Function]
+
+Phrase: a big meal at lunchtime,
+Meta Mapping (696):
+   593   C0549177:Big (Large) [Quantitative Concept]
+   760   C1998602:Meal (Meal (occasion for eating)) [Daily or Recreational Activity]
+   593   C0585039:Lunchtime (Lunch time) [Temporal Concept]
+
+Phrase: states
+Meta Mapping (1000):
+  1000   C1442792:State [Functional Concept]
+
+Phrase: that
+
+Phrase: this
+
+Phrase: happens
+Meta Mapping (1000):
+  1000   C1709305:Happen (Occur (action)) [Activity]
+
+Phrase: 2-3 times per week
+Meta Mapping (900):
+   900   C0556985:2 TIMES PER WEEK (Twice weekly) [Temporal Concept]
+
+Phrase: and
+
+Phrase: the pressure sensation
+Meta Mapping (1000):
+  1000   C0234222:pressure sensation (Baresthesia) [Organ or Tissue Function]
+
+Phrase: is
+
+Phrase: located in the same midsternal location.
+Meta Mapping (672):
+   753   C0445247:SAME (Same) [Qualitative Concept]
+   753   C0450429:Location [Spatial Concept]
+Processing 8_Cage.txt.tx.7: PMHx - HTN surg hx - none meds - chlorthalidone 25mg daily, lisinopril 10 daily allergies - unknown family hx - dad CAD, MI, CABG, deceased, mom HTN diabetes PE deceased, maternal grandmother breast cancer deceased  alcohol - 203 glasses of wine per week, smokes 1 PPD for >20 years, no illicit drug use  Objective:  vitals - temp 98 F, BP 150/92, pulse 85, RR 14  general - well developed, well nourished appearing middle aged male, appears anxious but not in any acute distress, wearing hospital gown and sitting in exam chair CV - normal rate, normal rhythm, brachial and radial pulse 2+ bilaterally, normal S1 and S2, no murmur, rubs or gallops lungs - clear to auscultation bilaterally  Assessment: 50something year old caucasian male with increasingly severe midsternal chest pain/pressures with exertion, pertinent past medical history of HTN treated with lisinopril and chlorthalidone, pertinent family history of CAD/MI, HTN, DM.   
+
+Phrase: PMHx - HTN surg hx -
+Meta Mapping (775):
+   645   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   645   C0543467:Surg (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+   812   C0262926:Hx (Medical History) [Finding]
+
+Phrase: none meds - chlorthalidone 25mg daily,
+Meta Mapping (608):
+   645   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   645   C0332173:Daily [Temporal Concept]
+
+Phrase: lisinopril 10 daily allergies - unknown family hx - dad CAD,
+Meta Mapping (804):
+   646   C0571941:Lisinopril allergy [Disease or Syndrome]
+   624   C3842590:10% [Quantitative Concept]
+   624   C0332173:Daily [Temporal Concept]
+   624   C0439673:UNKNOWN (Unknown) [Qualitative Concept]
+   624   C0015576:Family [Family Group]
+   624   C0262926:Hx (Medical History) [Finding]
+   624   C3641946:DAD (Disability Assessment for Dementia Questionnaire) [Intellectual Product]
+   791   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: MI,
+Meta Mapping (1000):
+  1000   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CABG,
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: deceased,
+Meta Mapping (1000):
+  1000   C0011065:Deceased (Cessation of life) [Organism Function]
+
+Phrase: mom HTN diabetes PE
+Meta Mapping (833):
+   645   C1442163:MoM (Multiple of the median) [Quantitative Concept]
+   645   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+   645   C0011849:Diabetes (Diabetes Mellitus) [Disease or Syndrome]
+   812   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: deceased
+Meta Mapping (1000):
+  1000   C0011065:Deceased (Cessation of life) [Organism Function]
+
+Phrase: ,
+
+Phrase: maternal grandmother breast cancer deceased  alcohol - 203 glasses of wine
+Meta Mapping (748):
+   593   C1273525:Maternal grand-mother (Maternal grandmother) [Family Group]
+   608   C0006142:Cancer of Breast (Malignant neoplasm of breast) [Neoplastic Process]
+   573   C0011065:Deceased (Cessation of life) [Organism Function]
+   573   C0001962:ALCOHOL (ethanol) [Organic Chemical,Pharmacologic Substance]
+   739   C0015421:Glasses (Eyeglasses) [Medical Device]
+   573   C0043188:WINE (Wine) [Food]
+
+Phrase: per week,
+Meta Mapping (1000):
+  1000   C0332174:/week (Weekly) [Temporal Concept]
+
+Phrase: smokes 1 PPD for
+Meta Mapping (708):
+   604   C0037369:smokes (Smoking) [Individual Behavior]
+   770   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: >20 years,
+Meta Mapping (1000):
+  1000   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: no illicit drug use  Objective
+Meta Mapping (916):
+   756 N C0281875:Illicit drug use (Illicit medication use) [Mental or Behavioral Dysfunction]
+   812   C1571702:Objective (Objective observation) [Qualitative Concept]
+
+Phrase: :
+
+Phrase: vitals - temp 98 F,
+Meta Mapping (815):
+   574   C0518766:VITAL (Vital signs) [Clinical Attribute]
+   645   C0039476:TEMP (Temperature) [Quantitative Concept]
+   645   C4319627:98 [Quantitative Concept]
+   812   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: BP 150/92,
+Meta Mapping (827):
+   827   C1415692:Bp (HP gene) [Gene or Genome]
+
+Phrase: pulse 85,
+Meta Mapping (888):
+   861   C0391850:Pulse (Physiologic pulse) [Physiologic Function]
+   861   C4517892:85 [Quantitative Concept]
+
+Phrase: RR 14  general - well developed, well nourished
+Meta Mapping (763):
+   629   C4554402:RR (RR genotype) [Finding]
+   629   C0205246:General (Generalized) [Spatial Concept]
+   845   C2364291:Well nourished (Actual Positive Nutritional Status) [Finding]
+
+Phrase: appearing
+Meta Mapping (966):
+   966   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: middle aged male,
+Meta Mapping (901):
+   734   C0205847:Middle Aged [Age Group]
+   827   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+
+Phrase: appears
+Meta Mapping (1000):
+  1000   C0700364:APPEAR (Appearance) [Qualitative Concept]
+
+Phrase: anxious
+Meta Mapping (1000):
+  1000   C0003467:Anxious (Anxiety) [Mental or Behavioral Dysfunction]
+
+Phrase: but
+
+Phrase: not in any acute distress,
+Meta Mapping (696):
+   760   C1518422:Not (Negation) [Functional Concept]
+   760   C0205178:ACUTE (acute) [Temporal Concept]
+   760 N C0231303:Distress [Finding]
+
+Phrase: wearing
+
+Phrase: hospital gown
+Meta Mapping (888):
+   694   C1510665:Hospital (Hospital environment) [Qualitative Concept]
+   861   C0181064:GOWN (Gown) [Medical Device]
+
+Phrase: and
+
+Phrase: sitting in exam chair CV - normal rate,
+Meta Mapping (738):
+   748   C0277814:SITTING (Sitting position) [Finding]
+   581   C0582103:Exam (Medical Examination) [Health Care Activity]
+   581   C1524106:Chair (Chairperson) [Professional or Occupational Group]
+   581   C4318503:CV (ciliary vesicle) [Cell Component]
+   581   C0205307:NORMAL (Normal) [Qualitative Concept]
+   581   C1521828:Rate [Quantitative Concept]
+
+Phrase: normal rhythm,
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: brachial
+Meta Mapping (1000):
+  1000   C0445456:Brachial [Spatial Concept]
+
+Phrase: and
+
+Phrase: radial pulse 2+ bilaterally,
+Meta Mapping (861):
+   861   C0232142:Pulse, radial (Radial pulse, function) [Organ or Tissue Function]
+
+Phrase: normal S1
+Meta Mapping (888):
+   694   C0205307:NORMAL (Normal) [Qualitative Concept]
+   861   C3715215:S1 [Finding]
+
+Phrase: and
+
+Phrase: S2,
+Meta Mapping (1000):
+  1000   C1419718:S2 (RPS2 gene) [Gene or Genome]
+
+Phrase: no murmur,
+Meta Mapping (1000):
+  1000 N C0018808:MURMUR (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: or
+
+Phrase: gallops lungs - clear to auscultation bilaterally  Assessment
+Meta Mapping (664):
+   581   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+   748 N C1709157:Clear (Negative Surgical Margin) [Finding]
+   581   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+   581   C1516048:Assessment (Assessed) [Activity]
+
+Phrase: :
+
+Phrase: 50something year old caucasian male with increasingly severe midsternal chest pain/pressures
+Meta Mapping (669):
+   570   C0439508:/Year (per year) [Temporal Concept]
+   570   C0580836:Old [Temporal Concept]
+   570   C0007457:Caucasian (Caucasoid Race) [Population Group]
+   570   C0205082:Severe (Severe (severity modifier)) [Finding]
+   739   C0235792:BREAST PAIN MALE [Sign or Symptom]
+   570   C0460139:pressures (Pressure (finding)) [Finding]
+
+Phrase: with exertion,
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: pertinent past medical history of HTN
+Meta Mapping (813):
+   820   C0332119:Past history of [Finding]
+   753   C0205476:Medical [Functional Concept]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (813):
+   753   C1444637:Past (In the past) [Temporal Concept]
+   820   C0262926:History of MEDICAL (Medical History) [Finding]
+   586   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: treated with lisinopril
+Meta Mapping (901):
+   882   C0332293:Treated with [Therapeutic or Preventive Procedure]
+   790   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: chlorthalidone,
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: pertinent family history of CAD/MI,
+Meta Mapping (719):
+   790   C0241889:FAMILY HISTORY (Family history) [Finding]
+   586   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   586   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: HTN,
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: DM.
+Meta Mapping (1000):
+  1000   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+Processing 8_Cage.txt.tx.8: Order EKG Order troponins Order CBC, BMP, TSH,  Order chest x-ray If discharged, can consider ordering stress test as outpatient Recommend following up with PCP, or establishing care with PCP if necessary, to further refine medication regimen, regular follow up Discuss smoking cessation
+
+Phrase: Order EKG Order troponins
+Meta Mapping (775):
+   645   C1705178:Order (Order (action)) [Activity]
+   645   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+   812   C0041199:Troponins (Troponin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: Order
+Meta Mapping (1000):
+  1000   C1705178:Order (Order (action)) [Activity]
+
+Phrase: CBC,
+Meta Mapping (1000):
+  1000   C0009555:CBC (Complete Blood Count) [Laboratory Procedure]
+
+Phrase: BMP,
+Meta Mapping (1000):
+  1000   C0053932:BMP (Bone Morphogenetic Proteins) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+
+Phrase: TSH,
+
+Phrase: Order chest x-ray
+Meta Mapping (916):
+   645   C1705178:Order (Order (action)) [Activity]
+   923   C0039985:Chest X-ray (Plain chest X-ray) [Diagnostic Procedure]
+
+Phrase: If
+
+Phrase: discharged
+Meta Mapping (1000):
+  1000   C0030685:Discharged (Patient Discharge) [Health Care Activity]
+
+Phrase: ,
+
+Phrase: can
+
+Phrase: consider
+Meta Mapping (1000):
+  1000   C0750591:consider [Idea or Concept]
+
+Phrase: ordering
+Meta Mapping (966):
+   966   C1705178:Order (Order (action)) [Activity]
+
+Phrase: stress test as outpatient
+Meta Mapping (783):
+   833   C0015260:stress test (Exercise stress test) [Diagnostic Procedure]
+   604   C0029921:Outpatient (Outpatients) [Patient or Disabled Group]
+
+Phrase: Recommend
+Meta Mapping (1000):
+  1000   C0034866:recommend (Recommendation) [Idea or Concept]
+
+Phrase: following up with PCP,
+Meta Mapping (772):
+   816   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+   604   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: or
+
+Phrase: establishing care with PCP
+Meta Mapping (733):
+   604   C0443211:establishing (Established) [Qualitative Concept]
+   770   C1947933:Care (care activity) [Activity]
+   604   C1535939:PCP (Pneumocystis jiroveci pneumonia) [Disease or Syndrome]
+
+Phrase: if
+
+Phrase: necessary,
+
+Phrase: to further
+Meta Mapping (1000):
+  1000   C1517331:Further [Spatial Concept]
+
+Phrase: refine
+Meta Mapping (916):
+   916   C1947930:Cleansed (Cleaning (activity)) [Activity]
+
+Phrase: medication regimen,
+Meta Mapping (888):
+   694   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   861   C0040808:Regimen (Treatment Protocols) [Therapeutic or Preventive Procedure]
+
+Phrase: regular follow up
+Meta Mapping (901):
+   660   C0205272:Regular [Qualitative Concept]
+   901   C1522577:Followup (follow-up) [Health Care Activity]
+Meta Mapping (901):
+   660   C0205272:Regular [Qualitative Concept]
+   901   C1704685:Follow-Up (Follow-Up Report) [Intellectual Product]
+
+Phrase: Discuss
+Meta Mapping (1000):
+  1000   C2584313:Discuss (Discussion (communication)) [Social Behavior]
+
+Phrase: smoking cessation
+Meta Mapping (1000):
+  1000   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]

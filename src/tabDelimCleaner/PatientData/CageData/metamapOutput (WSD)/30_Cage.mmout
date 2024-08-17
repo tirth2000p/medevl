@@ -1,0 +1,655 @@
+Processing 30_Cage.txt.tx.1: CC: "recent chest pain"  HPI: Mr. 
+
+Phrase: CC
+Meta Mapping (1000):
+  1000   C0008318:CC (cholecalciferol) [Organic Chemical,Pharmacologic Substance,Vitamin]
+
+Phrase: :
+
+Phrase: "recent chest pain"  HPI
+Meta Mapping (658):
+   645   C0332185:Recent [Temporal Concept]
+   694   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+
+Phrase: :
+
+Phrase: Mr.
+Meta Mapping (1000):
+  1000   C0024485:MR (Magnetic Resonance Imaging) [Diagnostic Procedure]
+Processing 30_Cage.txt.tx.2: Gerry Cage is a 46 year old male with a past medical history of hypertension who presents for recent chest pain/pressure upon exertion a few days ago. 
+
+Phrase: Gerry Cage
+Meta Mapping (888):
+   694   C1019207:gerry (Gerris) [Eukaryote]
+   861   C0337189:Cage (Cage device) [Manufactured Object]
+
+Phrase: is
+
+Phrase: a 46 year old male with a past medical history of hypertension
+Meta Mapping (692):
+   570   C0580836:Old [Temporal Concept]
+   736   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   584   C4086728:Past Year [Temporal Concept]
+   601   C0262926:History of MEDICAL (Medical History) [Finding]
+   570   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (692):
+   570   C0580836:Old [Temporal Concept]
+   736   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   584   C4086728:Past Year [Temporal Concept]
+   570   C0205476:Medical [Functional Concept]
+   604   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presents for recent chest pain/pressure
+Meta Mapping (753):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0332185:Recent [Temporal Concept]
+   790   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   753   C0460139:Pressure (Pressure (finding)) [Finding]
+Meta Mapping (753):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0332185:Recent [Temporal Concept]
+   753   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   783   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+
+Phrase: upon exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: a few days ago.
+Meta Mapping (790):
+   660   C0205388:Few [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+Processing 30_Cage.txt.tx.3: He currently denies any chest pain. 
+
+Phrase: He
+
+Phrase: currently
+Meta Mapping (1000):
+  1000   C0521116:Currently (Current (present time)) [Temporal Concept]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: any chest pain.
+Meta Mapping (1000):
+  1000 N C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Processing 30_Cage.txt.tx.4: A few days ago, he was carrying groceries to his car when he suddenly felt 7/10, non-radiating, deep heaviness in the central chest. 
+
+Phrase: A few days ago,
+Meta Mapping (790):
+   660   C0205388:Few [Quantitative Concept]
+   827   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: he
+
+Phrase: was
+
+Phrase: carrying groceries to his car
+Meta Mapping (529):
+   593   C0206243:Carrying [Activity]
+   593   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   593   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: when
+
+Phrase: he
+
+Phrase: suddenly
+
+Phrase: felt
+Meta Mapping (966):
+   966   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: 7/10,
+Meta Mapping (861):
+   861   C3842590:10% [Quantitative Concept]
+
+Phrase: non-radiating,
+Meta Mapping (888):
+   861   C1518422:Non (Negation) [Functional Concept]
+   861   C0332301:radiating (Radiating to) [Functional Concept]
+
+Phrase: deep heaviness in the central chest.
+Meta Mapping (719):
+   586   C0205125:DEEP (Deep (qualifier value)) [Spatial Concept]
+   586   C0205099:CENTRAL (Central) [Spatial Concept]
+   783 N C0742339:chest heaviness [Sign or Symptom]
+Processing 30_Cage.txt.tx.5: He dropped his groceries and sat in his car for a few minutes which relieved his symptoms. 
+
+Phrase: He
+
+Phrase: dropped
+Meta Mapping (1000):
+  1000   C1705648:Dropped (Dropping) [Activity]
+
+Phrase: his groceries
+
+Phrase: and
+
+Phrase: sat in his car
+Meta Mapping (733):
+   770   C1705827:SAT (SAT1 wt Allele) [Gene or Genome]
+   604   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   604   C0004381:Car (Automobiles) [Manufactured Object]
+
+Phrase: for a few minutes
+Meta Mapping (1000):
+  1000   C4036224:Few minutes [Temporal Concept]
+
+Phrase: which
+
+Phrase: relieved
+Meta Mapping (1000):
+  1000   C1301771:Relieved (Relieved (qualifier value)) [Qualitative Concept]
+
+Phrase: his symptoms.
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing 30_Cage.txt.tx.6: He notes that in the past four months he has had two to three similar but more minor episodes of his recent symptoms. he denies shortness of breath, cough, bilateral leg swelling, nausea, vomiting, diarrhea, back pain, shoulder pain, bilateral arm weakness or any other associated symptoms.  
+
+Phrase: He
+
+Phrase: notes
+Meta Mapping (1000):
+  1000   C1317574:Notes (Note (document)) [Intellectual Product]
+
+Phrase: that in the past four months
+Meta Mapping (723):
+   767   C4331910:Past Month (Past 30 days) [Temporal Concept]
+   753   C0205450:Four [Quantitative Concept]
+
+Phrase: he
+
+Phrase: has
+
+Phrase: had
+
+Phrase: two to three similar
+Meta Mapping (733):
+   770   C0205448:Two [Quantitative Concept]
+   604   C0205449:Three [Quantitative Concept]
+   604   C2348205:Similar (Similarity) [Qualitative Concept]
+
+Phrase: but
+
+Phrase: more minor episodes of his recent symptoms.
+Meta Mapping (813):
+   581   C0205172:More [Quantitative Concept]
+   581   C0026193:Minor (Minor (person)) [Population Group]
+   762   C0332189:Episode of [Temporal Concept]
+   581   C0523697:HIS (Histidine measurement) [Laboratory Procedure]
+   581   C0332185:Recent [Temporal Concept]
+   581   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: he
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: shortness of breath,
+Meta Mapping (1000):
+  1000 N C0013404:SHORTNESS OF BREATH (Dyspnea) [Sign or Symptom]
+
+Phrase: cough,
+Meta Mapping (1000):
+  1000 N C0010200:COUGH (Coughing) [Sign or Symptom]
+
+Phrase: bilateral leg swelling,
+Meta Mapping (901):
+   660   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+   901 N C0581394:Leg swelling (Swelling of lower limb) [Pathologic Function]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000 N C0027497:NAUSEA (Nausea) [Sign or Symptom]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000 N C0042963:VOMITING (Vomiting) [Sign or Symptom]
+
+Phrase: ,
+
+Phrase: diarrhea,
+Meta Mapping (1000):
+  1000 N C0011991:DIARRHOEA (Diarrhea) [Sign or Symptom]
+
+Phrase: back pain,
+Meta Mapping (1000):
+  1000   C0004604:BACKPAIN (Back Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963071:Back pain (Back Pain, CTCAE 3.0) [Finding]
+
+Phrase: shoulder pain,
+Meta Mapping (1000):
+  1000   C0037011:SHOULDER PAIN (Shoulder Pain) [Sign or Symptom]
+
+Phrase: bilateral arm weakness
+Meta Mapping (901):
+   660   C0238767:BILATERAL (Bilateral) [Spatial Concept]
+   901   C0751409:Arm weakness (Upper Extremity Paresis) [Sign or Symptom]
+
+Phrase: or
+
+Phrase: any other associated symptoms.
+Meta Mapping (1000):
+  1000   C0521989:associated symptoms (Associated symptom) [Sign or Symptom]
+Processing 30_Cage.txt.tx.7: Meds: Chlorthalidone and Lisinopril (HTN)  Allergies: none reported.  
+
+Phrase: Meds
+Meta Mapping (1000):
+  1000   C3280240:MEDS (MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME) [Disease or Syndrome]
+
+Phrase: :
+
+Phrase: Chlorthalidone
+Meta Mapping (1000):
+  1000   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: and
+
+Phrase: Lisinopril
+Meta Mapping (1000):
+  1000   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: (HTN
+Meta Mapping (1000):
+  1000   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: )
+
+Phrase: Allergies
+Meta Mapping (1000):
+  1000   C0020517:Allergies (Hypersensitivity) [Pathologic Function]
+
+Phrase: :
+
+Phrase: none
+
+Phrase: reported.
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+Processing 30_Cage.txt.tx.8: PMH: Hypertension  Social: smoker- 1 ppd/20 years, denies alcohol use, no recreational drug use.   
+
+Phrase: PMH
+Meta Mapping (1000):
+  1000   C0262926:PMH (Medical History) [Finding]
+
+Phrase: :
+
+Phrase: Hypertension
+Meta Mapping (1000):
+  1000   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Social
+Meta Mapping (1000):
+  1000   C0728831:Social [Functional Concept]
+
+Phrase: :
+
+Phrase: smoker- 1 ppd/20 years,
+Meta Mapping (794):
+   637   C0337664:Smoker [Finding]
+   637   C0048678:PPD (4-phenylenediamine) [Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+   840   C4084911:> 20 years (Life Expectancy Greater than Twenty Years) [Intellectual Product]
+
+Phrase: denies
+Meta Mapping (1000):
+  1000   C2700401:Deny (Deny (action)) [Activity]
+
+Phrase: alcohol use,
+Meta Mapping (1000):
+  1000   C0001948:ALCOHOL USE (Alcohol consumption) [Individual Behavior]
+
+Phrase: no recreational drug use.
+Meta Mapping (1000):
+  1000 N C0013146:Recreational Drug Use (Drug abuse) [Mental or Behavioral Dysfunction]
+Processing 30_Cage.txt.tx.9: Surgical: none reported.  
+
+Phrase: Surgical
+Meta Mapping (1000):
+  1000   C0543467:Surgical (Operative Surgical Procedures) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: none
+
+Phrase: reported.
+Meta Mapping (1000):
+  1000   C0700287:Reported (Reporting) [Health Care Activity]
+Processing 30_Cage.txt.tx.10: Family: Father- MI, CAD (CABG), Mother- HTN, Type 2 DM, PE; Maternal grandmother- breast cancer; 2 brothers- healthy  Objective: BP 150/92 Pulse 85 RR 14 Temp 98 F  PE: Cardio- normal rate, regular rhythm. no murmurs, rubs, or gallops. no peripheral edema bilaterally. 
+
+Phrase: Family
+Meta Mapping (1000):
+  1000   C0015576:Family [Family Group]
+
+Phrase: :
+
+Phrase: Father- MI,
+Meta Mapping (888):
+   694   C0015671:FATHER (Father (person)) [Family Group]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: CAD
+Meta Mapping (1000):
+  1000   C1504769:CAD (DFFB protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: (CABG
+Meta Mapping (1000):
+  1000   C0010055:CABG (Coronary Artery Bypass Surgery) [Therapeutic or Preventive Procedure]
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Mother- HTN,
+Meta Mapping (888):
+   694   C0026591:MOTHER (Mother (person)) [Family Group]
+   861   C0020538:HTN (Hypertensive disease) [Disease or Syndrome]
+
+Phrase: Type 2 DM,
+Meta Mapping (901):
+   734   C0441730:Type 2 [Classification]
+   827   C0011816:DM (dextromethorphan) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: PE
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: ; Maternal grandmother- breast cancer
+Meta Mapping (893):
+   694   C1273525:Maternal grand-mother (Maternal grandmother) [Family Group]
+   861   C0006142:BREAST CANCER (Malignant neoplasm of breast) [Neoplastic Process]
+
+Phrase: ; 2 brothers- healthy  Objective
+Meta Mapping (843):
+   645   C2827735:2+ (2+ Score) [Quantitative Concept]
+   645   C0337527:Brothers [Family Group]
+   825   C3839803:Health objective [Intellectual Product]
+
+Phrase: :
+
+Phrase: BP 150/92 Pulse 85 RR 14 Temp 98 F  PE
+Meta Mapping (718):
+   622   C1415692:Bp (HP gene) [Gene or Genome]
+   622   C0232117:PULSE (Pulse Rate) [Clinical Attribute]
+   622   C4517892:85 [Quantitative Concept]
+   622   C4554402:RR (RR genotype) [Finding]
+   622   C0039476:TEMP (Temperature) [Quantitative Concept]
+   622   C4319627:98 [Quantitative Concept]
+   622   C0016327:F- (Fluorides) [Inorganic Chemical,Pharmacologic Substance]
+   788   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: :
+
+Phrase: Cardio- normal rate,
+Meta Mapping (851):
+   660   C0018787:Cardio- (Heart) [Body Part, Organ, or Organ Component]
+   660   C0205307:NORMAL (Normal) [Qualitative Concept]
+   827   C0871208:Rate (Rating (action)) [Activity]
+
+Phrase: regular rhythm.
+Meta Mapping (888):
+   694   C0205272:Regular [Qualitative Concept]
+   861   C0871269:Rhythm [Finding]
+
+Phrase: no murmurs,
+Meta Mapping (1000):
+  1000 N C0018808:murmurs (Heart murmur) [Finding]
+
+Phrase: rubs
+Meta Mapping (1000):
+  1000 N C3842105:Rubs [Finding]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: gallops.
+
+Phrase: no peripheral edema bilaterally.
+Meta Mapping (901):
+   901 N C0085649:Peripheral oedema (Peripheral edema) [Pathologic Function]
+Processing 30_Cage.txt.tx.11: Pulm- clear to auscultation in both anterior and posterior lung fields. no wheezes, rales, or rhonchi.  
+
+Phrase: Pulm- clear to auscultation
+Meta Mapping (733):
+   604   C1315068:PULM (Pulmonary ventilator management) [Health Care Activity]
+   770   C1709157:Clear (Negative Surgical Margin) [Finding]
+   604   C0004339:AUSCULTATION (Auscultation) [Diagnostic Procedure]
+
+Phrase: in both anterior
+Meta Mapping (1000):
+  1000   C0205094:ANTERIOR (Anterior) [Spatial Concept]
+
+Phrase: and
+
+Phrase: posterior lung fields.
+Meta Mapping (890):
+   660   C0205095:POSTERIOR (Dorsal) [Spatial Concept]
+   884   C0225759:Lung field [Body Location or Region]
+
+Phrase: no wheezes,
+Meta Mapping (1000):
+  1000 N C0043144:Wheezes (Wheezing) [Sign or Symptom]
+
+Phrase: rales,
+Meta Mapping (1000):
+  1000 N C0034642:RALES (Rales) [Finding]
+
+Phrase: or
+
+Phrase: rhonchi.
+Meta Mapping (1000):
+  1000 N C0035508:RHONCHI (Rhonchi) [Finding]
+Processing 30_Cage.txt.tx.12: Assessment: 46 year old male with a past medical history of hypertension who presents for recent onset chest pain upon exertion and relieved with rest along with associated high blood pressure in clinic. 
+
+Phrase: Assessment
+Meta Mapping (1000):
+  1000   C1261322:Assessment (Evaluation procedure) [Health Care Activity]
+
+Phrase: :
+
+Phrase: 46 year old male with a past medical history of hypertension
+Meta Mapping (707):
+   571   C0580836:Old [Temporal Concept]
+   738   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   587   C4086728:Past Year [Temporal Concept]
+   605   C0262926:History of MEDICAL (Medical History) [Finding]
+   571   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+Meta Mapping (707):
+   571   C0580836:Old [Temporal Concept]
+   738   C1706180:Male (Male Gender, Self Report) [Qualitative Concept]
+   587   C4086728:Past Year [Temporal Concept]
+   571   C0205476:Medical [Functional Concept]
+   609   C0455527:History of - hypertension (H/O: hypertension) [Finding]
+
+Phrase: who
+
+Phrase: presents for recent onset chest pain
+Meta Mapping (753):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0332185:Recent [Temporal Concept]
+   753   C0332162:Onset (Onset of (contextual qualifier)) [Qualitative Concept]
+   790   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+Meta Mapping (753):
+   753   C0150312:PRESENT (Present) [Finding]
+   753   C0332185:Recent [Temporal Concept]
+   753   C1527391:Chest (Anterior thoracic region) [Body Location or Region]
+   783   C1507009:Pain onset [Finding]
+
+Phrase: upon exertion
+Meta Mapping (1000):
+  1000   C0015264:Exertion [Organism Function]
+
+Phrase: and
+
+Phrase: relieved with rest
+Meta Mapping (1000):
+  1000   C0240889:RELIEVED WITH REST [Finding]
+
+Phrase: along with associated high blood pressure
+Meta Mapping (916):
+   645   C0332281:Associated (Associated with) [Qualitative Concept]
+   923   C2926615:High blood pressure (Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal) [Clinical Attribute]
+
+Phrase: in clinic.
+Meta Mapping (888):
+   861   C0150312:In (Present) [Finding]
+   861   C0002424:Clinic (Ambulatory Care Facilities) [Health Care Related Organization,Manufactured Object]
+Processing 30_Cage.txt.tx.13: Likely diagnosis is ACS syndrome - stable angina vs. unstable angina vs. 
+
+Phrase: Likely diagnosis
+Meta Mapping (964):
+   964   C0332148:Likelihood diagnosis (Probable diagnosis) [Finding]
+
+Phrase: is
+
+Phrase: ACS syndrome - stable angina
+Meta Mapping (861):
+   645   C0742343:ACS (Acute Chest Syndrome) [Disease or Syndrome]
+   645   C0039082:Syndrome [Disease or Syndrome]
+   861   C0340288:STABLE ANGINA (Stable angina) [Disease or Syndrome]
+
+Phrase: vs. unstable angina
+Meta Mapping (1000):
+  1000   C0002965:Angina, Unstable [Disease or Syndrome]
+
+Phrase: vs.
+Processing 30_Cage.txt.tx.14: NSTEMI. 
+
+Phrase: NSTEMI.
+Meta Mapping (1000):
+  1000   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+Processing 30_Cage.txt.tx.15: Other ddx- MI, PE, asthma.  
+
+Phrase: Other ddx- MI,
+Meta Mapping (888):
+   694   C0011038:DDX (Dichlorodiphenyl Dichloroethylene) [Hazardous or Poisonous Substance,Organic Chemical]
+   861   C0683474:MI (Motivational Interviewing) [Therapeutic or Preventive Procedure]
+
+Phrase: PE,
+Meta Mapping (1000):
+  1000   C1880476:PE (Etoposide-Platinol Regimen) [Therapeutic or Preventive Procedure]
+
+Phrase: asthma.
+Meta Mapping (1000):
+  1000   C0004096:ASTHMA (Asthma) [Disease or Syndrome]
+Processing 30_Cage.txt.tx.16: Plan:  Hypertension -increase chlorthalidone/lisinopril OR add another medication -counsel on behavioral changes - diet changes with FAST diet (decreases blood pressure by 11 mm Hg)  Chest pain/pressure -smoking cessation counseling -referral for cardiology for exercise stress testing - will help determine stable vs. unstable. vs NSTEMI -potentially EKG - given no current symptoms and most recent episodes few days ago and no signs of acute MI would suggest against this at this time
+
+Phrase: Plan
+Meta Mapping (1000):
+  1000   C0599880:Plan (Treatment Plan) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Hypertension -increase chlorthalidone/lisinopril
+Meta Mapping (833):
+   645   C0020538:HYPERTENSION (Hypertensive disease) [Disease or Syndrome]
+   645   C0442805:Increase [Functional Concept]
+   645   C0008294:Chlortalidone (chlorthalidone) [Organic Chemical,Pharmacologic Substance]
+   812   C0065374:Lysinopril (lisinopril) [Amino Acid, Peptide, or Protein,Pharmacologic Substance]
+
+Phrase: OR
+
+Phrase: add
+Meta Mapping (1000):
+  1000   C1883712:Add (Add - instruction imperative) [Functional Concept]
+
+Phrase: another medication -counsel on behavioral changes - diet
+Meta Mapping (710):
+   581   C0013227:Medication (Pharmaceutical Preparations) [Pharmacologic Substance]
+   748   C0341618:Counsel (Counsel - legal) [Professional or Occupational Group]
+   612   C0233514:Behavioral changes (Abnormal behavior) [Mental or Behavioral Dysfunction]
+   581   C0012155:Diet [Food]
+
+Phrase: changes with FAST diet
+Meta Mapping (783):
+   770   C0015663:Fast (Fasting) [Finding]
+   819   C0452264:diet change (Therapeutic diet) [Finding]
+Meta Mapping (783):
+   770   C0015663:Fast (Fasting) [Finding]
+   819   C3671772:change diet (Change in diet) [Finding]
+
+Phrase: (decreases blood pressure by 11 mm Hg
+Meta Mapping (731):
+   581   C0547047:decreases (Decrease) [Quantitative Concept]
+   778   C1271104:Blood Pressure (Blood pressure finding) [Finding]
+   612   C0439475:mmHG (mmHg) [Quantitative Concept]
+
+Phrase: )
+
+Phrase: Chest pain/pressure -smoking cessation counseling -referral for cardiology
+Meta Mapping (829):
+   598   C0008031:CHEST PAIN (Chest Pain) [Sign or Symptom]
+   575   C0460139:Pressure (Pressure (finding)) [Finding]
+   598   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   784   C0584084:Referral for counselling (Referral to counseling service) [Health Care Activity]
+   575   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+Meta Mapping (829):
+   575   C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   595   C0438716:PRESSURE CHEST (Chest pressure) [Sign or Symptom]
+   598   C0085134:Smoking Cessation (Cessation of smoking) [Individual Behavior]
+   784   C0584084:Referral for counselling (Referral to counseling service) [Health Care Activity]
+   575   C0007189:Cardiology (Cardiology discipline) [Biomedical Occupation or Discipline]
+
+Phrase: for exercise stress testing -
+Meta Mapping (1000):
+  1000   C0015260:exercise stress testing (Exercise stress test) [Diagnostic Procedure]
+
+Phrase: will
+
+Phrase: help
+Meta Mapping (1000):
+  1000   C1552861:help (Help document) [Intellectual Product]
+
+Phrase: determine
+
+Phrase: stable
+Meta Mapping (1000):
+  1000   C1547311:Stable (Patient Condition Code - Stable) [Intellectual Product]
+
+Phrase: vs. unstable.
+Meta Mapping (1000):
+  1000   C0443343:Unstable (Unstable status) [Finding]
+
+Phrase: vs
+
+Phrase: NSTEMI -potentially EKG -
+Meta Mapping (802):
+   660   C4255010:NSTEMI (Non-ST Elevated Myocardial Infarction) [Disease or Syndrome]
+   827   C1623258:EKG (Electrocardiography) [Diagnostic Procedure]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+
+Phrase: no current symptoms
+Meta Mapping (888):
+   694   C0521116:CURRENT (Current (present time)) [Temporal Concept]
+   861 N C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: most recent episodes few days ago
+Meta Mapping (779):
+   656   C0332185:Recent episode (Recent) [Temporal Concept]
+   804   C0439228:DAYS (day) [Temporal Concept]
+
+Phrase: and
+
+Phrase: no signs of acute MI
+Meta Mapping (752):
+   593   C0028128:NO (nitric oxide) [Organic Chemical,Pharmacologic Substance]
+   760   C0311392:SIGNS (Physical findings) [Finding]
+   640 N C0155626:Acute MI (Acute myocardial infarction) [Disease or Syndrome]
+
+Phrase: would
+
+Phrase: suggest against this at this time
+Meta Mapping (672):
+   753   C1705535:Suggest (suggestion) [Idea or Concept]
+   753   C0040223:TIME (Time) [Temporal Concept]
